@@ -1,0 +1,17 @@
+version: "3"
+services: 
+  driver:
+    image: selenium/standalone-chrome:4.0.0-beta-1-prerelease-20201208
+    ports: 
+      - '4444:4444'
+    volumes:
+      - '/dev/shm:/dev/shm'
+
+  scrayper:
+    build: . 
+    ports:
+      - '2222:8888'
+    volumes:
+      - './work/:/work/'
+
+  # 参考URL https://qiita.com/kei0919/items/f6f696169c92c936374c
