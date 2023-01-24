@@ -1,0 +1,17 @@
+,Player,#,Nation,Pos,Age,Min,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,Roberto Soldado,9.0,es  ESP,FW,35-337,60,1,1,0,1,0,1,1,100.0,0,16,4,25.0,0,10,6,0,0,0,0,1,2,0,0
+1,Jorge Molina,23.0,es  ESP,FW,39-007,30,0,0,0,0,0,0,0,,0,7,1,14.3,2,3,2,0,0,0,0,0,0,0,0
+2,Darwin Machís,11.0,ve  VEN,LW,28-081,75,3,2,3,0,0,1,1,100.0,0,20,7,35.0,11,5,4,0,0,0,0,1,4,0,0
+3,Adrián Marín,18.0,es  ESP,LW,24-110,15,0,0,0,0,0,0,0,,0,3,1,33.3,2,0,1,0,0,0,0,1,1,1,0
+4,Luis Javier Suárez,7.0,co  COL,RW,23-148,85,0,0,0,0,0,0,1,0.0,1,26,3,11.5,5,13,8,0,0,0,0,0,0,2,0
+5,Fede Vico,14.0,es  ESP,RW,26-299,5,0,0,0,0,0,0,0,,0,3,0,0.0,1,2,0,0,0,0,0,1,1,0,0
+6,Yan Brice Eteki,8.0,cm  CMR,CM,23-246,60,1,1,1,0,0,1,1,100.0,0,36,4,11.1,17,17,2,1,0,0,1,2,3,0,0
+7,Maxime Gonalons,4.0,fr  FRA,CM,32-050,30,2,1,1,1,0,1,1,100.0,0,10,2,20.0,6,3,1,0,0,0,0,1,3,0,0
+8,Yangel Herrera,21.0,ve  VEN,CM,23-112,90,4,3,4,0,0,0,4,0.0,4,51,14,27.5,24,19,8,2,2,0,0,1,5,0,0
+9,Quini,17.0,es  ESP,WB,31-217,90,1,0,1,0,0,1,3,33.3,2,22,3,13.6,13,4,5,3,1,0,2,2,3,4,0
+10,Dimitri Foulquier,2.0,fr  FRA,WB,28-037,90,0,0,0,0,0,0,0,,0,16,2,12.5,9,6,1,7,1,0,6,2,2,1,0
+11,Nehuén Pérez,3.0,ar  ARG,CB,20-309,90,0,0,0,0,0,0,0,,0,10,2,20.0,5,5,0,2,1,0,1,2,2,6,0
+12,Germán Sánchez,6.0,es  ESP,CB,34-180,90,1,1,1,0,0,1,2,50.0,1,9,2,22.2,8,1,0,1,1,0,0,2,3,5,0
+13,Víctor Díaz,16.0,es  ESP,CB,32-321,90,3,2,2,1,0,1,2,50.0,1,19,5,26.3,14,5,0,2,2,0,0,2,5,8,0
+14,Aarón Escandell,13.0,es  ESP,GK,25-214,90,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+15,15 Players,,,,,990,16,11,13,3,0,7,16,43.8,9,248,50,20.2,117,93,38,18,8,0,10,18,34,27,0

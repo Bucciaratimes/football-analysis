@@ -1,0 +1,526 @@
+,Player,Nation,Pos,Squad,Age,Born,90s,CrdY_Performance,CrdR_Performance,2CrdY_Performance,Fls_Performance,Fld_Performance,Off_Performance,Crs,Int,TklW,PKwon_Performance,PKcon_Performance,OG_Performance,Recov_Performance,Won_Aerial Duels,Lost_Aerial Duels,Won%_Aerial Duels
+0,Aymen Abdennour,tn  TUN,DF,Marseille,27,1989,5.6,3,0,0,7,6,0,0,2,6,0,0,0,57,3,0,100.0
+1,Mehdi Abeid,dz  ALG,MF,Dijon,24,1992,13.1,2,0,0,27,17,2,7,15,14,0,0,0,142,3,5,37.5
+2,Khaled Adénon,bj  BEN,DF,Amiens,32,1985,32.5,9,0,0,51,40,1,1,50,27,0,1,0,394,23,22,51.1
+3,Ruben Aguilar,fr  FRA,"DF,MF",Montpellier,24,1993,27.3,2,0,0,28,49,3,83,33,27,0,0,0,211,9,14,39.1
+4,Jean-Eudes Aholou,ci  CIV,MF,Strasbourg,23,1994,33.4,4,0,0,43,49,1,1,71,42,0,0,0,405,20,14,58.8
+5,Youssef Aït Bennasser,ma  MAR,MF,Caen,21,1996,22.8,4,0,0,24,26,0,9,37,28,0,0,0,298,6,13,31.6
+6,David Alcibiade,fr  FRA,DF,Nantes,25,1991,2.3,0,0,0,2,2,1,5,4,1,0,0,0,25,1,1,50.0
+7,Júnior Alonso,py  PAR,DF,Lille,24,1993,30.9,3,0,0,29,10,0,6,42,26,0,0,1,420,49,17,74.2
+8,Dani Alves,br  BRA,DF,Paris S-G,34,1983,22.9,7,1,0,40,35,4,73,28,52,0,0,0,231,9,8,52.9
+9,Ibrahim Amadou,fr  FRA,"MF,DF",Lille,24,1993,26.7,3,0,0,23,19,0,4,31,30,0,1,0,263,16,13,55.2
+10,Morgan Amalfitano,fr  FRA,MF,Rennes,32,1985,8.3,2,3,1,8,14,0,15,8,1,0,0,0,57,0,3,0.0
+11,Romain Amalfitano,fr  FRA,MF,Dijon,27,1989,30.0,5,0,0,35,52,0,18,68,34,0,0,0,308,6,12,33.3
+12,Jordan Amavi,fr  FRA,DF,Marseille,23,1994,24.4,7,0,0,33,22,1,46,49,22,0,1,0,288,19,9,67.9
+13,Kelvin Amian,fr  FRA,DF,Toulouse,19,1998,35.0,3,1,0,30,17,0,31,36,24,0,0,0,298,14,18,43.8
+14,Benjamin André,fr  FRA,MF,Rennes,26,1990,33.5,11,2,1,67,51,1,21,66,50,0,0,0,448,80,87,47.9
+15,Yoann Andreu,fr  FRA,DF,Angers,28,1989,23.0,4,0,0,18,15,0,55,42,25,0,0,0,236,9,16,36.0
+16,Houssem Aouar,fr  FRA,"MF,FW",Lyon,19,1998,27.0,1,0,0,21,47,6,17,45,31,0,0,0,229,12,16,42.9
+17,Luiz Araújo,br  BRA,"FW,MF",Lille,21,1996,22.4,5,0,0,28,26,6,55,6,17,0,0,0,140,1,5,16.7
+18,Alphonse Areola,fr  FRA,GK,Paris S-G,24,1993,34.0,0,0,0,0,2,0,0,0,0,0,0,0,135,0,0,
+19,Yoël Armougom,fr  FRA,"MF,DF",Caen,19,1998,1.5,0,0,0,1,2,0,4,0,2,0,0,0,16,2,0,100.0
+20,Benoît Assou-Ekotto,cm  CMR,DF,Metz,33,1984,11.7,2,3,1,10,9,1,11,33,10,0,0,0,124,0,4,0.0
+21,Danilo Avelar,br  BRA,"DF,FW",Amiens,28,1989,19.2,2,0,0,23,19,1,58,37,23,1,0,0,189,24,14,63.2
+22,Durel Avounou,cg  CGO,"MF,DF",Caen,19,1997,7.2,1,0,0,9,5,2,12,12,5,0,0,0,79,1,4,20.0
+23,Chidozie Awaziem,ng  NGA,DF,Nantes,20,1997,16.8,2,1,0,19,11,0,2,19,22,0,0,0,193,14,9,60.9
+24,Karim Azamoum,fr  FRA,MF,Troyes,27,1990,25.3,5,1,0,55,17,0,34,23,46,0,1,0,269,37,26,58.7
+25,Ludovic Baal,gf  GUF,DF,Rennes,31,1986,12.9,0,0,0,11,15,1,22,16,22,0,0,0,150,11,4,73.3
+26,Dylan Bahamboula,cg  CGO,"FW,MF",Dijon,22,1995,0.3,0,0,0,2,0,0,0,0,0,0,0,0,2,1,0,100.0
+27,Farès Bahlouli,fr  FRA,"MF,FW",Lille,22,1995,3.4,2,0,0,8,9,3,19,0,5,0,0,0,28,0,1,0.0
+28,Stéphane Bahoken,cm  CMR,FW,Strasbourg,25,1992,18.5,5,0,0,39,21,20,22,12,9,0,1,0,70,13,19,40.6
+29,Keita Baldé,sn  SEN,"FW,MF",Monaco,22,1995,16.3,3,2,1,23,27,15,30,4,6,0,0,0,87,6,6,50.0
+30,Iván Balliu,al  ALB,DF,Metz,25,1992,21.7,6,0,0,23,36,2,37,23,13,0,0,0,210,4,8,33.3
+31,Fodé Ballo-Touré,sn  SEN,DF,Lille,20,1997,22.8,5,1,0,30,19,8,35,19,21,0,2,1,203,11,13,45.8
+32,Florent Balmont,fr  FRA,MF,Dijon,37,1980,9.6,3,0,0,10,16,0,8,7,6,0,0,0,111,0,1,0.0
+33,Mario Balotelli,it  ITA,FW,Nice,26,1990,25.2,11,1,0,57,72,23,12,5,4,1,0,0,66,10,13,43.5
+34,Abdoulaye Bamba,ci  CIV,DF,Angers,27,1990,17.0,2,0,0,19,19,2,30,10,9,0,1,0,155,7,4,63.6
+35,Jonathan Bamba,fr  FRA,"FW,MF",Saint-Étienne,21,1996,28.6,1,0,0,28,46,20,78,17,20,2,0,0,205,8,22,26.7
+36,Yacine Bammou,ma  MAR,"MF,FW",Nantes,25,1991,8.1,2,2,1,18,8,5,14,13,5,0,0,0,68,4,8,33.3
+37,Sekou Baradji,fr  FRA,MF,Amiens,33,1984,0.1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,
+38,Nicolas Basin,fr  FRA,DF,Metz,19,1998,3.5,1,0,0,2,3,0,6,8,5,0,0,0,38,3,2,60.0
+39,Gil Bastião Dias,pt  POR,FW,Monaco,20,1996,0.1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,
+40,Paul Baysse,fr  FRA,DF,Bordeaux,29,1988,6.3,0,1,0,8,1,0,1,8,3,0,0,0,75,10,4,71.4
+41,Hervé Bazile,ht  HAI,"FW,MF",Caen,27,1990,9.8,1,0,0,15,16,5,55,18,11,0,0,0,72,2,6,25.0
+42,Henri Bedimo,cm  CMR,"DF,MF",Marseille,33,1984,0.5,0,0,0,0,0,0,0,1,0,0,0,0,4,0,0,
+43,François Bellugou,fr  FRA,MF,Troyes,30,1987,24.2,6,1,0,28,13,0,2,38,27,0,0,0,260,19,18,51.4
+44,Chaouki Ben Saada,tn  TUN,"FW,MF",Troyes,33,1984,3.8,3,0,0,8,3,0,7,1,7,0,0,0,36,1,0,100.0
+45,Diego Benaglio,ch  SUI,GK,Monaco,33,1983,2.5,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,
+46,Nicolas Benezet,fr  FRA,"FW,MF",Guingamp,26,1991,18.3,2,0,0,23,41,10,62,14,16,0,0,0,132,5,17,22.7
+47,Walter Benítez,ar  ARG,GK,Nice,24,1993,28.0,3,0,0,3,2,0,0,0,0,0,0,0,125,0,0,
+48,Ramy Bensebaini,dz  ALG,DF,Rennes,22,1995,26.0,6,0,0,36,40,4,41,36,19,0,1,1,316,33,12,73.3
+49,Yassine Benzia,dz  ALG,"MF,FW",Lille,22,1994,25.4,8,0,0,59,55,2,52,20,38,0,0,0,177,5,6,45.5
+50,Yuri Berchiche,es  ESP,DF,Paris S-G,27,1990,19.1,4,0,0,18,28,4,48,18,20,0,0,0,175,25,15,62.5
+51,Robert Berić,si  SVN,FW,Saint-Étienne,26,1991,11.6,0,0,0,26,21,14,2,7,4,1,0,0,35,2,16,11.1
+52,Kévin Bérigaud,fr  FRA,"MF,FW",Montpellier,29,1988,3.0,0,0,0,3,3,0,1,1,0,0,0,0,10,3,3,50.0
+53,Vincent Bessat,fr  FRA,"DF,MF",Caen,31,1985,17.4,2,0,0,15,6,2,89,19,19,0,1,0,165,2,12,14.3
+54,Quentin Beunardeau,fr  FRA,GK,Metz,23,1994,0.4,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,
+55,Milan Biševac,rs  SRB,DF,Metz,33,1983,7.9,1,0,0,4,3,1,1,2,7,0,1,0,82,2,3,40.0
+56,Yves Bissouma,ml  MLI,"MF,DF",Lille,20,1996,17.4,3,0,0,33,13,4,7,38,37,0,0,0,195,8,4,66.7
+57,Ludovic Blas,fr  FRA,MF,Guingamp,19,1997,19.9,3,2,1,27,34,4,12,21,16,0,0,0,194,9,16,36.0
+58,Jérémy Blayac,fr  FRA,"FW,MF",Strasbourg,34,1983,10.2,2,0,0,11,23,16,9,2,3,1,0,0,37,42,27,60.9
+59,Alexis Blin,fr  FRA,MF,Toulouse,20,1996,21.0,5,0,0,29,39,0,12,32,21,1,1,0,226,11,19,36.7
+60,Yann Bodiger,fr  FRA,"MF,FW",Toulouse,22,1995,2.5,0,0,0,4,3,0,3,4,1,0,0,0,24,4,0,100.0
+61,Mathieu Bodmer,fr  FRA,"DF,MF",Amiens,34,1982,4.4,2,0,0,7,3,0,1,4,2,0,0,0,49,3,7,30.0
+62,Quentin Boisgard,fr  FRA,"MF,FW",Toulouse,20,1997,2.0,1,0,0,4,3,1,3,0,1,0,0,0,20,1,1,50.0
+63,Landry Bonnefoi,fr  FRA,GK,Strasbourg,33,1983,3.0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,
+64,Gabriel Boschilia,br  BRA,"FW,MF",Monaco,21,1996,0.9,0,0,0,1,2,0,2,0,2,0,0,0,9,0,1,0.0
+65,Jean-Christophe Bouet,fr  FRA,GK,Amiens,34,1983,1.0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,
+66,Arnold Bouka Moutou,cg  CGO,DF,Dijon,28,1988,3.7,1,0,0,1,5,0,10,5,2,0,0,0,27,2,3,40.0
+67,Farid Boulaya,dz  ALG,"FW,MF",Metz,24,1993,2.0,0,0,0,3,3,0,4,1,1,0,0,0,15,1,0,100.0
+68,Emmanuel Bourgaud,fr  FRA,"MF,FW",Amiens,29,1987,6.0,0,0,0,5,10,0,12,9,4,0,0,0,65,4,7,36.4
+69,Benjamin Bourigeaud,fr  FRA,"MF,FW",Rennes,23,1994,34.5,3,0,0,37,15,2,148,50,24,0,1,0,289,5,11,31.3
+70,Martin Braithwaite,dk  DEN,FW,Bordeaux,26,1991,10.2,3,0,0,11,7,4,7,3,2,0,0,0,40,9,9,50.0
+71,Brandon,es  ESP,"MF,FW",Rennes,22,1995,4.0,0,0,0,11,8,2,5,6,6,0,0,0,27,1,3,25.0
+72,Jimmy Briand,fr  FRA,FW,Guingamp,31,1985,35.7,4,0,0,47,95,38,14,18,14,2,1,0,181,22,34,39.3
+73,Patrick Burner,fr  FRA,DF,Nice,21,1996,10.0,2,0,0,10,14,0,10,11,7,0,1,0,73,5,3,62.5
+74,Ludovic Butelle,fr  FRA,GK,Angers,34,1983,18.4,0,0,0,0,2,0,0,0,0,0,0,1,98,0,0,
+75,Cafú,pt  POR,MF,Metz,24,1993,7.5,2,0,0,12,8,1,0,9,7,0,0,1,64,5,6,45.5
+76,Jonathan Cafu,br  BRA,"FW,MF",Bordeaux,26,1991,7.0,2,0,0,14,19,2,15,5,10,1,0,0,52,1,4,20.0
+77,Yannick Cahuzac,fr  FRA,MF,Toulouse,32,1985,16.9,5,0,0,27,28,0,2,25,20,0,0,0,206,10,13,43.5
+78,Abdoul Camara,gn  GUI,"FW,MF",Guingamp,27,1990,10.8,0,0,0,7,11,2,24,7,4,0,0,0,47,3,2,60.0
+79,Souleymane Camara,sn  SEN,FW,Montpellier,34,1982,10.4,1,0,0,13,19,12,9,2,3,0,0,0,28,13,17,43.3
+80,Pierrick Capelle,fr  FRA,"MF,FW",Angers,30,1987,20.9,3,0,0,23,18,1,20,34,31,0,0,1,183,16,17,48.5
+81,Yoan Cardinale,fr  FRA,GK,Nice,23,1994,10.0,2,0,0,0,1,0,0,0,0,0,0,0,29,0,0,
+82,Diego Carlos,br  BRA,DF,Nantes,24,1993,25.5,7,1,1,31,18,2,5,24,36,0,0,0,291,26,11,70.3
+83,Guido Carrillo,ar  ARG,"FW,MF",Monaco,26,1991,4.7,0,0,0,6,8,0,0,1,1,1,0,0,19,13,11,54.2
+84,Thomas Carrique,fr  FRA,DF,Bordeaux,18,1999,1.0,0,0,0,1,0,0,2,2,0,0,0,0,5,3,3,50.0
+85,Edinson Cavani,uy  URU,FW,Paris S-G,30,1987,28.7,3,0,0,19,20,24,11,8,7,3,0,0,81,0,1,0.0
+86,Fouad Chafik,ma  MAR,DF,Dijon,30,1986,17.9,4,0,0,21,18,2,37,28,27,0,0,0,182,11,15,42.3
+87,Kwon Chang-hoon,kr  KOR,"FW,MF",Dijon,23,1994,23.7,3,0,0,21,47,11,54,27,20,1,1,0,138,4,26,13.3
+88,Charly Charrier,fr  FRA,MF,Amiens,31,1986,1.2,0,0,0,1,1,2,2,1,0,0,0,0,12,0,0,
+89,Pape Cheikh Diop,sn  SEN,MF,Lyon,19,1997,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+90,Saliou Ciss,sn  SEN,"DF,FW",Angers,27,1989,1.6,0,0,0,2,2,1,2,1,0,0,0,0,9,1,1,50.0
+91,Issa Cissokho,sn  SEN,DF,Amiens,32,1985,18.1,3,0,0,14,18,0,24,25,17,0,0,0,192,6,12,33.3
+92,Marcus Coco,fr  FRA,"FW,MF",Guingamp,21,1996,17.6,5,0,0,41,28,4,39,19,20,1,0,0,130,19,20,48.7
+93,Renaud Cohade,fr  FRA,MF,Metz,32,1984,36.6,5,0,0,53,27,3,55,48,89,0,0,0,474,42,44,48.8
+94,Racine Coly,sn  SEN,DF,Nice,21,1995,6.9,3,0,0,14,8,1,12,15,8,0,0,0,54,4,3,57.1
+95,Alois Confais,fr  FRA,MF,Troyes,20,1996,6.8,1,0,0,7,7,0,9,4,4,0,0,0,66,2,6,25.0
+96,Daniel Congré,fr  FRA,DF,Montpellier,32,1985,29.3,4,0,0,23,27,1,13,41,36,0,0,0,309,28,15,65.1
+97,Diego Contento,de  GER,"DF,FW",Bordeaux,27,1990,1.2,0,0,0,0,0,0,1,2,0,0,0,0,5,0,0,
+98,Jérémy Cordoval,GPE,DF,Troyes,27,1990,10.2,1,0,0,6,8,0,15,13,16,0,0,0,86,1,4,20.0
+99,Benjamin Corgnet,fr  FRA,"MF,FW",Strasbourg,30,1987,15.3,2,0,0,24,34,1,24,14,20,0,0,0,106,26,28,48.1
+100,Maxwel Cornet,ci  CIV,"FW,MF",Lyon,20,1996,14.1,1,0,0,14,21,3,27,10,12,1,0,0,100,5,15,25.0
+101,Quentin Cornette,fr  FRA,"FW,MF",Amiens,23,1994,5.0,1,0,0,9,10,0,5,7,6,0,0,0,37,0,2,0.0
+102,Nuno da Costa,cv  CPV,"FW,MF",Strasbourg,26,1991,19.2,4,1,0,33,35,9,20,16,30,1,1,0,112,18,24,42.9
+103,Benoît Costil,fr  FRA,GK,Bordeaux,30,1987,36.0,1,0,0,1,3,0,0,0,0,0,0,0,176,0,0,
+104,Kalifa Coulibaly,ml  MLI,FW,Nantes,25,1991,3.8,0,0,0,7,2,3,6,2,3,0,0,0,16,10,12,45.5
+105,Lassana Coulibaly,ml  MLI,MF,Angers,21,1996,9.3,1,0,0,16,20,1,7,8,18,0,0,0,73,4,3,57.1
+106,Nicolas Cozza,fr  FRA,"DF,MF",Montpellier,18,1999,6.4,2,0,0,7,6,0,14,9,13,1,1,0,69,3,2,60.0
+107,Wylan Cyprien,fr  FRA,MF,Nice,22,1995,10.5,2,0,0,4,18,0,15,14,8,0,0,0,96,7,3,70.0
+108,Damien Da Silva,fr  FRA,DF,Caen,29,1988,31.5,7,0,0,36,24,5,0,61,28,1,1,3,414,33,20,62.3
+109,Kouadio-Yves Dabila,ci  CIV,DF,Lille,20,1997,10.5,1,0,0,13,1,0,5,13,10,0,0,0,91,1,6,14.3
+110,Bryan Dabo,bf  BFA,"MF,FW",Saint-Étienne,25,1992,14.3,10,0,0,28,39,2,9,14,12,1,0,0,123,10,9,52.6
+111,Dante,br  BRA,DF,Nice,33,1983,32.4,10,2,1,28,26,1,2,43,21,0,0,1,316,18,11,62.1
+112,Romain Danzé,fr  FRA,DF,Rennes,31,1986,7.6,2,0,0,6,1,0,10,13,6,0,0,0,71,6,4,60.0
+113,Stéphane Darbion,fr  FRA,"FW,MF",Troyes,33,1984,18.9,2,0,0,15,31,5,61,18,5,1,0,0,128,2,8,20.0
+114,Sergi Darder,es  ESP,MF,Lyon,23,1993,2.3,2,2,1,3,0,0,0,0,3,0,0,0,23,3,0,100.0
+115,Lucas Deaux,fr  FRA,MF,Guingamp,28,1988,21.6,7,2,1,39,24,4,19,33,43,0,0,0,219,22,24,47.8
+116,Mathieu Debuchy,fr  FRA,DF,Saint-Étienne,32,1985,14.6,1,0,0,21,13,2,38,34,11,0,1,1,177,25,11,69.4
+117,Jonathan Delaplace,fr  FRA,MF,Caen,31,1986,6.5,3,0,0,9,9,0,6,9,3,0,0,0,77,3,6,33.3
+118,Andy Delort,dz  ALG,FW,Toulouse,25,1991,25.9,5,0,0,63,33,29,83,9,10,0,2,0,102,46,51,47.4
+119,Jessy Deminguet,fr  FRA,"MF,FW",Caen,19,1998,5.9,2,0,0,6,9,3,25,6,11,0,0,0,52,4,3,57.1
+120,Memphis Depay,nl  NED,"FW,MF",Lyon,23,1994,28.4,3,0,0,32,50,11,84,12,9,0,0,0,156,4,11,26.7
+121,Mathieu Deplagne,fr  FRA,DF,Troyes,25,1991,26.8,5,2,1,21,28,0,34,53,26,0,1,1,256,18,22,45.0
+122,Ángel Di María,ar  ARG,FW,Paris S-G,29,1988,23.4,1,0,0,7,13,15,110,10,9,0,0,0,113,0,2,0.0
+123,Fallou Diagne,sn  SEN,"DF,MF",Metz,27,1989,24.9,8,2,0,27,6,2,1,18,25,0,0,0,341,28,12,70.0
+124,Adama Diakhaby,fr  FRA,"FW,MF",Monaco,21,1996,9.5,2,1,0,14,13,10,21,16,11,0,0,0,44,5,9,35.7
+125,Mouctar Diakhaby,fr  FRA,DF,Lyon,20,1996,8.1,2,0,0,8,7,0,0,10,3,0,0,0,76,7,4,63.6
+126,Abdoulaye Diallo,sn  SEN,GK,Rennes,25,1992,3.0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,
+127,Habib Diallo,sn  SEN,FW,Metz,22,1995,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0
+128,Mustapha Diallo,sn  SEN,MF,Guingamp,31,1986,15.4,7,0,0,48,39,5,2,26,29,0,2,0,181,31,15,67.4
+129,Lassana Diarra,fr  FRA,MF,Paris S-G,32,1985,6.7,4,0,0,22,4,0,2,8,6,0,0,0,55,4,5,44.4
+130,Bakaye Dibassy,ml  MLI,DF,Amiens,27,1989,30.9,4,0,0,30,24,4,28,54,38,0,1,0,317,25,19,56.8
+131,Thomas Didillon,fr  FRA,GK,Metz,21,1995,9.0,0,0,0,0,3,0,0,0,0,0,0,0,47,0,0,
+132,Étienne Didot,fr  FRA,MF,Guingamp,34,1983,18.0,4,0,0,25,18,1,17,22,26,0,0,0,240,6,9,40.0
+133,Tristan Dingomé,cm  CMR,MF,Troyes,26,1991,13.0,4,0,0,13,8,1,14,14,17,0,0,0,127,2,5,28.6
+134,Ismaël Diomandé,ci  CIV,"DF,MF",Caen,24,1992,7.9,1,1,0,8,2,0,2,11,6,0,1,0,55,2,3,40.0
+135,Lois Diony,fr  FRA,FW,Saint-Étienne,24,1992,10.4,0,0,0,13,17,6,10,1,2,3,0,0,33,5,15,25.0
+136,Issa Diop,fr  FRA,DF,Toulouse,20,1997,34.0,8,0,0,30,23,1,3,66,29,0,0,1,332,17,10,63.0
+137,Assane Dioussé,sn  SEN,MF,Saint-Étienne,19,1997,14.9,4,0,0,27,16,3,5,19,21,0,0,0,164,3,3,50.0
+138,Koffi Djidji,ci  CIV,DF,Nantes,24,1992,26.8,2,0,0,23,9,0,18,32,23,0,0,0,258,22,10,68.8
+139,Alexander Djiku,gh  GHA,DF,Caen,22,1994,28.0,10,0,0,41,39,0,5,67,36,0,0,0,394,24,17,58.5
+140,Papy Djilobodji,sn  SEN,DF,Dijon,28,1988,30.0,4,1,0,22,28,0,6,60,25,0,2,0,389,23,15,60.5
+141,Keagan Dolly,za  RSA,"FW,MF",Montpellier,24,1993,9.8,1,0,0,5,2,2,31,4,8,0,0,0,59,2,2,50.0
+142,Jean-Luc Dompé,fr  FRA,MF,Amiens,21,1995,0.3,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,
+143,Dória,br  BRA,DF,Marseille,22,1994,0.9,0,0,0,0,0,0,0,1,1,0,0,0,7,0,0,
+144,Gabriel Dos Santos,br  BRA,FW,Troyes,19,1997,0.9,1,0,0,1,1,0,0,0,1,0,0,0,9,0,1,0.0
+145,Mathieu Dossevi,tg  TOG,"FW,MF",Metz,29,1988,27.9,2,0,0,27,37,5,159,33,23,0,0,0,163,5,5,50.0
+146,Julian Draxler,de  GER,"MF,FW",Paris S-G,23,1993,18.9,1,0,0,18,10,2,24,27,10,0,0,0,112,3,2,60.0
+147,Leo Dubois,fr  FRA,DF,Nantes,22,1994,33.6,6,0,0,22,31,2,156,47,24,1,1,0,342,18,11,62.1
+148,Maxime Dupé,fr  FRA,GK,Nantes,24,1993,1.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,
+149,Jimmy Durmaz,se  SWE,"MF,FW",Toulouse,28,1989,11.4,5,0,0,21,14,0,32,13,6,1,0,0,94,3,10,23.1
+150,Félix Eboa Eboa,cm  CMR,DF,Guingamp,20,1997,16.9,2,0,0,14,9,0,11,34,8,0,1,0,216,31,12,72.1
+151,Patrice Evra,fr  FRA,DF,Marseille,36,1981,3.9,2,0,0,4,2,3,3,6,3,0,0,0,42,5,2,71.4
+152,Valentin Eysseric,fr  FRA,"FW,MF",Nice,25,1992,1.0,0,0,0,2,0,1,4,6,0,0,0,0,1,0,1,0.0
+153,Fabinho,br  BRA,MF,Monaco,23,1993,34.0,8,0,0,59,67,1,9,39,61,1,0,0,476,28,18,60.9
+154,Radamel Falcao,co  COL,FW,Monaco,31,1986,23.6,1,0,0,42,50,10,7,13,7,0,0,1,85,15,23,39.5
+155,Simon Falette,gn  GUI,DF,Metz,25,1992,1.0,0,0,0,2,0,0,0,3,0,0,0,0,11,0,0,
+156,Imad Faraj,ma  MAR,"DF,MF",Lille,18,1999,1.8,0,0,0,2,3,1,5,2,4,0,0,0,13,0,0,
+157,Nabil Fekir,fr  FRA,"MF,FW",Lyon,24,1993,27.5,8,0,0,68,106,17,60,11,34,1,0,0,169,8,12,40.0
+158,Julien Féret,fr  FRA,MF,Caen,35,1982,34.0,3,0,0,23,32,1,52,54,25,1,1,0,458,42,25,62.7
+159,Brian Fernández,ar  ARG,FW,Metz,22,1994,1.4,0,0,0,1,4,6,1,0,0,0,0,0,5,0,1,0.0
+160,Jordan Ferri,fr  FRA,MF,Lyon,25,1992,7.1,4,0,0,19,9,0,3,9,13,0,0,0,73,1,4,20.0
+161,Afonso Figueiredo,pt  POR,"DF,FW",Rennes,24,1993,2.5,1,0,0,3,7,0,3,2,1,0,0,0,26,1,1,50.0
+162,Guessouma Fofana,fr  FRA,MF,Amiens,24,1992,8.3,3,1,0,18,8,0,7,8,13,0,0,0,70,8,11,42.1
+163,Steven Fortes,cv  CPV,DF,Toulouse,25,1992,1.7,1,0,0,3,0,0,0,1,1,0,0,0,30,0,0,
+164,Dimitri Foulquier,fr  FRA,DF,Strasbourg,24,1993,13.8,2,0,0,16,7,1,21,19,16,0,0,0,115,3,3,50.0
+165,Lilian Fournier,fr  FRA,MF,Metz,19,1998,0.2,0,0,0,1,0,0,0,1,0,0,0,0,2,0,0,
+166,Angelo Fulgini,fr  FRA,"MF,FW",Angers,20,1996,17.0,4,0,0,17,33,1,37,17,14,1,0,0,155,3,13,18.8
+167,Milan Gajić,rs  SRB,DF,Bordeaux,21,1996,4.0,0,0,0,9,0,1,5,5,0,0,0,0,25,0,1,0.0
+168,Serge Gakpé,tg  TOG,"FW,MF",Amiens,30,1987,20.6,1,0,0,18,15,8,20,10,7,0,0,0,114,7,19,26.9
+169,Ignatius Ganago,cm  CMR,"FW,MF",Nice,18,1999,0.8,1,0,0,4,1,0,0,0,0,0,0,0,4,1,0,100.0
+170,Najib Gandi,fr  FRA,"MF,FW",Nantes,23,1994,1.1,1,0,0,2,3,4,1,1,4,0,0,0,9,0,0,
+171,Jérémy Gélin,fr  FRA,"DF,MF",Rennes,20,1997,25.7,2,0,0,29,16,1,5,35,14,0,0,0,265,16,14,53.3
+172,Romain Genevois,ht  HAI,DF,Caen,29,1987,20.1,4,1,0,24,17,0,31,28,20,0,0,0,224,23,7,76.7
+173,Valère Germain,fr  FRA,FW,Marseille,27,1990,24.1,2,0,0,24,15,14,25,8,9,1,0,0,74,28,56,33.3
+174,Willem Geubbels,fr  FRA,FW,Lyon,15,2001,0.4,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,
+175,Yassine El Ghanassy,be  BEL,"FW,MF",Nantes,27,1990,7.2,1,0,0,8,19,0,23,8,3,0,0,0,48,0,3,0.0
+176,Anwar El Ghazi,nl  NED,"FW,MF",Lille,22,1995,18.3,2,0,0,17,15,5,62,8,14,0,0,0,75,7,10,41.2
+177,Rachid Ghezzal,dz  ALG,"FW,MF",Monaco,25,1992,11.0,3,1,0,19,18,7,36,16,11,0,0,0,85,4,13,23.5
+178,Guillaume Gillet,be  BEL,MF,Nantes,33,1984,0.2,1,0,0,1,0,0,0,1,0,0,0,0,3,0,0,
+179,Jimmy Giraudon,fr  FRA,DF,Troyes,25,1992,23.3,4,1,0,14,13,0,2,28,11,0,1,0,228,13,13,50.0
+180,Thibault Giresse,fr  FRA,"MF,FW",Guingamp,36,1981,0.3,0,0,0,0,1,0,1,1,1,0,0,0,3,0,0,
+181,Andrei Girotto,br  BRA,MF,Nantes,25,1992,16.9,8,0,0,35,20,0,8,18,29,1,1,0,202,18,11,62.1
+182,Kamil Glik,pl  POL,DF,Monaco,29,1988,36.0,8,0,0,39,33,2,0,35,23,1,1,0,417,36,18,66.7
+183,Joris Gnagnon,fr  FRA,DF,Rennes,20,1997,32.4,3,0,0,24,27,2,1,23,26,0,0,1,274,27,14,65.9
+184,Anthony Gonçalves,fr  FRA,"MF,FW",Strasbourg,31,1986,19.5,5,0,0,45,18,2,97,20,30,0,0,0,183,11,9,55.0
+185,Vagner Gonçalves,cv  CPV,"FW,MF",Saint-Étienne,21,1996,1.2,0,0,0,2,1,1,4,0,1,0,0,0,12,0,0,
+186,Georges Gope-Fenepej,nc  NCL,"MF,FW",Amiens,28,1988,0.5,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0.0
+187,Mathieu Gorgelin,fr  FRA,GK,Lyon,26,1990,4.0,0,0,0,0,2,0,0,0,0,0,0,0,14,0,0,
+188,Prince-Désir Gouano,fr  FRA,DF,Amiens,23,1993,30.5,4,5,2,26,26,0,2,54,28,0,0,0,340,47,28,62.7
+189,Lemouya Goudiaby,sn  SEN,DF,Metz,20,1997,0.9,0,0,0,1,2,0,8,2,0,0,0,0,5,0,0,
+190,Amine Gouiri,fr  FRA,"FW,MF",Lyon,17,2000,0.9,0,0,0,1,1,0,0,1,1,0,0,0,1,0,1,0.0
+191,Yoann Gourcuff,fr  FRA,"MF,FW",Rennes,31,1986,4.7,0,0,0,3,6,0,8,3,2,0,0,0,27,1,1,50.0
+192,Max Gradel,ci  CIV,"FW,MF",Toulouse,29,1987,26.8,6,1,0,39,48,10,135,17,29,2,0,0,203,4,22,15.4
+193,Samuel Grandsir,fr  FRA,"FW,MF",Troyes,20,1996,28.9,3,0,0,52,45,13,69,22,30,0,0,0,208,4,22,15.4
+194,Jérémy Grimm,fr  FRA,MF,Strasbourg,30,1987,9.0,3,0,0,17,15,0,4,19,18,0,0,0,118,10,3,76.9
+195,Gonçalo Guedes,pt  POR,FW,Paris S-G,20,1996,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+196,Frederic Guilbert,fr  FRA,"DF,MF",Caen,22,1994,36.0,12,0,0,56,37,1,95,89,69,0,0,0,400,43,23,65.2
+197,Baptiste Guillaume,be  BEL,FW,Angers,22,1995,5.1,3,0,0,14,6,4,2,2,3,0,0,0,15,5,9,35.7
+198,Régis Gurtner,fr  FRA,GK,Amiens,30,1986,37.0,2,0,0,3,9,0,0,0,0,0,1,0,196,0,0,
+199,Luiz Gustavo,br  BRA,"MF,DF",Marseille,30,1987,33.5,10,1,0,59,40,1,15,43,52,0,0,0,356,15,8,65.2
+200,Oussama Haddadi,tn  TUN,DF,Dijon,25,1992,27.8,6,1,0,43,16,3,64,36,33,0,2,0,291,5,7,41.7
+201,Oualid El Hajjam,ma  MAR,DF,Amiens,26,1991,24.4,6,0,0,36,26,0,39,67,31,0,1,0,261,9,13,40.9
+202,Romain Hamouma,fr  FRA,"FW,MF",Saint-Étienne,30,1987,20.5,4,0,0,16,37,12,63,14,12,1,0,0,106,9,11,45.0
+203,Gauthier Hein,fr  FRA,"FW,MF",Metz,20,1996,0.9,0,0,0,1,1,0,1,1,1,0,0,0,8,0,1,0.0
+204,Christophe Hérelle,mq  MTQ,DF,Troyes,24,1992,32.9,7,1,0,29,27,1,0,61,11,0,0,0,351,26,19,57.8
+205,Hernani,br  BRA,"MF,FW",Saint-Étienne,23,1994,6.1,2,3,1,16,4,1,18,5,10,0,0,0,52,8,5,61.5
+206,Vitorino Hilton,br  BRA,DF,Montpellier,39,1977,27.0,5,0,0,22,25,2,3,51,28,0,2,0,368,26,10,72.2
+207,Tomáš Hubočan,sk  SVK,DF,Marseille,31,1985,1.0,1,0,0,2,0,0,2,0,0,0,0,0,9,2,0,100.0
+208,Adrien Hunou,fr  FRA,"FW,MF",Rennes,23,1994,16.2,1,0,0,19,29,19,6,7,12,1,0,0,87,2,14,12.5
+209,Suk Hyun-jun,kr  KOR,FW,Troyes,26,1991,14.0,5,0,0,44,34,4,8,3,3,0,0,0,48,30,36,45.5
+210,Edgar Ié,pt  POR,DF,Lille,23,1994,35.0,6,1,0,29,19,2,27,72,38,0,1,0,416,40,16,71.4
+211,Julien Ielsch,fr  FRA,"MF,DF",Amiens,34,1983,6.9,4,0,0,16,5,0,4,8,15,0,0,0,83,1,4,20.0
+212,Jordan Ikoko,cd  COD,DF,Guingamp,23,1994,26.9,5,0,0,25,18,2,46,50,16,0,1,1,236,7,9,43.8
+213,Jonathan Ikone,fr  FRA,"FW,MF",Montpellier,19,1998,11.1,0,0,0,11,7,1,20,4,9,0,0,0,48,1,5,16.7
+214,Jules Iloki,fr  FRA,"MF,FW",Nantes,25,1992,15.7,1,0,0,12,13,5,74,14,3,0,0,0,107,2,2,50.0
+215,Giannelli Imbula,cd  COD,MF,Toulouse,24,1992,24.9,4,0,0,21,52,1,17,16,16,0,0,0,220,7,5,58.3
+216,Emmanuel Imorou,bj  BEN,DF,Caen,28,1988,0.4,0,0,0,0,0,0,1,1,0,0,0,0,2,0,0,
+217,Christophe Jallet,fr  FRA,DF,Nice,33,1983,13.0,4,0,0,9,4,2,23,22,16,0,1,0,124,8,5,61.5
+218,Ablie Jallow,gm  GAM,"MF,FW",Metz,18,1998,1.4,0,0,0,2,3,0,1,0,1,0,0,0,14,0,0,
+219,Saidy Janko,ch  SUI,"DF,MF",Saint-Étienne,21,1995,15.8,5,0,0,20,13,0,29,12,15,0,0,0,129,4,2,66.7
+220,Nicolas Janvier,fr  FRA,"MF,FW",Rennes,18,1998,0.8,0,0,0,1,2,0,0,1,1,0,0,0,4,1,1,50.0
+221,Corentin Jean,fr  FRA,"MF,FW",Toulouse,22,1995,18.8,3,0,0,14,39,7,54,11,6,2,0,0,104,9,13,40.9
+222,Benjamin Jeannot,fr  FRA,"FW,MF",Dijon,25,1992,15.6,4,0,0,25,17,14,10,9,5,0,0,0,54,17,29,37.0
+223,Jemerson,br  BRA,DF,Monaco,24,1992,31.7,7,1,0,36,18,0,1,32,28,0,0,0,275,24,23,51.1
+224,Karl-Johan Johnsson,se  SWE,GK,Guingamp,27,1990,38.0,0,0,0,0,7,0,0,0,0,0,0,0,174,0,0,
+225,Jorge,br  BRA,DF,Monaco,21,1996,21.3,8,0,0,28,44,3,50,52,33,2,0,0,246,18,21,46.2
+226,Yann Jouffre,fr  FRA,"MF,FW",Metz,33,1984,3.0,0,0,0,2,4,1,11,2,5,0,0,0,21,0,0,
+227,Vukašin Jovanović,rs  SRB,DF,Bordeaux,21,1996,16.0,5,0,0,8,15,0,1,13,12,0,0,0,152,3,3,50.0
+228,Stevan Jovetić,me  MNE,FW,Monaco,27,1989,8.4,1,0,0,16,11,8,3,6,4,0,0,0,38,7,12,36.8
+229,Christopher Jullien,fr  FRA,DF,Toulouse,24,1993,28.9,7,0,0,28,9,1,3,37,19,0,0,0,372,62,14,81.6
+230,Alexander Kačaniklić,se  SWE,"MF,FW",Nantes,25,1991,3.5,0,0,0,1,4,2,11,2,3,0,0,0,23,3,0,100.0
+231,Gaël Kakuta,cd  COD,"MF,FW",Amiens,26,1991,34.3,3,0,0,17,63,7,89,26,30,0,0,0,245,23,40,36.5
+232,François Kamano,gn  GUI,"FW,MF",Bordeaux,21,1996,22.4,4,0,0,35,37,16,47,18,23,2,0,0,124,2,7,22.2
+233,Bingourou Kamara,sn  SEN,GK,Strasbourg,20,1996,18.8,2,0,0,0,3,0,0,0,0,0,0,0,80,0,0,
+234,Boubacar Kamara,fr  FRA,"DF,MF",Marseille,17,1999,5.1,1,0,0,9,4,0,1,4,9,0,0,0,56,9,5,64.3
+235,Wilfried Kanga,fr  FRA,"FW,MF",Angers,19,1998,2.0,0,0,0,3,3,0,1,0,1,0,0,0,6,0,2,0.0
+236,Eiji Kawashima,jp  JPN,GK,Metz,34,1983,28.6,0,1,0,1,5,0,0,0,0,0,0,0,143,0,0,
+237,Joris Kayembe,be  BEL,"FW,MF",Nantes,22,1994,1.0,0,0,0,1,1,1,4,0,1,0,0,0,7,0,0,
+238,Christophe Kerbrat,fr  FRA,DF,Guingamp,30,1986,36.9,4,0,0,10,29,0,5,68,37,0,0,0,395,17,18,48.6
+239,Billy Ketkeophomphone,fr  FRA,"MF,FW",Angers,27,1990,4.9,0,0,0,11,10,0,6,7,9,0,0,0,50,4,10,28.6
+240,Driss Khalid,ma  MAR,FW,Toulouse,18,1999,0.3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,100.0
+241,Saîf-Eddine Khaoui,tn  TUN,"MF,FW",Troyes,22,1995,21.7,1,0,0,40,26,0,39,27,22,0,0,0,145,4,5,44.4
+242,Wahbi Khazri,tn  TUN,"FW,MF",Rennes,26,1991,21.3,8,1,0,39,52,17,37,12,17,0,0,0,112,7,7,50.0
+243,Presnel Kimpembe,fr  FRA,DF,Paris S-G,21,1995,26.9,8,4,2,29,48,1,6,16,19,0,1,0,230,18,9,66.7
+244,Hervé Koffi,bf  BFA,GK,Lille,20,1996,4.0,0,0,0,0,2,0,0,0,0,0,0,0,23,0,0,
+245,Seybou Koita,ne  NIG,"FW,MF",Amiens,23,1994,2.4,0,0,0,2,2,2,2,1,3,0,0,0,13,1,4,20.0
+246,Moussa Konaté,sn  SEN,FW,Amiens,24,1993,27.5,8,0,0,47,55,29,20,6,6,1,0,0,84,23,43,34.8
+247,Bakary Koné,bf  BFA,DF,Strasbourg,29,1988,27.4,3,0,0,22,17,3,1,29,10,1,1,0,250,23,9,71.9
+248,Terence Kongolo,nl  NED,DF,Monaco,23,1994,2.8,0,0,0,2,4,0,8,3,5,0,0,0,36,4,0,100.0
+249,Christian Kouakou,ci  CIV,"MF,FW",Caen,26,1991,9.4,0,0,0,21,22,15,14,7,11,0,0,0,44,0,6,0.0
+250,Rominigue Kouamé,ml  MLI,"DF,MF",Lille,20,1996,2.2,0,0,0,3,2,0,1,5,0,0,1,0,24,1,2,33.3
+251,Tomáš Koubek,cz  CZE,GK,Rennes,24,1992,34.0,0,0,0,1,4,0,0,0,0,0,1,0,172,0,0,
+252,Jules Koundé,fr  FRA,DF,Bordeaux,18,1998,17.7,1,0,0,9,6,1,1,16,8,0,0,0,195,22,10,68.8
+253,Vincent Koziello,fr  FRA,MF,Nice,21,1995,9.0,3,0,0,11,13,1,0,12,9,0,0,0,75,1,6,14.3
+254,Rene Krhin,si  SVN,MF,Nantes,27,1990,14.6,5,0,0,18,24,1,1,18,10,0,0,0,154,16,16,50.0
+255,Layvin Kurzawa,fr  FRA,DF,Paris S-G,24,1992,18.9,1,0,0,28,12,0,36,23,26,0,0,0,132,21,14,60.0
+256,Enock Kwateng,fr  FRA,DF,Nantes,20,1997,1.0,0,0,0,0,1,0,0,3,2,0,0,0,10,0,0,
+257,Brighton Labeau,fr  FRA,FW,Amiens,21,1996,0.3,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,
+258,Gaëtan Laborde,fr  FRA,FW,Bordeaux,23,1994,10.6,1,0,0,17,17,6,9,4,3,0,0,0,50,22,39,36.1
+259,Léo Lacroix,ch  SUI,DF,Saint-Étienne,25,1992,8.6,3,1,0,11,3,4,0,10,7,0,0,0,81,11,6,64.7
+260,Alban Lafont,fr  FRA,GK,Toulouse,18,1999,38.0,4,0,0,3,7,0,0,0,0,0,1,0,236,0,0,
+261,Kenny Lala,fr  FRA,DF,Strasbourg,25,1991,30.3,5,2,1,24,29,0,65,42,40,0,0,0,294,6,6,50.0
+262,Ádám Lang,hu  HUN,DF,Dijon,24,1993,2.6,1,2,1,4,0,0,0,3,0,0,0,0,21,0,1,0.0
+263,Paul Lasne,fr  FRA,MF,Montpellier,28,1989,34.0,10,0,0,53,71,0,40,44,43,1,0,0,355,27,26,50.9
+264,Wesley Lautoa,nc  NCL,"DF,MF",Dijon,29,1987,6.9,1,0,0,9,9,0,0,18,10,0,1,0,66,5,6,45.5
+265,Mickaël Le Bihan,fr  FRA,"FW,MF",Nice,27,1990,1.2,0,0,0,2,2,0,2,1,0,0,0,0,2,1,1,50.0
+266,Maxime Le Marchand,fr  FRA,DF,Nice,27,1989,28.2,4,0,0,21,21,0,26,42,34,0,1,0,289,25,6,80.6
+267,James Lea Siliki,cm  CMR,MF,Rennes,21,1996,20.9,6,2,1,36,53,1,38,23,14,3,0,0,179,10,7,58.8
+268,Benjamin Lecomte,fr  FRA,GK,Montpellier,26,1991,38.0,1,0,0,3,4,0,0,0,0,0,1,0,193,0,0,
+269,Pierre Lees-Melou,fr  FRA,"MF,FW",Nice,24,1993,32.1,6,1,0,53,37,7,55,32,45,1,0,1,222,5,14,26.3
+270,Thomas Lemar,fr  FRA,"MF,FW",Monaco,21,1995,26.4,1,0,0,10,41,4,114,20,12,2,0,0,161,3,5,37.5
+271,Dylan Lempereur,fr  FRA,DF,Metz,18,1998,1.6,0,0,0,3,2,0,1,1,3,0,0,0,11,0,3,0.0
+272,Lukas Lerager,dk  DEN,MF,Bordeaux,24,1993,36.5,8,0,0,67,53,5,16,54,66,0,0,0,365,40,41,49.4
+273,Alexandre Letellier,fr  FRA,GK,Angers,26,1990,13.0,0,0,0,0,1,0,0,0,0,0,0,0,59,0,0,
+274,Igor Lewczuk,pl  POL,DF,Bordeaux,32,1985,4.9,3,0,0,15,2,0,10,5,7,0,0,0,41,1,1,50.0
+275,Dimitri Liénard,fr  FRA,MF,Strasbourg,29,1988,28.9,7,0,0,29,38,0,113,49,42,0,0,0,287,3,6,33.3
+276,Lucas Lima,br  BRA,"DF,FW",Nantes,25,1991,29.5,3,0,0,29,24,4,150,40,36,0,0,0,305,14,20,41.2
+277,Giovani Lo Celso,ar  ARG,MF,Paris S-G,21,1996,19.7,2,0,0,23,41,0,8,20,59,1,0,0,174,3,5,37.5
+278,Enzo Loiodice,fr  FRA,MF,Dijon,16,2000,1.9,0,0,0,1,2,0,0,1,4,0,0,0,15,1,2,33.3
+279,Anthony Lopes,pt  POR,GK,Lyon,26,1990,34.0,1,0,0,2,4,0,0,0,0,0,1,0,139,0,0,
+280,Rony Lopes,pt  POR,"FW,MF",Monaco,21,1995,28.1,2,0,0,39,39,6,82,18,26,1,0,0,155,7,20,25.9
+281,Maxime Lopez,fr  FRA,MF,Marseille,19,1997,15.3,2,0,0,33,20,1,34,7,18,0,0,0,135,2,5,28.6
+282,Arnaud Lusamba,fr  FRA,MF,Nice,20,1997,1.8,0,0,0,2,3,0,0,2,7,0,0,0,13,0,0,
+283,Cheikh M'Bengue,sn  SEN,DF,Saint-Étienne,29,1988,5.4,2,0,0,10,3,0,2,10,3,0,0,0,43,4,0,100.0
+284,Raïs M'Bolhi,dz  ALG,GK,Rennes,31,1986,1.0,0,0,0,0,1,0,0,0,0,0,0,0,4,0,0,
+285,Yann M'Vila,fr  FRA,MF,Saint-Étienne,27,1990,16.4,1,0,0,11,20,0,4,28,12,0,0,0,180,8,5,61.5
+286,Zinédine Machach,fr  FRA,"FW,MF",Toulouse,21,1996,2.1,2,0,0,8,2,0,5,2,4,0,0,0,15,0,3,0.0
+287,Hicham Mahou,fr  FRA,"FW,MF",Nice,18,1999,0.6,0,0,0,1,0,0,1,3,1,0,0,0,4,1,1,50.0
+288,Thiago Maia,br  BRA,"MF,DF",Lille,20,1997,27.4,3,2,1,30,22,1,7,67,32,0,1,0,319,10,8,55.6
+289,Habib Maïga,ci  CIV,"MF,DF",Saint-Étienne,21,1996,7.9,2,0,0,22,9,0,14,19,17,0,0,0,88,4,7,36.4
+290,Mike Maignan,fr  FRA,GK,Lille,21,1995,33.7,0,1,0,0,9,0,0,1,0,0,0,0,176,0,1,0.0
+291,Jean-Victor Makengo,fr  FRA,"FW,MF",Nice,19,1998,2.7,1,0,0,4,4,0,4,2,1,0,0,0,15,3,3,50.0
+292,Malcom,br  BRA,"FW,MF",Bordeaux,20,1997,31.7,2,0,0,23,92,10,88,20,9,1,0,0,154,7,26,21.2
+293,Kévin Malcuit,ma  MAR,DF,Lille,26,1991,20.2,2,0,0,13,31,5,57,43,23,1,0,1,204,4,7,36.4
+294,Vincent Manceau,fr  FRA,DF,Angers,28,1989,33.0,0,0,0,25,29,1,54,37,36,0,1,0,342,11,16,40.7
+295,Steve Mandanda,fr  FRA,GK,Marseille,32,1985,29.8,0,1,0,1,3,0,0,0,0,0,0,0,119,0,0,
+296,Georges Mandjeck,cm  CMR,"MF,DF",Metz,28,1988,10.7,5,0,0,27,16,0,2,15,13,0,1,0,152,16,9,64.0
+297,Kader Mangane,sn  SEN,DF,Strasbourg,34,1983,19.1,4,0,0,22,8,2,4,23,23,0,0,0,214,15,11,57.7
+298,Thomas Mangani,fr  FRA,MF,Angers,30,1987,33.6,7,0,0,44,30,2,92,41,51,0,0,0,333,11,27,28.9
+299,Harrison Manzala,cd  COD,"FW,MF",Amiens,23,1994,20.7,3,0,0,15,23,3,41,19,15,0,0,0,136,3,11,21.4
+300,Myziane Maolida,fr  FRA,FW,Lyon,18,1999,3.7,0,0,0,2,1,2,6,1,2,0,0,0,17,1,2,33.3
+301,Faitout Maouassa,fr  FRA,"MF,FW",Rennes,19,1998,10.7,1,0,0,13,15,1,18,6,4,0,0,0,46,1,1,50.0
+302,Fernando Marçal,br  BRA,DF,Lyon,28,1989,14.4,1,0,0,17,25,1,23,26,16,0,1,0,150,15,10,60.0
+303,Vincent Marcel,fr  FRA,FW,Nice,20,1997,0.5,0,0,0,0,1,1,0,0,0,0,0,0,4,0,0,
+304,Marcelo,br  BRA,DF,Lyon,30,1987,34.5,5,1,0,32,8,1,2,47,17,0,0,1,446,62,21,74.7
+305,Mariano,do  DOM,FW,Lyon,23,1993,27.9,6,0,0,34,13,24,7,4,6,1,0,0,83,18,26,40.9
+306,Jordan Marié,fr  FRA,MF,Dijon,25,1991,20.9,5,0,0,22,16,1,8,35,40,0,1,0,212,4,15,21.1
+307,Marlon,br  BRA,DF,Nice,21,1995,21.4,5,2,1,21,11,0,3,14,16,0,1,1,143,17,14,54.8
+308,Marquinhos,br  BRA,DF,Paris S-G,23,1994,25.1,1,0,0,11,8,0,0,11,14,0,0,0,220,22,8,73.3
+309,Jonas Martin,fr  FRA,"MF,FW",Strasbourg,27,1990,33.6,6,0,0,53,40,3,27,38,42,1,0,0,304,26,33,44.1
+310,Pablo Martinez,fr  FRA,DF,Strasbourg,28,1989,23.5,4,0,0,23,28,1,10,39,27,0,2,0,232,23,20,53.5
+311,Jonathan Martins Pereira,fr  FRA,DF,Guingamp,31,1986,12.6,2,0,0,15,17,0,29,28,15,0,0,0,126,11,5,68.8
+312,Christopher Martins,lu  LUX,MF,Lyon,20,1997,0.8,1,0,0,2,0,0,0,1,2,0,0,0,7,0,0,
+313,Eden Massouema,cg  CGO,MF,Dijon,20,1997,2.1,1,0,0,5,2,0,2,2,0,0,0,0,9,2,1,66.7
+314,Blaise Matuidi,fr  FRA,MF,Paris S-G,30,1987,0.3,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,
+315,Adama Mbengue,sn  SEN,DF,Caen,23,1993,17.7,2,1,0,35,24,0,59,26,31,0,0,0,201,11,4,73.3
+316,Isaac Mbenza,be  BEL,"FW,MF",Montpellier,21,1996,23.3,4,0,0,12,21,14,71,8,15,0,0,0,98,3,2,60.0
+317,Bryan Mbeumo,fr  FRA,"FW,MF",Troyes,17,1999,0.7,0,0,0,1,4,0,1,2,0,0,0,0,7,3,1,75.0
+318,Jordi Mboula,es  ESP,"MF,FW",Monaco,18,1999,0.3,0,0,0,1,2,0,3,1,0,0,0,0,3,0,1,0.0
+319,Pedro Mendes,pt  POR,DF,Montpellier,26,1990,31.7,11,0,0,39,51,0,7,38,35,0,2,0,370,20,12,62.5
+320,Thiago Mendes,br  BRA,MF,Lille,25,1992,25.5,4,2,1,32,45,3,18,27,18,0,0,0,199,10,3,76.9
+321,Stiven Mendoza,co  COL,"FW,MF",Amiens,25,1992,11.5,0,0,0,7,8,1,16,15,9,0,0,0,84,2,6,25.0
+322,Alexandre Mendy,gw  GNB,"FW,MF",Bordeaux,23,1994,8.9,2,0,0,15,7,15,5,2,5,0,0,0,31,10,21,32.3
+323,Ferland Mendy,fr  FRA,DF,Lyon,22,1995,23.6,4,0,0,27,45,0,46,24,23,1,3,0,244,15,12,55.6
+324,Nampalys Mendy,sn  SEN,MF,Nice,25,1992,10.7,2,0,0,15,14,0,0,13,7,0,0,0,76,1,1,50.0
+325,Hamza Mendyl,ma  MAR,"DF,MF",Lille,19,1997,9.5,2,1,0,11,3,0,26,9,11,0,1,0,59,3,5,37.5
+326,Thomas Meunier,be  BEL,DF,Paris S-G,25,1991,17.5,3,0,0,27,6,2,74,14,24,0,1,0,161,15,5,75.0
+327,Mexer,mz  MOZ,DF,Rennes,28,1988,13.3,1,0,0,5,10,0,4,15,9,0,3,0,155,23,12,65.7
+328,Mathieu Michel,fr  FRA,GK,Angers,25,1991,6.6,0,0,0,0,1,0,0,0,0,0,0,0,30,0,0,
+329,Clément Michelin,fr  FRA,"DF,FW",Toulouse,20,1997,3.1,2,0,0,7,2,0,11,2,1,0,0,0,30,5,3,62.5
+330,Danijel Milićević,ba  BIH,"MF,FW",Metz,31,1986,7.9,0,0,0,5,10,0,45,5,4,1,0,0,36,0,7,0.0
+331,Kostas Mitroglou,gr  GRE,FW,Marseille,29,1988,9.8,2,0,0,15,3,6,1,0,2,0,0,0,24,6,6,50.0
+332,Florent Mollet,fr  FRA,"MF,FW",Metz,25,1991,15.7,6,0,0,31,26,3,41,10,9,0,0,0,128,3,5,37.5
+333,Thomas Monconduit,fr  FRA,MF,Amiens,26,1991,32.8,7,1,0,64,45,2,11,52,47,1,0,0,360,25,14,64.1
+334,Kévin Monnet-Paquet,fr  FRA,"FW,MF",Saint-Étienne,28,1988,19.6,0,0,0,31,14,5,32,13,19,0,0,0,125,14,35,28.6
+335,Jérémy Morel,mg  MAD,DF,Lyon,33,1984,32.4,4,0,0,28,25,1,0,36,18,0,2,1,322,20,12,62.5
+336,Lebo Mothiba,za  RSA,FW,Lille,21,1996,13.1,2,0,0,28,18,9,3,1,4,0,0,0,37,6,7,46.2
+337,Thiago Motta,it  ITA,MF,Paris S-G,34,1982,12.8,3,1,0,22,14,1,0,15,14,0,1,0,125,5,11,31.3
+338,François Moubandje,ch  SUI,DF,Toulouse,27,1990,18.9,6,2,1,21,17,1,27,29,14,0,0,0,218,22,5,81.5
+339,Jessy Moulin,fr  FRA,GK,Saint-Étienne,31,1986,3.4,1,0,0,1,2,0,0,1,0,0,1,0,11,0,0,
+340,Lucas Moura,br  BRA,FW,Paris S-G,24,1992,0.8,1,0,0,1,2,1,5,0,0,0,0,0,5,0,0,
+341,João Moutinho,pt  POR,MF,Monaco,30,1986,31.1,6,0,0,40,27,1,73,39,44,0,0,0,304,11,13,45.8
+342,Samuel Moutoussamy,cd  COD,MF,Nantes,20,1996,4.8,0,0,0,4,3,0,2,7,9,0,0,0,34,0,2,0.0
+343,Nordi Mukiele,fr  FRA,DF,Montpellier,19,1997,31.0,5,0,0,31,66,1,77,60,42,0,0,0,384,30,7,81.1
+344,Kévin N'Doram,fr  FRA,"MF,DF",Monaco,21,1996,8.0,3,0,0,8,12,0,0,9,10,0,0,0,92,6,7,46.2
+345,Abdallah N'dour,sn  SEN,DF,Strasbourg,23,1993,2.8,2,1,0,4,6,0,8,2,4,0,1,0,29,0,0,
+346,Clinton N'Jie,cm  CMR,"FW,MF",Marseille,23,1993,9.7,2,0,0,16,2,12,11,3,7,0,0,0,42,4,8,33.3
+347,Stanley N'Soki,fr  FRA,DF,Paris S-G,18,1999,0.3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,
+348,Préjuce Nakoulma,bf  BFA,FW,Nantes,30,1987,12.8,4,0,0,33,26,10,4,5,7,0,0,0,55,9,18,33.3
+349,Nathan,br  BRA,MF,Amiens,21,1996,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+350,Neymar,br  BRA,"FW,MF",Paris S-G,25,1992,20.0,5,2,1,24,103,10,58,3,9,2,0,0,110,2,2,50.0
+351,Yeni Ngbakoto,cd  COD,"FW,MF",Guingamp,25,1992,6.4,1,0,0,11,10,1,16,6,5,0,0,0,42,3,7,30.0
+352,Santy Ngom,sn  SEN,"FW,MF",Nantes,24,1993,5.2,1,0,0,18,18,2,7,2,6,0,0,0,25,3,9,25.0
+353,Guy Ngosso,cm  CMR,MF,Amiens,32,1985,6.8,3,0,0,12,7,0,0,5,8,0,0,0,78,6,3,66.7
+354,Opa Nguette,sn  SEN,"FW,MF",Metz,23,1994,11.3,3,0,0,18,20,1,9,17,16,1,0,0,65,11,8,57.9
+355,Moussa Niakhate,fr  FRA,DF,Metz,21,1996,34.5,8,0,0,36,40,0,8,43,33,0,1,0,387,28,14,66.7
+356,Adama Niane,ml  MLI,FW,Troyes,24,1993,24.1,6,0,0,34,29,31,10,10,8,2,0,0,119,29,78,27.1
+357,Ibrahima Niane,sn  SEN,"MF,FW",Metz,18,1999,9.4,1,0,0,11,28,2,15,1,5,0,0,0,65,8,18,30.8
+358,Casimir Ninga,td  CHA,"FW,MF",Montpellier,24,1993,14.3,1,0,0,29,11,15,20,5,7,0,0,0,65,4,17,19.0
+359,Benjamin Nivet,fr  FRA,"MF,FW",Troyes,40,1977,15.2,0,0,0,25,25,1,15,18,16,0,0,0,114,8,15,34.8
+360,Jordan Nkololo,cd  COD,"MF,FW",Caen,24,1992,4.7,0,0,0,6,10,2,13,5,4,0,0,0,31,1,4,20.0
+361,Christopher Nkunku,fr  FRA,"FW,MF",Paris S-G,19,1997,7.0,0,0,0,13,10,2,4,6,1,0,0,0,38,1,1,50.0
+362,Vincent Nogueira,fr  FRA,MF,Strasbourg,29,1988,0.7,0,0,0,1,3,0,0,0,0,0,0,0,6,0,0,
+363,Paul-Georges Ntep,cm  CMR,"FW,MF",Saint-Étienne,25,1992,5.7,2,0,0,8,13,2,15,2,4,0,0,0,26,3,3,50.0
+364,Gerzino Nyamsi,fr  FRA,DF,Rennes,20,1997,3.0,0,0,0,5,1,0,0,1,0,0,0,0,34,6,0,100.0
+365,Johann Obiang,ga  GAB,DF,Troyes,24,1993,5.2,1,0,0,5,5,0,16,9,6,0,0,0,35,4,2,66.7
+366,Lucas Ocampos,ar  ARG,"FW,MF",Marseille,23,1994,22.7,6,1,0,36,47,6,31,22,42,1,1,0,171,15,41,26.8
+367,Prince Oniangué,cg  CGO,MF,Angers,28,1988,11.7,1,2,1,15,16,1,2,13,7,0,0,0,67,13,20,39.4
+368,Otávio,br  BRA,MF,Bordeaux,23,1994,16.5,5,2,1,26,11,0,4,26,34,0,1,0,192,5,5,50.0
+369,Alexandre Oukidja,dz  ALG,GK,Strasbourg,29,1988,16.2,1,0,0,1,3,0,0,0,0,0,0,0,58,1,0,100.0
+370,Ambroise Oyongo,cm  CMR,MF,Montpellier,26,1991,2.2,0,0,0,1,3,0,10,2,1,0,0,0,18,0,3,0.0
+371,Pablo,br  BRA,DF,Bordeaux,26,1991,14.3,3,0,0,12,6,1,0,19,11,0,1,0,165,16,8,66.7
+372,Vincent Pajot,fr  FRA,MF,Saint-Étienne,26,1990,14.3,5,1,0,33,18,1,5,15,12,0,0,0,142,37,23,61.7
+373,Nicolas Pallois,fr  FRA,DF,Nantes,29,1987,27.0,8,4,2,16,6,0,3,34,20,0,1,1,307,14,17,45.2
+374,Julian Palmieri,fr  FRA,"DF,MF",Metz,30,1986,12.5,4,1,0,22,9,0,15,15,10,0,0,0,108,7,6,53.8
+375,Javier Pastore,ar  ARG,"MF,FW",Paris S-G,28,1989,15.0,2,0,0,12,14,2,19,9,19,0,0,0,84,2,6,25.0
+376,Mateo Pavlović,ba  BIH,DF,Angers,27,1990,21.8,9,0,0,32,10,0,2,17,5,0,1,0,236,30,17,63.8
+377,Dimitri Payet,fr  FRA,"MF,FW",Marseille,30,1987,26.1,6,0,0,16,53,4,131,18,9,3,0,0,172,2,7,22.2
+378,Stef Peeters,be  BEL,MF,Caen,25,1992,12.3,4,0,0,26,5,1,37,10,9,0,0,0,96,1,4,20.0
+379,Bryan Pelé,fr  FRA,"FW,MF",Troyes,25,1992,18.0,1,0,0,18,17,5,59,12,12,0,0,0,99,3,19,13.6
+380,Yohann Pelé,fr  FRA,GK,Marseille,34,1982,8.2,1,0,0,1,2,0,0,0,0,0,0,0,41,0,0,
+381,Pietro Pellegri,it  ITA,"FW,MF",Monaco,16,2001,0.3,0,0,0,1,2,0,3,1,0,0,0,0,2,1,0,100.0
+382,Théo Pellenard,fr  FRA,DF,Bordeaux,23,1994,15.9,4,0,0,24,5,0,39,30,13,0,1,0,176,5,4,55.6
+383,Nicolas Pépé,ci  CIV,"FW,MF",Lille,22,1995,31.6,5,0,0,27,82,26,50,16,15,1,0,0,138,10,16,38.5
+384,Romain Perraud,fr  FRA,MF,Nice,19,1997,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+385,Loïc Perrin,fr  FRA,DF,Saint-Étienne,31,1985,27.4,3,0,0,15,28,1,2,24,21,0,0,0,320,39,18,68.4
+386,Chris Philipps,lu  LUX,"MF,DF",Metz,23,1994,9.4,4,0,0,17,5,0,2,18,17,0,1,0,120,2,1,66.7
+387,Lebogang Phiri,za  RSA,MF,Guingamp,22,1994,11.5,1,0,0,12,7,0,4,15,18,0,0,0,111,2,3,40.0
+388,Ronaël Pierre-Gabriel,fr  FRA,DF,Saint-Étienne,19,1998,13.0,2,1,0,12,15,0,16,11,19,0,1,0,100,5,3,62.5
+389,Facundo Píriz,uy  URU,MF,Montpellier,27,1990,9.0,4,0,0,15,9,0,2,13,9,0,0,0,105,5,7,41.7
+390,Jaroslav Plašil,cz  CZE,MF,Bordeaux,35,1982,11.6,2,0,0,16,15,0,5,22,14,0,0,0,131,1,6,14.3
+391,Alassane Pléa,fr  FRA,FW,Nice,24,1993,33.8,7,0,0,37,60,15,21,13,9,1,0,0,124,8,28,22.2
+392,Morgan Poaty,cg  CGO,MF,Montpellier,20,1997,1.9,1,0,0,2,3,0,6,0,0,0,0,0,19,1,1,50.0
+393,Gerónimo Poblete,ar  ARG,MF,Metz,24,1993,18.4,1,0,0,20,30,1,3,21,33,0,0,0,167,8,5,61.5
+394,Florentin Pogba,gn  GUI,DF,Saint-Étienne,26,1990,3.6,1,0,0,3,3,1,8,2,1,0,1,0,42,1,1,50.0
+395,Ezequiel Ponce,ar  ARG,FW,Lille,20,1997,12.2,2,0,0,32,11,12,3,1,5,0,0,0,35,16,32,33.3
+396,Jérémie Porsan-Clémenté,fr  FRA,MF,Montpellier,19,1997,1.0,1,0,0,1,1,0,4,1,1,0,0,0,10,1,0,100.0
+397,Maxime Poundjé,fr  FRA,DF,Bordeaux,24,1992,18.9,5,0,0,23,14,4,51,25,22,1,0,0,182,15,2,88.2
+398,Sanjin Prcić,ba  BIH,MF,Rennes,23,1993,17.4,3,0,0,13,10,0,6,28,18,0,0,0,192,3,3,50.0
+399,Jérôme Prior,fr  FRA,GK,Bordeaux,21,1995,2.0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,
+400,Sloan Privat,fr  FRA,FW,Guingamp,28,1989,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+401,Loïc Puyo,fr  FRA,MF,Angers,28,1988,1.9,0,0,0,4,2,0,4,3,6,0,0,0,29,0,0,
+402,Adrien Rabiot,fr  FRA,MF,Paris S-G,22,1995,26.3,2,0,0,38,21,0,15,30,30,0,0,0,280,14,11,56.0
+403,Rafael,br  BRA,DF,Lyon,27,1990,20.1,9,0,0,33,27,2,56,44,33,0,0,1,181,12,10,54.5
+404,Andrea Raggi,it  ITA,DF,Monaco,33,1984,17.8,3,0,0,12,13,2,19,19,10,0,0,0,125,2,7,22.2
+405,Adil Rami,fr  FRA,DF,Marseille,31,1985,32.8,5,0,0,28,22,1,2,33,20,0,0,1,426,38,20,65.5
+406,Pedro Rebocho,pt  POR,DF,Guingamp,22,1995,19.1,4,0,0,16,11,1,46,29,16,0,0,0,181,7,11,38.9
+407,Jeff Reine-Adélaïde,fr  FRA,"MF,FW",Angers,19,1998,4.9,0,0,0,7,14,1,2,1,9,0,0,0,33,3,4,42.9
+408,Jan Repas,si  SVN,"MF,FW",Caen,20,1997,10.0,1,0,0,16,19,1,9,6,7,0,1,0,61,3,7,30.0
+409,Baptiste Reynet,fr  FRA,GK,Dijon,26,1990,38.0,3,0,0,3,7,0,0,1,0,0,0,0,215,0,0,
+410,Emmanuel Rivière,fr  FRA,FW,Metz,27,1990,22.3,1,0,0,40,17,9,8,2,8,0,0,0,84,33,69,32.4
+411,Jonathan Rivierez,fr  FRA,DF,Metz,28,1989,22.9,6,0,0,32,14,0,21,35,33,0,1,0,202,4,8,33.3
+412,Ronny Rodelin,fr  FRA,"FW,MF",Caen,27,1989,35.1,1,0,0,20,33,14,61,15,15,0,0,0,237,55,40,57.9
+413,Rolando,pt  POR,DF,Marseille,31,1985,27.9,5,0,0,20,16,1,2,26,21,0,1,1,301,23,18,56.1
+414,Valentin Rongier,fr  FRA,"MF,FW",Nantes,22,1994,26.1,1,0,0,34,21,4,14,43,49,0,0,0,244,2,13,13.3
+415,Valentin Rosier,fr  FRA,DF,Dijon,20,1996,30.9,5,0,0,58,20,3,46,53,43,0,0,2,277,22,19,53.7
+416,Jérôme Roussillon,fr  FRA,"DF,MF",Montpellier,24,1993,20.9,2,0,0,8,29,5,69,14,21,0,0,0,158,8,4,66.7
+417,Nolan Roux,fr  FRA,"FW,MF",Metz,29,1988,31.5,8,0,0,45,60,19,23,27,16,0,0,0,136,27,48,36.0
+418,Stéphane Ruffier,fr  FRA,GK,Saint-Étienne,30,1986,34.6,1,1,0,2,1,0,0,0,0,0,0,0,130,0,0,
+419,Vincent Rüfli,ch  SUI,"MF,FW",Dijon,29,1988,0.3,0,0,0,3,0,0,0,1,1,0,0,0,2,0,0,
+420,Idriss Saadi,dz  ALG,FW,Strasbourg,25,1992,10.4,1,0,0,10,6,7,17,2,4,1,0,0,35,2,7,22.2
+421,Youssouf Sabaly,sn  SEN,DF,Bordeaux,24,1993,34.4,3,0,0,40,32,2,88,54,58,0,0,0,352,18,15,54.5
+422,Adrián Sahibeddine,fr  FRA,"FW,MF",Dijon,22,1994,0.2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0
+423,Wesley Saïd,fr  FRA,"FW,MF",Dijon,22,1995,20.4,4,0,0,35,18,7,17,15,22,1,0,0,101,0,5,0.0
+424,Hiroki Sakai,jp  JPN,DF,Marseille,27,1990,28.0,1,0,0,22,28,2,36,44,33,0,1,0,263,33,20,62.3
+425,Diafra Sakho,sn  SEN,FW,Rennes,27,1989,8.7,1,0,0,12,10,10,3,1,3,0,0,0,30,5,24,17.2
+426,Emiliano Sala,ar  ARG,FW,Nantes,26,1990,33.7,4,2,1,47,58,34,11,16,8,0,0,0,151,41,77,34.7
+427,Yannis Salibur,fr  FRA,"FW,MF",Guingamp,26,1991,16.9,4,0,0,19,36,7,41,9,9,0,0,0,75,5,4,55.6
+428,Yoann Salmier,gf  GUF,DF,Strasbourg,24,1992,12.3,2,0,0,12,6,0,0,20,13,0,0,0,105,4,3,57.1
+429,Mamadou Samassa,ml  MLI,GK,Troyes,27,1990,21.0,1,0,0,1,4,0,0,0,0,0,0,0,106,0,0,
+430,Brice Samba,cg  CGO,GK,Caen,23,1994,3.5,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,
+431,Junior Sambia,fr  FRA,"MF,FW",Montpellier,20,1996,17.1,3,0,0,26,35,3,47,16,12,0,0,0,122,18,14,56.3
+432,Frédéric Sammaritano,fr  FRA,"FW,MF",Dijon,31,1986,15.9,2,0,0,12,21,5,30,7,14,0,0,0,114,1,12,7.7
+433,Ibrahim Sangaré,ci  CIV,MF,Toulouse,19,1997,17.7,6,0,0,35,24,0,12,16,44,0,1,0,218,16,8,66.7
+434,Younousse Sankharé,sn  SEN,MF,Bordeaux,27,1989,20.9,5,0,0,30,35,5,6,26,14,0,1,0,140,10,13,43.5
+435,Baissama Sankoh,gn  GUI,"MF,DF",Caen,25,1992,17.1,3,0,0,28,28,0,2,25,17,0,0,0,237,19,10,65.5
+436,Yaya Sanogo,fr  FRA,FW,Toulouse,24,1993,16.8,6,0,0,50,41,13,6,7,5,1,0,0,67,30,30,50.0
+437,Morgan Sanson,fr  FRA,MF,Marseille,22,1994,24.1,8,0,0,45,60,7,53,28,28,1,0,0,171,7,15,31.8
+438,Baptiste Santamaria,fr  FRA,MF,Angers,22,1995,28.8,6,0,0,45,51,1,14,46,36,0,0,0,350,21,16,56.8
+439,Ivan Santini,hr  CRO,FW,Caen,28,1989,30.8,3,0,0,74,54,20,4,7,11,2,0,0,112,51,72,41.5
+440,Yusuf Sari,tr  TUR,FW,Marseille,18,1998,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+441,Bouna Sarr,gn  GUI,"DF,FW",Marseille,25,1992,19.9,5,0,0,31,25,4,65,27,40,1,0,0,235,22,12,64.7
+442,Ismaila Sarr,sn  SEN,"FW,MF",Rennes,19,1998,20.6,2,0,0,18,63,20,42,12,15,2,0,0,104,8,12,40.0
+443,Malang Sarr,fr  FRA,DF,Nice,18,1999,14.7,1,0,0,11,15,0,6,25,11,0,1,0,124,18,9,66.7
+444,Ernest Seka,gn  GUI,DF,Strasbourg,30,1987,24.2,4,1,0,33,12,2,20,39,36,0,0,0,278,21,11,65.6
+445,Vahid Selimović,lu  LUX,DF,Metz,20,1997,11.7,4,2,1,21,9,0,0,16,8,0,0,1,114,4,8,33.3
+446,Ole Selnæs,no  NOR,MF,Saint-Étienne,23,1994,22.9,9,0,0,35,15,0,11,28,40,1,0,0,275,9,7,56.3
+447,Jean Seri,ci  CIV,MF,Nice,26,1991,29.1,5,0,0,26,61,0,48,31,15,2,0,0,221,10,7,58.8
+448,Julien Serrano,fr  FRA,DF,Monaco,19,1998,3.1,1,0,0,2,4,0,15,3,1,0,0,0,26,2,4,33.3
+449,Grégory Sertic,fr  FRA,"DF,MF",Marseille,27,1989,3.9,1,0,0,7,3,0,0,7,2,0,1,0,39,0,1,0.0
+450,Stéphane Sessègnon,bj  BEN,MF,Montpellier,33,1984,10.9,1,0,0,10,20,0,11,2,1,0,0,0,91,3,3,50.0
+451,Djibril Sidibé,fr  FRA,DF,Monaco,25,1992,23.9,4,0,0,38,36,0,48,48,31,0,1,0,252,24,9,72.7
+452,Kolbeinn Sigþórsson,is  ISL,FW,Nantes,27,1990,0.3,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2,50.0
+453,Gabriel Silva,br  BRA,DF,Saint-Étienne,26,1991,23.1,2,1,0,29,45,3,37,34,16,1,0,0,183,12,9,57.1
+454,Thiago Silva,br  BRA,DF,Paris S-G,32,1984,23.5,5,0,0,19,12,0,2,22,21,0,1,0,240,22,3,88.0
+455,Giovanni Sio,ci  CIV,FW,Montpellier,28,1989,24.4,5,1,0,53,42,28,30,7,9,0,0,0,84,26,35,42.6
+456,Ellyes Skhiri,tn  TUN,MF,Montpellier,22,1995,33.9,8,0,0,38,31,0,10,60,53,0,0,0,393,17,14,54.8
+457,Naïm Sliti,tn  TUN,"FW,MF",Dijon,25,1992,25.5,2,0,0,22,66,10,46,16,28,2,1,0,146,6,16,27.3
+458,Wesley Sneijder,nl  NED,"MF,FW",Nice,33,1984,4.4,0,0,0,4,3,0,11,2,1,0,0,0,15,0,0,
+459,Somália,br  BRA,"MF,FW",Toulouse,28,1988,22.2,2,0,0,26,49,2,28,37,38,0,0,0,182,12,21,36.4
+460,Jérémy Sorbon,fr  FRA,DF,Guingamp,33,1983,29.0,1,0,0,16,16,1,0,45,16,0,0,0,280,21,8,72.4
+461,Rayan Souici,fr  FRA,FW,Saint-Étienne,19,1998,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0
+462,Adama Soumaoro,fr  FRA,DF,Lille,25,1992,13.2,2,0,0,7,14,1,0,17,5,0,0,0,124,11,3,78.6
+463,Boubakary Soumaré,fr  FRA,MF,Lille,18,1999,5.7,1,0,0,7,6,0,0,6,11,0,0,0,58,6,0,100.0
+464,Arnaud Souquet,fr  FRA,DF,Nice,25,1992,26.8,4,0,0,21,46,0,47,39,46,1,0,0,216,12,6,66.7
+465,Bassem Srarfi,tn  TUN,"FW,MF",Nice,20,1997,9.7,1,0,0,13,18,4,9,11,6,1,0,0,57,3,3,50.0
+466,Timo Stavitski,fi  FIN,FW,Caen,18,1999,4.5,1,0,0,5,6,7,16,1,3,0,0,0,24,2,6,25.0
+467,Mariusz Stępiński,pl  POL,FW,Nantes,22,1995,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+468,Danijel Subašić,hr  CRO,GK,Monaco,32,1984,32.7,3,0,0,2,6,0,0,0,0,0,0,0,124,0,0,
+469,Neven Subotić,rs  SRB,DF,Saint-Étienne,28,1988,16.0,1,0,0,25,5,0,2,16,11,0,0,0,164,23,10,69.7
+470,Gilles Sunu,tg  TOG,"MF,FW",Angers,26,1991,7.3,4,0,0,10,16,2,12,3,0,0,0,0,41,3,9,25.0
+471,Seydou Sy,sn  SEN,GK,Monaco,21,1995,2.8,1,0,0,0,0,0,0,0,0,0,0,0,12,0,0,
+472,Issiaga Sylla,gn  GUI,"DF,MF",Toulouse,23,1994,17.8,5,0,0,26,11,4,59,27,19,0,0,0,207,26,16,61.9
+473,Moussa Sylla,fr  FRA,FW,Monaco,17,1999,3.4,1,0,0,5,4,2,2,0,0,0,0,0,21,4,8,33.3
+474,Alexander Søderlund,no  NOR,"FW,MF",Saint-Étienne,29,1987,4.0,0,1,0,12,6,5,1,2,0,0,0,0,15,3,6,33.3
+475,Franck Tabanou,fr  FRA,DF,Guingamp,28,1989,11.6,5,0,0,17,15,3,38,22,10,0,0,0,102,11,8,57.9
+476,Ervin Taha,fr  FRA,"MF,FW",Bordeaux,18,1999,0.4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,
+477,Mehdi Tahrat,dz  ALG,MF,Angers,27,1990,4.9,3,0,0,6,8,0,0,10,5,0,0,0,79,10,5,66.7
+478,Flavien Tait,fr  FRA,"MF,FW",Angers,24,1993,24.9,5,2,1,30,50,3,52,27,26,0,0,0,178,0,2,0.0
+479,Adrien Tameze,cm  CMR,MF,Nice,23,1994,18.7,3,0,0,22,28,0,6,26,32,0,0,0,167,9,9,50.0
+480,Oussama Tannane,ma  MAR,"FW,MF",Saint-Étienne,23,1994,2.3,1,0,0,5,6,3,8,4,5,0,0,0,17,0,0,
+481,Ciprian Tătărușanu,ro  ROU,GK,Nantes,31,1986,37.0,0,0,0,1,5,0,1,0,0,0,1,0,159,0,0,
+482,Júlio Tavares,cv  CPV,FW,Dijon,28,1988,22.8,3,0,0,26,29,14,12,5,1,0,0,0,69,70,66,51.5
+483,Jordan Tell,fr  FRA,"FW,DF",Rennes,20,1997,1.3,0,0,0,2,0,1,0,1,3,0,0,0,6,1,1,50.0
+484,Martin Terrier,fr  FRA,"FW,MF",Strasbourg,20,1997,18.6,3,0,0,25,28,8,20,11,26,1,0,0,104,19,28,40.4
+485,Kenny Tete,nl  NED,DF,Lyon,21,1995,17.9,3,0,0,21,20,5,51,30,23,0,0,0,163,7,7,50.0
+486,Florian Thauvin,fr  FRA,"FW,MF",Marseille,24,1993,32.8,7,0,0,27,52,17,144,18,17,1,0,0,207,4,16,20.0
+487,Kévin Théophile-Catherine,fr  FRA,DF,Saint-Étienne,27,1989,24.1,6,0,0,24,13,0,2,24,24,0,2,0,227,15,7,68.2
+488,Vincent Thill,lu  LUX,"MF,FW",Metz,17,2000,0.3,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,
+489,Romain Thomas,fr  FRA,DF,Angers,29,1988,27.4,5,0,0,23,25,3,1,26,21,0,2,1,303,30,16,65.2
+490,Adrien Thomasson,fr  FRA,"MF,FW",Nantes,23,1993,28.7,4,0,0,26,33,7,51,32,44,1,0,0,253,4,9,30.8
+491,Marcus Thuram,fr  FRA,FW,Guingamp,19,1997,21.5,2,0,0,48,39,17,27,4,10,3,0,0,92,28,24,53.8
+492,Youri Tielemans,be  BEL,MF,Monaco,20,1997,17.4,1,0,0,36,26,0,11,23,20,0,0,0,196,15,12,55.6
+493,Jonathan Tinhan,bj  BEN,"FW,MF",Troyes,28,1989,0.8,1,0,0,1,1,0,0,0,0,0,0,0,6,0,3,0.0
+494,Ola Toivonen,se  SWE,"FW,MF",Toulouse,31,1986,8.9,2,0,0,23,9,7,7,0,4,1,0,0,58,16,10,61.5
+495,Karl Toko Ekambi,cm  CMR,"FW,MF",Angers,24,1992,33.8,4,0,0,31,33,28,34,12,6,2,0,0,112,5,22,18.5
+496,Jérémy Toulalan,fr  FRA,DF,Bordeaux,33,1983,21.0,3,0,0,21,15,0,2,24,35,0,1,1,232,9,3,75.0
+497,Abdoulaye Touré,fr  FRA,MF,Nantes,23,1994,31.2,3,0,0,51,53,0,16,71,55,1,0,0,414,31,16,66.0
+498,Almamy Touré,ml  MLI,DF,Monaco,21,1996,13.9,3,0,0,21,4,2,34,19,23,0,1,0,139,14,13,51.9
+499,Lucas Tousart,fr  FRA,MF,Lyon,20,1997,34.8,8,0,0,46,20,0,3,48,55,0,1,0,388,39,25,60.9
+500,Adama Traoré,ml  MLI,"MF,FW",Monaco,22,1995,2.1,1,0,0,1,6,0,0,3,1,0,0,0,14,0,1,0.0
+501,Bertrand Traoré,bf  BFA,FW,Lyon,21,1995,25.4,3,0,0,25,34,7,37,42,10,1,0,0,134,14,9,60.9
+502,Charles Traore,ml  MLI,DF,Troyes,25,1992,33.3,8,1,0,30,29,1,55,66,31,0,0,0,333,19,12,61.3
+503,Hamari Traoré,ml  MLI,DF,Rennes,25,1992,29.3,10,0,0,42,37,2,51,52,35,0,0,0,338,20,11,64.5
+504,Ismaël Traoré,ci  CIV,DF,Angers,30,1986,31.7,2,0,0,22,5,0,1,39,32,0,1,1,321,16,14,53.3
+505,Lacina Traoré,ci  CIV,FW,Amiens,27,1990,8.7,1,0,0,24,17,9,5,3,8,1,0,0,37,31,23,57.4
+506,Kevin Trapp,de  GER,GK,Paris S-G,27,1990,4.0,0,0,0,1,1,0,0,0,0,0,0,0,21,0,0,
+507,Matthieu Udol,fr  FRA,DF,Metz,21,1996,4.0,0,0,0,8,1,0,9,6,5,0,0,0,34,0,0,
+508,Valentín Vada,ar  ARG,"MF,FW",Bordeaux,21,1996,9.6,4,0,0,15,21,1,17,7,17,0,0,0,79,0,4,0.0
+509,Cédric Varrault,fr  FRA,DF,Dijon,37,1980,9.8,0,0,0,5,9,0,0,14,4,0,0,0,102,10,4,71.4
+510,Rémy Vercoutre,fr  FRA,GK,Caen,37,1980,34.5,1,1,0,1,4,0,0,0,0,0,0,1,132,0,0,
+511,Olivier Verdon,bj  BEN,DF,Bordeaux,21,1995,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,100.0
+512,Marco Verratti,it  ITA,MF,Paris S-G,24,1992,19.1,9,2,1,29,53,1,4,30,30,0,0,0,143,4,3,57.1
+513,Oswaldo Vizcarrondo,ve  VEN,DF,Troyes,33,1984,19.1,7,2,1,22,10,0,0,10,11,0,1,0,212,21,15,58.3
+514,Anthony Walongwa,cd  COD,DF,Nantes,23,1993,1.0,0,0,0,1,0,0,0,0,0,0,0,0,15,1,1,50.0
+515,Timothy Weah,us  USA,FW,Paris S-G,17,2000,1.4,1,0,0,2,0,1,2,0,0,0,0,0,2,0,0,
+516,Steeve Yago,bf  BFA,DF,Toulouse,24,1992,17.5,7,0,0,37,25,1,13,36,22,0,0,0,159,7,8,46.7
+517,Cédric Yamberé,cf  CTA,DF,Dijon,26,1990,31.5,7,2,0,29,32,0,4,28,32,0,3,1,314,20,20,50.0
+518,Mapou Yanga-Mbiwa,fr  FRA,DF,Lyon,28,1989,1.4,1,0,0,1,1,0,0,0,3,0,0,0,14,0,1,0.0
+519,Zaydou Youssouf,fr  FRA,FW,Bordeaux,18,1999,1.5,2,0,0,2,3,0,1,2,1,0,0,0,10,1,1,50.0
+520,Andre-Frank Zambo Anguissa,cm  CMR,MF,Marseille,21,1995,27.1,5,0,0,49,57,0,10,57,61,0,0,0,379,38,20,65.5
+521,Mehdi Zeffane,dz  ALG,"DF,FW",Rennes,25,1992,11.0,0,0,0,7,4,1,16,12,8,0,0,0,99,2,4,33.3
+522,Erwin Zelazny,fr  FRA,GK,Troyes,25,1991,17.0,2,0,0,1,5,0,0,0,0,0,0,0,77,0,0,
+523,Kévin Zohi,ml  MLI,MF,Strasbourg,20,1996,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
+524,Bongani Zungu,za  RSA,MF,Amiens,24,1992,23.2,5,0,0,31,24,0,6,38,26,0,0,0,279,17,10,63.0

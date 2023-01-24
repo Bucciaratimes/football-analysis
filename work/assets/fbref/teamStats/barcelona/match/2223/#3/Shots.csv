@@ -1,0 +1,9 @@
+,Minute,Player,Squad,xG,PSxG,Outcome,Distance,Body Part,Notes,Player_SCA 1,Event_SCA 1,Player_SCA 2,Event_SCA 2
+0,8.0,Carles Aleñá,Getafe,0.02,,Off Target,34.0,Left Foot,,Iglesias,Pass (Live),Stefan Mitrović,Pass (Live)
+1,19.0,Sandro Ramírez,Getafe,0.11,0.12,Goal,17.0,Right Foot,,Carles Aleñá,Pass (Live),Sandro Ramírez,Pass (Live)
+2,,,,,,,,,,,,,
+3,51.0,Jakub Jankto,Getafe,0.05,,Saved off Target,23.0,Left Foot,,Enes Ünal,Pass (Live),,
+4,51.0,Stefan Mitrović,Getafe,0.06,,Off Target,11.0,Head,,Enes Ünal,Pass (Live),Sandro Ramírez,Pass (Dead)
+5,60.0,Nemanja Maksimović,Getafe,0.1,0.04,Saved,17.0,Right Foot,,Jakub Jankto,Pass (Live),Sandro Ramírez,Pass (Live)
+6,69.0,Martin Braithwaite,Barcelona,0.03,,Blocked,19.0,Right Foot,,Jordi Alba,Pass (Live),Antoine Griezmann,Pass (Live)
+7,89.0,Nicolás González,Barcelona,0.04,,Off Target,26.0,Right Foot,,Jordi Alba,Pass (Live),Gavi,Pass (Live)

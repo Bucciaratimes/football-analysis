@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,Luuk de Jong,9.0,nl  NED,FW,30-038,83,1,1,0,0,1,0,1,0.0,1,29,5,17.2,1,11,17,0,0,0,0,0,1,2,0
+1,Carlos Fernández,24.0,es  ESP,FW,24-135,7,0,0,0,0,0,0,0,,0,6,1,16.7,2,0,4,1,0,0,1,0,0,0,0
+2,Suso,7.0,es  ESP,"LW,RW",26-320,60,0,0,0,0,0,0,0,,0,6,3,50.0,1,4,1,1,0,0,1,1,1,0,0
+3,Munir El Haddadi,11.0,es  ESP,RW,25-033,30,1,1,1,0,0,0,1,0.0,1,12,4,33.3,4,3,5,0,0,0,0,0,1,0,0
+4,Lucas Ocampos,5.0,ar  ARG,"RW,LW",26-085,60,1,1,0,1,0,0,0,,0,16,5,31.3,5,5,6,1,0,0,1,0,1,0,0
+5,Youssef En-Nesyri,15.0,ma  MAR,LW,23-125,30,0,0,0,0,0,0,0,,0,9,2,22.2,1,3,5,0,0,0,0,0,0,0,0
+6,Joan Jordán,8.0,es  ESP,CM,26-090,84,0,0,0,0,0,0,2,0.0,2,24,5,20.8,5,13,6,0,0,0,0,1,1,1,0
+7,Óliver Torres,21.0,es  ESP,CM,25-329,6,0,0,0,0,0,0,0,,0,7,3,42.9,1,2,4,1,0,0,1,0,0,0,0
+8,Ivan Rakitić,10.0,hr  CRO,CM,32-208,77,2,2,0,1,1,0,0,,0,29,6,20.7,5,16,8,1,0,0,1,0,2,0,0
+9,Nemanja Gudelj,6.0,rs  SRB,CM,28-323,13,0,0,0,0,0,0,0,,0,4,1,25.0,4,0,0,0,0,0,0,0,0,1,0
+10,Fernando,25.0,br  BRA,DM,33-071,90,4,4,1,1,2,0,0,,0,19,7,36.8,9,6,4,2,0,0,2,0,4,4,0
+11,Marcos Acuña,19.0,ar  ARG,LB,28-342,90,2,1,1,1,0,1,2,50.0,1,21,3,14.3,7,13,1,4,0,0,4,0,2,1,0
+12,Diego Carlos,20.0,br  BRA,CB,27-203,90,1,0,1,0,0,0,0,,0,7,2,28.6,2,4,1,0,0,0,0,2,3,3,0
+13,Jules Koundé,12.0,fr  FRA,CB,21-327,90,1,1,1,0,0,1,1,100.0,0,6,2,33.3,4,2,0,2,1,0,1,0,1,3,0
+14,Jesús Navas,16.0,es  ESP,RB,34-318,90,1,1,1,0,0,1,1,100.0,0,8,2,25.0,2,4,2,1,0,0,1,0,1,7,1
+15,Yassine Bounou,13.0,ma  MAR,GK,29-182,90,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+16,16 Players,,,,,990,14,12,6,4,4,3,8,37.5,5,203,51,25.1,53,86,64,14,1,0,13,4,18,22,1

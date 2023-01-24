@@ -1,0 +1,21 @@
+,Season,Age,Squad,Country,Comp,LgRank,90s,Att,Live_Pass Types,Dead_Pass Types,FK_Pass Types,TB_Pass Types,Press_Pass Types,Sw_Pass Types,Crs_Pass Types,CK_Pass Types,In_Corner Kicks,Out_Corner Kicks,Str_Corner Kicks,Ground_Height,Low_Height,High_Height,Left_Body Parts,Right_Body Parts,Head_Body Parts,TI_Body Parts,Other_Body Parts,Cmp_Outcomes,Off_Outcomes,Out_Outcomes,Int_Outcomes,Blocks_Outcomes
+0,2011-2012,18,União de Leiria,pt  POR,1.  Primeira Liga,16th,16.0,,,,,,,,,,,,,,,,,,,,,,,,,
+1,2012-2013,19,Rio Ave,pt  POR,1.  Primeira Liga,6th,27.8,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2013-2014,20,Benfica,pt  POR,1.  Primeira Liga,1st,15.0,,,,,,,,,,,,,,,,,,,,,,,,,
+3,2014-2015,21,Atlético Madrid,es  ESP,1.  La Liga,3rd,11.0,,,,,,,,,,,,,,,,,,,,,,,,,
+4,2015-2016,22,Atlético Madrid,es  ESP,1.  La Liga,3rd,38.0,,,,,,,,,,,,,,,,,,,,,,,,,
+5,2016-2017,23,Atlético Madrid,es  ESP,1.  La Liga,3rd,29.5,,,,,,,,0,,,,,,,,,,,,,,,,,
+6,2017-2018,24,Atlético Madrid,es  ESP,1.  La Liga,2nd,37.0,678,445,233,52,0,60,8,0,0,0,0,0,205,20,453,39,514,1,0,70,368,4,20,5,1
+7,2018-2019,25,Atlético Madrid,es  ESP,1.  La Liga,2nd,37.0,850,497,353,71,0,53,15,0,0,0,0,0,218,40,592,50,617,0,0,100,468,3,26,2,2
+8,2019-2020,26,Atlético Madrid,es  ESP,1.  La Liga,3rd,37.7,960,543,417,103,1,45,18,0,0,0,0,0,265,35,660,49,723,1,0,111,558,5,33,4,3
+9,2020-2021,27,Atlético Madrid,es  ESP,1.  La Liga,1st,38.0,1003,613,390,99,0,53,31,0,0,0,0,0,349,52,602,45,774,0,2,122,642,3,31,7,1
+10,2021-2022,28,Atlético Madrid,es  ESP,1.  La Liga,2nd,14.0,366,240,126,30,0,9,6,0,0,0,0,0,192,23,151,20,260,1,0,67,269,1,5,6,0
+11,11 Seasons,11 Seasons,4 Clubs,,2 Leagues,,301.0,3857,2338,1519,355,1,220,78,0,0,0,0,0,1229,170,2458,203,2888,3,2,470,2305,16,115,24,7
+12,,,,Country,Comp,LgRank,90s,Att,Live,Dead,FK,TB,Press,Sw,Crs,CK,In,Out,Str,Ground,Low,High,Left,Right,Head,TI,Other,Cmp,Off,Out,Int,Blocks
+13,Atlético Madrid (8 Seasons),Atlético Madrid (8 Seasons),Atlético Madrid (8 Seasons),,1 League,,242.2,3857,2338,1519,355,1,220,78,0,0,0,0,0,1229,170,2458,203,2888,3,2,470,2305,16,115,24,7
+14,Rio Ave (1 Season),Rio Ave (1 Season),Rio Ave (1 Season),,1 League,,27.8,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Benfica (1 Season),Benfica (1 Season),Benfica (1 Season),,1 League,,15.0,,,,,,,,,,,,,,,,,,,,,,,,,
+16,União de Leiria (1 Season),União de Leiria (1 Season),União de Leiria (1 Season),,1 League,,16.0,,,,,,,,,,,,,,,,,,,,,,,,,
+17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,La Liga (8 Seasons),La Liga (8 Seasons),La Liga (8 Seasons),,,,242.2,3857,2338,1519,355,1,220,78,0,0,0,0,0,1229,170,2458,203,2888,3,2,470,2305,16,115,24,7
+19,Primeira Liga (3 Seasons),Primeira Liga (3 Seasons),Primeira Liga (3 Seasons),,,,58.8,,,,,,,,,,,,,,,,,,,,,,,,,

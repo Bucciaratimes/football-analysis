@@ -1,0 +1,520 @@
+,Player,Weekly Gross,Annual Gross,Expiration,Length,Total Gross,Status,Pos. group,Pos.,Age,Country,Club
+0,Eden Hazard,"€ 600,962","€ 31,250,000","Jun 30, 2024",2-yrs,"€ 62,500,000",,F,LW,31,Belgium,Real Madrid
+1,Frenkie de Jong,"€ 560,962","€ 29,170,000","Jun 30, 2026",4-yrs,"€ 116,680,000",,M,CM,25,Netherlands,Barcelona
+2,Karim Benzema,"€ 461,538","€ 24,000,000","Jun 30, 2023",1-yr,"€ 24,000,000",,F,CF,34,France,Real Madrid
+3,David Alaba,"€ 432,692","€ 22,500,000","Jun 30, 2026",4-yrs,"€ 90,000,000",,D,CB,30,Austria,Real Madrid
+4,Sergio Busquets,"€ 423,077","€ 22,000,000","Jun 30, 2023",1-yr,"€ 22,000,000",,M,DM,33,Spain,Barcelona
+5,Toni Kroos,"€ 421,923","€ 21,940,000","Jun 30, 2023",1-yr,"€ 21,940,000",,M,CM,32,Germany,Real Madrid
+6,Vinicius Junior,"€ 400,577","€ 20,830,000","Jun 30, 2027",5-yrs,"€ 104,150,000",,F,LW,21,Brazil,Real Madrid
+7,Antoine Griezmann,"€ 400,577","€ 20,830,000","Jun 30, 2023",1-yr,"€ 20,830,000",,F,SS,31,France,Atletico Madrid
+8,Jordi Alba,"€ 400,577","€ 20,830,000","Jun 30, 2024",2-yrs,"€ 41,660,000",,D,LB,33,Spain,Barcelona
+9,Jan Oblak,"€ 400,577","€ 20,830,000","Jun 30, 2028",6-yrs,"€ 124,980,000",,K,GK,29,Slovenia,Atletico Madrid
+10,Luka Modric,"€ 378,654","€ 19,690,000","Jun 30, 2023",1-yr,"€ 19,690,000",,M,CM,36,Croatia,Real Madrid
+11,Antonio Rüdiger,"€ 360,577","€ 18,750,000","Jun 30, 2026",4-yrs,"€ 75,000,000",,D,CB,29,Germany,Real Madrid
+12,Robert Lewandowski,"€ 360,577","€ 18,750,000","Jun 30, 2025",3-yrs,"€ 56,250,000",,F,CF,33,Poland,Barcelona
+13,Koke,"€ 307,692","€ 16,000,000","Jun 30, 2024",2-yrs,"€ 32,000,000",,M,CM,30,Spain,Atletico Madrid
+14,Miralem Pjanic,"€ 300,385","€ 15,620,000","Jun 30, 2024",2-yrs,"€ 31,240,000",,M,CM,32,Bosnia-Herzegovina,Barcelona
+15,João Félix,"€ 280,385","€ 14,580,000","Jun 30, 2026",4-yrs,"€ 58,320,000",,F,SS,22,Portugal,Atletico Madrid
+16,Ansu Fati,"€ 268,269","€ 13,950,000","Jun 30, 2027",5-yrs,"€ 69,750,000",,F,LW,19,Spain,Barcelona
+17,Ousmane Dembélé,"€ 264,423","€ 13,750,000","Jun 30, 2024",2-yrs,"€ 27,500,000",,F,RW,25,France,Barcelona
+18,Franck Kessié,"€ 260,385","€ 13,540,000","Jun 30, 2027",5-yrs,"€ 67,700,000",,M,CM,25,Cote d'Ivoire,Barcelona
+19,Ivan Rakitic,"€ 253,846","€ 13,200,000","Jun 30, 2024",2-yrs,"€ 26,400,000",,M,CM,34,Croatia,Sevilla
+20,Raphinha,"€ 240,385","€ 12,500,000","Jun 30, 2027",5-yrs,"€ 62,500,000",,F,RW,25,Brazil,Barcelona
+21,Saúl Ñíguez,"€ 230,769","€ 12,000,000","Jun 30, 2026",4-yrs,"€ 48,000,000",,M,CM,27,Spain,Atletico Madrid
+22,Thibaut Courtois,"€ 227,308","€ 11,820,000","Jun 30, 2026",4-yrs,"€ 47,280,000",,K,GK,30,Belgium,Real Madrid
+23,Pierre-Emerick Aubameyang,"€ 220,385","€ 11,460,000","Jun 30, 2025",3-yrs,"€ 34,380,000",,F,CF,33,Gabon,Barcelona
+24,Dani Parejo,"€ 208,269","€ 10,830,000","Jun 30, 2024",2-yrs,"€ 21,660,000",,M,CM,33,Spain,Villarreal
+25,Gerard Piqué,"€ 200,385","€ 10,420,000","Jun 30, 2024",2-yrs,"€ 20,840,000",,D,CB,35,Spain,Barcelona
+26,Andreas Christensen,"€ 200,385","€ 10,420,000","Jun 30, 2026",4-yrs,"€ 41,680,000",,D,CB,26,Denmark,Barcelona
+27,Memphis Depay,"€ 200,385","€ 10,420,000","Jun 30, 2023",1-yr,"€ 10,420,000",,F,CF,28,Netherlands,Barcelona
+28,Casemiro,"€ 189,423","€ 9,850,000","Jun 30, 2025",3-yrs,"€ 29,550,000",,M,DM,30,Brazil,Real Madrid
+29,Marco Asensio,"€ 189,038","€ 9,830,000","Jun 30, 2023",1-yr,"€ 9,830,000",,F,RW,26,Spain,Real Madrid
+30,Álvaro Morata,"€ 188,462","€ 9,800,000","Jun 30, 2024",2-yrs,"€ 19,600,000",,F,CF,29,Spain,Atletico Madrid
+31,Jules Koundé,"€ 182,692","€ 9,500,000","Jun 30, 2027",5-yrs,"€ 47,500,000",,D,CB,23,France,Barcelona
+32,Pedri,"€ 180,385","€ 9,380,000","Jun 30, 2026",4-yrs,"€ 37,520,000",,M,CM,19,Spain,Barcelona
+33,Éder Militão,"€ 180,385","€ 9,380,000","Jun 30, 2025",3-yrs,"€ 28,140,000",,D,CB,24,Brazil,Real Madrid
+34,Ferland Mendy,"€ 180,385","€ 9,380,000","Jun 30, 2025",3-yrs,"€ 28,140,000",,D,LB,27,France,Real Madrid
+35,Daniel Carvajal,"€ 176,731","€ 9,190,000","Jun 30, 2025",3-yrs,"€ 27,570,000",,D,RB,30,Spain,Real Madrid
+36,Marc-André ter Stegen,"€ 173,077","€ 9,000,000","Jun 30, 2025",3-yrs,"€ 27,000,000",,K,GK,30,Germany,Barcelona
+37,Lucas Vázquez,"€ 162,308","€ 8,440,000","Jun 30, 2024",2-yrs,"€ 16,880,000",,D,RB,31,Spain,Real Madrid
+38,Federico Valverde,"€ 160,192","€ 8,330,000","Jun 30, 2027",5-yrs,"€ 41,650,000",,M,CM,23,Uruguay,Real Madrid
+39,Eduardo Camavinga,"€ 160,192","€ 8,330,000","Jun 30, 2027",5-yrs,"€ 41,650,000",,M,CM,19,France,Real Madrid
+40,Axel Witsel,"€ 160,192","€ 8,330,000","Jun 30, 2023",1-yr,"€ 8,330,000",,M,DM,33,Belgium,Atletico Madrid
+41,Raúl García,"€ 160,000","€ 8,320,000","Jun 30, 2023",1-yr,"€ 8,320,000",,F,CF,35,Spain,Athletic Club
+42,Francis Coquelin,"€ 148,269","€ 7,710,000","Jun 30, 2024",2-yrs,"€ 15,420,000",,M,DM,31,France,Villarreal
+43,Nacho Fernández,"€ 147,885","€ 7,690,000","Jun 30, 2023",1-yr,"€ 7,690,000",,D,CB,32,Spain,Real Madrid
+44,Yannick Carrasco,"€ 145,385","€ 7,560,000","Jun 30, 2024",2-yrs,"€ 15,120,000",,F,LW,28,Belgium,Atletico Madrid
+45,Felipe,"€ 145,385","€ 7,560,000","Jun 30, 2023",1-yr,"€ 7,560,000",,D,CB,33,Brazil,Atletico Madrid
+46,Pau Torres,"€ 144,231","€ 7,500,000","Jun 30, 2024",2-yrs,"€ 15,000,000",,D,CB,25,Spain,Villarreal
+47,Aurélien Tchouameni,"€ 144,231","€ 7,500,000","Jun 30, 2028",6-yrs,"€ 45,000,000",,M,DM,22,France,Real Madrid
+48,Rodrygo,"€ 144,231","€ 7,500,000","Jun 30, 2025",3-yrs,"€ 22,500,000",,F,RW,21,Brazil,Real Madrid
+49,Mariano Díaz,"€ 144,231","€ 7,500,000","Jun 30, 2023",1-yr,"€ 7,500,000",,F,CF,28,Dominican Republic,Real Madrid
+50,Gerard Moreno,"€ 144,231","€ 7,500,000","Jun 30, 2027",5-yrs,"€ 37,500,000",,F,CF,30,Spain,Villarreal
+51,Óliver Torres,"€ 143,269","€ 7,450,000","Jun 30, 2024",2-yrs,"€ 14,900,000",,M,CM,27,Spain,Sevilla
+52,Álvaro Odriozola,"€ 140,192","€ 7,290,000","Jun 30, 2024",2-yrs,"€ 14,580,000",,D,RB,26,Spain,Real Madrid
+53,Ronald Araújo,"€ 134,615","€ 7,000,000","Jun 30, 2026",4-yrs,"€ 28,000,000",,D,CB,23,Uruguay,Barcelona
+54,Nabil Fekir,"€ 132,692","€ 6,900,000","Jun 30, 2026",4-yrs,"€ 27,600,000",,F,AM,28,France,Real Betis
+55,Geoffrey Kondogbia,"€ 132,692","€ 6,900,000","Jun 30, 2024",2-yrs,"€ 13,800,000",,M,DM,29,Central African Republic,Atletico Madrid
+56,Vitolo,"€ 129,615","€ 6,740,000","Jun 30, 2024",2-yrs,"€ 13,480,000",,F,LW,32,Spain,Atletico Madrid
+57,Rodrigo de Paul,"€ 128,269","€ 6,670,000","Jun 30, 2026",4-yrs,"€ 26,680,000",,M,CM,28,Argentina,Atletico Madrid
+58,Youssef En-Nesyri,"€ 123,462","€ 6,420,000","Jun 30, 2025",3-yrs,"€ 19,260,000",,F,CF,25,Morocco,Sevilla
+59,Suso,"€ 121,154","€ 6,300,000","Jun 30, 2025",3-yrs,"€ 18,900,000",,F,RW,28,Spain,Sevilla
+60,Papu Gómez,"€ 120,192","€ 6,250,000","Jun 30, 2024",2-yrs,"€ 12,500,000",,F,AM,34,Argentina,Sevilla
+61,Samuel Umtiti,"€ 120,192","€ 6,250,000","Jun 30, 2026",4-yrs,"€ 25,000,000",,D,CB,28,France,Barcelona
+62,Ferran Torres,"€ 120,192","€ 6,250,000","Jun 30, 2027",5-yrs,"€ 31,250,000",,F,LW,22,Spain,Barcelona
+63,Gonçalo Guedes,"€ 117,308","€ 6,100,000","Jun 30, 2024",2-yrs,"€ 12,200,000",,F,LW,25,Portugal,Valencia
+64,Martin Braithwaite,"€ 115,385","€ 6,000,000","Jun 30, 2024",2-yrs,"€ 12,000,000",,F,CF,31,Denmark,Barcelona
+65,Sergiño Dest,"€ 115,385","€ 6,000,000","Jun 30, 2025",3-yrs,"€ 18,000,000",,D,RB,21,United States,Barcelona
+66,Héctor Herrera,"€ 115,385","€ 6,000,000","Jun 30, 2023",1-yr,"€ 6,000,000",,M,CM,32,Mexico,Atletico Madrid
+67,Neto,"€ 115,385","€ 6,000,000","Jun 30, 2023",1-yr,"€ 6,000,000",,K,GK,32,Brazil,Barcelona
+68,Iñaki Williams,"€ 114,808","€ 5,970,000","Jun 30, 2028",6-yrs,"€ 35,820,000",,F,CF,28,Spain,Athletic Club
+69,Vicente Iborra,"€ 108,269","€ 5,630,000","Jun 30, 2024",2-yrs,"€ 11,260,000",,M,CM,34,Spain,Villarreal
+70,Gerónimo Rulli,"€ 104,231","€ 5,420,000","Jun 30, 2024",2-yrs,"€ 10,840,000",,K,GK,30,Argentina,Villarreal
+71,Gabriel Paulista,"€ 102,500","€ 5,330,000","Jun 30, 2024",2-yrs,"€ 10,660,000",,D,CB,31,Brazil,Valencia
+72,Paco Alcácer,"€ 100,192","€ 5,210,000","Jun 30, 2025",3-yrs,"€ 15,630,000",,F,CF,28,Spain,Villarreal
+73,Iñigo Martínez,"€ 96,154","€ 5,000,000","Jun 30, 2023",1-yr,"€ 5,000,000",,D,CB,31,Spain,Athletic Club
+74,Munir El Haddadi,"€ 95,769","€ 4,980,000","Jun 30, 2023",1-yr,"€ 4,980,000",,F,CF,26,Morocco,Sevilla
+75,Fernando Reges,"€ 93,654","€ 4,870,000","Jun 30, 2024",2-yrs,"€ 9,740,000",,M,DM,34,Brazil,Sevilla
+76,Raúl Albiol,"€ 92,115","€ 4,790,000","Jun 30, 2023",1-yr,"€ 4,790,000",,D,CB,36,Spain,Villarreal
+77,Aïssa Mandi,"€ 92,115","€ 4,790,000","Jun 30, 2025",3-yrs,"€ 14,370,000",,D,CB,30,Algeria,Villarreal
+78,Joan Jordán,"€ 90,769","€ 4,720,000","Jun 30, 2027",5-yrs,"€ 23,600,000",,M,CM,27,Spain,Sevilla
+79,Denis Suárez,"€ 90,000","€ 4,680,000","Jun 30, 2024",2-yrs,"€ 9,360,000",,F,AM,28,Spain,Celta Vigo
+80,Juan Foyth,"€ 88,077","€ 4,580,000","Jun 30, 2026",4-yrs,"€ 18,320,000",,D,RB,24,Argentina,Villarreal
+81,Stefan Savic,"€ 86,538","€ 4,500,000","Jun 30, 2024",2-yrs,"€ 9,000,000",,D,CB,31,Montenegro,Atletico Madrid
+82,Iker Muniain,"€ 84,615","€ 4,400,000","Jun 30, 2024",2-yrs,"€ 8,800,000",,F,LW,29,Spain,Athletic Club
+83,Asier Illarramendi,"€ 83,846","€ 4,360,000","Jun 30, 2023",1-yr,"€ 4,360,000",,M,DM,32,Spain,Real Sociedad
+84,Unai Simón,"€ 83,654","€ 4,350,000","Jun 30, 2025",3-yrs,"€ 13,050,000",,K,GK,25,Spain,Athletic Club
+85,Yuri Berchiche,"€ 80,769","€ 4,200,000","Jun 30, 2024",2-yrs,"€ 8,400,000",,D,LB,32,Spain,Athletic Club
+86,Germán Pezzella,"€ 80,192","€ 4,170,000","Jun 30, 2025",3-yrs,"€ 12,510,000",,D,CB,31,Argentina,Real Betis
+87,Alex Telles,"€ 80,192","€ 4,170,000","Jun 30, 2023",1-yr,"€ 4,170,000",,D,LB,29,Brazil,Sevilla
+88,Roque Mesa,"€ 80,000","€ 4,160,000","Jun 30, 2023",1-yr,"€ 4,160,000",,M,CM,33,Spain,Valladolid
+89,José Giménez,"€ 76,923","€ 4,000,000","Jun 30, 2025",3-yrs,"€ 12,000,000",,D,CB,27,Uruguay,Atletico Madrid
+90,Jesús Navas,"€ 76,923","€ 4,000,000","Jun 30, 2024",2-yrs,"€ 8,000,000",,D,RB,36,Spain,Sevilla
+91,Alfonso Pedraza,"€ 76,154","€ 3,960,000","Jun 30, 2026",4-yrs,"€ 15,840,000",,D,LB,26,Spain,Villarreal
+92,Mikel Merino,"€ 75,192","€ 3,910,000","Jun 30, 2025",3-yrs,"€ 11,730,000",,M,CM,26,Spain,Real Sociedad
+93,Renan Lodi,"€ 73,077","€ 3,800,000","Jun 30, 2025",3-yrs,"€ 11,400,000",,D,LB,24,Brazil,Atletico Madrid
+94,Jasper Cillessen,"€ 72,115","€ 3,750,000","Jun 30, 2023",1-yr,"€ 3,750,000",,K,GK,33,Netherlands,Valencia
+95,Sergi Roberto,"€ 69,231","€ 3,600,000","Jun 30, 2023",1-yr,"€ 3,600,000",,M,CM,30,Spain,Barcelona
+96,Mikel Oyarzabal,"€ 67,885","€ 3,530,000","Jun 30, 2024",2-yrs,"€ 7,060,000",,F,LW,25,Spain,Real Sociedad
+97,Jesús Corona,"€ 67,308","€ 3,500,000","Jun 30, 2025",3-yrs,"€ 10,500,000",,F,RW,29,Mexico,Sevilla
+98,Ángel Correa,"€ 67,308","€ 3,500,000","Jun 30, 2026",4-yrs,"€ 14,000,000",,F,SS,27,Argentina,Atletico Madrid
+99,José Gayà,"€ 67,308","€ 3,500,000","Jun 30, 2023",1-yr,"€ 3,500,000",,D,LB,27,Spain,Valencia
+100,William Carvalho,"€ 66,923","€ 3,480,000","Jun 30, 2023",1-yr,"€ 3,480,000",,M,DM,30,Portugal,Real Betis
+101,Thomas Delaney,"€ 66,731","€ 3,470,000","Jun 30, 2025",3-yrs,"€ 10,410,000",,M,DM,30,Denmark,Sevilla
+102,Igor Zubeldia,"€ 65,769","€ 3,420,000","Jun 30, 2024",2-yrs,"€ 6,840,000",,D,CB,25,Spain,Real Sociedad
+103,Alberto Moreno,"€ 64,038","€ 3,330,000","Jun 30, 2024",2-yrs,"€ 6,660,000",,D,LB,29,Spain,Villarreal
+104,Mario Gaspar,"€ 64,038","€ 3,330,000","Jun 30, 2023",1-yr,"€ 3,330,000",,D,RB,31,Spain,Villarreal
+105,Thomas Lemar,"€ 62,500","€ 3,250,000","Jun 30, 2027",5-yrs,"€ 16,250,000",,F,AM,26,France,Atletico Madrid
+106,Arnaut Danjuma,"€ 60,192","€ 3,130,000","Jun 30, 2026",4-yrs,"€ 12,520,000",,F,CF,25,Netherlands,Villarreal
+107,Willian José,"€ 57,692","€ 3,000,000","Jun 30, 2026",4-yrs,"€ 12,000,000",,F,CF,30,Brazil,Real Betis
+108,Matheus Cunha,"€ 57,692","€ 3,000,000","Jun 30, 2026",4-yrs,"€ 12,000,000",,F,CF,23,Brazil,Atletico Madrid
+109,Eric García,"€ 57,692","€ 3,000,000","Jun 30, 2026",4-yrs,"€ 12,000,000",,D,CB,21,Spain,Barcelona
+110,Yeremi Pino,"€ 57,692","€ 3,000,000","Jun 30, 2027",5-yrs,"€ 15,000,000",,F,RW,19,Spain,Villarreal
+111,Boulaye Dia,"€ 56,154","€ 2,920,000","Jun 30, 2026",4-yrs,"€ 11,680,000",,F,CF,25,Senegal,Villarreal
+112,Étienne Capoue,"€ 56,154","€ 2,920,000","Jun 30, 2023",1-yr,"€ 2,920,000",,M,DM,33,France,Villarreal
+113,David Silva,"€ 55,769","€ 2,900,000","Jun 30, 2023",1-yr,"€ 2,900,000",,F,AM,36,Spain,Real Sociedad
+114,Hugo Duro,"€ 55,577","€ 2,890,000","Jun 30, 2026",4-yrs,"€ 11,560,000",,F,CF,22,Spain,Valencia
+115,Álex Berenguer,"€ 54,808","€ 2,850,000","Jun 30, 2024",2-yrs,"€ 5,700,000",,F,RW,26,Spain,Athletic Club
+116,Marcos Acuña,"€ 54,615","€ 2,840,000","Jun 30, 2025",3-yrs,"€ 8,520,000",,D,LB,30,Argentina,Sevilla
+117,Dani Ceballos,"€ 54,231","€ 2,820,000","Jun 30, 2023",1-yr,"€ 2,820,000",,M,CM,25,Spain,Real Madrid
+118,Dani García,"€ 53,269","€ 2,770,000","Jun 30, 2024",2-yrs,"€ 5,540,000",,M,CM,32,Spain,Athletic Club
+119,Marc Bartra,"€ 51,923","€ 2,700,000","Jun 30, 2023",1-yr,"€ 2,700,000",,D,CB,31,Spain,Real Betis
+120,Raúl de Tomás,"€ 51,731","€ 2,690,000","Jun 30, 2026",4-yrs,"€ 10,760,000",,F,CF,27,Spain,Espanyol
+121,Guido Rodríguez,"€ 51,538","€ 2,680,000","Jun 30, 2024",2-yrs,"€ 5,360,000",,M,DM,28,Argentina,Real Betis
+122,Iñigo Córdoba,"€ 51,154","€ 2,660,000","Jun 30, 2023",1-yr,"€ 2,660,000",,F,LW,25,Spain,Athletic Club
+123,Nemanja Gudelj,"€ 50,769","€ 2,640,000","Jun 30, 2023",1-yr,"€ 2,640,000",,M,DM,30,Serbia,Sevilla
+124,Manu Vallejo,"€ 50,577","€ 2,630,000","Jun 30, 2024",2-yrs,"€ 5,260,000",,F,SS,25,Spain,Valencia
+125,Erik Lamela,"€ 50,577","€ 2,630,000","Jun 30, 2024",2-yrs,"€ 5,260,000",,F,RW,30,Argentina,Sevilla
+126,Iago Aspas,"€ 50,000","€ 2,600,000","Jun 30, 2023",1-yr,"€ 2,600,000",,F,CF,34,Spain,Celta Vigo
+127,Hugo Mallo,"€ 49,808","€ 2,590,000","Jun 30, 2023",1-yr,"€ 2,590,000",,D,RB,31,Spain,Celta Vigo
+128,Yeray Álvarez,"€ 49,231","€ 2,560,000","Jun 30, 2026",4-yrs,"€ 10,240,000",,D,CB,27,Spain,Athletic Club
+129,Andriy Lunin,"€ 48,654","€ 2,530,000","Jun 30, 2024",2-yrs,"€ 5,060,000",,K,GK,23,Ukraine,Real Madrid
+130,Manu Trigueros,"€ 48,077","€ 2,500,000","Jun 30, 2025",3-yrs,"€ 7,500,000",,M,CM,30,Spain,Villarreal
+131,Franco Cervi,"€ 48,077","€ 2,500,000","Jun 30, 2024",2-yrs,"€ 5,000,000",,F,LW,28,Argentina,Celta Vigo
+132,Samu Castillejo,"€ 48,077","€ 2,500,000","Jun 30, 2025",3-yrs,"€ 7,500,000",,F,RW,27,Spain,Valencia
+133,Nico Williams,"€ 45,192","€ 2,350,000","Jun 30, 2024",2-yrs,"€ 4,700,000",,F,RW,19,Spain,Athletic Club
+134,Rubén Blanco,"€ 45,000","€ 2,340,000","Jun 30, 2023",1-yr,"€ 2,340,000",,K,GK,26,Spain,Celta Vigo
+135,Pervis Estupiñán,"€ 44,038","€ 2,290,000","Jun 30, 2027",5-yrs,"€ 11,450,000",,D,LB,24,Ecuador,Villarreal
+136,Sergi Darder,"€ 44,038","€ 2,290,000","Jun 30, 2023",1-yr,"€ 2,290,000",,M,CM,28,Spain,Espanyol
+137,Unai Núñez,"€ 43,077","€ 2,240,000","Jun 30, 2025",3-yrs,"€ 6,720,000",,D,CB,25,Spain,Athletic Club
+138,Álex Remiro,"€ 42,885","€ 2,230,000","Jun 30, 2027",5-yrs,"€ 11,150,000",,K,GK,27,Spain,Real Sociedad
+139,Djené,"€ 42,308","€ 2,200,000","Jun 30, 2023",1-yr,"€ 2,200,000",,D,CB,30,Togo,Getafe
+140,Jon Morcillo,"€ 41,154","€ 2,140,000","Jun 30, 2023",1-yr,"€ 2,140,000",,F,LW,23,Spain,Athletic Club
+141,Jaime Mata,"€ 41,154","€ 2,140,000","Jun 30, 2024",2-yrs,"€ 4,280,000",,F,CF,33,Spain,Getafe
+142,Portu,"€ 40,577","€ 2,110,000","Jun 30, 2023",1-yr,"€ 2,110,000",,F,RW,30,Spain,Getafe
+143,Aritz Elustondo,"€ 40,577","€ 2,110,000","Jun 30, 2024",2-yrs,"€ 4,220,000",,D,CB,28,Spain,Real Sociedad
+144,Jaume Doménech,"€ 40,577","€ 2,110,000","Jun 30, 2023",1-yr,"€ 2,110,000",,K,GK,31,Spain,Valencia
+145,Mario Hermoso,"€ 40,385","€ 2,100,000","Jun 30, 2024",2-yrs,"€ 4,200,000",,D,CB,27,Spain,Atletico Madrid
+146,Marcos Llorente,"€ 40,385","€ 2,100,000","Jun 30, 2027",5-yrs,"€ 10,500,000",,M,CM,27,Spain,Atletico Madrid
+147,Carlos Soler,"€ 40,385","€ 2,100,000","Jun 30, 2023",1-yr,"€ 2,100,000",,M,CM,25,Spain,Valencia
+148,Nemanja Maksimovic,"€ 40,000","€ 2,080,000","Jun 30, 2024",2-yrs,"€ 4,160,000",,M,DM,27,Serbia,Getafe
+149,Marcos André,"€ 38,462","€ 2,000,000","Jun 30, 2026",4-yrs,"€ 8,000,000",,F,CF,25,Brazil,Valencia
+150,Martín Montoya,"€ 38,269","€ 1,990,000","Jun 30, 2024",2-yrs,"€ 3,980,000",,D,RB,31,Spain,Real Betis
+151,Joseph Aidoo,"€ 37,500","€ 1,950,000","Jun 30, 2026",4-yrs,"€ 7,800,000",,D,CB,26,Ghana,Celta Vigo
+152,Andrés Guardado,"€ 36,731","€ 1,910,000","Jun 30, 2023",1-yr,"€ 1,910,000",,M,CM,35,Mexico,Real Betis
+153,Moi Gómez,"€ 36,154","€ 1,880,000","Jun 30, 2025",3-yrs,"€ 5,640,000",,F,LW,28,Spain,Villarreal
+154,Samuel Chukwueze,"€ 36,154","€ 1,880,000","Jun 30, 2024",2-yrs,"€ 3,760,000",,F,RW,23,Nigeria,Villarreal
+155,Dimitri Foulquier,"€ 35,962","€ 1,870,000","Jun 30, 2025",3-yrs,"€ 5,610,000",,D,RB,29,Guadeloupe,Valencia
+156,Óscar de Marcos,"€ 35,577","€ 1,850,000","Jun 30, 2023",1-yr,"€ 1,850,000",,D,RB,33,Spain,Athletic Club
+157,Thierry Correia,"€ 35,385","€ 1,840,000","Jun 30, 2026",4-yrs,"€ 7,360,000",,D,RB,23,Portugal,Valencia
+158,Joseba Zaldua,"€ 34,808","€ 1,810,000","Jun 30, 2023",1-yr,"€ 1,810,000",,D,RB,30,Spain,Real Sociedad
+159,Asier Villalibre,"€ 34,038","€ 1,770,000","Jun 30, 2023",1-yr,"€ 1,770,000",,F,CF,24,Spain,Athletic Club
+160,Toni Lato,"€ 33,846","€ 1,760,000","Jun 30, 2023",1-yr,"€ 1,760,000",,D,LB,24,Spain,Valencia
+161,Martín Zubimendi,"€ 33,077","€ 1,720,000","Jun 30, 2025",3-yrs,"€ 5,160,000",,M,DM,23,Spain,Real Sociedad
+162,Santi Mina,"€ 32,885","€ 1,710,000","Jun 30, 2024",2-yrs,"€ 3,420,000",,F,CF,26,Spain,Celta Vigo
+163,Bono,"€ 31,923","€ 1,660,000","Jun 30, 2025",3-yrs,"€ 4,980,000",,K,GK,31,Morocco,Sevilla
+164,Mikel Balenziaga,"€ 31,731","€ 1,650,000","Jun 30, 2023",1-yr,"€ 1,650,000",,D,LB,34,Spain,Athletic Club
+165,Jesús Vallejo,"€ 31,538","€ 1,640,000","Jun 30, 2025",3-yrs,"€ 4,920,000",,D,CB,25,Spain,Real Madrid
+166,Hugo Guillamón,"€ 31,154","€ 1,620,000","Jun 30, 2023",1-yr,"€ 1,620,000",,M,DM,22,Spain,Valencia
+167,Claudio Bravo,"€ 30,769","€ 1,600,000","Jun 30, 2023",1-yr,"€ 1,600,000",,K,GK,39,Chile,Real Betis
+168,Lucas Ocampos,"€ 30,769","€ 1,600,000","Jun 30, 2024",2-yrs,"€ 3,200,000",,F,LW,27,Argentina,Sevilla
+169,Jokin Ezkieta,"€ 30,000","€ 1,560,000","Jun 30, 2023",1-yr,"€ 1,560,000",,K,GK,25,Spain,Athletic Club
+170,Iñigo Lekue,"€ 29,808","€ 1,550,000","Jun 30, 2023",1-yr,"€ 1,550,000",,D,RB,29,Spain,Athletic Club
+171,Jorge Cuenca,"€ 29,423","€ 1,530,000","Jun 30, 2025",3-yrs,"€ 4,590,000",,D,CB,22,Spain,Villarreal
+172,Mauro Arambarri,"€ 29,423","€ 1,530,000","Jun 30, 2023",1-yr,"€ 1,530,000",,M,CM,26,Uruguay,Getafe
+173,David Soria,"€ 29,038","€ 1,510,000","Jun 30, 2023",1-yr,"€ 1,510,000",,K,GK,29,Spain,Getafe
+174,Anuar,"€ 28,846","€ 1,500,000","Jun 30, 2023",1-yr,"€ 1,500,000",,M,CM,27,Morocco,Valladolid
+175,Chimy Ávila,"€ 28,846","€ 1,500,000","Jun 30, 2026",4-yrs,"€ 6,000,000",,F,CF,28,Argentina,Osasuna
+176,Maxi Gómez,"€ 28,846","€ 1,500,000","Jun 30, 2024",2-yrs,"€ 3,000,000",,F,CF,25,Uruguay,Valencia
+177,Ezequiel Ponce,"€ 28,846","€ 1,500,000","Jun 30, 2026",4-yrs,"€ 6,000,000",,F,CF,25,Argentina,Elche
+178,Oier Zarraga,"€ 28,846","€ 1,500,000","Jun 30, 2023",1-yr,"€ 1,500,000",,M,CM,23,Spain,Athletic Club
+179,Javi Galán,"€ 28,846","€ 1,500,000","Jun 30, 2026",4-yrs,"€ 6,000,000",,D,LB,27,Spain,Celta Vigo
+180,Yunus Musah,"€ 28,846","€ 1,500,000","Jun 30, 2026",4-yrs,"€ 6,000,000",,M,CM,19,United States,Valencia
+181,Javier Pastore,"€ 28,846","€ 1,500,000","Jun 30, 2023",1-yr,"€ 1,500,000",,F,AM,33,Argentina,Elche
+182,Leandro Cabrera,"€ 28,462","€ 1,480,000","Jun 30, 2024",2-yrs,"€ 2,960,000",,D,CB,31,Uruguay,Espanyol
+183,Oussama Idrissi,"€ 28,462","€ 1,480,000","Jun 30, 2025",3-yrs,"€ 4,440,000",,F,LW,26,Morocco,Sevilla
+184,Álex Collado,"€ 27,885","€ 1,450,000","Jun 30, 2023",1-yr,"€ 1,450,000",,F,AM,23,Spain,Barcelona
+185,Cristian Rivero,"€ 27,885","€ 1,450,000","Jun 30, 2024",2-yrs,"€ 2,900,000",,K,GK,24,Spain,Valencia
+186,Joaquín,"€ 27,692","€ 1,440,000","Jun 30, 2023",1-yr,"€ 1,440,000",,F,RW,40,Spain,Real Betis
+187,Iñigo Vicente,"€ 27,500","€ 1,430,000","Jun 30, 2023",1-yr,"€ 1,430,000",,F,LW,24,Spain,Athletic Club
+188,Gonzalo Montiel,"€ 27,115","€ 1,410,000","Jun 30, 2026",4-yrs,"€ 5,640,000",,D,RB,25,Argentina,Sevilla
+189,Oihan Sancet,"€ 26,923","€ 1,400,000","Jun 30, 2024",2-yrs,"€ 2,800,000",,F,SS,22,Spain,Athletic Club
+190,Sergio Canales,"€ 26,346","€ 1,370,000","Jun 30, 2026",4-yrs,"€ 5,480,000",,F,AM,31,Spain,Real Betis
+191,Augusto Solari,"€ 25,962","€ 1,350,000","Jun 30, 2023",1-yr,"€ 1,350,000",,F,RW,30,Argentina,Celta Vigo
+192,Rubén García,"€ 25,962","€ 1,350,000","Jun 30, 2024",2-yrs,"€ 2,700,000",,F,LW,28,Spain,Osasuna
+193,Brais Méndez,"€ 25,962","€ 1,350,000","Jun 30, 2024",2-yrs,"€ 2,700,000",,F,RW,25,Spain,Celta Vigo
+194,Manu Morlanes,"€ 25,192","€ 1,310,000","Jun 30, 2026",4-yrs,"€ 5,240,000",,M,CM,23,Spain,Villarreal
+195,Karim Rekik,"€ 25,192","€ 1,310,000","Jun 30, 2025",3-yrs,"€ 3,930,000",,D,CB,27,Netherlands,Sevilla
+196,Lei Wu,"€ 25,192","€ 1,310,000","Jun 30, 2024",2-yrs,"€ 2,620,000",,F,LW,30,China,Espanyol
+197,Borja Iglesias,"€ 24,808","€ 1,290,000","Jun 30, 2026",4-yrs,"€ 5,160,000",,F,CF,29,Spain,Real Betis
+198,Álvaro Negredo,"€ 24,808","€ 1,290,000","Jun 30, 2023",1-yr,"€ 1,290,000",,F,CF,36,Spain,Cadiz
+199,Jeremías Ledesma,"€ 24,615","€ 1,280,000","Jun 30, 2025",3-yrs,"€ 3,840,000",,K,GK,29,Argentina,Cadiz
+200,Roberto,"€ 24,231","€ 1,260,000","Jun 30, 2023",1-yr,"€ 1,260,000",,K,GK,36,Spain,Valladolid
+201,Rafa Mir,"€ 24,231","€ 1,260,000","Jun 30, 2027",5-yrs,"€ 6,300,000",,F,CF,25,Spain,Sevilla
+202,Daniel Wass,"€ 24,038","€ 1,250,000","Jun 30, 2023",1-yr,"€ 1,250,000",,M,CM,33,Denmark,Atletico Madrid
+203,Falcao,"€ 23,077","€ 1,200,000","Jun 30, 2023",1-yr,"€ 1,200,000",,F,CF,36,Colombia,Rayo Vallecano
+204,Dani Vivian,"€ 22,692","€ 1,180,000","Jun 30, 2026",4-yrs,"€ 4,720,000",,D,CB,22,Spain,Athletic Club
+205,Landry Dimata,"€ 22,692","€ 1,180,000","Jun 30, 2024",2-yrs,"€ 2,360,000",,F,CF,24,Belgium,Espanyol
+206,Óscar Rodríguez,"€ 22,115","€ 1,150,000","Jun 30, 2025",3-yrs,"€ 3,450,000",,F,AM,24,Spain,Sevilla
+207,Alexander Isak,"€ 21,538","€ 1,120,000","Jun 30, 2026",4-yrs,"€ 4,480,000",,F,CF,22,Sweden,Real Sociedad
+208,Robin Le Normand,"€ 21,346","€ 1,110,000","Jun 30, 2024",2-yrs,"€ 2,220,000",,D,CB,25,France,Real Sociedad
+209,Eray Cömert,"€ 21,154","€ 1,100,000","Jun 30, 2026",4-yrs,"€ 4,400,000",,D,CB,24,Switzerland,Valencia
+210,Juan Cala,"€ 21,154","€ 1,100,000","Jun 30, 2024",2-yrs,"€ 2,200,000",,D,CB,32,Spain,Cadiz
+211,Lucas Pérez,"€ 20,769","€ 1,080,000","Jun 30, 2023",1-yr,"€ 1,080,000",,F,CF,33,Spain,Cadiz
+212,Iván Sánchez,"€ 20,769","€ 1,080,000","Jun 30, 2024",2-yrs,"€ 2,160,000",,F,RW,29,Spain,Valladolid
+213,Ludwig Augustinsson,"€ 20,577","€ 1,070,000","Jun 30, 2025",3-yrs,"€ 3,210,000",,D,LB,28,Sweden,Sevilla
+214,Carlos Fernández,"€ 20,000","€ 1,040,000","Jun 30, 2026",4-yrs,"€ 4,160,000",,F,CF,26,Spain,Real Sociedad
+215,Iván Martín,"€ 20,000","€ 1,040,000","Jun 30, 2023",1-yr,"€ 1,040,000",,F,AM,23,Spain,Girona
+216,Dyego Sousa,"€ 20,000","€ 1,040,000","Jun 30, 2024",2-yrs,"€ 2,080,000",,F,CF,32,Portugal,Almeria
+217,Nacho Vidal,"€ 19,423","€ 1,010,000","Jun 30, 2025",3-yrs,"€ 3,030,000",,D,RB,27,Spain,Osasuna
+218,Lucas Olaza,"€ 19,231","€ 1,000,000","Jun 30, 2025",3-yrs,"€ 3,000,000",,D,LB,27,Uruguay,Valladolid
+219,Jon Guridi,"€ 19,231","€ 1,000,000","Jun 30, 2024",2-yrs,"€ 2,000,000",,M,CM,27,Spain,Real Sociedad
+220,Takefusa Kubo,"€ 19,231","€ 1,000,000","Jun 30, 2024",2-yrs,"€ 2,000,000",,F,RW,21,Japan,Real Madrid
+221,Sergio León,"€ 19,231","€ 1,000,000","Jun 30, 2024",2-yrs,"€ 2,000,000",,F,CF,33,Spain,Valladolid
+222,Iván Villar,"€ 19,038","€ 990,000","Jun 30, 2023",1-yr,"€ 990,000",,K,GK,24,Spain,Celta Vigo
+223,Aihen Muñoz,"€ 19,038","€ 990,000","Jun 30, 2024",2-yrs,"€ 1,980,000",,D,LB,24,Spain,Real Sociedad
+224,Fernando Calero,"€ 19,038","€ 990,000","Jun 30, 2024",2-yrs,"€ 1,980,000",,D,CB,26,Spain,Espanyol
+225,Pablo Maffeo,"€ 18,846","€ 980,000","Jun 30, 2026",4-yrs,"€ 3,920,000",,D,RB,24,Spain,Mallorca
+226,Chumi,"€ 18,654","€ 970,000","Jun 30, 2025",3-yrs,"€ 2,910,000",,D,CB,23,Spain,Almeria
+227,Kevin Vázquez,"€ 18,462","€ 960,000","Jun 30, 2023",1-yr,"€ 960,000",,D,RB,29,Spain,Celta Vigo
+228,Adrià Pedrosa,"€ 18,462","€ 960,000","Jun 30, 2023",1-yr,"€ 960,000",,D,LB,24,Spain,Espanyol
+229,Lucas Robertone,"€ 18,269","€ 950,000","Jun 30, 2025",3-yrs,"€ 2,850,000",,M,CM,25,Argentina,Almeria
+230,Marko Dmitrovic,"€ 18,269","€ 950,000","Jun 30, 2025",3-yrs,"€ 2,850,000",,K,GK,30,Serbia,Sevilla
+231,Sergio Herrera,"€ 18,269","€ 950,000","Jun 30, 2026",4-yrs,"€ 3,800,000",,K,GK,29,Spain,Osasuna
+232,Víctor Ruiz,"€ 17,885","€ 930,000","Jun 30, 2023",1-yr,"€ 930,000",,D,CB,33,Spain,Real Betis
+233,Santiago Arias,"€ 17,692","€ 920,000","Jun 30, 2023",1-yr,"€ 920,000",,D,RB,30,Colombia,Atletico Madrid
+234,Juanmi,"€ 17,500","€ 910,000","Jun 30, 2024",2-yrs,"€ 1,820,000",,F,LW,29,Spain,Real Betis
+235,Javi Ontiveros,"€ 17,308","€ 900,000","Jun 30, 2024",2-yrs,"€ 1,800,000",,F,LW,24,Spain,Villarreal
+236,Fran Beltrán,"€ 17,308","€ 900,000","Jun 30, 2026",4-yrs,"€ 3,600,000",,M,CM,23,Spain,Celta Vigo
+237,Víctor Camarasa,"€ 17,115","€ 890,000","Jun 30, 2023",1-yr,"€ 890,000",,M,CM,28,Spain,Real Betis
+238,Uros Racic,"€ 16,923","€ 880,000","Jun 30, 2024",2-yrs,"€ 1,760,000",,M,DM,24,Serbia,Valencia
+239,Ander Guevara,"€ 16,731","€ 870,000","Jun 30, 2024",2-yrs,"€ 1,740,000",,M,CM,24,Spain,Real Sociedad
+240,Enes Ünal,"€ 16,538","€ 860,000","Jun 30, 2025",3-yrs,"€ 2,580,000",,F,CF,25,Turkey,Getafe
+241,Nehuén Pérez,"€ 16,538","€ 860,000","Jun 30, 2026",4-yrs,"€ 3,440,000",,D,CB,22,Argentina,Atletico Madrid
+242,Ivo Grbic,"€ 16,538","€ 860,000","Jun 30, 2024",2-yrs,"€ 1,720,000",,K,GK,26,Croatia,Atletico Madrid
+243,Diego Rico,"€ 16,346","€ 850,000","Jun 30, 2023",1-yr,"€ 850,000",,D,LB,29,Spain,Real Sociedad
+244,Francisco Portillo,"€ 16,346","€ 850,000","Jun 30, 2023",1-yr,"€ 850,000",,F,RW,32,Spain,Almeria
+245,Orbelín Pineda,"€ 16,154","€ 840,000","Jun 30, 2027",5-yrs,"€ 4,200,000",,M,CM,26,Mexico,Celta Vigo
+246,Tomás Alarcón,"€ 15,962","€ 830,000","Jun 30, 2025",3-yrs,"€ 2,490,000",,M,DM,23,Chile,Cadiz
+247,Iddrisu Baba,"€ 15,769","€ 820,000","Jun 30, 2024",2-yrs,"€ 1,640,000",,M,CM,26,Ghana,Mallorca
+248,Omar Mascarell,"€ 15,769","€ 820,000","Jun 30, 2023",1-yr,"€ 820,000",,M,DM,29,Spain,Elche
+249,Loren Morón,"€ 15,577","€ 810,000","Jun 30, 2024",2-yrs,"€ 1,620,000",,F,CF,28,Spain,Real Betis
+250,Mouctar Diakhaby,"€ 15,385","€ 800,000","Jun 30, 2023",1-yr,"€ 800,000",,D,CB,25,Guinea,Valencia
+251,Álvaro García,"€ 15,385","€ 800,000","Jun 30, 2026",4-yrs,"€ 3,200,000",,F,LW,29,Spain,Rayo Vallecano
+252,Reinildo Mandava,"€ 15,385","€ 800,000","Jun 30, 2025",3-yrs,"€ 2,400,000",,D,LB,28,Mozambique,Atletico Madrid
+253,Álex Centelles,"€ 15,385","€ 800,000","Jun 30, 2026",4-yrs,"€ 3,200,000",,D,LB,22,Spain,Almeria
+254,Giovanni González,"€ 15,385","€ 800,000","Jun 30, 2024",2-yrs,"€ 1,600,000",,D,RB,27,Uruguay,Mallorca
+255,Antonio Raíllo,"€ 15,000","€ 780,000","Jun 30, 2024",2-yrs,"€ 1,560,000",,D,CB,30,Spain,Mallorca
+256,Miguel Baeza,"€ 15,000","€ 780,000","Jun 30, 2025",3-yrs,"€ 2,340,000",,F,AM,22,Spain,Celta Vigo
+257,Rubén Alcaraz,"€ 14,808","€ 770,000","Jun 30, 2024",2-yrs,"€ 1,540,000",,M,CM,31,Spain,Cadiz
+258,Darko Brasanac,"€ 14,808","€ 770,000","Jun 30, 2023",1-yr,"€ 770,000",,M,CM,30,Serbia,Osasuna
+259,Aleix Febas,"€ 14,615","€ 760,000","Jun 30, 2023",1-yr,"€ 760,000",,M,CM,26,Spain,Mallorca
+260,Giorgi Mamardashvili,"€ 14,615","€ 760,000","Jun 30, 2024",2-yrs,"€ 1,520,000",,K,GK,21,Georgia,Valencia
+261,Koba Koindredi,"€ 14,615","€ 760,000","Jun 30, 2025",3-yrs,"€ 2,280,000",,M,CM,20,Neukaledonien,Valencia
+262,Youssouf Sabaly,"€ 14,423","€ 750,000","Jun 30, 2026",4-yrs,"€ 3,000,000",,D,RB,29,Senegal,Real Betis
+263,Miguel Gutiérrez,"€ 14,423","€ 750,000","Jun 30, 2024",2-yrs,"€ 1,500,000",,D,LB,20,Spain,Real Madrid
+264,Alejandro Pozo,"€ 13,846","€ 720,000","Jun 30, 2027",5-yrs,"€ 3,600,000",,D,RB,23,Spain,Almeria
+265,Roberto Torres,"€ 13,654","€ 710,000","Jun 30, 2023",1-yr,"€ 710,000",,F,AM,33,Spain,Osasuna
+266,Martin Valjent,"€ 13,462","€ 700,000","Jun 30, 2025",3-yrs,"€ 2,100,000",,D,CB,26,Slovakia,Mallorca
+267,Víctor Sánchez,"€ 13,462","€ 700,000","Jun 30, 2023",1-yr,"€ 700,000",,M,CM,34,Spain,Girona
+268,Stole Dimitrievski,"€ 13,462","€ 700,000","Jun 30, 2024",2-yrs,"€ 1,400,000",,K,GK,28,North Macedonia,Rayo Vallecano
+269,Andoni Gorosabel,"€ 13,462","€ 700,000","Jun 30, 2024",2-yrs,"€ 1,400,000",,D,RB,25,Spain,Real Sociedad
+270,Rubén Sobrino,"€ 13,462","€ 700,000","Jun 30, 2024",2-yrs,"€ 1,400,000",,F,CF,30,Spain,Cadiz
+271,Keidi Bare,"€ 13,462","€ 700,000","Jun 30, 2024",2-yrs,"€ 1,400,000",,M,CM,24,Albania,Espanyol
+272,Matías Vargas,"€ 13,269","€ 690,000","Jun 30, 2024",2-yrs,"€ 1,380,000",,F,LW,25,Argentina,Espanyol
+273,Unai García,"€ 13,077","€ 680,000","Jun 30, 2023",1-yr,"€ 680,000",,D,CB,30,Spain,Osasuna
+274,Álex Moreno,"€ 13,077","€ 680,000","Jun 30, 2025",3-yrs,"€ 2,040,000",,D,LB,29,Spain,Real Betis
+275,Jawad El Yamiq,"€ 12,885","€ 670,000","Jun 30, 2024",2-yrs,"€ 1,340,000",,D,CB,30,Morocco,Valladolid
+276,Jakub Jankto,"€ 12,885","€ 670,000","Jun 30, 2026",4-yrs,"€ 2,680,000",,M,LM,26,Czech Republic,Getafe
+277,Adrián Embarba,"€ 12,692","€ 660,000","Jun 30, 2024",2-yrs,"€ 1,320,000",,F,RW,30,Spain,Espanyol
+278,Iñigo Ruiz de Galarreta,"€ 12,692","€ 660,000","Jun 30, 2023",1-yr,"€ 660,000",,M,CM,28,Spain,Mallorca
+279,José Ángel,"€ 12,500","€ 650,000","Jun 30, 2023",1-yr,"€ 650,000",,D,LB,32,Spain,Osasuna
+280,Franco Russo,"€ 12,500","€ 650,000","Jun 30, 2024",2-yrs,"€ 1,300,000",,D,CB,27,Argentina,Mallorca
+281,Édgar Badía,"€ 12,500","€ 650,000","Jun 30, 2023",1-yr,"€ 650,000",,K,GK,30,Spain,Elche
+282,Sergi Gómez,"€ 12,500","€ 650,000","Jun 30, 2024",2-yrs,"€ 1,300,000",,D,CB,30,Spain,Espanyol
+283,Juan Pérez,"€ 12,500","€ 650,000","Jun 30, 2024",2-yrs,"€ 1,300,000",,K,GK,25,Spain,Osasuna
+284,Kike García,"€ 12,308","€ 640,000","Jun 30, 2024",2-yrs,"€ 1,280,000",,F,CF,32,Spain,Osasuna
+285,Ante Budimir,"€ 12,115","€ 630,000","Jun 30, 2025",3-yrs,"€ 1,890,000",,F,CF,30,Croatia,Osasuna
+286,Carles Aleñá,"€ 12,115","€ 630,000","Jun 30, 2026",4-yrs,"€ 2,520,000",,M,CM,24,Spain,Getafe
+287,Fidel,"€ 11,923","€ 620,000","Jun 30, 2024",2-yrs,"€ 1,240,000",,F,LW,32,Spain,Elche
+288,Álvaro Vadillo,"€ 11,923","€ 620,000","Jun 30, 2024",2-yrs,"€ 1,240,000",,F,LW,27,Spain,Espanyol
+289,Juan Cruz,"€ 11,923","€ 620,000","Jun 30, 2024",2-yrs,"€ 1,240,000",,D,LB,29,Spain,Osasuna
+290,Iñigo Eguaras,"€ 11,923","€ 620,000","Jun 30, 2024",2-yrs,"€ 1,240,000",,M,DM,30,Spain,Almeria
+291,Choco Lozano,"€ 11,923","€ 620,000","Jun 30, 2023",1-yr,"€ 620,000",,F,CF,29,Honduras,Cadiz
+292,Esteban Saveljich,"€ 11,923","€ 620,000","Jun 30, 2023",1-yr,"€ 620,000",,D,CB,31,Montenegro,Rayo Vallecano
+293,Damián Suárez,"€ 11,923","€ 620,000","Jun 30, 2023",1-yr,"€ 620,000",,D,RB,34,Uruguay,Getafe
+294,David García,"€ 11,923","€ 620,000","Jun 30, 2026",4-yrs,"€ 2,480,000",,D,CB,28,Spain,Osasuna
+295,Aridane Hernández,"€ 11,731","€ 610,000","Jun 30, 2023",1-yr,"€ 610,000",,D,CB,33,Spain,Osasuna
+296,Mikel Vesga,"€ 11,538","€ 600,000","Jun 30, 2024",2-yrs,"€ 1,200,000",,M,DM,29,Spain,Athletic Club
+297,Johan Mojica,"€ 11,538","€ 600,000","Jun 30, 2024",2-yrs,"€ 1,200,000",,D,LB,29,Colombia,Elche
+298,Curro Sánchez,"€ 11,538","€ 600,000","Jun 30, 2024",2-yrs,"€ 1,200,000",,F,RW,26,Spain,Almeria
+299,Nico González,"€ 11,538","€ 600,000","Jun 30, 2024",2-yrs,"€ 1,200,000",,M,CM,20,Spain,Barcelona
+300,Unai López,"€ 11,346","€ 590,000","Jun 30, 2024",2-yrs,"€ 1,180,000",,M,CM,26,Spain,Rayo Vallecano
+301,Julen Agirrezabala,"€ 11,154","€ 580,000","Jun 30, 2025",3-yrs,"€ 1,740,000",,K,GK,21,Spain,Athletic Club
+302,Toni Villa,"€ 11,154","€ 580,000","Jun 30, 2023",1-yr,"€ 580,000",,F,LW,27,Spain,Valladolid
+303,Mario Suárez,"€ 10,962","€ 570,000","Jun 30, 2023",1-yr,"€ 570,000",,D,CB,35,Spain,Rayo Vallecano
+304,Reinier,"€ 10,962","€ 570,000","Jun 30, 2026",4-yrs,"€ 2,280,000",,F,AM,20,Brazil,Real Madrid
+305,Jorge Pombo,"€ 10,962","€ 570,000","Jun 30, 2023",1-yr,"€ 570,000",,F,AM,28,Spain,Cadiz
+306,Fede San Emeterio,"€ 10,577","€ 550,000","Jun 30, 2023",1-yr,"€ 550,000",,M,CM,25,Spain,Valladolid
+307,Santi Comesaña,"€ 10,000","€ 520,000","Jun 30, 2023",1-yr,"€ 520,000",,M,CM,25,Spain,Rayo Vallecano
+308,Óscar Gil,"€ 10,000","€ 520,000","Jun 30, 2024",2-yrs,"€ 1,040,000",,D,RB,24,Spain,Espanyol
+309,Paul Akouokou,"€ 9,808","€ 510,000","Jun 30, 2024",2-yrs,"€ 1,020,000",,M,DM,24,Cote d'Ivoire,Real Betis
+310,Martín Merquelanz,"€ 9,615","€ 500,000","Jun 30, 2025",3-yrs,"€ 1,500,000",,F,LW,27,Spain,Real Sociedad
+311,Álex Baena,"€ 9,615","€ 500,000","Jun 30, 2025",3-yrs,"€ 1,500,000",,F,LW,20,Spain,Villarreal
+312,Juanjo Nieto,"€ 9,615","€ 500,000","Jun 30, 2023",1-yr,"€ 500,000",,D,RB,27,Spain,Almeria
+313,Alfonso Espino,"€ 9,615","€ 500,000","Jun 30, 2023",1-yr,"€ 500,000",,D,LB,30,Uruguay,Cadiz
+314,Fali,"€ 9,615","€ 500,000","Jun 30, 2024",2-yrs,"€ 1,000,000",,D,CB,28,Spain,Cadiz
+315,Mathew Ryan,"€ 9,615","€ 500,000","Jun 30, 2023",1-yr,"€ 500,000",,K,GK,30,Australia,Real Sociedad
+316,Jon Moncayola,"€ 9,615","€ 500,000","Jun 30, 2031",9-yrs,"€ 4,500,000",,M,CM,24,Spain,Osasuna
+317,Braian Cufré,"€ 9,615","€ 500,000","Jun 30, 2024",2-yrs,"€ 1,000,000",,D,LB,25,Argentina,Mallorca
+318,Raúl Carnero,"€ 9,615","€ 500,000","Jun 30, 2023",1-yr,"€ 500,000",,D,LB,33,Spain,Valladolid
+319,Javi Puado,"€ 9,615","€ 500,000","Jun 30, 2025",3-yrs,"€ 1,500,000",,F,LW,24,Spain,Espanyol
+320,Óscar Plano,"€ 9,423","€ 490,000","Jun 30, 2023",1-yr,"€ 490,000",,F,RW,31,Spain,Valladolid
+321,Jon Bautista,"€ 9,423","€ 490,000","Jun 30, 2023",1-yr,"€ 490,000",,F,CF,27,Spain,Real Sociedad
+322,Álex Fernández,"€ 9,423","€ 490,000","Jun 30, 2025",3-yrs,"€ 1,470,000",,F,AM,29,Spain,Cadiz
+323,Jordi Masip,"€ 9,231","€ 480,000","Jun 30, 2024",2-yrs,"€ 960,000",,K,GK,33,Spain,Valladolid
+324,Aleksandar Sedlar,"€ 9,231","€ 480,000","Jun 30, 2023",1-yr,"€ 480,000",,D,CB,30,Serbia,Mallorca
+325,Iza Carcelén,"€ 9,231","€ 480,000","Jun 30, 2023",1-yr,"€ 480,000",,D,RB,29,Spain,Cadiz
+326,Erick Cabaco,"€ 9,038","€ 470,000","Jun 30, 2024",2-yrs,"€ 940,000",,D,CB,27,Uruguay,Getafe
+327,Iván Alejo,"€ 9,038","€ 470,000","Jun 30, 2025",3-yrs,"€ 1,410,000",,F,RW,27,Spain,Cadiz
+328,Raúl Guti,"€ 9,038","€ 470,000","Jun 30, 2025",3-yrs,"€ 1,410,000",,M,CM,25,Spain,Elche
+329,Víctor Mollejo,"€ 8,846","€ 460,000","Jun 30, 2024",2-yrs,"€ 920,000",,F,RW,21,Spain,Atletico Madrid
+330,Nico Melamed,"€ 8,846","€ 460,000","Jun 30, 2024",2-yrs,"€ 920,000",,F,LW,21,Spain,Espanyol
+331,Kike Barja,"€ 8,846","€ 460,000","Jun 30, 2026",4-yrs,"€ 1,840,000",,F,RW,25,Spain,Osasuna
+332,Lago Júnior,"€ 8,654","€ 450,000","Jun 30, 2023",1-yr,"€ 450,000",,F,LW,31,Cote d'Ivoire,Mallorca
+333,Carlos Akapo,"€ 8,654","€ 450,000","Jun 30, 2023",1-yr,"€ 450,000",,D,RB,29,Equatorial Guinea,Cadiz
+334,Lucas Torró,"€ 8,654","€ 450,000","Jun 30, 2027",5-yrs,"€ 2,250,000",,M,DM,27,Spain,Osasuna
+335,Alejandro Catena,"€ 8,462","€ 440,000","Jun 30, 2023",1-yr,"€ 440,000",,D,CB,27,Spain,Rayo Vallecano
+336,Peru Nolaskoain,"€ 8,462","€ 440,000","Jun 30, 2024",2-yrs,"€ 880,000",,M,DM,23,Spain,Athletic Club
+337,Modibo Sagnan,"€ 8,462","€ 440,000","Jun 30, 2024",2-yrs,"€ 880,000",,D,CB,23,France,Real Sociedad
+338,Dani Rodríguez,"€ 8,462","€ 440,000","Jun 30, 2024",2-yrs,"€ 880,000",,F,AM,34,Spain,Mallorca
+339,Manu Sánchez,"€ 8,462","€ 440,000","Jun 30, 2025",3-yrs,"€ 1,320,000",,D,LB,21,Spain,Atletico Madrid
+340,Aitor Ruibal,"€ 8,462","€ 440,000","Jun 30, 2025",3-yrs,"€ 1,320,000",,F,RW,26,Spain,Real Betis
+341,Chema,"€ 8,462","€ 440,000","Jun 30, 2023",1-yr,"€ 440,000",,D,CB,30,Spain,Getafe
+342,Jon Pacheco,"€ 8,269","€ 430,000","Jun 30, 2027",5-yrs,"€ 2,150,000",,D,CB,21,Spain,Real Sociedad
+343,Juan Berrocal,"€ 8,269","€ 430,000","Jun 30, 2023",1-yr,"€ 430,000",,D,CB,23,Spain,Sevilla
+344,Iñaki Peña,"€ 8,077","€ 420,000","Jun 30, 2023",1-yr,"€ 420,000",,K,GK,23,Spain,Barcelona
+345,Kike Pérez,"€ 8,077","€ 420,000","Jun 30, 2025",3-yrs,"€ 1,260,000",,M,CM,25,Spain,Valladolid
+346,Álvaro Giménez,"€ 8,077","€ 420,000","Jun 30, 2023",1-yr,"€ 420,000",,F,CF,31,Spain,Cadiz
+347,Amath Ndiaye,"€ 8,077","€ 420,000","Jun 30, 2025",3-yrs,"€ 1,260,000",,F,LW,25,Senegal,Mallorca
+348,José Mari,"€ 7,885","€ 410,000","Jun 30, 2024",2-yrs,"€ 820,000",,M,DM,34,Spain,Cadiz
+349,Nano Mesa,"€ 7,692","€ 400,000","Jun 30, 2024",2-yrs,"€ 800,000",,F,CF,27,Spain,Cadiz
+350,Luis Pérez,"€ 7,692","€ 400,000","Jun 30, 2023",1-yr,"€ 400,000",,D,RB,27,Spain,Valladolid
+351,Diego Lainez,"€ 7,692","€ 400,000","Jun 30, 2024",2-yrs,"€ 800,000",,F,RW,22,Mexico,Real Betis
+352,Rodri,"€ 7,692","€ 400,000","Jun 30, 2026",4-yrs,"€ 1,600,000",,F,AM,22,Spain,Real Betis
+353,Jesús Areso,"€ 7,692","€ 400,000","Jun 30, 2026",4-yrs,"€ 1,600,000",,D,RB,23,Spain,Osasuna
+354,Sergi Guardiola,"€ 7,500","€ 390,000","Jun 30, 2023",1-yr,"€ 390,000",,F,CF,31,Spain,Valladolid
+355,Antonio Sánchez,"€ 7,500","€ 390,000","Jun 30, 2024",2-yrs,"€ 780,000",,M,CM,25,Spain,Mallorca
+356,Iván Martos,"€ 7,500","€ 390,000","Jun 30, 2024",2-yrs,"€ 780,000",,D,CB,25,Spain,Almeria
+357,Jon Ander Garrido,"€ 7,500","€ 390,000","Jun 30, 2023",1-yr,"€ 390,000",,M,DM,32,Spain,Cadiz
+358,Jordi Mboula,"€ 7,308","€ 380,000","Jun 30, 2024",2-yrs,"€ 760,000",,F,RW,23,Spain,Mallorca
+359,César de la Hoz,"€ 7,308","€ 380,000","Jun 30, 2023",1-yr,"€ 380,000",,M,CM,30,Spain,Almeria
+360,Juan Carlos,"€ 7,115","€ 370,000","Jun 30, 2023",1-yr,"€ 370,000",,K,GK,34,Spain,Girona
+361,Juan Villar,"€ 6,923","€ 360,000","Jun 30, 2023",1-yr,"€ 360,000",,F,RW,34,Spain,Almeria
+362,Juan Miranda,"€ 6,923","€ 360,000","Jun 30, 2024",2-yrs,"€ 720,000",,D,LB,22,Spain,Real Betis
+363,Rober Ibáñez,"€ 6,731","€ 350,000","Jun 30, 2023",1-yr,"€ 350,000",,F,RW,29,Spain,Osasuna
+364,Dani Martín,"€ 6,731","€ 350,000","Jun 30, 2024",2-yrs,"€ 700,000",,K,GK,23,Spain,Real Betis
+365,Óscar Trejo,"€ 6,731","€ 350,000","Jun 30, 2023",1-yr,"€ 350,000",,F,AM,34,Argentina,Rayo Vallecano
+366,Miguelón,"€ 6,731","€ 350,000","Jun 30, 2024",2-yrs,"€ 700,000",,D,RB,26,Spain,Espanyol
+367,Pere Milla,"€ 6,538","€ 340,000","Jun 30, 2025",3-yrs,"€ 1,020,000",,F,LW,29,Spain,Elche
+368,Pathé Ciss,"€ 6,538","€ 340,000","Jun 30, 2025",3-yrs,"€ 1,020,000",,M,CM,28,Senegal,Rayo Vallecano
+369,Ángel Rodríguez,"€ 6,538","€ 340,000","Jun 30, 2023",1-yr,"€ 340,000",,F,CF,35,Spain,Mallorca
+370,David Gil,"€ 6,346","€ 330,000","Jun 30, 2023",1-yr,"€ 330,000",,K,GK,28,Spain,Cadiz
+371,Iván Balliu,"€ 6,346","€ 330,000","Jun 30, 2023",1-yr,"€ 330,000",,D,RB,30,Albania,Rayo Vallecano
+372,Jaume Costa,"€ 6,346","€ 330,000","Jun 30, 2023",1-yr,"€ 330,000",,D,LB,34,Spain,Mallorca
+373,Varazdat Haroyan,"€ 6,154","€ 320,000","Jun 30, 2023",1-yr,"€ 320,000",,D,CB,29,Armenia,Cadiz
+374,Lucas Boyé,"€ 6,154","€ 320,000","Jun 30, 2024",2-yrs,"€ 640,000",,F,CF,26,Argentina,Elche
+375,Álex Petxa,"€ 6,154","€ 320,000","Jun 30, 2024",2-yrs,"€ 640,000",,D,RB,25,Spain,Athletic Club
+376,Álvaro Jiménez,"€ 6,154","€ 320,000","Jun 30, 2025",3-yrs,"€ 960,000",,F,RW,27,Spain,Cadiz
+377,Waldo Rubio,"€ 5,962","€ 310,000","Jun 30, 2023",1-yr,"€ 310,000",,F,LW,26,Spain,Valladolid
+378,Borja García,"€ 5,962","€ 310,000","Jun 30, 2023",1-yr,"€ 310,000",,F,AM,31,Spain,Girona
+379,Joaquín Fernández,"€ 5,962","€ 310,000","Jun 30, 2023",1-yr,"€ 310,000",,D,CB,26,Spain,Valladolid
+380,Beñat Turrientes,"€ 5,962","€ 310,000","Jun 30, 2027",5-yrs,"€ 1,550,000",,M,CM,20,Spain,Real Sociedad
+381,Iván Romero,"€ 5,962","€ 310,000","Jun 30, 2024",2-yrs,"€ 620,000",,F,CF,21,Spain,Sevilla
+382,Ander Barrenetxea,"€ 5,962","€ 310,000","Jun 30, 2027",5-yrs,"€ 1,550,000",,F,LW,20,Spain,Real Sociedad
+383,Nico Serrano,"€ 5,962","€ 310,000","Jun 30, 2024",2-yrs,"€ 620,000",,F,LW,19,Spain,Athletic Club
+384,Nikola Maras,"€ 5,769","€ 300,000","Jun 30, 2024",2-yrs,"€ 600,000",,D,CB,26,Serbia,Almeria
+385,Monchu,"€ 5,769","€ 300,000","Jun 30, 2026",4-yrs,"€ 1,200,000",,M,CM,22,Spain,Valladolid
+386,Dominik Greif,"€ 5,769","€ 300,000","Jun 30, 2026",4-yrs,"€ 1,200,000",,K,GK,25,Slovakia,Mallorca
+387,Carlos Domínguez,"€ 5,769","€ 300,000","Jun 30, 2026",4-yrs,"€ 1,200,000",,D,CB,21,Spain,Celta Vigo
+388,Tete Morente,"€ 5,577","€ 290,000","Jun 30, 2024",2-yrs,"€ 580,000",,F,LW,25,Spain,Elche
+389,Juanpe,"€ 5,577","€ 290,000","Jun 30, 2023",1-yr,"€ 290,000",,D,CB,31,Spain,Girona
+390,Cristhian Stuani,"€ 5,577","€ 290,000","Jun 30, 2026",4-yrs,"€ 1,160,000",,F,CF,35,Uruguay,Girona
+391,Shon Weissman,"€ 5,577","€ 290,000","Jun 30, 2024",2-yrs,"€ 580,000",,F,CF,26,Israel,Valladolid
+392,Alberto Perea,"€ 5,577","€ 290,000","Jun 30, 2023",1-yr,"€ 290,000",,F,LW,31,Spain,Cadiz
+393,Borja Garcés,"€ 5,577","€ 290,000","Jun 30, 2024",2-yrs,"€ 580,000",,F,CF,22,Spain,Atletico Madrid
+394,Bebé,"€ 5,385","€ 280,000","Jun 30, 2025",3-yrs,"€ 840,000",,F,LW,31,Cape Verde,Rayo Vallecano
+395,Renato Tapia,"€ 5,000","€ 260,000","Jun 30, 2024",2-yrs,"€ 520,000",,M,DM,26,Peru,Celta Vigo
+396,Stefan Mitrovic,"€ 4,808","€ 250,000","Jun 30, 2024",2-yrs,"€ 500,000",,D,CB,32,Serbia,Getafe
+397,Kang-in Lee,"€ 4,808","€ 250,000","Jun 30, 2025",3-yrs,"€ 750,000",,F,AM,21,South Korea,Mallorca
+398,Marc Cardona,"€ 4,808","€ 250,000","Jun 30, 2023",1-yr,"€ 250,000",,F,CF,26,Spain,Osasuna
+399,Bernardo Espinosa,"€ 4,808","€ 250,000","Jun 30, 2023",1-yr,"€ 250,000",,D,CB,32,Colombia,Girona
+400,Álex Gallar,"€ 4,808","€ 250,000","Jun 30, 2023",1-yr,"€ 250,000",,F,LW,30,Spain,Girona
+401,Edgar González,"€ 4,808","€ 250,000","Jun 30, 2025",3-yrs,"€ 750,000",,D,CB,25,Spain,Real Betis
+402,Fernando Martínez,"€ 4,615","€ 240,000","Jun 30, 2023",1-yr,"€ 240,000",,K,GK,32,Spain,Almeria
+403,Unai Vencedor,"€ 4,615","€ 240,000","Jun 30, 2027",5-yrs,"€ 1,200,000",,M,CM,21,Spain,Athletic Club
+404,Óscar Valentín,"€ 4,423","€ 230,000","Jun 30, 2025",3-yrs,"€ 690,000",,M,CM,27,Spain,Rayo Vallecano
+405,Abdón Prats,"€ 4,423","€ 230,000","Jun 30, 2024",2-yrs,"€ 460,000",,F,CF,29,Spain,Mallorca
+406,Randy Nteka,"€ 4,423","€ 230,000","Jun 30, 2026",4-yrs,"€ 920,000",,F,AM,24,France,Rayo Vallecano
+407,Sergio Camello,"€ 4,231","€ 220,000","Jun 30, 2024",2-yrs,"€ 440,000",,F,CF,21,Spain,Atletico Madrid
+408,Fer Niño,"€ 4,231","€ 220,000","Jun 30, 2024",2-yrs,"€ 440,000",,F,CF,21,Spain,Villarreal
+409,Aleix Vidal,"€ 4,231","€ 220,000","Jun 30, 2023",1-yr,"€ 220,000",,D,RB,32,Spain,Espanyol
+410,Gerard Gumbau,"€ 4,038","€ 210,000","Jun 30, 2023",1-yr,"€ 210,000",,M,DM,27,Spain,Elche
+411,Gavi,"€ 4,038","€ 210,000","Jun 30, 2023",1-yr,"€ 210,000",,M,CM,17,Spain,Barcelona
+412,Álex Alegría,"€ 4,038","€ 210,000","Jun 30, 2024",2-yrs,"€ 420,000",,F,CF,29,Spain,Mallorca
+413,Pedro Bigas,"€ 4,038","€ 210,000","Jun 30, 2023",1-yr,"€ 210,000",,D,CB,32,Spain,Elche
+414,Hugo Vallejo,"€ 3,846","€ 200,000","Jun 30, 2024",2-yrs,"€ 400,000",,F,LW,22,Spain,Valladolid
+415,Julen Lobete,"€ 3,846","€ 200,000","Jun 30, 2023",1-yr,"€ 200,000",,F,CF,21,Spain,Real Sociedad
+416,Santiago Arzamendia,"€ 3,846","€ 200,000","Jun 30, 2025",3-yrs,"€ 600,000",,D,LB,24,Paraguay,Cadiz
+417,Jonathan Silva,"€ 3,846","€ 200,000","Jun 30, 2025",3-yrs,"€ 600,000",,D,LB,28,Argentina,Getafe
+418,Joan García,"€ 3,846","€ 200,000","Jun 30, 2025",3-yrs,"€ 600,000",,K,GK,21,Spain,Espanyol
+419,Marcos Paulo,"€ 3,654","€ 190,000","Jun 30, 2026",4-yrs,"€ 760,000",,F,LW,21,Portugal,Atletico Madrid
+420,Ez Abde,"€ 3,462","€ 180,000","Jun 30, 2024",2-yrs,"€ 360,000",,F,LW,20,Morocco,Barcelona
+421,Ibrahima Kébé,"€ 3,462","€ 180,000","Jun 30, 2024",2-yrs,"€ 360,000",,M,DM,21,Mali,Girona
+422,Umar Sadiq,"€ 3,462","€ 180,000","Jun 30, 2025",3-yrs,"€ 540,000",,F,CF,25,Nigeria,Almeria
+423,Josema,"€ 3,462","€ 180,000","Jun 30, 2023",1-yr,"€ 180,000",,D,CB,26,Spain,Elche
+424,Samú Costa,"€ 3,462","€ 180,000","Jun 30, 2026",4-yrs,"€ 720,000",,M,DM,21,Portugal,Almeria
+425,Rubén Yáñez,"€ 3,462","€ 180,000","Jun 30, 2023",1-yr,"€ 180,000",,K,GK,28,Spain,Getafe
+426,Fran García,"€ 3,269","€ 170,000","Jun 30, 2025",3-yrs,"€ 510,000",,D,LB,22,Spain,Rayo Vallecano
+427,Sekou Gassama,"€ 3,269","€ 170,000","Jun 30, 2024",2-yrs,"€ 340,000",,F,CF,27,Senegal,Valladolid
+428,Isi Palazón,"€ 3,269","€ 170,000","Jun 30, 2025",3-yrs,"€ 510,000",,F,RW,27,Spain,Rayo Vallecano
+429,Sergio Akieme,"€ 3,269","€ 170,000","Jun 30, 2026",4-yrs,"€ 680,000",,D,LB,24,Equatorial Guinea,Almeria
+430,Javi Sánchez,"€ 3,077","€ 160,000","Jun 30, 2024",2-yrs,"€ 320,000",,D,CB,25,Spain,Valladolid
+431,Arnau Martínez,"€ 3,077","€ 160,000","Jun 30, 2025",3-yrs,"€ 480,000",,D,RB,19,Spain,Girona
+432,Javi Martínez,"€ 3,077","€ 160,000","Jun 30, 2026",4-yrs,"€ 640,000",,F,AM,22,Spain,Osasuna
+433,Andrés Martín,"€ 3,077","€ 160,000","Jun 30, 2024",2-yrs,"€ 320,000",,F,CF,22,Spain,Rayo Vallecano
+434,Martín Calderón,"€ 3,077","€ 160,000","Jun 30, 2024",2-yrs,"€ 320,000",,M,CM,23,Spain,Cadiz
+435,Mario Hernández,"€ 3,077","€ 160,000","Jun 30, 2023",1-yr,"€ 160,000",,D,RB,23,Spain,Rayo Vallecano
+436,José Carlos Lazo,"€ 3,077","€ 160,000","Jun 30, 2027",5-yrs,"€ 800,000",,F,LW,26,Spain,Almeria
+437,Álex Balde,"€ 3,077","€ 160,000","Jun 30, 2024",2-yrs,"€ 320,000",,D,LB,18,Spain,Barcelona
+438,Luis Hernández,"€ 2,981","€ 155,000","Jun 30, 2023",1-yr,"€ 155,000",,D,CB,33,Spain,Cadiz
+439,Josan,"€ 2,981","€ 155,000","Jun 30, 2023",1-yr,"€ 155,000",,F,RW,32,Spain,Elche
+440,Adrián Ortolá,"€ 2,981","€ 155,000","Jun 30, 2023",1-yr,"€ 155,000",,K,GK,28,Spain,Girona
+441,Juan Iglesias,"€ 2,981","€ 155,000","Jun 30, 2026",4-yrs,"€ 620,000",,D,RB,24,Spain,Getafe
+442,Jordi Calavera,"€ 2,981","€ 155,000","Jun 30, 2023",1-yr,"€ 155,000",,D,RB,26,Spain,Girona
+443,Aleix García,"€ 2,981","€ 155,000","Jun 30, 2023",1-yr,"€ 155,000",,M,CM,25,Spain,Girona
+444,Ivan Chapela,"€ 2,981","€ 155,000","Jun 30, 2024",2-yrs,"€ 310,000",,F,LW,23,Spain,Cadiz
+445,Matthew Hoppe,"€ 2,981","€ 155,000","Jun 30, 2025",3-yrs,"€ 465,000",,F,CF,21,United States,Mallorca
+446,Rui Silva,"€ 2,981","€ 155,000","Jun 30, 2026",4-yrs,"€ 620,000",,K,GK,28,Portugal,Real Betis
+447,Miguel Ángel Morro,"€ 2,981","€ 155,000","Jun 30, 2023",1-yr,"€ 155,000",,K,GK,21,Spain,Rayo Vallecano
+448,Rober González,"€ 2,981","€ 155,000","Jun 30, 2024",2-yrs,"€ 310,000",,F,RW,21,Spain,Real Betis
+449,Joni Montiel,"€ 2,981","€ 155,000","Jun 30, 2024",2-yrs,"€ 310,000",,F,AM,23,Spain,Rayo Vallecano
+450,Miguel Rubio,"€ 2,981","€ 155,000","Jun 30, 2023",1-yr,"€ 155,000",,D,CB,24,Spain,Getafe
+451,Álvaro Aguado,"€ 2,981","€ 155,000","Jun 30, 2023",1-yr,"€ 155,000",,M,CM,26,Spain,Valladolid
+452,Samu Saiz,"€ 2,981","€ 155,000","Jun 30, 2023",1-yr,"€ 155,000",,F,LW,31,Spain,Girona
+453,Valery Fernández,"€ 2,981","€ 155,000","Jun 30, 2023",1-yr,"€ 155,000",,F,RW,22,Spain,Girona
+454,Kike Saverio,"€ 2,981","€ 155,000","Jun 30, 2023",1-yr,"€ 155,000",,F,LW,23,Ecuador,Osasuna
+455,Santiago Bueno,"€ 2,981","€ 155,000","Jun 30, 2024",2-yrs,"€ 310,000",,D,CB,23,Uruguay,Girona
+456,Gonzalo Verdú,"€ 2,981","€ 155,000","Jun 30, 2023",1-yr,"€ 155,000",,D,CB,33,Spain,Elche
+457,Näis Djouahra,"€ 2,981","€ 155,000","Jun 30, 2023",1-yr,"€ 155,000",,F,LW,22,France,Real Sociedad
+458,Barbero,"€ 2,981","€ 155,000","Jun 30, 2023",1-yr,"€ 155,000",,F,CF,23,Spain,Osasuna
+459,Juan Camilo Becerra,"€ 2,981","€ 155,000","Jun 30, 2023",1-yr,"€ 155,000",,F,CF,24,Spain,Espanyol
+460,Helibelton Palacios,"€ 2,981","€ 155,000","Jun 30, 2023",1-yr,"€ 155,000",,D,RB,29,Colombia,Elche
+461,Largie Ramazani,"€ 2,981","€ 155,000","Jun 30, 2025",3-yrs,"€ 465,000",,F,LW,21,Belgium,Almeria
+462,Ramón Terrats,"€ 2,981","€ 155,000","Jun 30, 2024",2-yrs,"€ 310,000",,M,DM,21,Spain,Girona
+463,Diego Conde,"€ 2,981","€ 155,000","Jun 30, 2024",2-yrs,"€ 310,000",,K,GK,23,Spain,Getafe
+464,Lass Bangoura,"€ 2,981","€ 155,000","Jun 30, 2023",1-yr,"€ 155,000",,F,RW,30,Guinea,Rayo Vallecano
+465,Javi Robles,"€ 2,981","€ 155,000","Jun 30, 2023",1-yr,"€ 155,000",,M,CM,21,Spain,Almeria
+466,Imanol García de Albéniz,"€ 2,981","€ 155,000","Jun 30, 2025",3-yrs,"€ 465,000",,D,LB,22,Spain,Athletic Club
+467,Diego González,"€ 2,981","€ 155,000","Jun 30, 2024",2-yrs,"€ 310,000",,D,CB,27,Spain,Elche
+468,Leo Román,"€ 2,981","€ 155,000","Jun 30, 2024",2-yrs,"€ 310,000",,K,GK,21,Spain,Mallorca
+469,Sergio Carreira,"€ 2,981","€ 155,000","Jun 30, 2025",3-yrs,"€ 465,000",,D,RB,21,Spain,Celta Vigo
+470,Srdjan Babic,"€ 2,981","€ 155,000","Jun 30, 2026",4-yrs,"€ 620,000",,D,CB,26,Serbia,Almeria
+471,Arnau Puigmal,"€ 2,981","€ 155,000","Jun 30, 2026",4-yrs,"€ 620,000",,M,CM,21,Spain,Almeria
+472,Sergio Moreno,"€ 2,981","€ 155,000","Jun 30, 2023",1-yr,"€ 155,000",,F,CF,23,Spain,Rayo Vallecano
+473,Enzo Roco,"€ 2,981","€ 155,000","Jun 30, 2023",1-yr,"€ 155,000",,D,CB,29,Chile,Elche
+474,Arvin Appiah,"€ 2,981","€ 155,000","Jun 30, 2024",2-yrs,"€ 310,000",,F,RW,21,England,Almeria
+475,José Antonio Caro,"€ 2,981","€ 155,000","Jun 30, 2023",1-yr,"€ 155,000",,K,GK,28,Spain,Valladolid
+476,Jaime Seoane,€ 0,€ 0,"Jun 30, 2025",3-yrs,€ 0,,M,CM,25,Spain,Getafe
+477,José Pozo,€ 0,€ 0,"Jun 30, 2024",2-yrs,€ 0,,F,AM,26,Spain,Rayo Vallecano
+478,José Luis Morales,€ 0,€ 0,"Jun 30, 2024",2-yrs,€ 0,,F,CF,34,Spain,Villarreal
+479,Joselu,€ 0,€ 0,"Jun 30, 2025",3-yrs,€ 0,,F,CF,32,Spain,Espanyol
+480,José Copete,€ 0,€ 0,"Jun 30, 2026",4-yrs,€ 0,,D,CB,22,Spain,Mallorca
+481,Luiz Henrique,€ 0,€ 0,"Jun 30, 2028",6-yrs,€ 0,,F,RW,21,Brazil,Real Betis
+482,Cristian Olivera,€ 0,€ 0,"Jun 30, 2025",3-yrs,€ 0,,F,RW,20,Uruguay,Almeria
+483,Cristhian Mosquera,€ 0,€ 0,"Jun 30, 2025",3-yrs,€ 0,,D,CB,18,Spain,Valencia
+484,Clément Grenier,€ 0,€ 0,"Jun 30, 2024",2-yrs,€ 0,,M,CM,31,France,Mallorca
+485,Martín Pascual,€ 0,€ 0,"Jun 30, 2023",1-yr,€ 0,,D,CB,22,Spain,Rayo Vallecano
+486,Jordi Escobar,€ 0,€ 0,"Jun 30, 2024",2-yrs,€ 0,,F,CF,20,Spain,Almeria
+487,Brian Oliván,€ 0,€ 0,"Jun 30, 2025",3-yrs,€ 0,,D,LB,28,Spain,Espanyol
+488,Borja Mayoral,€ 0,€ 0,"Jun 30, 2027",5-yrs,€ 0,,F,CF,25,Spain,Getafe
+489,Milutin Osmajic,€ 0,€ 0,"Jun 30, 2024",2-yrs,€ 0,,F,CF,22,Montenegro,Cadiz
+490,Jonathan Dubasin,€ 0,€ 0,"Jun 30, 2023",1-yr,€ 0,,F,LW,22,Spain,Girona
+491,Mohamed-Ali Cho,€ 0,€ 0,"Jun 30, 2027",5-yrs,€ 0,,F,CF,18,France,Real Sociedad
+492,Moha Moukhliss,€ 0,€ 0,"Jun 30, 2024",2-yrs,€ 0,,M,CM,22,Spain,Valladolid
+493,Jonathan,€ 0,€ 0,"Jun 30, 2024",2-yrs,€ 0,,D,LB,24,Brazil,Almeria
+494,Nahuel Molina,€ 0,€ 0,"Jun 30, 2027",5-yrs,€ 0,,D,RB,24,Argentina,Atletico Madrid
+495,Axel Werner,€ 0,€ 0,"Jun 30, 2023",1-yr,€ 0,,K,GK,26,Argentina,Elche
+496,Diego Alende,€ 0,€ 0,"Jun 30, 2023",1-yr,€ 0,,D,CB,24,Spain,Valladolid
+497,Awer Mabil,€ 0,€ 0,"Jun 30, 2026",4-yrs,€ 0,,F,LW,26,Australia,Cadiz
+498,Jesús Vázquez,€ 0,€ 0,"Jun 30, 2025",3-yrs,€ 0,,D,LB,19,Spain,Valencia
+499,Óscar Mingueza,€ 0,€ 0,"Jun 30, 2026",4-yrs,€ 0,,D,CB,23,Spain,Celta Vigo
+500,Pablo Ibáñez,€ 0,€ 0,"Jun 30, 2024",2-yrs,€ 0,,M,CM,23,Spain,Osasuna
+501,Arnau Tenas,€ 0,€ 0,"Jun 30, 2023",1-yr,€ 0,,K,GK,21,Spain,Barcelona
+502,Paulo Vitor,€ 0,€ 0,"Jun 30, 2025",3-yrs,€ 0,,F,LW,23,Brazil,Valladolid
+503,Pol Lozano,€ 0,€ 0,"Jun 30, 2023",1-yr,€ 0,,M,CM,22,Spain,Espanyol
+504,Raúl Parra,€ 0,€ 0,"Jun 30, 2024",2-yrs,€ 0,,D,RB,22,Spain,Cadiz
+505,Diego López,€ 0,€ 0,"Jun 30, 2023",1-yr,€ 0,,K,GK,40,Spain,Rayo Vallecano
+506,Dragan Rosic,€ 0,€ 0,"Jun 30, 2024",2-yrs,€ 0,,K,GK,25,Serbia,Almeria
+507,Jack Harper,€ 0,€ 0,"Jun 30, 2024",2-yrs,€ 0,,F,CF,26,Scotland,Getafe
+508,Rodrigo Ely,€ 0,€ 0,"Jun 30, 2024",2-yrs,€ 0,,D,CB,28,Brazil,Almeria
+509,Rodrigo Riquelme,€ 0,€ 0,"Jun 30, 2028",6-yrs,€ 0,,F,RW,22,Spain,Atletico Madrid
+510,Rony Lopes,€ 0,€ 0,"Jun 30, 2024",2-yrs,€ 0,,F,RW,26,Portugal,Sevilla
+511,Rubén Peña,€ 0,€ 0,"Jun 30, 2025",3-yrs,€ 0,,D,RB,30,Spain,Osasuna
+512,Salvi Sánchez,€ 0,€ 0,"Jun 30, 2024",2-yrs,€ 0,,F,RW,31,Spain,Rayo Vallecano
+513,Sergio Benito,€ 0,€ 0,"Jun 30, 2023",1-yr,€ 0,,F,CF,23,Spain,Valladolid
+514,Stiven Plaza,€ 0,€ 0,"Jun 30, 2023",1-yr,€ 0,,F,CF,23,Ecuador,Valladolid
+515,Gui Guedes,€ 0,€ 0,"Jun 30, 2028",6-yrs,€ 0,,M,CM,20,Portugal,Almeria
+516,Víctor García,€ 0,€ 0,"Jun 30, 2023",1-yr,€ 0,,F,RW,25,Spain,Valladolid
+517,Williot Swedberg,€ 0,€ 0,"Jun 30, 2027",5-yrs,€ 0,,M,CM,18,Sweden,Celta Vigo
+518,Aitor Fernández,€ 0,€ 0,"Jun 30, 2025",3-yrs,€ 0,,K,GK,31,Spain,Osasuna

@@ -1,0 +1,17 @@
+,Player,#,Nation,Pos,Age,Min,Att,Live_Pass Types,Dead_Pass Types,FK_Pass Types,TB_Pass Types,Press_Pass Types,Sw_Pass Types,Crs_Pass Types,CK_Pass Types,In_Corner Kicks,Out_Corner Kicks,Str_Corner Kicks,Ground_Height,Low_Height,High_Height,Left_Body Parts,Right_Body Parts,Head_Body Parts,TI_Body Parts,Other_Body Parts,Cmp_Outcomes,Off_Outcomes,Out_Outcomes,Int_Outcomes,Blocks_Outcomes
+0,Lionel Messi,10.0,ar  ARG,FW,33-102,90,70,61,9,3,0,13,2,2,4,2,0,0,58,4,8,66,3,1,0,0,58,0,0,0,2
+1,Ansu Fati,22.0,es  ESP,LW,17-339,60,30,29,1,0,0,7,0,0,0,0,0,0,26,3,1,5,24,0,1,0,25,0,0,1,0
+2,Pedri,16.0,es  ESP,LW,17-314,30,11,11,0,0,0,5,0,0,0,0,0,0,9,0,2,1,10,0,0,0,8,0,0,0,0
+3,Antoine Griezmann,7.0,fr  FRA,RW,29-197,60,16,16,0,0,0,3,0,0,0,0,0,0,15,1,0,14,2,0,0,0,16,0,0,0,0
+4,Francisco Trincão,17.0,pt  POR,RW,20-280,30,17,17,0,0,0,4,0,0,0,0,0,0,15,1,1,12,3,0,0,2,14,0,0,1,1
+5,Philippe Coutinho,14.0,br  BRA,AM,28-114,74,43,40,3,0,0,7,2,1,2,1,0,0,37,3,3,7,34,1,1,0,36,0,0,0,1
+6,Miralem Pjanić,8.0,ba  BIH,AM,30-185,16,18,17,1,0,0,4,0,0,0,0,0,0,14,3,1,3,13,0,1,0,15,0,0,0,1
+7,Frenkie de Jong,21.0,nl  NED,CM,23-145,90,56,56,0,0,0,12,2,0,0,0,0,0,52,1,3,6,49,1,0,0,46,0,1,1,1
+8,Sergio Busquets,5.0,es  ESP,CM,32-080,90,80,74,6,6,0,12,3,0,0,0,0,0,68,5,7,9,68,2,0,0,73,0,0,0,2
+9,Jordi Alba,18.0,es  ESP,LB,31-197,74,53,49,4,0,0,7,0,1,0,0,0,0,38,9,6,39,8,1,4,1,45,0,0,1,1
+10,Sergiño Dest,2.0,us  USA,LB,19-336,16,14,12,2,0,0,5,0,0,0,0,0,0,10,4,0,1,11,0,2,0,13,0,0,0,0
+11,Gerard Piqué,3.0,es  ESP,CB,33-245,90,74,69,5,5,0,8,2,0,0,0,0,0,62,3,9,3,66,5,0,0,69,0,1,0,0
+12,Ronald Araújo,30.0,uy  URU,CB,21-211,90,65,61,4,4,1,9,3,0,0,0,0,0,54,4,7,4,58,2,0,0,59,0,0,0,1
+13,Sergi Roberto,20.0,es  ESP,RB,28-240,90,87,76,11,0,0,11,0,2,0,0,0,0,64,16,7,11,61,4,11,0,75,0,0,0,3
+14,Neto,13.0,br  BRA,GK,31-077,90,47,34,13,1,0,11,0,0,0,0,0,0,35,2,10,7,37,0,0,3,42,0,1,0,0
+15,15 Players,,,,,990,681,622,59,19,1,118,14,6,6,3,0,0,557,59,65,188,447,17,20,6,594,0,3,4,13

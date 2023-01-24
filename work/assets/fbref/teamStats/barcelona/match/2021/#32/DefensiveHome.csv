@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,Paco Alcácer,17.0,es  ESP,FW,27-238,59,1,1,0,1,0,0,0,,0,4,3,75.0,1,3,0,0,0,0,0,0,1,0,0
+1,Francis Coquelin,19.0,fr  FRA,"FW,CM",29-347,31,0,0,0,0,0,0,0,,0,9,0,0.0,1,5,3,0,0,0,0,0,0,0,0
+2,Gerard Moreno,7.0,es  ESP,FW,29-018,90,0,0,0,0,0,0,1,0.0,1,6,1,16.7,0,2,4,0,0,0,0,1,1,0,0
+3,Manu Trigueros,14.0,es  ESP,"LM,FW",29-190,64,1,0,0,1,0,1,5,20.0,4,14,5,35.7,2,10,2,0,0,0,0,0,1,0,0
+4,Daniel Parejo,5.0,es  ESP,CM,32-009,90,3,3,0,3,0,2,3,66.7,1,12,8,66.7,5,5,2,3,0,0,3,0,3,0,0
+5,Étienne Capoue,25.0,fr  FRA,CM,32-288,75,0,0,0,0,0,0,2,0.0,2,15,4,26.7,10,5,0,0,0,0,0,1,1,1,0
+6,Moi Gómez,23.0,es  ESP,"CM,LM",26-306,15,0,0,0,0,0,0,2,0.0,2,2,1,50.0,1,1,0,0,0,0,0,0,0,1,0
+7,Samuel Chukwueze,11.0,ng  NGA,RM,21-338,88,0,0,0,0,0,0,1,0.0,1,3,1,33.3,2,0,1,0,0,0,0,0,0,0,0
+8,Yeremi Pino,30.0,es  ESP,RM,18-187,2,0,0,0,0,0,0,0,,0,1,1,100.0,0,0,1,0,0,0,0,0,0,0,0
+9,Alberto Moreno,18.0,es  ESP,LB,28-294,59,2,0,2,0,0,1,3,33.3,2,10,1,10.0,9,1,0,2,1,0,1,0,2,3,0
+10,Pervis Estupiñán,15.0,ec  ECU,LB,23-094,31,1,1,0,1,0,0,0,,0,7,1,14.3,1,2,4,0,0,0,0,1,2,0,0
+11,Pau Torres,4.0,es  ESP,CB,24-099,90,1,1,0,0,1,0,3,0.0,3,10,3,30.0,4,5,1,2,2,0,0,0,1,1,0
+12,Raúl Albiol,3.0,es  ESP,CB,35-233,88,1,1,0,1,0,0,2,0.0,2,9,6,66.7,6,3,0,3,2,0,1,1,2,3,0
+13,Mario Gaspar,2.0,es  ESP,RB,30-152,2,0,0,0,0,0,0,0,,0,1,0,0.0,0,1,0,0,0,0,0,0,0,1,0
+14,Juan Foyth,8.0,ar  ARG,"RB,CB",23-103,90,0,0,0,0,0,0,3,0.0,3,13,5,38.5,5,6,2,4,0,0,4,3,3,0,1
+15,Sergio Asenjo,1.0,es  ESP,GK,31-301,90,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+16,16 Players,,,,,964,10,7,2,7,1,4,25,16.0,21,116,40,34.5,47,49,20,14,5,0,9,7,17,10,1

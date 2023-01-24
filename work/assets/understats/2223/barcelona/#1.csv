@@ -1,0 +1,26 @@
+,minute,team,player,x,y,xG,result,shotType,assist
+0,11,Barcelona,Raphinha,0.9059999847412109,0.295,0.04493522644042969,BlockedShot,LeftFoot,Pedri
+1,19,Barcelona,Raphinha,0.845999984741211,0.46099998474121096,0.08525968343019485,MissedShots,LeftFoot,Ousmane Dembélé
+2,20,Barcelona,Ousmane Dembélé,0.9330000305175781,0.749000015258789,0.03133731335401535,SavedShot,LeftFoot,Robert Lewandowski
+3,21,Barcelona,Ousmane Dembélé,0.815,0.38599998474121094,0.04493124410510063,BlockedShot,RightFoot,Raphinha
+4,34,Barcelona,Ousmane Dembélé,0.9,0.32299999237060545,0.056642889976501465,SavedShot,LeftFoot,Gavi
+5,35,Barcelona,Pedri,0.769000015258789,0.49900001525878906,0.030162958428263664,MissedShots,RightFoot,Ousmane Dembélé
+6,36,Barcelona,Robert Lewandowski,0.9130000305175782,0.5209999847412109,0.13070270419120789,MissedShots,Head,Raphinha
+7,47,Barcelona,Andreas Christensen,0.9690000152587891,0.580999984741211,0.10514870285987854,BlockedShot,Head,Ousmane Dembélé
+8,53,Barcelona,Raphinha,0.865999984741211,0.7280000305175781,0.032657064497470856,MissedShots,LeftFoot,Pedri
+9,53,Barcelona,Robert Lewandowski,0.965,0.51,0.16912536323070526,SavedShot,LeftFoot,None
+10,54,Barcelona,Raphinha,0.775,0.5879999923706055,0.021872030571103096,MissedShots,LeftFoot,None
+11,64,Barcelona,Anssumane Fati,0.8519999694824218,0.555,0.08676450699567795,SavedShot,RightFoot,Ousmane Dembélé
+12,68,Barcelona,Robert Lewandowski,0.850999984741211,0.49599998474121093,0.08004514127969742,BlockedShot,RightFoot,Anssumane Fati
+13,68,Barcelona,Sergio Busquets,0.7480000305175781,0.49,0.016821350902318954,SavedShot,RightFoot,None
+14,74,Barcelona,Franck Kessié,0.9,0.42400001525878905,0.08540136367082596,MissedShots,LeftFoot,Ousmane Dembélé
+15,77,Barcelona,Franck Kessié,0.8190000152587891,0.3189999961853027,0.030123556032776833,BlockedShot,RightFoot,None
+16,80,Barcelona,Ousmane Dembélé,0.845999984741211,0.6379999923706055,0.056492600589990616,BlockedShot,LeftFoot,Frenkie de Jong
+17,81,Barcelona,Robert Lewandowski,0.8530000305175781,0.3890000152587891,0.0664939433336258,MissedShots,LeftFoot,Frenkie de Jong
+18,83,Barcelona,Pierre-Emerick Aubameyang,0.909000015258789,0.68,0.027037333697080612,BlockedShot,RightFoot,Robert Lewandowski
+19,83,Barcelona,Robert Lewandowski,0.914000015258789,0.4209999847412109,0.11881896108388901,MissedShots,RightFoot,None
+20,86,Barcelona,Anssumane Fati,0.7340000152587891,0.45799999237060546,0.060595858842134476,MissedShots,RightFoot,None
+21,46,Rayo Vallecano,Álvaro García,0.914000015258789,0.6140000152587891,0.3063681721687317,SavedShot,RightFoot,Óscar Trejo
+22,51,Rayo Vallecano,Sergio Camello,0.965999984741211,0.620999984741211,0.36199846863746643,MissedShots,LeftFoot,None
+23,94,Rayo Vallecano,Salvi Sánchez,0.8869999694824219,0.4159999847412109,0.0890476331114769,SavedShot,LeftFoot,Pathé Ciss
+24,96,Rayo Vallecano,Pathé Ciss,0.700999984741211,0.56,0.01411590725183487,MissedShots,RightFoot,José Pozo

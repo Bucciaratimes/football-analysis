@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,CrdY_Performance,CrdR_Performance,2CrdY_Performance,Fls_Performance,Fld_Performance,Off_Performance,Crs_Performance,Int_Performance,TklW_Performance,PKwon_Performance,PKcon_Performance,OG_Performance,Recov_Performance,Won_Aerial Duels,Lost_Aerial Duels,Won%_Aerial Duels
+0,Antoine Griezmann,7.0,fr  FRA,"FW,LW",29-350,66,0,0,0,1,0,0,0,0,1,0,0,0,4,2,1,66.7
+1,Martin Braithwaite,9.0,dk  DEN,LW,29-274,24,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,
+2,Lionel Messi,10.0,ar  ARG,FW,33-255,90,0,0,0,0,0,1,2,0,0,0,0,0,1,0,0,
+3,Pedri,16.0,es  ESP,CM,18-101,86,0,0,0,2,2,0,0,2,1,0,0,0,7,0,0,
+4,Riqui Puig,12.0,es  ESP,CM,21-205,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+5,Frenkie de Jong,21.0,nl  NED,CM,23-298,90,0,0,0,0,0,1,0,3,0,0,0,0,10,0,0,
+6,Sergio Busquets,5.0,es  ESP,DM,32-233,66,0,0,0,2,2,0,0,2,2,0,0,0,10,2,1,66.7
+7,Ilaix Moriba,27.0,es  ESP,DM,18-046,24,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0.0
+8,Jordi Alba,18.0,es  ESP,"WB,LB",31-350,86,0,0,0,0,0,1,4,2,1,0,0,0,4,0,1,0.0
+9,Junior Firpo,24.0,es  ESP,LB,24-196,4,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,
+10,Sergiño Dest,2.0,us  USA,"WB,RB",20-123,90,0,0,0,0,1,0,2,0,1,0,0,0,7,0,1,0.0
+11,Samuel Umtiti,23.0,fr  FRA,CB,27-112,45,1,0,0,2,0,0,0,1,0,0,0,0,4,1,1,50.0
+12,Ousmane Dembélé,11.0,fr  FRA,RW,23-295,45,0,0,0,0,0,0,2,1,0,0,0,0,2,1,1,50.0
+13,Clément Lenglet,15.0,fr  FRA,CB,25-262,90,0,0,0,2,1,0,0,1,0,0,0,0,8,4,2,66.7
+14,Óscar Mingueza,28.0,es  ESP,CB,21-297,90,0,0,0,3,0,0,0,0,2,0,0,0,14,3,3,50.0
+15,Marc-André ter Stegen,1.0,de  GER,GK,28-310,90,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,
+16,16 Players,,,,,990,2,0,0,14,6,3,10,12,10,0,0,0,79,13,12,52.0

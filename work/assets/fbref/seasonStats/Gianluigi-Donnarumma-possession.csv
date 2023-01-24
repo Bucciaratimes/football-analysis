@@ -1,0 +1,15 @@
+,Season,Age,Squad,Country,Comp,LgRank,90s,SCA_SCA,SCA90_SCA,PassLive_SCA Types,PassDead_SCA Types,Drib_SCA Types,Sh_SCA Types,Fld_SCA Types,Def_SCA Types,GCA_GCA,GCA90_GCA,PassLive_GCA Types,PassDead_GCA Types,Drib_GCA Types,Sh_GCA Types,Fld_GCA Types,Def_GCA Types
+0,2015-2016,16,Milan,it  ITA,1.  Serie A,7th,29.2,,,,,,,,,,,,,,,,
+1,2016-2017,17,Milan,it  ITA,1.  Serie A,6th,38.0,,,,,,,,,,,,,,,,
+2,2017-2018,18,Milan,it  ITA,1.  Serie A,6th,38.0,1,0.03,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+3,2018-2019,19,Milan,it  ITA,1.  Serie A,5th,34.4,4,0.12,3,1,0,0,0,0,0,0.00,0,0,0,0,0,0
+4,2019-2020,20,Milan,it  ITA,1.  Serie A,6th,35.6,1,0.03,0,1,0,0,0,0,0,0.00,0,0,0,0,0,0
+5,2020-2021,21,Milan,it  ITA,1.  Serie A,2nd,37.0,6,0.16,6,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+6,2021-2022,22,Paris S-G,fr  FRA,1.  Ligue 1,1st,7.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+7,8 Seasons,8 Seasons,2 Clubs,,2 Leagues,,219.1,12,0.08,10,2,0,0,0,0,0,0.00,0,0,0,0,0,0
+8,,,,Country,Comp,LgRank,90s,SCA,SCA90,PassLive,PassDead,Drib,Sh,Fld,Def,GCA,GCA90,PassLive,PassDead,Drib,Sh,Fld,Def
+9,Milan (7 Seasons),Milan (7 Seasons),Milan (7 Seasons),,1 League,,212.1,12,0.08,10,2,0,0,0,0,0,0.00,0,0,0,0,0,0
+10,Paris S-G (1 Season),Paris S-G (1 Season),Paris S-G (1 Season),,1 League,,7.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+11,,,,,,,,,,,,,,,,,,,,,,,
+12,Serie A (7 Seasons),Serie A (7 Seasons),Serie A (7 Seasons),,,,212.1,12,0.08,10,2,0,0,0,0,0,0.00,0,0,0,0,0,0
+13,Ligue 1 (1 Season),Ligue 1 (1 Season),Ligue 1 (1 Season),,,,7.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0

@@ -1,0 +1,17 @@
+,Player,#,Nation,Pos,Age,Min,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,Rafa Mir,9.0,es  ESP,"FW,RW",23-199,90,0,0,0,0,0,0,1,0.0,1,14,1,7.1,3,3,8,1,0,0,1,0,0,2,0
+1,Javier Ontiveros,15.0,es  ESP,LW,23-116,90,1,1,1,0,0,0,2,0.0,2,21,3,14.3,11,6,4,2,0,0,2,1,2,1,0
+2,Sergio Gómez,10.0,es  ESP,RW,20-121,71,2,1,2,0,0,2,5,40.0,3,16,2,12.5,13,3,0,2,0,0,2,5,7,1,0
+3,Shinji Okazaki,12.0,jp  JPN,"FW,RW",34-262,19,0,0,0,0,0,0,0,,0,6,0,0.0,0,3,3,0,0,0,0,0,0,0,0
+4,Jaime Seoane,20.0,es  ESP,CM,23-347,71,4,2,4,0,0,2,3,66.7,1,23,4,17.4,14,6,3,2,1,0,1,0,4,2,0
+5,David Ferreiro,7.0,es  ESP,"RB,CM",32-277,19,0,0,0,0,0,0,1,0.0,1,6,0,0.0,4,2,0,0,0,0,0,0,0,1,0
+6,Pedro Mosquera,5.0,es  ESP,CM,32-257,90,0,0,0,0,0,0,2,0.0,2,26,3,11.5,22,2,2,5,0,0,5,0,0,2,0
+7,Mikel Rico,17.0,es  ESP,DM,36-060,64,0,0,0,0,0,0,1,0.0,1,12,2,16.7,10,1,1,1,0,0,1,0,0,2,0
+8,Idrissa Doumbia,2.0,ci  CIV,DM,22-264,26,0,0,0,0,0,0,0,,0,3,0,0.0,3,0,0,0,0,0,0,0,0,0,0
+9,Javi Galán,11.0,es  ESP,LB,26-045,90,4,3,3,1,0,0,1,0.0,1,17,6,35.3,10,5,2,2,0,0,2,0,4,0,0
+10,Dimitris Siovas,18.0,gr  GRE,CB,32-109,90,0,0,0,0,0,0,0,,0,4,2,50.0,3,1,0,1,1,0,0,1,1,4,0
+11,Pablo Insua,4.0,es  ESP,CB,27-116,90,2,0,1,1,0,0,1,0.0,1,18,8,44.4,15,3,0,0,0,0,0,4,6,4,0
+12,Jorge Pulido,14.0,es  ESP,RB,29-270,71,3,2,3,0,0,2,2,100.0,0,17,2,11.8,13,4,0,2,2,0,0,1,4,1,0
+13,Juan Carlos,21.0,es  ESP,"CM,RB",29-294,19,1,0,1,0,0,0,2,0.0,2,9,1,11.1,6,1,2,1,0,0,1,0,1,0,0
+14,Álvaro Fernández,1.0,es  ESP,GK,22-265,90,0,0,0,0,0,0,0,,0,1,1,100.0,1,0,0,0,0,0,0,0,0,0,0
+15,15 Players,,,,,990,17,9,15,2,0,6,21,28.6,15,193,35,18.1,128,40,25,19,4,0,15,12,29,20,0

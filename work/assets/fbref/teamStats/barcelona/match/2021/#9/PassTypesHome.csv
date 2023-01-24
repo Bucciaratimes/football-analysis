@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,Att,Live_Pass Types,Dead_Pass Types,FK_Pass Types,TB_Pass Types,Press_Pass Types,Sw_Pass Types,Crs_Pass Types,CK_Pass Types,In_Corner Kicks,Out_Corner Kicks,Str_Corner Kicks,Ground_Height,Low_Height,High_Height,Left_Body Parts,Right_Body Parts,Head_Body Parts,TI_Body Parts,Other_Body Parts,Cmp_Outcomes,Off_Outcomes,Out_Outcomes,Int_Outcomes,Blocks_Outcomes
+0,Martin Braithwaite,9.0,dk  DEN,FW,29-177,60,13,12,1,0,0,2,0,0,0,0,0,0,11,2,0,4,8,1,0,0,11,0,0,0,1
+1,Francisco Trincão,17.0,pt  POR,"RW,FW",20-336,30,22,21,1,0,0,0,0,0,0,0,0,0,19,1,2,18,3,0,1,0,18,0,0,0,1
+2,Antoine Griezmann,7.0,fr  FRA,"LW,AM",29-253,90,74,73,1,0,0,1,2,2,0,0,0,0,67,5,2,65,6,1,1,0,68,0,0,0,0
+3,Lionel Messi,10.0,ar  ARG,"RW,FW",33-158,90,69,64,5,2,2,5,2,1,2,0,0,0,53,8,8,61,6,0,1,1,61,0,0,2,0
+4,Philippe Coutinho,14.0,br  BRA,CM,28-170,60,62,61,1,0,1,9,0,2,1,0,0,0,56,3,3,7,54,0,0,0,54,0,1,1,1
+5,Ousmane Dembélé,11.0,fr  FRA,"LW,CM",23-198,30,15,14,1,0,0,0,0,1,1,1,0,0,11,2,2,9,6,0,0,0,10,0,0,0,0
+6,Pedri,16.0,es  ESP,CM,18-004,45,39,36,3,3,0,3,0,0,0,0,0,0,34,2,3,7,31,0,0,1,37,0,0,0,0
+7,Sergio Busquets,5.0,es  ESP,CM,32-136,45,46,44,2,1,0,3,0,0,0,0,0,0,39,5,2,5,36,2,1,1,43,0,0,1,0
+8,Frenkie de Jong,21.0,nl  NED,"DM,CB",23-201,90,104,102,2,2,1,4,3,0,0,0,0,0,93,8,3,4,96,2,0,1,96,0,0,0,1
+9,Jordi Alba,18.0,es  ESP,LB,31-253,90,111,105,6,0,0,0,6,7,1,0,0,0,85,16,10,88,17,1,5,0,92,0,2,0,3
+10,Clément Lenglet,15.0,fr  FRA,CB,25-165,66,67,67,0,0,0,6,1,0,0,0,0,0,58,2,7,56,6,3,0,0,62,0,0,0,0
+11,Carles Aleñá,6.0,es  ESP,CM,22-329,24,30,30,0,0,0,0,1,0,0,0,0,0,27,2,1,27,3,0,0,0,29,0,0,1,0
+12,Óscar Mingueza,28.0,es  ESP,CB,21-200,90,78,78,0,0,0,3,0,0,0,0,0,0,68,4,6,10,64,3,0,0,69,0,0,1,1
+13,Sergiño Dest,2.0,us  USA,RB,20-026,60,51,46,5,0,0,0,0,2,0,0,0,0,43,5,3,9,37,0,5,0,47,0,0,1,0
+14,Junior Firpo,24.0,es  ESP,RB,24-099,30,29,25,4,2,0,1,0,0,0,0,0,0,25,3,1,22,5,0,2,0,29,0,0,0,0
+15,Marc-André ter Stegen,1.0,de  GER,GK,28-213,90,42,34,8,2,0,8,2,0,0,0,0,0,32,3,7,11,24,0,0,7,40,0,1,0,0
+16,16 Players,,,,,990,852,812,40,12,4,45,17,15,5,1,0,0,721,71,60,403,402,13,16,11,766,0,4,7,8

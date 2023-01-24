@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,Rafa Mir,9.0,es  ESP,FW,23-270,90,0,0,0,0,0,0,0,,0,17,3,17.6,4,6,7,3,1,0,2,0,0,0,0
+1,Dani Escriche,23.0,es  ESP,FW,22-356,59,2,2,2,0,0,1,2,50.0,1,27,5,18.5,19,8,0,1,0,0,1,1,3,0,0
+2,Sergio Gómez,10.0,es  ESP,"AM,CM,FW",20-192,31,0,0,0,0,0,0,1,0.0,1,14,2,14.3,1,6,7,1,0,0,1,0,0,0,0
+3,Mikel Rico,17.0,es  ESP,"CM,AM",36-131,90,2,1,1,0,1,2,5,40.0,3,34,8,23.5,22,10,2,2,0,0,2,2,4,1,0
+4,David Ferreiro,7.0,es  ESP,CM,32-348,77,0,0,0,0,0,0,4,0.0,4,28,5,17.9,12,14,2,1,0,0,1,0,0,0,0
+5,Javier Ontiveros,15.0,es  ESP,CM,23-187,13,2,1,1,0,1,1,2,50.0,1,2,2,100.0,1,0,1,0,0,0,0,0,2,0,0
+6,Idrissa Doumbia,2.0,ci  CIV,DM,22-335,59,2,1,1,1,0,1,1,100.0,0,20,8,40.0,13,6,1,2,0,0,2,2,4,0,0
+7,Jaime Seoane,20.0,es  ESP,DM,24-052,31,1,1,0,1,0,0,1,0.0,1,15,4,26.7,5,9,1,1,0,0,1,0,1,0,0
+8,Javi Galán,11.0,es  ESP,WB,26-116,90,2,2,2,0,0,0,0,,0,22,7,31.8,16,5,1,2,1,0,1,1,3,2,0
+9,Pablo Maffeo,3.0,es  ESP,WB,23-246,77,0,0,0,0,0,0,2,0.0,2,14,3,21.4,8,5,1,2,1,0,1,0,0,2,0
+10,Pedro López Muñoz,19.0,es  ESP,WB,37-134,13,1,0,0,0,1,0,1,0.0,1,7,1,14.3,1,2,4,0,0,0,0,0,1,0,0
+11,Pablo Insua,4.0,es  ESP,CB,27-187,77,2,2,2,0,0,2,3,66.7,1,21,7,33.3,15,5,1,0,0,0,0,0,2,1,0
+12,Denis Vavro,25.0,sk  SVK,CB,24-339,13,0,0,0,0,0,0,0,,0,2,0,0.0,1,1,0,0,0,0,0,0,0,0,0
+13,Dimitris Siovas,18.0,gr  GRE,CB,32-180,90,0,0,0,0,0,0,0,,0,18,8,44.4,12,6,0,0,0,0,0,4,4,7,0
+14,Jorge Pulido,14.0,es  ESP,CB,29-341,90,2,2,2,0,0,2,7,28.6,5,24,5,20.8,17,6,1,2,1,0,1,1,3,3,0
+15,Álvaro Fernández,1.0,es  ESP,GK,22-336,90,0,0,0,0,0,0,1,0.0,1,1,0,0.0,1,0,0,0,0,0,0,0,0,0,0
+16,16 Players,,,,,990,16,12,11,2,3,9,30,30.0,21,266,68,25.6,148,89,29,17,4,0,13,11,27,16,0

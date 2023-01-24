@@ -1,0 +1,19 @@
+,Season,Age,Squad,Country,Comp,LgRank,90s,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,2012-2013,18,Rio Ave,pt  POR,1.  Primeira Liga,6th,2.0,,,,,,,,,,,,,,,,,,,,,,,
+1,2013-2014,19,Rio Ave,pt  POR,1.  Primeira Liga,11th,17.7,,,,,,,,,,,,,,,,,,,,,,,
+2,2014-2015,20,Rio Ave,pt  POR,1.  Primeira Liga,10th,17.0,,,,,,,,,,,,,,,,,,,,,,,
+3,2015-2016,21,Benfica,pt  POR,1.  Primeira Liga,1st,9.9,,,,,,,,,,,,,,,,,,,,,,,
+4,2016-2017,22,Benfica,pt  POR,1.  Primeira Liga,1st,26.5,,0,,,,,,,,,,,,,,,,,,0,,,
+5,2017-2018,23,Manchester City,eng  ENG,1.  Premier League,1st,35.5,0,0,0,0,0,0,0,,0,3,2,66.7,3,0,0,0,0,0,0,0,0,1,5
+6,2018-2019,24,Manchester City,eng  ENG,1.  Premier League,1st,38.0,1,1,0,1,0,1,1,100.0,0,0,0,,0,0,0,0,0,0,0,0,1,1,1
+7,2019-2020,25,Manchester City,eng  ENG,1.  Premier League,2nd,34.1,1,1,1,0,0,1,2,50.0,1,7,2,28.6,7,0,0,0,0,0,0,0,1,2,4
+8,2020-2021,26,Manchester City,eng  ENG,1.  Premier League,1st,36.0,0,0,0,0,0,0,1,0.0,1,5,1,20.0,5,0,0,0,0,0,0,0,0,2,1
+9,2021-2022,27,Manchester City,eng  ENG,1.  Premier League,2nd,13.0,0,0,0,0,0,0,0,,0,2,0,0.0,2,0,0,0,0,0,0,0,0,0,1
+10,10 Seasons,10 Seasons,3 Clubs,,2 Leagues,,229.7,2,2,1,1,0,2,4,50.0,2,17,5,29.4,17,0,0,0,0,0,0,0,2,6,12
+11,,,,Country,Comp,LgRank,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Past,Press,Succ,%,Def 3rd,Mid 3rd,Att 3rd,Blocks,Sh,ShSv,Pass,Int,Tkl+Int,Clr,Err
+12,Manchester City (5 Seasons),Manchester City (5 Seasons),Manchester City (5 Seasons),,1 League,,156.6,2,2,1,1,0,2,4,50.0,2,17,5,29.4,17,0,0,0,0,0,0,0,2,6,12
+13,Rio Ave (3 Seasons),Rio Ave (3 Seasons),Rio Ave (3 Seasons),,1 League,,36.7,,,,,,,,,,,,,,,,,,,,,0,,
+14,Benfica (2 Seasons),Benfica (2 Seasons),Benfica (2 Seasons),,1 League,,36.3,,0,,,,,,,,,,,,,,,,,,0,0,,
+15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,Premier League (5 Seasons),Premier League (5 Seasons),Premier League (5 Seasons),,,,156.6,2,2,1,1,0,2,4,50.0,2,17,5,29.4,17,0,0,0,0,0,0,0,2,6,12
+17,Primeira Liga (5 Seasons),Primeira Liga (5 Seasons),Primeira Liga (5 Seasons),,,,73.1,,0,,,,,,,,,,,,,,,,,,0,0,,

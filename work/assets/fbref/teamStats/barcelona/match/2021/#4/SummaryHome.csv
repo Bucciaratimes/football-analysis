@@ -1,0 +1,16 @@
+,Player,#,Nation,Pos,Age,Min,Gls_Performance,Ast_Performance,PK_Performance,PKatt_Performance,Sh_Performance,SoT_Performance,CrdY_Performance,CrdR_Performance,Touches_Performance,Press_Performance,Tkl_Performance,Int_Performance,Blocks_Performance,xG_Expected,npxG_Expected,xA_Expected,SCA_SCA,GCA_SCA,Cmp_Passes,Att_Passes,Cmp%_Passes,Prog_Passes,Carries_Carries,Prog_Carries,Succ_Dribbles,Att_Dribbles
+0,Cucho,23.0,co  COL,FW,21-180,88,0,0,0,0,2,1,0,0,29,11,2,1,0,0.6,0.6,0.2,3,0,15,19,78.9,6,27,8,1,2
+1,David Timor,24.0,es  ESP,FW,31-000,2,0,0,0,0,1,0,0,0,4,0,1,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,1,0,0,0
+2,Jaime Mata,7.0,es  ESP,FW,31-359,70,1,0,1,1,1,0,1,0,25,7,0,0,0,0.8,0.1,0.0,0,0,13,19,68.4,1,19,3,0,1
+3,Enes Ünal,10.0,tr  TUR,FW,23-160,20,0,0,0,0,0,0,0,0,9,7,0,0,1,0.0,0.0,0.2,2,0,4,6,66.7,2,4,0,0,1
+4,Marc Cucurella,15.0,es  ESP,LM,22-087,90,0,0,0,0,2,1,0,0,45,21,1,3,6,0.2,0.2,0.3,3,0,19,29,65.5,2,22,4,0,0
+5,Allan Nyom,12.0,cm  CMR,RM,32-160,90,0,0,0,0,0,0,1,0,33,20,4,0,5,0.0,0.0,0.0,1,1,8,21,38.1,0,13,1,0,0
+6,Mauro Arambarri,18.0,uy  URU,DM,25-017,89,0,0,0,0,0,0,0,0,33,21,5,3,3,0.0,0.0,0.0,0,0,15,25,60.0,2,15,2,0,0
+7,Victor Mollejo,26.0,es  ESP,FW,19-270,1,0,0,0,0,0,0,0,0,1,2,0,0,0,0.0,0.0,0.0,1,0,0,0,,0,1,1,0,0
+8,Nemanja Maksimović,20.0,rs  SRB,DM,25-265,90,0,0,0,0,1,1,0,0,21,13,1,0,1,0.1,0.1,0.0,0,0,13,17,76.5,1,11,2,0,0
+9,Mathías Olivera,17.0,uy  URU,LB,22-352,90,0,0,0,0,1,0,1,0,31,12,4,0,3,0.0,0.0,0.0,0,0,15,22,68.2,2,19,5,1,1
+10,Erick Cabaco,3.0,uy  URU,CB,25-181,90,0,0,0,0,0,0,1,0,16,13,2,0,0,0.0,0.0,0.0,1,0,8,12,66.7,2,6,1,0,0
+11,Djené,2.0,tg  TOG,CB,28-291,90,0,0,0,0,0,0,0,0,20,3,1,0,0,0.0,0.0,0.0,1,1,9,12,75.0,2,11,1,0,0
+12,Damián Suárez,22.0,uy  URU,RB,32-173,90,0,0,0,0,0,0,0,0,46,16,4,1,5,0.0,0.0,0.0,1,0,19,37,51.4,1,21,1,3,3
+13,David Soria,13.0,es  ESP,GK,27-196,90,0,0,0,0,0,0,0,0,28,0,0,0,0,0.0,0.0,0.0,0,0,7,28,25.0,0,12,0,0,0
+14,14 Players,,,,,990,1,0,1,1,8,3,4,0,341,146,25,8,24,1.7,0.9,0.8,13,2,145,249,58.2,21,182,29,5,8

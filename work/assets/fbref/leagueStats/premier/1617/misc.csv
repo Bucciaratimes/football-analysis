@@ -1,0 +1,506 @@
+,Player,Nation,Pos,Squad,Age,Born,90s,CrdY_Performance,CrdR_Performance,2CrdY_Performance,Fls_Performance,Fld_Performance,Off_Performance,Crs,Int,TklW,PKwon_Performance,PKcon_Performance,OG_Performance
+0,Charlie Adam,sct  SCO,MF,Stoke City,30,1985,16.9,7,0,0,41,26,0,86,24,17,0,0,0
+1,Albert Adomah,gh  GHA,MF,Middlesbrough,28,1987,1.4,0,0,0,3,2,0,9,2,4,0,0,0
+2,Adrián,es  ESP,GK,West Ham,29,1987,16.0,1,0,0,0,3,0,0,0,0,0,0,0
+3,Ibrahim Afellay,nl  NED,MF,Stoke City,30,1986,4.3,0,0,0,3,7,2,15,5,2,0,0,0
+4,Benik Afobe,cd  COD,FW,Bournemouth,23,1993,16.2,1,0,0,22,13,14,3,6,9,0,0,0
+5,Sergio Agüero,ar  ARG,FW,Manchester City,28,1988,26.7,4,1,0,23,34,23,18,4,14,1,0,0
+6,Dan Agyei,eng  ENG,FW,Burnley,19,1997,0.3,0,0,,1,,,,,,,,
+7,Ola Aina,ng  NGA,"DF,MF",Chelsea,19,1996,0.3,0,0,0,0,1,0,0,0,0,0,0,0
+8,Marc Albrighton,eng  ENG,MF,Leicester City,26,1989,26.8,5,0,0,21,20,2,212,38,45,0,0,0
+9,Toby Alderweireld,be  BEL,DF,Tottenham,27,1989,28.9,1,0,0,9,5,0,6,26,35,0,0,0
+10,Trent Alexander-Arnold,eng  ENG,"MF,DF",Liverpool,17,1998,1.9,0,0,0,1,2,0,6,2,2,0,0,0
+11,Joe Allen,wls  WAL,MF,Stoke City,26,1990,32.6,9,0,0,29,59,0,51,63,52,1,0,0
+12,Dele Alli,eng  ENG,MF,Tottenham,20,1996,33.7,4,0,0,50,76,11,22,13,40,4,0,0
+13,Ryan Allsop,eng  ENG,GK,Bournemouth,24,1992,1.0,0,0,0,0,0,0,0,0,0,0,0,0
+14,Marcos Alonso,es  ESP,MF,Chelsea,25,1990,29.9,2,0,0,25,20,3,102,43,38,0,0,0
+15,Daniel Amartey,gh  GHA,MF,Leicester City,21,1994,18.6,3,0,0,28,9,0,3,27,29,0,0,0
+16,Jordi Amat,es  ESP,DF,Swansea City,24,1992,15.7,5,0,0,26,5,0,0,31,23,0,2,0
+17,Nordin Amrabat,ma  MAR,"MF,FW",Watford,29,1987,23.2,4,0,0,47,36,2,129,27,35,0,1,0
+18,Victor Anichebe,ng  NGA,"FW,MF",Sunderland,28,1988,13.5,2,0,0,25,33,7,38,9,8,0,0,0
+19,Michail Antonio,eng  ENG,"MF,FW",West Ham,26,1990,27.0,5,2,1,30,49,18,94,28,28,1,1,0
+20,Ikechi Anya,sct  SCO,"FW,MF",Watford,28,1988,0.1,0,0,0,0,0,0,0,0,0,0,0,0
+21,Álvaro Arbeloa,es  ESP,DF,West Ham,33,1983,2.9,3,0,0,5,3,0,6,9,4,0,0,0
+22,Scott Arfield,ca  CAN,MF,Burnley,27,1988,23.4,3,0,0,37,18,3,71,34,27,1,0,0
+23,Marko Arnautović,at  AUT,"MF,FW",Stoke City,27,1989,30.2,9,1,0,40,31,33,112,29,27,0,0,0
+24,Harry Arter,ie  IRL,MF,Bournemouth,26,1989,32.9,12,2,1,37,46,0,22,50,66,0,0,0
+25,Joel Asoro,se  SWE,FW,Sunderland,17,1999,0.1,0,0,0,0,0,0,0,0,0,0,0,0
+26,Charlie Austin,eng  ENG,FW,Southampton,27,1989,10.4,1,0,0,14,22,8,9,4,12,0,0,0
+27,Daniel Ayala,es  ESP,DF,Middlesbrough,25,1990,10.2,3,0,0,15,3,1,6,27,8,0,0,0
+28,André Ayew,gh  GHA,"MF,FW",West Ham,26,1989,16.0,1,0,0,13,27,6,7,11,12,0,0,0
+29,Jordan Ayew,gh  GHA,"FW,MF",Swansea City,24,1991,9.6,1,0,0,18,22,6,19,8,12,0,0,0
+30,César Azpilicueta,es  ESP,DF,Chelsea,26,1989,38.0,4,0,0,28,24,2,43,71,66,1,0,0
+31,Eric Bailly,ci  CIV,DF,Manchester Utd,22,1994,22.9,4,0,0,28,26,0,2,66,43,0,1,0
+32,Leighton Baines,eng  ENG,"DF,MF",Everton,31,1984,31.3,4,0,0,35,31,0,114,42,49,0,0,0
+33,Phil Bardsley,sct  SCO,DF,Stoke City,31,1985,13.0,5,2,1,25,16,0,28,30,27,0,1,0
+34,Ross Barkley,eng  ENG,"MF,FW",Everton,22,1993,32.2,5,0,0,49,38,8,114,13,26,0,0,0
+35,Ashley Barnes,eng  ENG,FW,Burnley,26,1989,19.7,7,2,1,54,75,21,9,5,18,1,0,0
+36,Antonio Barragán,es  ESP,DF,Middlesbrough,29,1987,24.4,5,0,0,26,20,1,72,61,54,0,0,0
+37,Modou Barrow,gm  GAM,"MF,FW",Swansea City,23,1992,12.7,1,0,0,13,36,10,59,6,18,0,0,0
+38,Gareth Barry,eng  ENG,MF,Everton,35,1981,23.4,10,0,0,47,25,2,20,39,49,0,0,0
+39,Joey Barton,eng  ENG,MF,Burnley,33,1982,12.3,4,0,0,20,17,0,11,27,35,0,0,0
+40,Borja Bastón,es  ESP,FW,Swansea City,23,1992,6.2,0,0,0,4,9,4,6,4,2,0,0,0
+41,Michy Batshuayi,be  BEL,FW,Chelsea,22,1993,2.8,0,0,0,9,4,4,2,2,2,0,0,0
+42,Asmir Begović,ba  BIH,GK,Chelsea,29,1987,2.0,0,0,0,0,0,0,0,0,0,0,0,0
+43,Valon Behrami,ch  SUI,MF,Watford,31,1985,22.6,7,0,0,29,40,0,3,34,56,0,0,0
+44,Héctor Bellerín,es  ESP,"DF,MF",Arsenal,21,1995,27.8,4,0,0,20,15,0,69,39,22,0,0,0
+45,Yohan Benalouane,tn  TUN,DF,Leicester City,29,1987,10.2,4,0,0,15,3,0,0,27,15,0,1,0
+46,Christian Benteke,be  BEL,FW,Crystal Palace,25,1990,34.8,10,0,0,81,51,37,1,7,6,3,0,0
+47,Jonathan Benteke,be  BEL,FW,Crystal Palace,21,1995,0.1,0,0,0,0,0,0,0,0,0,0,0,0
+48,Jóhann Berg Guðmundsson,is  ISL,MF,Burnley,25,1990,11.1,1,0,0,3,9,1,71,20,17,0,1,0
+49,Ryan Bertrand,eng  ENG,DF,Southampton,26,1989,27.9,3,0,0,24,36,2,98,48,26,0,1,0
+50,Mame Biram Diouf,sn  SEN,"MF,FW",Stoke City,28,1987,15.4,3,0,0,28,23,9,26,18,26,0,0,0
+51,Daley Blind,nl  NED,DF,Manchester Utd,26,1990,20.3,2,0,0,14,15,0,87,44,34,0,0,0
+52,Wilfried Bony,ci  CIV,FW,Stoke City,27,1988,7.6,1,0,0,11,13,2,1,3,3,0,0,0
+53,Fabio Borini,it  ITA,"FW,MF",Sunderland,25,1991,19.3,5,0,0,28,43,0,37,23,16,0,0,0
+54,Artur Boruc,pl  POL,GK,Bournemouth,36,1980,35.0,2,0,0,0,6,0,0,1,0,0,0,0
+55,Sofiane Boufal,ma  MAR,"FW,MF",Southampton,22,1993,12.3,5,0,0,25,22,1,35,7,26,0,0,0
+56,Jarrod Bowen,eng  ENG,MF,Hull City,19,1996,2.0,0,0,0,3,8,0,0,1,1,0,0,0
+57,George Boyd,sct  SCO,MF,Burnley,30,1985,31.5,3,0,0,32,29,8,42,35,68,0,0,0
+58,Robbie Brady,ie  IRL,MF,Burnley,24,1992,8.0,1,0,0,8,16,0,63,12,14,0,0,0
+59,Claudio Bravo,cl  CHI,GK,Manchester City,33,1983,21.9,0,0,0,0,3,0,0,0,0,0,0,0
+60,Miguel Britos,uy  URU,DF,Watford,31,1985,25.4,8,4,2,36,24,2,13,52,33,0,1,0
+61,Leon Britton,eng  ENG,MF,Swansea City,33,1982,12.9,3,0,0,6,9,0,0,24,15,0,0,0
+62,Chris Brunt,nir  NIR,"MF,DF",West Brom,31,1984,27.5,5,0,0,17,10,2,174,33,27,0,0,0
+63,Jack Butland,eng  ENG,GK,Stoke City,23,1993,5.0,0,0,0,0,1,0,0,0,0,0,0,0
+64,Sam Byram,eng  ENG,"DF,MF",West Ham,22,1993,13.9,6,2,1,20,13,2,27,44,20,0,0,0
+65,Willy Caballero,ar  ARG,GK,Manchester City,34,1981,16.1,0,0,0,0,2,0,0,0,1,0,0,0
+66,Yohan Cabaye,fr  FRA,MF,Crystal Palace,30,1986,23.6,7,0,0,31,21,2,109,72,39,0,0,0
+67,Martín Cáceres,uy  URU,DF,Southampton,29,1987,1.0,0,0,0,0,0,0,0,1,1,0,0,0
+68,Gary Cahill,eng  ENG,DF,Chelsea,30,1985,36.6,5,0,0,34,25,2,1,48,41,0,1,1
+69,Jonathan Calleri,ar  ARG,FW,West Ham,22,1993,6.0,0,0,0,10,8,9,16,4,5,0,0,0
+70,Dominic Calvert-Lewin,eng  ENG,"MF,FW",Everton,19,1997,3.9,1,0,0,4,7,1,0,3,4,0,0,0
+71,Geoff Cameron,us  USA,"MF,DF",Stoke City,31,1985,18.1,1,0,0,17,19,2,14,34,36,0,0,0
+72,Fraizer Campbell,eng  ENG,FW,Crystal Palace,28,1987,1.8,0,0,0,2,3,0,2,1,1,0,0,0
+73,Emre Can,de  GER,MF,Liverpool,22,1994,26.3,6,0,0,70,30,2,23,32,54,0,0,0
+74,Étienne Capoue,fr  FRA,MF,Watford,28,1988,35.6,5,0,0,52,46,1,80,61,44,0,0,0
+75,Baily Cargill,eng  ENG,DF,Bournemouth,21,1995,0.1,0,0,0,0,0,0,0,0,1,0,0,0
+76,Michael Carrick,eng  ENG,MF,Manchester Utd,35,1981,17.8,2,0,0,5,19,0,5,44,18,0,0,0
+77,Andy Carroll,eng  ENG,FW,West Ham,27,1989,14.6,3,0,0,25,29,5,10,6,3,0,0,0
+78,Joel Castro Pereira,pt  POR,GK,Manchester Utd,20,1996,1.0,0,0,0,0,0,0,0,0,0,0,0,0
+79,Craig Cathcart,nir  NIR,DF,Watford,27,1989,12.9,3,0,0,13,2,0,6,16,18,0,0,0
+80,Lee Cattermole,eng  ENG,MF,Sunderland,28,1988,7.0,4,0,0,12,9,0,3,22,8,0,0,0
+81,Santi Cazorla,es  ESP,MF,Arsenal,31,1984,6.9,2,0,0,4,2,1,39,8,2,0,0,0
+82,Petr Čech,cz  CZE,GK,Arsenal,34,1982,34.4,2,0,0,0,2,0,0,1,0,0,2,1
+83,Nacer Chadli,be  BEL,"MF,FW",West Brom,26,1989,23.7,2,0,0,17,16,3,58,22,20,0,0,0
+84,Nathaniel Chalobah,eng  ENG,MF,Chelsea,21,1994,1.9,2,0,0,2,1,0,0,2,4,0,0,0
+85,Ben Chilwell,eng  ENG,"DF,MF",Leicester City,19,1996,7.8,2,0,0,7,15,1,18,27,15,0,0,0
+86,Lee Chung-yong,kr  KOR,MF,Crystal Palace,28,1988,5.2,0,0,0,5,11,0,14,4,14,0,0,0
+87,Jordy Clasie,nl  NED,MF,Southampton,25,1991,11.3,3,0,0,15,6,0,9,15,9,0,1,0
+88,Adam Clayton,eng  ENG,MF,Middlesbrough,27,1989,31.2,10,0,0,52,44,0,24,68,54,0,0,0
+89,Gaël Clichy,fr  FRA,DF,Manchester City,31,1985,23.6,2,0,0,12,8,1,26,53,34,0,2,0
+90,Sam Clucas,eng  ENG,MF,Hull City,25,1990,35.4,9,1,0,22,27,1,64,52,60,0,1,0
+91,Nathaniel Clyne,eng  ENG,DF,Liverpool,25,1991,36.9,0,0,0,15,20,1,95,46,66,0,0,0
+92,Séamus Coleman,ie  IRL,"DF,MF",Everton,27,1988,25.7,3,0,0,18,26,4,89,28,45,0,0,0
+93,James Collins,wls  WAL,DF,West Ham,32,1983,18.4,3,0,0,7,7,1,0,37,18,0,0,0
+94,Lewis Cook,eng  ENG,MF,Bournemouth,19,1997,4.8,1,0,0,3,3,0,2,7,9,0,0,0
+95,Steve Cook,eng  ENG,DF,Bournemouth,25,1991,38.0,5,0,0,16,16,0,12,83,33,0,0,0
+96,Francis Coquelin,fr  FRA,MF,Arsenal,25,1991,19.8,5,0,0,33,40,0,5,52,44,0,1,0
+97,Jack Cork,eng  ENG,MF,Swansea City,27,1989,24.8,7,0,0,24,32,1,21,57,46,0,0,2
+98,Diego Costa,es  ESP,FW,Chelsea,27,1988,34.2,10,0,0,42,92,26,9,9,11,1,0,0
+99,Thibaut Courtois,be  BEL,GK,Chelsea,24,1992,36.0,1,0,0,0,2,0,0,0,0,0,1,0
+100,Philippe Coutinho,br  BRA,"FW,MF",Liverpool,24,1992,24.7,2,0,0,18,36,5,126,18,25,0,0,0
+101,Aaron Cresswell,eng  ENG,"DF,MF",West Ham,26,1989,23.5,3,2,1,11,8,4,97,25,16,0,0,0
+102,Peter Crouch,eng  ENG,FW,Stoke City,35,1981,14.9,3,0,0,26,18,7,0,3,4,0,0,0
+103,Charlie Daniels,eng  ENG,DF,Bournemouth,29,1986,34.0,1,0,0,12,27,0,87,51,40,1,1,0
+104,Scott Dann,eng  ENG,DF,Crystal Palace,29,1987,20.0,2,0,0,13,13,0,3,32,11,0,1,0
+105,Matteo Darmian,it  ITA,DF,Manchester Utd,26,1989,14.8,3,0,0,19,15,1,19,38,28,0,0,0
+106,Ben Davies,wls  WAL,"DF,MF",Tottenham,23,1993,19.3,1,0,0,13,26,2,75,12,30,0,0,0
+107,Curtis Davies,eng  ENG,DF,Hull City,31,1985,23.7,4,0,0,12,22,0,5,92,25,0,1,1
+108,Tom Davies,eng  ENG,MF,Everton,18,1998,17.2,4,0,0,25,37,4,11,20,26,0,0,0
+109,Steven Davis,nir  NIR,MF,Southampton,31,1985,29.4,3,0,0,18,13,1,71,26,41,0,1,0
+110,Craig Dawson,eng  ENG,DF,West Brom,26,1990,36.4,10,0,0,55,37,2,85,61,46,0,0,0
+111,Michael Dawson,eng  ENG,DF,Hull City,32,1983,19.1,4,0,0,13,6,1,0,29,12,0,1,1
+112,Kevin De Bruyne,be  BEL,MF,Manchester City,25,1991,32.0,4,0,0,37,40,3,276,24,35,1,0,0
+113,Mathieu Debuchy,fr  FRA,DF,Arsenal,31,1985,0.2,0,0,0,0,0,0,0,1,0,0,0,0
+114,Troy Deeney,eng  ENG,FW,Watford,28,1988,32.7,7,0,0,42,28,20,16,18,16,0,0,1
+115,Jermain Defoe,eng  ENG,FW,Sunderland,33,1982,36.9,1,0,0,25,30,36,19,4,14,1,0,0
+116,Steven Defour,be  BEL,MF,Burnley,28,1988,11.9,1,0,0,14,8,2,70,33,16,0,0,0
+117,Damien Delaney,ie  IRL,DF,Crystal Palace,35,1981,22.4,8,0,0,25,14,1,5,43,22,0,1,0
+118,Fabian Delph,eng  ENG,MF,Manchester City,26,1989,2.5,1,0,0,6,5,0,1,7,4,0,0,0
+119,Mousa Dembélé,be  BEL,MF,Tottenham,29,1987,22.8,5,0,0,43,21,0,3,26,55,1,0,0
+120,Jason Denayer,be  BEL,"MF,DF",Sunderland,21,1995,20.9,2,0,0,18,9,1,10,36,26,0,1,1
+121,Memphis Depay,nl  NED,"FW,MF",Manchester Utd,22,1994,0.3,1,0,0,1,0,1,4,0,1,0,0,0
+122,Mike van der Hoorn,nl  NED,DF,Swansea City,23,1992,7.4,1,0,0,13,9,0,0,19,8,0,1,0
+123,Gerard Deulofeu,es  ESP,"FW,MF",Everton,22,1994,5.1,1,0,0,2,3,10,37,4,5,0,0,0
+124,Eric Dier,eng  ENG,"DF,MF",Tottenham,22,1994,33.8,6,0,0,25,19,3,20,37,34,0,0,0
+125,Virgil van Dijk,nl  NED,DF,Southampton,25,1991,20.6,4,2,1,18,17,0,1,54,30,0,0,0
+126,Adama Diomande,no  NOR,"FW,MF",Hull City,26,1990,13.0,1,0,0,20,16,10,4,8,22,0,0,0
+127,Papy Djilobodji,sn  SEN,DF,Sunderland,27,1988,17.5,5,2,1,22,16,2,5,54,18,0,0,0
+128,Abdoulaye Doucouré,fr  FRA,MF,Watford,23,1993,15.1,4,0,0,12,5,0,6,22,13,0,0,0
+129,Stewart Downing,eng  ENG,"MF,FW",Middlesbrough,32,1984,24.6,1,0,0,9,14,6,165,34,20,0,0,0
+130,Danny Drinkwater,eng  ENG,MF,Leicester City,26,1990,27.4,6,0,0,46,10,1,28,42,58,0,0,0
+131,Nathan Dyer,eng  ENG,"MF,FW",Swansea City,28,1987,2.4,0,0,0,4,7,0,6,3,4,0,0,0
+132,Ovie Ejaria,eng  ENG,MF,Liverpool,18,1997,0.1,0,0,0,0,0,0,0,0,0,0,0,0
+133,Omar Elabdellaoui,no  NOR,"DF,MF",Hull City,24,1991,6.8,0,0,0,2,3,0,15,10,4,0,0,0
+134,Andrew Eleftheriou,eng  ENG,DF,Watford,18,1997,0.6,0,0,0,0,0,0,1,2,1,0,0,0
+135,Ahmed Elmohamady,eg  EGY,"DF,MF",Hull City,28,1987,28.0,3,1,0,22,15,1,124,51,36,0,1,1
+136,Mohamed Elneny,eg  EGY,MF,Arsenal,24,1992,7.7,1,0,0,10,5,0,8,8,14,0,0,0
+137,Christian Eriksen,dk  DEN,MF,Tottenham,24,1992,35.1,0,0,0,20,27,2,246,25,35,0,0,0
+138,Bernardo Espinosa,co  COL,DF,Middlesbrough,27,1989,10.8,2,0,0,17,7,1,2,21,17,0,1,0
+139,Jonny Evans,nir  NIR,DF,West Brom,28,1988,29.3,8,0,0,30,27,0,9,82,26,0,0,0
+140,Łukasz Fabiański,pl  POL,GK,Swansea City,31,1985,37.0,1,0,0,0,4,0,0,1,2,0,1,0
+141,Fábio,br  BRA,DF,Middlesbrough,26,1990,20.5,8,0,0,29,21,4,71,37,51,0,0,0
+142,Cesc Fàbregas,es  ESP,MF,Chelsea,29,1987,14.9,8,0,0,23,18,0,85,14,27,0,0,0
+143,Adam Federici,au  AUS,GK,Bournemouth,31,1985,2.0,1,0,0,0,0,0,0,0,0,0,0,0
+144,Sofiane Feghouli,dz  ALG,"MF,FW",West Ham,26,1989,11.6,1,1,0,11,18,2,64,14,13,0,1,0
+145,Marouane Fellaini,be  BEL,MF,Manchester Utd,28,1987,17.8,9,1,0,41,20,3,4,30,41,0,2,0
+146,Leroy Fer,nl  NED,MF,Swansea City,26,1990,26.7,9,0,0,48,50,1,15,23,41,0,0,0
+147,Edimilson Fernandes,ch  SUI,MF,West Ham,20,1996,11.1,4,0,0,16,7,1,11,20,14,0,0,0
+148,Federico Fernández,ar  ARG,DF,Swansea City,27,1989,27.0,7,0,0,26,16,0,5,50,30,0,2,0
+149,Fernandinho,br  BRA,"MF,DF",Manchester City,31,1985,30.6,4,2,0,48,36,2,24,65,55,0,2,0
+150,Fernando,br  BRA,"MF,DF",Manchester City,29,1987,6.3,3,0,0,11,7,0,1,14,14,0,0,0
+151,Sam Field,eng  ENG,MF,West Brom,18,1998,3.1,2,0,0,5,2,0,7,4,6,0,0,0
+152,Roberto Firmino,br  BRA,FW,Liverpool,24,1991,34.0,5,0,0,50,31,19,60,25,42,3,0,0
+153,Viktor Fischer,dk  DEN,"FW,MF",Middlesbrough,22,1994,4.9,0,0,0,1,7,3,16,1,4,0,0,0
+154,Mathieu Flamini,fr  FRA,MF,Crystal Palace,32,1984,3.0,0,0,0,1,0,0,1,5,2,0,0,0
+155,Jon Flanagan,eng  ENG,DF,Burnley,23,1993,4.0,2,0,0,9,2,0,5,14,14,0,0,0
+156,Ashley Fletcher,eng  ENG,FW,West Ham,20,1995,4.1,2,0,0,9,5,1,6,0,2,0,0,0
+157,Darren Fletcher,sct  SCO,MF,West Brom,32,1984,35.9,0,0,0,22,24,1,31,44,30,0,0,0
+158,Michael Folivi,eng  ENG,FW,Watford,18,1998,0.1,0,0,0,1,0,0,0,0,0,0,0,0
+159,Adam Forshaw,eng  ENG,MF,Middlesbrough,24,1991,29.9,4,0,0,34,33,1,51,36,42,1,0,0
+160,Fraser Forster,eng  ENG,GK,Southampton,28,1988,38.0,3,0,0,0,0,0,1,0,2,0,0,0
+161,Ben Foster,eng  ENG,GK,West Brom,33,1983,38.0,2,0,0,0,5,0,0,2,0,0,0,0
+162,Timothy Fosu-Mensah,nl  NED,DF,Manchester Utd,18,1998,1.1,0,0,0,3,0,0,0,2,4,0,0,0
+163,Simon Francis,eng  ENG,DF,Bournemouth,31,1985,32.7,4,1,0,27,20,0,67,56,51,0,2,0
+164,Ryan Fraser,sct  SCO,MF,Bournemouth,22,1994,19.6,3,0,0,18,64,2,127,13,13,5,0,0
+165,George Friend,eng  ENG,DF,Middlesbrough,28,1987,21.8,4,0,0,29,24,0,36,56,49,0,0,0
+166,Zeki Fryers,eng  ENG,DF,Crystal Palace,23,1992,2.1,0,0,0,4,2,0,9,2,1,0,0,0
+167,Christian Fuchs,at  AUT,DF,Leicester City,30,1986,34.5,10,0,0,29,10,1,96,68,76,0,0,0
+168,Jay Fulton,sct  SCO,MF,Swansea City,22,1994,7.7,2,0,0,10,11,1,5,7,20,0,0,0
+169,Ramiro Funes Mori,ar  ARG,DF,Everton,25,1991,17.1,0,0,0,11,15,1,5,33,17,0,0,0
+170,Manolo Gabbiadini,it  ITA,FW,Southampton,24,1991,8.0,1,0,0,9,10,10,3,3,3,0,0,0
+171,Brendan Galloway,eng  ENG,DF,West Brom,20,1996,2.7,0,0,0,6,3,0,3,7,6,0,1,0
+172,Idrissa Gana Gueye,sn  SEN,MF,Everton,26,1989,29.8,11,0,0,51,53,0,13,77,103,1,0,0
+173,Aleix García,es  ESP,MF,Manchester City,19,1997,0.9,0,0,0,0,4,0,1,4,2,0,0,0
+174,Craig Gardner,eng  ENG,MF,West Brom,29,1986,2.4,1,0,0,8,2,0,12,2,3,0,0,0
+175,David de Gea,es  ESP,GK,Manchester Utd,25,1990,35.0,2,0,0,0,2,0,0,0,0,0,0,0
+176,Rudy Gestede,bj  BEN,FW,Middlesbrough,27,1988,5.9,3,0,0,8,12,3,2,3,6,0,0,0
+177,Kieran Gibbs,eng  ENG,"MF,DF",Arsenal,26,1989,7.8,3,0,0,11,1,0,31,10,7,0,0,0
+178,Ben Gibson,eng  ENG,DF,Middlesbrough,23,1993,38.0,4,0,0,19,16,1,0,59,27,0,0,0
+179,Darron Gibson,ie  IRL,MF,Sunderland,28,1987,7.1,4,0,0,12,0,0,12,13,11,0,0,0
+180,Olivier Giroud,fr  FRA,FW,Arsenal,29,1986,13.4,2,0,0,21,12,12,3,7,9,1,0,0
+181,Shay Given,ie  IRL,GK,Stoke City,40,1976,5.0,1,0,0,0,1,0,0,0,0,0,0,1
+182,Evandro Goebel,br  BRA,MF,Hull City,29,1986,6.4,1,0,0,14,20,0,18,3,14,0,0,0
+183,Angel Gomes,eng  ENG,"FW,MF",Manchester Utd,15,2000,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+184,Heurelho Gomes,br  BRA,GK,Watford,35,1981,37.1,1,0,0,0,4,0,0,3,0,0,1,1
+185,Lynden Gooch,us  USA,MF,Sunderland,20,1995,4.1,3,0,0,8,6,0,13,6,11,0,0,0
+186,Dan Gosling,eng  ENG,MF,Bournemouth,26,1990,15.2,6,0,0,26,31,1,7,26,40,0,0,0
+187,Lewis Grabban,eng  ENG,"FW,MF",Bournemouth,28,1988,0.7,0,0,0,1,0,0,1,0,1,0,0,0
+188,Max Gradel,ci  CIV,"FW,MF",Bournemouth,28,1987,1.5,3,0,0,4,1,2,8,3,4,0,0,0
+189,Lee Grant,eng  ENG,GK,Stoke City,33,1983,28.0,1,0,0,0,2,0,0,1,1,0,0,0
+190,Andre Gray,jm  JAM,FW,Burnley,25,1991,25.1,2,0,0,17,17,36,28,5,4,0,0,0
+191,Demarai Gray,eng  ENG,"MF,FW",Leicester City,20,1996,11.7,2,0,0,12,14,2,82,11,14,1,0,0
+192,Kamil Grosicki,pl  POL,MF,Hull City,28,1988,12.7,1,0,0,12,6,6,108,13,4,0,0,0
+193,Marko Grujić,rs  SRB,MF,Liverpool,20,1996,0.5,1,0,0,2,2,0,0,0,0,0,0,0
+194,İlkay Gündoğan,de  GER,MF,Manchester City,25,1990,7.8,0,0,0,2,10,0,7,9,9,0,0,0
+195,Brad Guzan,us  USA,GK,Middlesbrough,31,1984,10.0,0,0,0,0,1,0,0,1,1,0,1,0
+196,Josh Harrop,eng  ENG,FW,Manchester Utd,20,1995,1.0,0,0,0,4,1,0,4,0,3,0,0,0
+197,Eden Hazard,be  BEL,"FW,MF",Chelsea,25,1991,33.1,3,0,0,19,101,8,87,28,14,1,0,0
+198,Tom Heaton,eng  ENG,GK,Burnley,30,1986,35.0,1,0,0,0,1,0,0,2,2,0,0,0
+199,Jordan Henderson,eng  ENG,MF,Liverpool,26,1990,23.5,8,0,0,28,17,0,65,47,64,0,0,0
+200,Jeff Hendrick,ie  IRL,MF,Burnley,24,1992,29.9,6,1,0,42,37,4,17,44,15,0,0,0
+201,Wayne Hennessey,wls  WAL,GK,Crystal Palace,29,1987,29.0,1,0,0,0,3,0,0,1,2,0,0,0
+202,Markus Henriksen,no  NOR,MF,Hull City,24,1992,7.1,1,0,0,15,12,1,12,5,9,0,1,0
+203,Abel Hernández,uy  URU,FW,Hull City,25,1990,15.8,0,0,0,18,11,11,1,4,6,0,0,0
+204,Luis Hernández,es  ESP,DF,Leicester City,27,1989,3.6,1,0,0,5,1,0,10,9,5,0,0,0
+205,Ander Herrera,es  ESP,MF,Manchester Utd,26,1989,27.4,6,2,1,48,45,0,50,86,63,0,0,0
+206,Son Heung-min,kr  KOR,"MF,FW",Tottenham,24,1992,22.9,2,0,0,10,33,22,62,7,13,2,0,0
+207,Rob Holding,eng  ENG,DF,Arsenal,20,1995,9.0,3,0,0,10,2,0,2,11,9,0,1,0
+208,José Holebas,gr  GRE,"DF,MF",Watford,32,1984,32.3,14,0,0,43,24,1,166,58,47,0,0,0
+209,Mason Holgate,eng  ENG,DF,Everton,19,1996,15.2,2,0,0,13,16,0,52,22,33,0,0,0
+210,George Honeyman,eng  ENG,MF,Sunderland,21,1994,2.6,1,0,0,4,8,2,9,4,8,0,0,0
+211,Tom Huddlestone,eng  ENG,MF,Hull City,29,1986,22.5,5,1,0,33,16,1,14,48,25,0,2,1
+212,James Husband,eng  ENG,DF,Middlesbrough,22,1994,0.6,0,0,0,0,0,0,0,0,0,0,0,0
+213,Robert Huth,de  GER,DF,Leicester City,31,1984,32.5,9,0,0,45,18,0,0,44,24,0,1,2
+214,Pierre Højbjerg,dk  DEN,MF,Southampton,20,1995,14.5,2,0,0,17,30,0,21,31,31,0,0,0
+215,Jordon Ibe,eng  ENG,"MF,FW",Bournemouth,20,1995,11.7,0,0,0,7,13,1,43,10,11,0,0,0
+216,Didier Ibrahim Ndong,ga  GAB,MF,Sunderland,22,1994,28.0,5,0,0,39,28,4,39,50,64,1,1,0
+217,Zlatan Ibrahimović,se  SWE,FW,Manchester Utd,34,1981,27.1,7,0,0,54,20,37,18,12,6,0,0,0
+218,Odion Ighalo,ng  NGA,FW,Watford,27,1989,14.3,1,0,0,18,15,9,6,4,8,0,0,0
+219,Kelechi Iheanacho,ng  NGA,FW,Manchester City,19,1996,6.0,0,0,0,7,2,6,4,0,5,0,0,0
+220,Giannelli Imbula,cd  COD,MF,Stoke City,23,1992,8.8,1,0,0,3,12,0,8,4,10,0,0,1
+221,Branislav Ivanović,rs  SRB,DF,Chelsea,32,1984,6.5,2,0,0,8,8,2,23,11,11,0,0,0
+222,Alex Iwobi,ng  NGA,MF,Arsenal,20,1996,16.2,1,0,0,7,13,3,19,8,15,0,0,0
+223,Phil Jagielka,eng  ENG,DF,Everton,33,1982,25.0,5,2,1,14,28,0,1,41,34,0,3,0
+224,Eldin Jakupović,ch  SUI,GK,Hull City,31,1984,22.0,0,0,0,0,2,0,0,1,0,0,0,0
+225,Matty James,eng  ENG,MF,Leicester City,25,1991,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+226,Daryl Janmaat,nl  NED,"MF,DF",Watford,27,1989,18.0,2,0,0,16,4,5,54,23,30,0,0,0
+227,Vincent Janssen,nl  NED,FW,Tottenham,22,1994,9.4,0,0,0,31,25,8,10,4,14,1,1,0
+228,Adnan Januzaj,be  BEL,"MF,FW",Sunderland,21,1995,18.1,4,2,1,26,38,3,66,9,15,0,0,0
+229,Mile Jedinak,au  AUS,MF,Crystal Palace,31,1984,1.0,0,0,0,4,2,0,1,1,2,0,0,0
+230,Carl Jenkinson,eng  ENG,DF,Arsenal,24,1992,0.9,0,0,0,1,1,0,3,2,3,0,0,0
+231,Gabriel Jesus,br  BRA,"FW,MF",Manchester City,19,1997,7.2,2,0,0,11,17,9,2,3,7,0,0,0
+232,Glen Johnson,eng  ENG,DF,Stoke City,31,1984,21.7,1,0,0,12,19,0,34,42,37,0,0,0
+233,Billy Jones,eng  ENG,"DF,MF",Sunderland,29,1987,25.2,8,0,0,25,12,0,44,50,43,0,0,0
+234,David Jones,eng  ENG,MF,Burnley,31,1984,1.0,1,0,0,1,0,0,11,1,0,0,0,0
+235,Phil Jones,eng  ENG,DF,Manchester Utd,24,1992,17.6,2,0,0,9,11,0,1,27,25,0,1,0
+236,Lukas Jutkiewicz,eng  ENG,FW,Burnley,27,1989,0.1,0,0,0,1,1,0,0,0,0,0,0,0
+237,Christian Kabasele,be  BEL,"DF,MF",Watford,25,1991,8.6,1,0,0,15,4,0,10,16,13,0,0,0
+238,Sullay Kaikai,sl  SLE,"FW,MF",Crystal Palace,20,1995,0.3,0,0,0,0,0,0,2,0,0,0,0,0
+239,Harry Kane,eng  ENG,FW,Tottenham,23,1993,28.0,3,0,0,23,45,17,29,7,15,1,0,0
+240,N'Golo Kanté,fr  FRA,MF,Chelsea,25,1991,34.9,9,0,0,54,16,0,12,83,84,0,0,0
+241,Loris Karius,de  GER,GK,Liverpool,23,1993,10.0,0,0,0,0,1,0,0,1,0,0,0,0
+242,Michael Keane,eng  ENG,DF,Burnley,23,1993,35.0,4,0,0,16,11,1,7,66,28,0,1,0
+243,Will Keane,eng  ENG,FW,Hull City,23,1993,3.1,0,0,0,4,2,2,3,1,0,0,0,0
+244,Martin Kelly,eng  ENG,DF,Crystal Palace,26,1990,23.6,4,0,0,18,9,0,36,26,34,0,0,0
+245,Jonjoe Kenny,eng  ENG,"DF,FW",Everton,19,1997,0.1,0,0,0,1,0,0,4,0,0,0,0,0
+246,Wahbi Khazri,tn  TUN,"MF,FW",Sunderland,25,1991,9.4,6,0,0,20,16,7,71,9,10,0,0,0
+247,Michael Kightly,eng  ENG,MF,Burnley,30,1986,1.2,0,0,0,3,2,0,14,0,4,0,0,0
+248,Andy King,wls  WAL,MF,Leicester City,27,1988,16.1,4,0,0,18,17,1,14,26,29,0,0,0
+249,Joshua King,no  NOR,"MF,FW",Bournemouth,24,1992,30.1,1,0,0,58,43,6,42,22,41,0,0,0
+250,Stephen Kingsley,sct  SCO,DF,Swansea City,22,1994,11.5,0,0,0,3,7,0,46,9,10,0,0,0
+251,Jan Kirchhoff,de  GER,MF,Sunderland,25,1990,4.8,1,0,0,8,1,0,1,11,10,0,0,0
+252,Ragnar Klavan,ee  EST,DF,Liverpool,30,1985,15.7,3,0,0,15,8,0,3,14,17,0,1,0
+253,Aleksandar Kolarov,rs  SRB,DF,Manchester City,30,1985,28.2,6,0,0,34,39,0,27,47,35,0,0,1
+254,Vincent Kompany,be  BEL,DF,Manchester City,30,1986,9.1,5,0,0,19,6,0,1,19,11,0,0,0
+255,Arouna Koné,ci  CIV,FW,Everton,32,1983,0.8,0,0,0,0,0,0,0,0,0,0,0,0
+256,Lamine Koné,ci  CIV,DF,Sunderland,27,1989,28.3,4,0,0,15,10,2,3,51,28,0,0,0
+257,Laurent Koscielny,fr  FRA,DF,Arsenal,30,1985,31.4,4,1,0,19,26,2,3,90,42,1,1,0
+258,Cheikhou Kouyaté,sn  SEN,"MF,DF",West Ham,26,1989,30.2,3,0,0,45,39,2,15,78,53,0,1,0
+259,Bojan Krkić,es  ESP,"MF,FW",Stoke City,25,1990,5.3,1,0,0,4,10,0,25,3,5,1,0,0
+260,Adam Lallana,eng  ENG,"MF,FW",Liverpool,28,1988,26.1,3,0,0,17,30,12,48,20,35,0,0,0
+261,Rickie Lambert,eng  ENG,FW,West Brom,34,1982,0.1,0,0,0,1,0,0,0,1,0,0,0,0
+262,Érik Lamela,ar  ARG,MF,Tottenham,24,1992,6.6,1,0,0,13,11,1,26,4,12,0,1,0
+263,Manuel Lanzini,ar  ARG,MF,West Ham,23,1993,30.1,9,0,0,20,38,7,73,51,34,0,0,0
+264,Seb Larsson,se  SWE,MF,Sunderland,31,1985,16.3,4,1,0,30,8,0,72,17,31,0,1,0
+265,Grant Leadbitter,eng  ENG,MF,Middlesbrough,30,1986,7.9,1,0,0,8,7,0,20,9,12,0,0,0
+266,Joe Ledley,wls  WAL,MF,Crystal Palace,29,1987,12.9,1,0,0,9,10,0,7,28,16,0,0,0
+267,Lucas Leiva,br  BRA,"MF,DF",Liverpool,29,1987,12.4,4,0,0,18,12,0,5,36,26,0,0,0
+268,Jonathan Leko,eng  ENG,"FW,MF",West Brom,17,1999,2.0,0,0,0,0,5,0,11,2,0,0,0,0
+269,Aaron Lennon,eng  ENG,"MF,FW",Everton,29,1987,5.7,0,0,0,2,3,0,11,5,12,0,0,0
+270,Jeremain Lens,nl  NED,"FW,MF",Sunderland,28,1987,0.8,0,0,0,1,3,0,2,2,2,0,0,0
+271,Joleon Lescott,eng  ENG,DF,Sunderland,33,1982,1.4,0,0,0,2,1,0,0,4,0,0,0,0
+272,Filip Lesniak,sk  SVK,MF,Tottenham,20,1996,0.1,0,0,0,0,0,0,0,0,1,0,0,0
+273,Jesse Lingard,eng  ENG,"MF,FW",Manchester Utd,23,1992,15.1,3,0,0,26,19,5,26,15,16,0,0,0
+274,Fernando Llorente,es  ESP,FW,Swansea City,31,1985,27.1,2,0,0,51,31,12,8,2,17,0,0,0
+275,Hugo Lloris,fr  FRA,GK,Tottenham,29,1986,33.4,0,0,0,0,4,0,0,2,0,0,0,0
+276,Ruben Loftus-Cheek,eng  ENG,MF,Chelsea,20,1996,0.4,0,0,0,2,0,0,0,0,0,0,0,0
+277,Kevin Long,ie  IRL,DF,Burnley,25,1990,3.0,0,0,0,1,3,0,0,3,4,0,0,0
+278,Shane Long,ie  IRL,FW,Southampton,29,1987,14.7,2,0,0,27,37,13,25,5,11,2,0,0
+279,Ademola Lookman,eng  ENG,FW,Everton,18,1997,3.2,0,0,0,4,7,2,1,2,4,0,0,0
+280,Donald Love,sct  SCO,DF,Sunderland,21,1994,6.8,1,0,0,8,4,0,20,15,14,0,0,0
+281,Dejan Lovren,hr  CRO,DF,Liverpool,27,1989,28.4,6,0,0,25,20,1,7,47,32,0,0,0
+282,Matthew Lowton,eng  ENG,DF,Burnley,27,1989,36.0,9,0,0,34,23,0,116,70,71,0,1,0
+283,David Luiz,br  BRA,DF,Chelsea,29,1987,32.8,6,0,0,29,30,3,7,69,27,0,0,0
+284,Romelu Lukaku,be  BEL,FW,Everton,23,1993,36.3,3,0,0,32,34,36,46,0,9,0,0,0
+285,Harry Maguire,eng  ENG,DF,Hull City,23,1993,25.6,5,0,0,24,34,3,15,67,39,0,1,0
+286,Riyad Mahrez,dz  ALG,MF,Leicester City,25,1991,31.4,4,0,0,23,66,8,153,28,24,1,0,0
+287,Ainsley Maitland-Niles,eng  ENG,"DF,FW",Arsenal,18,1997,0.0,0,0,0,0,0,0,0,0,1,0,0,0
+288,Shaun Maloney,sct  SCO,MF,Hull City,33,1983,3.1,0,0,0,3,7,0,12,1,6,0,0,0
+289,Steve Mandanda,fr  FRA,GK,Crystal Palace,31,1985,9.0,0,0,0,0,1,0,0,0,0,0,0,0
+290,Sadio Mané,sn  SEN,FW,Liverpool,24,1992,24.8,4,0,0,32,55,13,41,11,18,1,1,0
+291,Vito Mannone,it  ITA,GK,Sunderland,28,1988,9.0,0,0,0,0,0,0,0,1,0,0,0,0
+292,Javier Manquillo,es  ESP,"DF,MF",Sunderland,22,1994,15.9,2,0,0,14,13,5,36,25,22,0,0,0
+293,Adrian Mariappa,jm  JAM,DF,Watford,29,1986,6.2,0,0,0,4,4,2,1,14,16,0,0,0
+294,Lazar Marković,rs  SRB,MF,Hull City,22,1994,11.2,4,0,0,17,19,2,18,14,12,0,0,0
+295,Dean Marney,eng  ENG,MF,Burnley,32,1984,19.6,7,0,0,34,20,0,7,28,28,0,0,0
+296,David Marshall,sct  SCO,GK,Hull City,31,1985,16.0,0,0,0,0,1,0,0,0,0,0,0,1
+297,Anthony Martial,fr  FRA,"MF,FW",Manchester Utd,20,1995,17.3,2,0,0,26,28,6,57,9,16,0,0,0
+298,Cuco Martina,cw  CUW,DF,Southampton,26,1989,6.6,0,0,0,4,5,1,37,14,9,0,0,0
+299,Emiliano Martínez,ar  ARG,GK,Arsenal,23,1992,2.0,0,0,0,0,0,0,0,0,0,0,1,0
+300,Bruno Martins Indi,nl  NED,DF,Stoke City,24,1992,35.0,4,0,0,25,10,2,4,66,42,0,0,0
+301,Brandon Mason,eng  ENG,DF,Watford,18,1997,1.3,0,0,0,3,2,0,0,3,1,0,0,0
+302,Ryan Mason,eng  ENG,MF,Hull City,25,1991,10.3,4,0,0,10,16,0,25,14,10,0,0,0
+303,Arthur Masuaku,cd  COD,"DF,MF",West Ham,22,1993,10.8,1,0,0,16,10,0,30,26,32,0,1,0
+304,Juan Mata,es  ESP,"MF,FW",Manchester Utd,28,1988,17.9,3,0,0,9,16,9,93,13,18,0,0,1
+305,Nemanja Matić,rs  SRB,MF,Chelsea,27,1988,29.9,4,0,0,33,26,2,8,55,40,0,0,0
+306,Joël Matip,cm  CMR,DF,Liverpool,24,1991,27.3,3,0,0,14,11,0,5,49,37,0,1,0
+307,Alfie Mawson,eng  ENG,DF,Swansea City,22,1994,27.0,1,0,0,10,19,0,1,29,24,0,1,2
+308,Dieumerci Mbokani,cd  COD,FW,Hull City,30,1985,8.5,0,0,0,14,23,12,3,1,3,1,0,0
+309,James McArthur,sct  SCO,MF,Crystal Palace,28,1987,22.2,5,0,0,41,27,4,27,26,45,0,0,0
+310,Gareth McAuley,nir  NIR,DF,West Brom,36,1979,34.9,5,0,0,26,12,0,6,74,37,0,1,1
+311,Oliver McBurnie,sct  SCO,FW,Swansea City,20,1996,0.9,0,0,0,1,0,0,1,0,1,0,0,0
+312,James McCarthy,ie  IRL,MF,Everton,25,1990,6.8,2,0,0,10,9,0,4,11,12,0,0,0
+313,James McClean,ie  IRL,"MF,FW",West Brom,27,1989,16.4,9,0,0,30,17,7,97,19,41,0,0,0
+314,Paddy McNair,nir  NIR,MF,Sunderland,21,1995,3.9,0,0,0,6,3,0,7,5,6,0,0,1
+315,Sam McQueen,eng  ENG,DF,Southampton,21,1995,6.8,0,0,0,3,3,0,37,15,11,1,0,0
+316,Scott McTominay,sct  SCO,MF,Manchester Utd,19,1996,1.1,1,0,0,2,2,0,1,2,1,0,0,0
+317,Ben Mee,eng  ENG,DF,Burnley,26,1989,33.5,5,0,0,23,28,1,6,74,31,1,2,2
+318,Nampalys Mendy,sn  SEN,MF,Leicester City,24,1992,3.0,1,0,0,4,8,0,1,6,1,0,0,0
+319,Per Mertesacker,de  GER,DF,Arsenal,31,1984,0.4,0,0,0,0,1,0,0,1,1,0,0,0
+320,David Meyler,ie  IRL,"MF,DF",Hull City,27,1989,10.7,2,0,0,9,17,1,15,20,20,0,0,0
+321,Simon Mignolet,be  BEL,GK,Liverpool,28,1988,28.0,0,0,0,0,5,0,0,1,1,0,0,0
+322,Luka Milivojević,rs  SRB,MF,Crystal Palace,25,1991,13.6,4,0,0,27,16,0,6,41,18,0,0,0
+323,James Milner,eng  ENG,DF,Liverpool,30,1986,35.0,5,0,0,38,24,2,260,44,64,0,1,0
+324,Tyrone Mings,eng  ENG,DF,Bournemouth,23,1993,5.6,0,0,0,7,5,0,1,6,10,0,0,2
+325,Kevin Mirallas,be  BEL,"FW,MF",Everton,28,1987,23.0,2,0,0,26,25,4,137,8,14,0,0,0
+326,Demetri Mitchell,eng  ENG,DF,Manchester Utd,19,1997,1.0,0,0,0,2,2,0,2,3,4,0,0,0
+327,Henrikh Mkhitaryan,am  ARM,"FW,MF",Manchester Utd,27,1989,15.0,1,0,0,19,26,8,48,22,18,0,0,0
+328,Nacho Monreal,es  ESP,DF,Arsenal,30,1986,35.0,5,0,0,33,36,8,63,89,64,0,1,0
+329,Jefferson Montero,ec  ECU,"MF,FW",Swansea City,26,1989,5.4,0,0,0,1,9,2,38,1,5,0,0,0
+330,Alberto Moreno,es  ESP,DF,Liverpool,24,1992,3.4,1,0,0,2,6,0,13,2,6,0,1,0
+331,Wes Morgan,jm  JAM,DF,Leicester City,32,1984,27.0,3,0,0,20,9,1,1,56,15,1,1,0
+332,James Morrison,sct  SCO,MF,West Brom,30,1986,19.3,3,0,0,18,16,3,22,22,19,0,0,0
+333,Victor Moses,ng  NGA,MF,Chelsea,25,1990,27.6,4,0,0,28,32,3,119,41,42,0,0,0
+334,Lys Mousset,fr  FRA,FW,Bournemouth,20,1996,3.0,0,0,0,6,5,1,3,0,1,0,0,1
+335,Marc Muniesa,es  ESP,DF,Stoke City,24,1992,7.2,2,0,0,9,7,0,7,21,12,0,0,0
+336,Ahmed Musa,ng  NGA,"MF,FW",Leicester City,23,1992,8.5,1,0,0,13,13,1,26,11,12,0,0,0
+337,Shkodran Mustafi,de  GER,DF,Arsenal,24,1992,25.3,11,0,0,36,16,1,20,61,43,0,0,0
+338,Jordon Mutch,eng  ENG,MF,Crystal Palace,24,1991,0.6,0,0,0,1,1,0,3,0,2,0,0,0
+339,Alfred N'Diaye,sn  SEN,MF,Hull City,26,1990,14.1,7,0,0,36,9,2,7,20,35,0,1,0
+340,Georges-Kévin N'Koudou,fr  FRA,MF,Tottenham,21,1995,0.6,0,0,0,1,3,0,7,0,1,0,0,0
+341,Luciano Narsingh,nl  NED,FW,Swansea City,25,1990,4.6,0,0,0,3,9,1,26,3,0,0,0,0
+342,Samir Nasri,fr  FRA,"FW,MF",Manchester City,29,1987,0.2,0,0,0,0,0,0,0,0,0,0,0,0
+343,Kyle Naughton,eng  ENG,DF,Swansea City,27,1988,30.2,5,0,0,25,22,0,77,39,57,0,1,1
+344,Jesús Navas,es  ESP,"MF,DF",Manchester City,30,1985,11.8,2,0,0,7,11,3,92,21,18,0,0,0
+345,Wilfred Ndidi,ng  NGA,MF,Leicester City,19,1996,16.9,0,0,0,26,10,1,3,38,39,0,0,0
+346,Álvaro Negredo,es  ESP,FW,Middlesbrough,30,1985,31.9,5,0,0,46,31,17,11,11,17,1,0,0
+347,Julien Ngoy,be  BEL,"FW,MF",Stoke City,18,1997,0.5,0,0,0,0,1,0,3,0,1,0,0,0
+348,M'Baye Niang,sn  SEN,"MF,FW",Watford,21,1994,13.8,2,0,0,24,31,5,37,10,6,0,0,0
+349,Oumar Niasse,sn  SEN,FW,Hull City,26,1990,12.2,3,1,0,16,18,10,14,2,10,0,0,0
+350,Mark Noble,eng  ENG,MF,West Ham,29,1987,26.5,10,0,0,27,43,1,24,42,32,0,0,0
+351,Nolito,es  ESP,"MF,FW",Manchester City,29,1986,8.6,3,1,0,17,9,4,16,6,11,0,0,0
+352,Kristoffer Nordfeldt,se  SWE,GK,Swansea City,27,1989,1.0,0,0,0,0,1,0,0,0,0,0,0,0
+353,Håvard Nordtveit,no  NOR,"DF,MF",West Ham,26,1990,10.6,2,0,0,11,8,0,8,24,16,0,1,0
+354,Emilio Nsue,gq  EQG,"DF,MF",Middlesbrough,26,1989,3.6,0,0,0,4,4,0,5,6,2,0,0,0
+355,David Nugent,eng  ENG,FW,Middlesbrough,31,1985,0.5,0,0,0,2,0,0,2,0,1,0,0,0
+356,Allan Nyom,cm  CMR,DF,West Brom,28,1988,29.3,8,0,0,50,19,2,78,61,55,0,1,0
+357,Aiden O'Neill,au  AUS,MF,Burnley,18,1998,0.9,0,0,0,1,0,0,1,1,1,0,0,0
+358,John O'Shea,ie  IRL,DF,Sunderland,35,1981,24.0,5,0,0,17,9,0,0,41,20,0,0,0
+359,Pedro Obiang,gq  EQG,MF,West Ham,24,1992,19.6,7,0,0,27,39,0,8,33,57,0,0,0
+360,Angelo Ogbonna,it  ITA,DF,West Ham,28,1988,19.5,2,0,0,13,5,0,4,39,24,0,1,0
+361,Stefano Okaka,it  ITA,FW,Watford,26,1989,10.6,5,0,0,29,22,11,5,1,10,0,0,0
+362,Shinji Okazaki,jp  JPN,"FW,MF",Leicester City,30,1986,17.4,1,0,0,27,44,4,4,14,26,1,0,0
+363,Jonas Olsson,se  SWE,DF,West Brom,33,1983,6.6,3,0,0,12,6,2,0,11,2,0,0,0
+364,Martin Olsson,se  SWE,DF,Swansea City,28,1988,13.9,2,0,0,12,24,0,57,11,7,0,0,0
+365,Josh Onomah,eng  ENG,"FW,MF",Tottenham,19,1997,0.2,0,0,0,0,1,1,1,0,2,0,0,0
+366,Divock Origi,be  BEL,FW,Liverpool,21,1995,16.3,0,0,0,22,32,13,31,2,11,0,0,0
+367,Oscar,br  BRA,MF,Chelsea,24,1991,5.1,1,0,0,5,5,0,15,5,16,0,0,0
+368,David Ospina,co  COL,GK,Arsenal,27,1988,1.6,0,0,0,0,1,0,0,0,0,0,0,0
+369,Nicolás Otamendi,ar  ARG,DF,Manchester City,28,1988,28.8,9,0,0,30,26,2,4,83,50,1,0,0
+370,Alex Oxlade-Chamberlain,eng  ENG,MF,Arsenal,22,1993,18.1,1,0,0,30,18,1,68,13,32,0,0,0
+371,Mesut Özil,de  GER,MF,Arsenal,27,1988,31.6,2,0,0,13,33,22,186,16,22,0,0,0
+372,Costel Pantilimon,ro  ROU,GK,Watford,29,1987,0.9,0,0,0,0,0,0,0,0,0,0,0,0
+373,Gabriel Paulista,br  BRA,DF,Arsenal,25,1990,16.9,6,0,0,19,11,0,8,32,16,0,1,0
+374,Dimitri Payet,fr  FRA,"MF,FW",West Ham,29,1987,16.8,2,0,0,7,35,1,156,6,7,1,0,0
+375,Pedro,es  ESP,"FW,MF",Chelsea,29,1987,23.8,6,0,0,32,40,8,72,21,36,1,0,0
+376,Matthew Pennington,eng  ENG,DF,Everton,21,1994,2.0,0,0,0,1,0,0,1,6,1,0,0,0
+377,Dion Pereira,eng  ENG,MF,Watford,17,1999,0.3,0,0,0,0,0,0,1,0,0,0,0,0
+378,Roberto Pereyra,ar  ARG,"MF,FW",Watford,25,1991,11.5,2,1,0,8,18,2,32,8,6,0,0,0
+379,Lucas Pérez,es  ESP,"MF,FW",Arsenal,27,1988,3.0,0,0,0,3,2,0,9,2,4,0,0,0
+380,Matt Phillips,sct  SCO,MF,West Brom,25,1991,24.2,2,0,0,12,10,3,145,21,14,0,0,0
+381,Jordan Pickford,eng  ENG,GK,Sunderland,22,1994,29.0,0,0,0,0,6,0,0,3,0,0,0,0
+382,Jérémy Pied,fr  FRA,DF,Southampton,27,1989,1.4,0,0,0,1,3,0,13,3,2,0,0,0
+383,Steven Pienaar,za  RSA,"MF,FW",Sunderland,34,1982,8.9,6,2,1,16,26,0,12,17,15,0,0,0
+384,Erik Pieters,nl  NED,"DF,MF",Stoke City,27,1988,35.0,5,0,0,58,58,1,111,58,78,0,0,0
+385,Paul Pogba,fr  FRA,MF,Manchester Utd,23,1993,29.0,7,0,0,63,71,3,39,37,40,0,1,0
+386,Sebastian Prödl,at  AUT,DF,Watford,29,1987,30.8,11,2,1,40,26,1,3,55,28,1,1,0
+387,Marc Pugh,eng  ENG,MF,Bournemouth,29,1987,14.8,1,0,0,7,21,1,40,13,13,3,0,0
+388,Jason Puncheon,eng  ENG,MF,Crystal Palace,30,1986,34.3,9,0,0,61,37,1,149,40,61,0,0,0
+389,Gastón Ramírez,uy  URU,"MF,FW",Middlesbrough,25,1990,17.1,9,2,1,36,30,1,81,15,37,0,0,0
+390,Aaron Ramsey,wls  WAL,MF,Arsenal,25,1990,13.7,3,0,0,15,20,2,21,15,12,0,0,0
+391,Darren Randolph,ie  IRL,GK,West Ham,29,1987,22.0,1,0,0,0,2,0,0,1,0,0,0,0
+392,Àngel Rangel,es  ESP,DF,Swansea City,33,1982,9.2,1,0,0,10,10,1,11,26,23,0,1,0
+393,Andrea Ranocchia,it  ITA,DF,Hull City,28,1988,14.8,2,0,0,12,17,0,2,27,22,0,0,0
+394,Marcus Rashford,eng  ENG,"FW,MF",Manchester Utd,18,1997,19.0,3,0,0,16,33,12,84,14,14,1,0,0
+395,Nathan Redmond,eng  ENG,"FW,MF",Southampton,22,1994,32.2,2,1,0,38,47,14,65,15,27,0,1,0
+396,Harrison Reed,eng  ENG,MF,Southampton,21,1995,0.7,0,0,0,1,0,0,0,5,2,0,0,0
+397,Winston Reid,nz  NZL,DF,West Ham,28,1988,28.7,9,2,1,33,36,1,4,86,29,2,0,0
+398,Loïc Rémy,fr  FRA,FW,Crystal Palace,29,1987,1.5,0,0,0,2,1,1,6,0,0,0,0,0
+399,Jordan Rhodes,sct  SCO,FW,Middlesbrough,26,1990,2.3,0,0,0,3,3,2,1,0,1,0,0,0
+400,Declan Rice,eng  ENG,"DF,MF",West Ham,17,1999,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+401,Andrew Robertson,sct  SCO,"DF,MF",Hull City,22,1994,30.4,5,0,0,18,10,1,120,56,36,0,2,0
+402,Paul Robinson,eng  ENG,GK,Burnley,36,1979,3.0,0,0,0,0,1,0,0,0,0,0,0,0
+403,Joel Robles,es  ESP,GK,Everton,26,1990,19.3,2,0,0,0,4,0,0,0,1,0,1,0
+404,Hal Robson-Kanu,wls  WAL,FW,West Brom,27,1989,7.8,3,0,0,28,24,5,11,4,4,0,0,0
+405,Jay Rodriguez,eng  ENG,FW,Southampton,27,1989,9.9,0,0,0,15,8,10,8,2,6,0,0,0
+406,Jack Rodwell,eng  ENG,MF,Sunderland,25,1991,16.6,4,0,0,23,12,1,8,19,29,0,0,0
+407,Marcos Rojo,ar  ARG,DF,Manchester Utd,26,1990,18.5,5,0,0,23,10,0,10,35,22,0,0,0
+408,Sergio Romero,ar  ARG,GK,Manchester Utd,29,1987,2.0,0,0,0,0,0,0,0,0,0,0,0,0
+409,Oriol Romeu,es  ESP,MF,Southampton,24,1991,34.1,11,0,0,64,35,1,3,95,90,0,0,0
+410,Salomón Rondón,ve  VEN,FW,West Brom,26,1989,32.1,2,0,0,41,59,29,9,8,14,0,0,0
+411,Marten de Roon,nl  NED,MF,Middlesbrough,25,1991,30.8,8,0,0,65,23,3,24,46,50,0,2,0
+412,Wayne Rooney,eng  ENG,"MF,FW",Manchester Utd,30,1985,17.1,8,0,0,23,11,8,98,18,11,0,0,0
+413,Danny Rose,eng  ENG,"DF,MF",Tottenham,26,1990,17.0,8,0,0,29,48,1,65,22,34,0,0,0
+414,Wayne Routledge,eng  ENG,"FW,MF",Swansea City,31,1985,21.4,1,0,0,28,14,9,82,16,20,0,0,0
+415,Bacary Sagna,fr  FRA,DF,Manchester City,33,1983,15.0,2,0,0,3,8,1,26,23,16,0,0,0
+416,Diafra Sakho,sn  SEN,FW,West Ham,26,1989,2.0,0,0,0,3,3,6,2,0,1,0,0,0
+417,Mamadou Sakho,fr  FRA,DF,Crystal Palace,26,1990,7.6,0,0,0,1,4,0,1,14,1,0,0,0
+418,Bakary Sako,ml  MLI,MF,Crystal Palace,28,1988,1.6,0,0,0,2,5,1,16,0,6,0,0,0
+419,Alexis Sánchez,cl  CHI,"FW,MF",Arsenal,27,1988,35.7,6,0,0,48,71,27,65,27,40,1,0,0
+420,Leroy Sané,de  GER,"MF,FW",Manchester City,20,1996,19.8,4,0,0,14,17,12,53,17,22,2,0,0
+421,Kasper Schmeichel,dk  DEN,GK,Leicester City,29,1986,29.6,1,0,0,0,4,0,1,1,2,0,0,0
+422,Xherdan Shaqiri,ch  SUI,MF,Stoke City,24,1991,18.9,2,0,0,16,28,5,129,10,6,1,0,0
+423,Luke Shaw,eng  ENG,DF,Manchester Utd,21,1995,7.6,1,0,0,7,6,0,20,14,7,1,0,0
+424,Ryan Shawcross,eng  ENG,DF,Stoke City,28,1987,35.0,6,0,0,34,23,2,2,56,36,1,1,2
+425,Gylfi Sigurðsson,is  ISL,"FW,MF",Swansea City,26,1989,37.0,2,0,0,19,33,1,308,37,33,2,0,0
+426,David Silva,es  ESP,MF,Manchester City,30,1986,30.7,6,0,0,29,54,7,126,20,32,1,0,0
+427,Danny Simpson,eng  ENG,DF,Leicester City,29,1987,33.2,12,0,0,35,12,2,26,69,41,0,1,0
+428,Josh Sims,eng  ENG,FW,Southampton,19,1997,2.3,0,0,0,2,3,0,8,1,3,0,0,0
+429,Jerome Sinclair,eng  ENG,FW,Watford,19,1996,1.3,0,0,0,4,3,0,0,0,0,0,0,0
+430,Moussa Sissoko,fr  FRA,"MF,FW",Tottenham,26,1989,10.1,3,0,0,21,10,2,34,7,12,0,0,0
+431,Islam Slimani,dz  ALG,FW,Leicester City,28,1988,14.2,1,0,0,27,15,11,3,3,10,0,0,0
+432,Chris Smalling,eng  ENG,DF,Manchester Utd,26,1989,13.5,0,0,0,8,8,1,0,13,10,0,0,0
+433,Adam Smith,eng  ENG,"DF,MF",Bournemouth,25,1991,34.2,6,0,0,44,70,3,57,55,60,0,1,1
+434,Brad Smith,au  AUS,"DF,MF",Bournemouth,22,1994,3.2,1,0,0,2,3,0,5,3,3,0,0,0
+435,Cédric Soares,pt  POR,DF,Southampton,24,1991,27.9,7,0,0,22,19,2,144,37,61,0,0,0
+436,Ramadan Sobhi,eg  EGY,MF,Stoke City,19,1997,9.5,2,0,0,10,9,3,7,5,20,0,0,0
+437,Pape Souaré,sn  SEN,DF,Crystal Palace,26,1990,3.0,0,0,0,1,4,0,15,10,4,0,0,0
+438,Junior Stanislas,eng  ENG,MF,Bournemouth,26,1989,16.3,1,0,0,8,9,5,70,9,11,0,0,0
+439,Maarten Stekelenburg,nl  NED,GK,Everton,33,1982,18.7,2,0,0,0,4,0,0,0,0,0,0,1
+440,Jack Stephens,eng  ENG,DF,Southampton,22,1994,16.3,1,0,0,15,5,1,5,27,18,0,1,0
+441,Raheem Sterling,eng  ENG,"MF,FW",Manchester City,21,1994,27.9,7,0,0,35,55,15,85,20,20,3,1,0
+442,Kevin Stewart,eng  ENG,"DF,MF",Liverpool,22,1993,0.2,0,0,0,1,0,0,0,0,0,0,0,0
+443,John Stones,eng  ENG,DF,Manchester City,22,1994,22.4,1,0,0,9,9,0,0,42,22,0,0,0
+444,Cristhian Stuani,uy  URU,"FW,MF",Middlesbrough,29,1986,15.0,4,0,0,21,30,4,26,10,26,0,0,0
+445,Daniel Sturridge,eng  ENG,FW,Liverpool,26,1989,8.6,1,0,0,5,9,7,8,3,1,1,0,0
+446,Isaac Success,ng  NGA,MF,Watford,20,1996,5.8,2,0,0,12,24,1,13,6,12,0,0,0
+447,Ki Sung-yueng,kr  KOR,MF,Swansea City,27,1989,14.3,3,0,0,18,22,1,10,21,18,1,1,0
+448,Andrew Surman,eng  ENG,MF,Bournemouth,29,1986,20.0,2,2,1,16,18,0,6,39,11,0,0,0
+449,Dušan Tadić,rs  SRB,"FW,MF",Southampton,27,1988,26.8,4,0,0,30,41,9,186,19,16,0,1,0
+450,Matt Targett,eng  ENG,DF,Southampton,20,1995,4.1,0,0,0,2,3,0,25,8,8,0,0,0
+451,James Tarkowski,eng  ENG,DF,Burnley,23,1992,6.3,1,0,0,10,9,2,3,10,13,0,0,0
+452,Neil Taylor,wls  WAL,DF,Swansea City,27,1989,10.2,1,0,0,13,4,0,28,26,18,0,0,0
+453,John Terry,eng  ENG,DF,Chelsea,35,1980,5.5,1,0,0,5,3,0,3,5,2,0,0,0
+454,James Tomkins,eng  ENG,DF,Crystal Palace,27,1989,21.9,4,0,0,11,11,0,4,38,19,0,0,0
+455,Gökhan Töre,tr  TUR,"MF,FW",West Ham,24,1992,2.7,0,0,0,4,2,1,13,0,3,0,0,0
+456,Yaya Touré,ci  CIV,MF,Manchester City,33,1983,21.6,4,0,0,27,10,0,5,19,31,0,0,0
+457,Andros Townsend,eng  ENG,MF,Crystal Palace,25,1991,28.0,4,0,0,19,35,3,236,44,64,1,0,0
+458,Adama Traoré,es  ESP,"MF,FW",Middlesbrough,20,1996,17.1,1,0,0,20,42,1,79,7,26,0,0,0
+459,Kieran Trippier,eng  ENG,"DF,MF",Tottenham,25,1990,6.3,1,0,0,8,6,1,29,7,14,0,0,0
+460,Axel Tuanzebe,eng  ENG,"MF,DF",Manchester Utd,18,1997,3.4,0,0,0,6,4,0,0,7,4,0,0,0
+461,Josh Tymon,eng  ENG,"MF,DF",Hull City,17,1999,3.6,1,0,0,4,2,0,7,6,6,0,0,0
+462,Leonardo Ulloa,ar  ARG,FW,Leicester City,30,1986,5.0,0,0,0,20,5,4,1,2,8,0,0,0
+463,Víctor Valdés,es  ESP,GK,Middlesbrough,34,1982,28.0,1,0,0,0,4,0,0,3,1,0,0,0
+464,Antonio Valencia,ec  ECU,DF,Manchester Utd,30,1985,27.6,5,0,0,33,17,7,142,43,44,0,0,0
+465,Jamie Vardy,eng  ENG,FW,Leicester City,29,1987,31.1,2,1,0,26,27,25,49,10,14,1,0,0
+466,Jan Vertonghen,be  BEL,DF,Tottenham,29,1987,32.2,5,0,0,21,21,0,9,44,37,0,0,0
+467,Sam Vokes,wls  WAL,FW,Burnley,26,1989,22.9,0,0,0,24,29,23,7,5,8,1,0,0
+468,Michel Vorm,nl  NED,GK,Tottenham,32,1983,4.6,0,0,0,0,1,0,0,0,1,0,0,0
+469,Matěj Vydra,cz  CZE,"FW,MF",Watford,24,1992,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+470,Theo Walcott,eng  ENG,MF,Arsenal,27,1989,21.3,1,0,0,15,29,17,50,13,27,1,0,0
+471,Kyle Walker,eng  ENG,"DF,MF",Tottenham,26,1990,30.0,8,0,0,36,33,3,96,38,53,0,0,0
+472,Jonathan Walters,ie  IRL,"FW,MF",Stoke City,32,1983,14.5,1,0,0,13,23,12,37,7,7,1,0,0
+473,Victor Wanyama,ke  KEN,MF,Tottenham,25,1991,33.5,10,0,0,64,37,0,15,39,64,0,0,0
+474,Joel Ward,eng  ENG,DF,Crystal Palace,26,1989,38.0,7,0,0,36,53,0,79,64,67,0,0,0
+475,Stephen Ward,ie  IRL,DF,Burnley,30,1985,35.9,5,0,0,34,56,0,115,75,49,0,0,0
+476,James Ward-Prowse,eng  ENG,MF,Southampton,21,1994,20.9,4,0,0,27,18,1,144,19,21,0,0,0
+477,Marcin Wasilewski,pl  POL,DF,Leicester City,36,1980,1.0,0,0,0,0,0,0,0,2,1,0,0,0
+478,Duncan Watmore,eng  ENG,"MF,FW",Sunderland,22,1994,11.4,1,0,0,10,22,4,22,9,11,1,0,0
+479,Ben Watson,eng  ENG,MF,Watford,31,1985,0.6,0,1,0,2,0,0,0,4,1,0,0,0
+480,Danny Welbeck,eng  ENG,"FW,MF",Arsenal,25,1990,8.3,0,0,0,7,9,2,2,6,5,0,0,0
+481,Ashley Westwood,eng  ENG,MF,Burnley,26,1990,6.1,3,0,0,8,1,0,2,5,6,0,0,0
+482,Glenn Whelan,ie  IRL,MF,Stoke City,32,1984,25.3,5,0,0,18,21,0,24,41,31,0,0,1
+483,Connor Wickham,eng  ENG,"FW,MF",Crystal Palace,23,1993,4.6,1,0,0,12,5,1,6,2,2,0,0,0
+484,Georginio Wijnaldum,nl  NED,MF,Liverpool,25,1990,33.0,2,0,0,21,31,3,14,25,36,0,0,0
+485,Ashley Williams,wls  WAL,DF,Everton,31,1984,35.1,7,1,0,37,14,3,2,57,43,1,1,0
+486,Willian,br  BRA,"FW,MF",Chelsea,27,1988,17.0,3,0,0,12,23,2,106,7,12,0,0,0
+487,Callum Wilson,eng  ENG,FW,Bournemouth,24,1992,15.8,0,0,0,29,26,18,10,5,6,2,0,0
+488,Marc Wilson,ie  IRL,DF,West Brom,28,1987,2.8,3,0,0,5,2,0,6,5,3,0,0,0
+489,Kevin Wimmer,at  AUT,DF,Tottenham,23,1992,4.0,3,0,0,4,1,0,1,5,2,0,0,1
+490,Harry Winks,eng  ENG,MF,Tottenham,20,1996,5.5,1,0,0,10,10,0,7,6,8,0,0,0
+491,Philipp Wollscheid,de  GER,DF,Stoke City,27,1989,2.0,1,0,0,1,2,1,0,4,3,0,0,0
+492,Ben Woodburn,wls  WAL,FW,Liverpool,16,1999,1.0,0,0,0,2,1,0,5,0,3,0,0,0
+493,Matt Worthington,eng  ENG,"DF,MF",Bournemouth,18,1997,0.2,0,0,0,0,0,0,0,0,0,0,0,0
+494,Granit Xhaka,ch  SUI,MF,Arsenal,23,1992,27.6,5,2,0,37,19,1,26,44,55,0,2,0
+495,Claudio Yacob,ar  ARG,MF,West Brom,29,1987,26.9,9,0,0,39,34,0,3,60,65,0,0,0
+496,Maya Yoshida,jp  JPN,DF,Southampton,27,1988,23.0,2,0,0,18,20,1,9,48,21,2,1,0
+497,Ashley Young,eng  ENG,"DF,MF",Manchester Utd,31,1985,8.4,2,0,0,9,15,1,38,15,16,0,0,0
+498,Pablo Zabaleta,ar  ARG,"DF,MF",Manchester City,31,1985,11.5,2,0,0,14,15,5,15,27,28,0,0,0
+499,Wilfried Zaha,ci  CIV,"MF,FW",Crystal Palace,23,1992,33.5,8,0,0,56,120,6,106,34,56,1,0,0
+500,Mauro Zárate,ar  ARG,"FW,MF",Watford,29,1987,2.3,0,0,0,1,7,0,5,0,1,1,0,0
+501,Simone Zaza,it  ITA,FW,West Ham,25,1991,5.1,2,0,0,11,6,6,4,3,4,0,0,0
+502,Ron-Robert Zieler,de  GER,GK,Leicester City,27,1989,8.4,0,0,0,0,0,0,0,0,0,0,0,0
+503,Kurt Zouma,fr  FRA,DF,Chelsea,21,1994,2.8,0,0,0,2,2,0,2,5,6,0,0,0
+504,Juan Zúñiga,co  COL,"DF,MF",Watford,30,1985,9.2,1,0,0,5,22,0,11,19,16,1,0,0

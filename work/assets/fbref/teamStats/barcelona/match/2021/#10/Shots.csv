@@ -1,0 +1,11 @@
+,Minute,Player,Squad,Outcome,Distance,Body Part,Notes,Player_SCA 1,Event_SCA 1,Player_SCA 2,Event_SCA 2
+0,5,Frenkie de Jong,Barcelona,Blocked,24.0,Left Foot,,Lionel Messi,Pass (Live),Antoine Griezmann,Pass (Live)
+1,8,Álvaro Giménez,Cádiz,Goal,1.0,Left Foot,"Open goal, Half volley",,,,
+2,14,Philippe Coutinho,Barcelona,Off Target,9.0,Left Foot,,Sergiño Dest,Pass (Live),Lionel Messi,Pass (Live)
+3,17,Martin Braithwaite,Barcelona,Saved,15.0,Right Foot,,Lionel Messi,Pass (Live),Sergio Busquets,Pass (Live)
+4,45+2,Jordi Alba,Barcelona,Off Target,17.0,Left Foot,Half volley,Philippe Coutinho,Pass (Live),Frenkie de Jong,Pass (Live)
+5,,,,,,,,,,,
+6,62,Jairo Izquierdo,Cádiz,Wayward,20.0,Right Foot,Half volley,Alberto Perea,Shot,,
+7,73,Sergiño Dest,Barcelona,Off Target,13.0,Left Foot,,Sergio Busquets,Pass (Live),Antoine Griezmann,Pass (Live)
+8,82,Iván Alejo,Cádiz,Saved,11.0,Right Foot,,Álvaro Negredo,Pass (Live),Iván Alejo,Pass (Live)
+9,86,Bobby Adekanye,Cádiz,Off Target,17.0,Left Foot,,Iván Alejo,Pass (Live),Yann Bodiger,Fouled

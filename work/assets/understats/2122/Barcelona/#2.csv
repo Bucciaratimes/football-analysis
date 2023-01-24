@@ -1,0 +1,26 @@
+,minute,team,player,x,y,xG,result,shotType,assist
+0,0,Athletic Club,Iñaki Williams,0.9840000152587891,0.43599998474121093,0.10908938944339752,BlockedShot,RightFoot,Íñigo Lekue
+1,9,Athletic Club,Iñaki Williams,0.9680000305175781,0.3729999923706055,0.06436383724212646,SavedShot,RightFoot,Oihan Sancet
+2,10,Athletic Club,Oihan Sancet,0.8919999694824219,0.585,0.0667649433016777,ShotOnPost,RightFoot,Muniain
+3,17,Athletic Club,Iñaki Williams,0.88,0.37599998474121094,0.08725999295711517,BlockedShot,RightFoot,Oihan Sancet
+4,26,Athletic Club,Unai Vencedor,0.899000015258789,0.5670000076293945,0.08488214761018753,MissedShots,LeftFoot,None
+5,30,Athletic Club,Iñaki Williams,0.95,0.51,0.1452571302652359,MissedShots,Head,None
+6,39,Athletic Club,Iñaki Williams,0.745,0.6990000152587891,0.009788020513951778,SavedShot,RightFoot,None
+7,45,Athletic Club,Iñaki Williams,0.904000015258789,0.37599998474121094,0.0734570100903511,SavedShot,RightFoot,Alex Berenguer
+8,45,Athletic Club,Alex Berenguer,0.88,0.3820000076293945,0.3495013117790222,BlockedShot,LeftFoot,None
+9,49,Athletic Club,Iñigo Martínez,0.94,0.44299999237060544,0.11774607002735138,Goal,Head,Muniain
+10,58,Athletic Club,Unai Vencedor,0.7980000305175782,0.6229999923706054,0.01695244386792183,BlockedShot,RightFoot,None
+11,59,Athletic Club,Alex Berenguer,0.740999984741211,0.385,0.025339554995298386,MissedShots,RightFoot,Dani García
+12,62,Athletic Club,Oihan Sancet,0.8219999694824218,0.4490000152587891,0.07791707664728165,SavedShot,LeftFoot,None
+13,62,Athletic Club,Alex Berenguer,0.9069999694824219,0.40200000762939453,0.04998977854847908,BlockedShot,Head,Muniain
+14,89,Athletic Club,Nico Williams,0.7909999847412109,0.38799999237060545,0.03333451226353645,SavedShot,LeftFoot,Iñaki Williams
+15,93,Athletic Club,Iñigo Martínez,0.815,0.37599998474121094,0.12271516770124435,BlockedShot,LeftFoot,None
+16,5,Barcelona,Martin Braithwaite,0.9269999694824219,0.5,0.5525967478752136,MissedShots,RightFoot,None
+17,14,Barcelona,Jordi Alba,0.8590000152587891,0.7269999694824218,0.03100329264998436,MissedShots,RightFoot,Memphis Depay
+18,20,Barcelona,Memphis Depay,0.7519999694824219,0.6880000305175781,0.052536457777023315,SavedShot,RightFoot,None
+19,52,Barcelona,Sergiño Dest,0.894000015258789,0.38,0.08972620218992233,SavedShot,LeftFoot,None
+20,57,Barcelona,Martin Braithwaite,0.8490000152587891,0.6659999847412109,0.040774937719106674,BlockedShot,RightFoot,Frenkie de Jong
+21,73,Barcelona,Frenkie de Jong,0.855999984741211,0.7090000152587891,0.03063877671957016,ShotOnPost,RightFoot,Jordi Alba
+22,73,Barcelona,Antoine Griezmann,0.9540000152587891,0.32799999237060545,0.055199623107910156,MissedShots,RightFoot,None
+23,74,Barcelona,Memphis Depay,0.9290000152587891,0.7,0.09207630902528763,Goal,LeftFoot,Sergi Roberto
+24,85,Barcelona,Memphis Depay,0.8969999694824219,0.6580000305175782,0.23928166925907135,MissedShots,LeftFoot,Frenkie de Jong

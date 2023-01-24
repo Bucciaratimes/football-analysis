@@ -1,0 +1,17 @@
+,Player,#,Nation,Pos,Age,Min,CrdY_Performance,CrdR_Performance,2CrdY_Performance,Fls_Performance,Fld_Performance,Off_Performance,Crs_Performance,Int_Performance,TklW_Performance,PKwon_Performance,PKcon_Performance,OG_Performance,Recov_Performance,Won_Aerial Duels,Lost_Aerial Duels,Won%_Aerial Duels
+0,Memphis Depay,9.0,nl  NED,"FW,LW",27-189,90,0,0,0,1,0,1,5,0,0,0,0,0,1,2,1,66.7
+1,Martin Braithwaite,12.0,dk  DEN,LW,30-077,61,0,0,0,1,0,1,0,0,0,0,0,0,3,0,0,
+2,Yusuf Demir,27.0,at  AUT,RW,18-080,29,0,0,0,1,1,0,0,0,0,0,0,0,2,1,0,100.0
+3,Antoine Griezmann,7.0,fr  FRA,"RW,FW",30-153,90,0,0,0,0,4,0,0,1,1,0,0,0,3,0,2,0.0
+4,Pedri,16.0,es  ESP,CM,18-269,61,0,0,0,0,3,0,0,0,0,0,0,0,2,1,1,50.0
+5,Sergi Roberto,20.0,es  ESP,CM,29-195,29,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,
+6,Frenkie de Jong,21.0,nl  NED,CM,24-101,90,0,0,0,3,2,0,2,3,1,0,0,0,15,3,3,50.0
+7,Sergio Busquets,5.0,es  ESP,DM,33-036,90,0,0,0,1,1,0,0,3,4,0,0,0,10,2,1,66.7
+8,Jordi Alba,18.0,es  ESP,LB,32-153,90,1,0,0,2,1,0,7,3,0,0,0,0,5,1,2,33.3
+9,Gerard Piqué,3.0,es  ESP,CB,34-200,30,0,0,0,0,1,0,0,0,0,0,0,0,2,2,0,100.0
+10,Ronald Araújo,4.0,uy  URU,CB,22-167,60,0,0,0,1,0,0,0,2,0,0,0,0,3,2,1,66.7
+11,Eric García,24.0,es  ESP,CB,20-224,89,1,1,0,2,0,0,0,4,0,0,0,0,3,1,1,50.0
+12,Sergiño Dest,2.0,us  USA,RB,20-291,81,0,0,0,1,2,0,2,2,0,0,0,0,7,0,1,0.0
+13,Emerson,22.0,br  BRA,RB,22-219,9,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,
+14,Neto,13.0,br  BRA,GK,32-033,90,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,
+15,15 Players,,,,,989,2,1,0,13,17,2,16,18,6,0,0,0,69,15,13,53.6

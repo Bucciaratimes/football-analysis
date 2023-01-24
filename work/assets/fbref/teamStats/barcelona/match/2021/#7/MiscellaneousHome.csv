@@ -1,0 +1,17 @@
+,Player,#,Nation,Pos,Age,Min,CrdY_Performance,CrdR_Performance,2CrdY_Performance,Fls_Performance,Fld_Performance,Off_Performance,Crs_Performance,Int_Performance,TklW_Performance,PKwon_Performance,PKcon_Performance,OG_Performance,Recov_Performance,Won_Aerial Duels,Lost_Aerial Duels,Won%_Aerial Duels
+0,Ansu Fati,22.0,es  ESP,FW,18-007,45,1,0,0,2,2,0,0,0,0,1,0,0,5,0,0,
+1,Lionel Messi,10.0,ar  ARG,FW,33-136,45,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,
+2,Antoine Griezmann,7.0,fr  FRA,FW,29-231,77,0,0,0,0,3,0,1,0,0,0,0,0,3,0,0,
+3,Martin Braithwaite,9.0,dk  DEN,FW,29-155,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+4,Pedri,16.0,es  ESP,LM,17-348,90,1,0,0,1,0,0,1,1,0,0,0,0,3,0,0,
+5,Ousmane Dembélé,11.0,fr  FRA,RM,23-176,65,0,0,0,0,0,0,3,0,0,0,0,0,2,0,1,0.0
+6,Francisco Trincão,17.0,pt  POR,RM,20-314,25,0,0,0,0,0,1,2,0,0,0,0,0,3,0,0,
+7,Frenkie de Jong,21.0,nl  NED,DM,23-179,90,0,0,0,1,2,0,1,1,0,0,0,0,13,0,1,0.0
+8,Sergio Busquets,5.0,es  ESP,DM,32-114,85,0,0,0,0,1,0,0,0,1,0,0,0,14,2,1,66.7
+9,Miralem Pjanić,8.0,ba  BIH,DM,30-219,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+10,Jordi Alba,18.0,es  ESP,LB,31-231,90,0,0,0,1,0,0,4,2,0,0,0,0,6,0,0,
+11,Clément Lenglet,15.0,fr  FRA,CB,25-143,90,0,0,0,2,0,0,0,0,1,0,0,0,9,1,1,50.0
+12,Gerard Piqué,3.0,es  ESP,CB,33-279,90,0,0,0,1,0,1,0,0,2,0,0,0,12,4,2,66.7
+13,Sergi Roberto,20.0,es  ESP,RB,28-274,90,0,0,0,0,1,1,1,1,0,0,0,0,3,1,1,50.0
+14,Marc-André ter Stegen,1.0,de  GER,GK,28-191,90,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,
+15,15 Players,,,,,990,2,0,0,8,10,3,13,5,4,1,0,0,84,8,7,53.3

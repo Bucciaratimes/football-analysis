@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,Gls_Performance,Ast_Performance,PK_Performance,PKatt_Performance,Sh_Performance,SoT_Performance,CrdY_Performance,CrdR_Performance,Touches_Performance,Press_Performance,Tkl_Performance,Int_Performance,Blocks_Performance,xG_Expected,npxG_Expected,xA_Expected,SCA_SCA,GCA_SCA,Cmp_Passes,Att_Passes,Cmp%_Passes,Prog_Passes,Carries_Carries,Prog_Carries,Succ_Dribbles,Att_Dribbles
+0,Álvaro Negredo,18.0,es  ESP,FW,35-185,58,0,0,0,0,0,0,0,0,24,1,0,0,0,0.0,0.0,0.0,0,0,10,14,71.4,0,11,0,1,1
+1,Anthony Lozano,9.0,hn  HON,FW,27-302,32,0,0,0,0,0,0,0,0,7,8,0,0,0,0.0,0.0,0.0,1,0,2,5,40.0,0,6,0,0,0
+2,Jairo Izquierdo,25.0,es  ESP,LM,27-122,58,0,0,0,0,0,0,0,0,23,5,0,2,0,0.0,0.0,0.0,0,0,8,17,47.1,0,16,0,0,0
+3,Álex Fernández,8.0,es  ESP,CM,28-129,32,1,0,1,1,0,0,0,0,16,7,1,1,1,0.8,0.0,0.0,0,0,6,10,60.0,1,6,0,0,0
+4,Alberto Perea,10.0,es  ESP,CM,30-064,75,0,0,0,0,0,0,0,0,28,11,2,6,0,0.0,0.0,0.0,1,0,13,16,81.3,5,16,3,0,0
+5,Jens Jønsson,2.0,dk  DEN,DM,28-042,15,0,0,0,0,0,0,0,0,5,1,0,2,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0
+6,Rubén Sobrino,21.0,es  ESP,"CM,LM,FW",28-265,90,0,0,0,0,2,0,0,0,31,23,3,1,3,0.4,0.4,0.0,1,1,12,16,75.0,1,16,1,2,2
+7,Salvi,7.0,es  ESP,RM,29-328,61,0,0,0,0,0,0,0,0,22,8,0,2,1,0.0,0.0,0.0,0,0,6,15,40.0,1,11,2,0,0
+8,Iván Alejo,14.0,es  ESP,"WB,RM",26-011,29,0,0,0,0,0,0,1,0,4,6,0,0,1,0.0,0.0,0.0,0,0,1,3,33.3,0,2,1,0,0
+9,Jon Ander Garrido,5.0,es  ESP,DM,31-135,57,0,0,0,0,0,0,0,0,12,6,2,0,1,0.0,0.0,0.0,0,0,4,6,66.7,2,5,0,0,0
+10,José Mari,6.0,es  ESP,"DM,CM",33-077,33,0,0,0,0,0,0,1,0,11,7,1,2,0,0.0,0.0,0.0,0,0,7,7,100.0,0,3,0,0,0
+11,Alfonso Espino,22.0,uy  URU,"LB,WB",29-047,90,0,0,0,0,0,0,0,0,46,25,5,2,4,0.0,0.0,0.0,1,1,19,34,55.9,2,17,1,1,1
+12,Marcos Mauro López Gutiérrez,4.0,ar  ARG,CB,30-043,90,0,0,0,0,0,0,0,0,18,7,0,1,2,0.0,0.0,0.0,0,0,9,12,75.0,0,4,0,0,0
+13,Fali,3.0,es  ESP,CB,27-193,90,0,0,0,0,0,0,0,0,22,3,1,2,1,0.0,0.0,0.0,0,0,7,12,58.3,0,5,0,1,1
+14,Isaac Carcelen,20.0,es  ESP,"RB,CB",27-304,90,0,0,0,0,0,0,0,0,28,6,1,4,1,0.0,0.0,0.0,0,0,12,18,66.7,1,9,0,1,1
+15,Jeremías Ledesma,1.0,ar  ARG,GK,28-008,90,0,0,0,0,0,0,0,0,36,0,0,0,0,0.0,0.0,0.0,0,0,10,33,30.3,0,4,0,0,0
+16,16 Players,,,,,990,1,0,1,1,2,0,2,0,333,124,16,25,15,1.2,0.4,0.0,4,2,128,221,57.9,13,132,8,6,6

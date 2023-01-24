@@ -1,0 +1,46 @@
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls_Performance,Ast_Performance,PK_Performance,PKatt_Performance,Sh_Performance,SoT_Performance,CrdY_Performance,CrdR_Performance,Touches_Performance,Press_Performance,Tkl_Performance,Int_Performance,Blocks_Performance,xG_Expected,npxG_Expected,xA_Expected,SCA_SCA,GCA_SCA,Cmp_Passes,Att_Passes,Cmp%_Passes,Prog_Passes,Carries_Carries,Prog_Carries,Succ_Dribbles,Att_Dribbles,Match Report
+0,2020-09-27,Sun,La Liga,Matchweek 3,Home,W 6–1,Atlético Madrid,Granada,Y,RM,76,1,2,0,0,1.0,1.0,0,0,36.0,17.0,0.0,0.0,4.0,0.1,0.1,0.5,3.0,2.0,22.0,27.0,81.5,1.0,30.0,3.0,2.0,2.0,Match Report
+1,2020-09-30,Wed,La Liga,Matchweek 4,Away,D 0–0,Atlético Madrid,Huesca,N,RM,45,0,0,0,0,1.0,0.0,0,0,24.0,10.0,1.0,0.0,0.0,0.1,0.1,0.0,2.0,0.0,14.0,16.0,87.5,1.0,21.0,2.0,0.0,1.0,Match Report
+2,2020-10-03,Sat,La Liga,Matchweek 5,Home,D 0–0,Atlético Madrid,Villarreal,Y,RM,69,0,0,0,0,0.0,0.0,0,0,33.0,14.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,17.0,27.0,63.0,1.0,31.0,7.0,3.0,5.0,Match Report
+3,2020-10-17,Sat,La Liga,Matchweek 6,Away,W 2–0,Atlético Madrid,Celta Vigo,Y,RM,76,0,0,0,0,0.0,0.0,0,0,41.0,10.0,1.0,1.0,2.0,0.0,0.0,0.1,1.0,0.0,24.0,31.0,77.4,2.0,28.0,3.0,2.0,2.0,Match Report
+4,2020-10-21,Wed,Champions Lg,Group stage,Away,L 0–4,es  Atlético Madrid,de  Bayern Munich,N,FW,15,0,0,0,0,0.0,0.0,0,0,9.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,5.0,5.0,100.0,0.0,7.0,0.0,0.0,1.0,Match Report
+5,2020-10-24,Sat,La Liga,Matchweek 7,Home,W 2–0,Atlético Madrid,Betis,Y,RM,56,0,0,0,0,0.0,0.0,0,0,28.0,11.0,1.0,1.0,1.0,0.0,0.0,0.1,1.0,0.0,14.0,20.0,70.0,2.0,18.0,3.0,0.0,0.0,Match Report
+6,2020-10-27,Tue,Champions Lg,Group stage,Home,W 3–2,es  Atlético Madrid,at  RB Salzburg,Y,RM,90,0,1,0,0,0.0,0.0,0,0,49.0,12.0,1.0,1.0,3.0,0.0,0.0,1.4,9.0,2.0,27.0,35.0,77.1,4.0,38.0,3.0,3.0,5.0,Match Report
+7,2020-10-31,Sat,La Liga,Matchweek 8,Away,W 3–1,Atlético Madrid,Osasuna,Y,FW,85,0,1,0,0,3.0,1.0,0,0,56.0,10.0,0.0,0.0,3.0,0.6,0.4,0.1,3.0,2.0,33.0,39.0,84.6,5.0,42.0,2.0,3.0,7.0,Match Report
+8,2020-11-03,Tue,Champions Lg,Group stage,Away,D 1–1,es  Atlético Madrid,ru  Loko Moscow,Y,AM,68,0,0,0,0,1.0,0.0,0,0,37.0,11.0,1.0,0.0,0.0,0.1,0.1,0.1,3.0,0.0,25.0,32.0,78.1,1.0,26.0,6.0,1.0,1.0,Match Report
+9,2020-11-07,Sat,La Liga,Matchweek 9,Home,W 4–0,Atlético Madrid,Cádiz,N,"FW,RW",36,0,1,0,0,4.0,1.0,0,0,35.0,5.0,2.0,0.0,0.0,0.3,0.3,0.4,5.0,1.0,24.0,28.0,85.7,2.0,21.0,5.0,0.0,1.0,Match Report
+10,2020-11-21,Sat,La Liga,Matchweek 10,Home,W 1–0,Atlético Madrid,Barcelona,Y,FW,83,0,1,0,0,1.0,0.0,0,0,41.0,33.0,2.0,1.0,0.0,0.0,0.0,0.6,3.0,1.0,26.0,31.0,83.9,2.0,28.0,5.0,1.0,2.0,Match Report
+11,2020-11-25,Wed,Champions Lg,Group stage,Home,D 0–0,es  Atlético Madrid,ru  Loko Moscow,Y,FW,90,0,0,0,0,1.0,0.0,0,0,44.0,18.0,1.0,0.0,1.0,0.1,0.1,0.4,3.0,0.0,21.0,35.0,60.0,0.0,31.0,4.0,3.0,4.0,Match Report
+12,2020-11-28,Sat,La Liga,Matchweek 11,Away,W 1–0,Atlético Madrid,Valencia,Y,FW,64,0,0,0,0,2.0,2.0,1,0,43.0,12.0,0.0,0.0,1.0,0.1,0.1,0.0,3.0,0.0,25.0,35.0,71.4,2.0,34.0,1.0,0.0,1.0,Match Report
+13,2020-12-01,Tue,Champions Lg,Group stage,Home,D 1–1,es  Atlético Madrid,de  Bayern Munich,Y,FW,79,0,0,0,0,2.0,1.0,0,0,39.0,22.0,1.0,0.0,2.0,0.4,0.4,0.0,0.0,0.0,18.0,26.0,69.2,0.0,25.0,2.0,3.0,4.0,Match Report
+14,2020-12-05,Sat,La Liga,Matchweek 12,Home,W 2–0,Atlético Madrid,Valladolid,Y,FW,56,0,0,0,0,2.0,1.0,0,0,31.0,13.0,0.0,0.0,1.0,0.2,0.2,0.0,2.0,0.0,17.0,23.0,73.9,0.0,27.0,3.0,1.0,3.0,Match Report
+15,2020-12-09,Wed,Champions Lg,Group stage,Away,W 2–0,es  Atlético Madrid,at  RB Salzburg,N,FW,27,0,1,0,0,0.0,0.0,0,0,16.0,9.0,0.0,0.0,1.0,0.0,0.0,0.2,1.0,1.0,10.0,12.0,83.3,1.0,13.0,1.0,1.0,2.0,Match Report
+16,2020-12-12,Sat,La Liga,Matchweek 13,Away,L 0–2,Atlético Madrid,Real Madrid,N,"FW,LM",45,0,0,0,0,0.0,0.0,1,0,17.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,12.0,13.0,92.3,2.0,14.0,0.0,1.0,1.0,Match Report
+17,2020-12-16,Wed,Copa del Rey,First round,Away,W 3–0,Atlético Madrid,CE Cardassar,Y,FW,83,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report
+18,2020-12-19,Sat,La Liga,Matchweek 14,Home,W 3–1,Atlético Madrid,Elche,N,RM,25,0,0,0,0,0.0,0.0,0,0,8.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,8.0,8.0,100.0,0.0,7.0,0.0,0.0,0.0,Match Report
+19,2020-12-22,Tue,La Liga,Matchweek 15,Away,W 2–0,Atlético Madrid,Real Sociedad,Y,RW,58,0,0,0,0,0.0,0.0,0,0,27.0,18.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,14.0,19.0,73.7,1.0,20.0,2.0,1.0,3.0,Match Report
+20,2020-12-30,Wed,La Liga,Matchweek 16,Home,W 1–0,Atlético Madrid,Getafe,N,FW,20,0,0,0,0,1.0,0.0,0,0,14.0,5.0,0.0,0.0,0.0,0.2,0.2,0.0,2.0,0.0,10.0,13.0,76.9,1.0,13.0,3.0,4.0,4.0,Match Report
+21,2021-01-03,Sun,La Liga,Matchweek 17,Away,W 2–1,Atlético Madrid,Alavés,Y,FW,61,0,0,0,0,1.0,0.0,0,0,32.0,10.0,2.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,16.0,21.0,76.2,1.0,22.0,1.0,1.0,1.0,Match Report
+22,2021-01-06,Wed,Copa del Rey,Second round,Away,L 0–1,Atlético Madrid,Cornellà,Y,FW,90,0,0,0,0,3.0,0.0,0,0,,,,0.0,,,,,,,,,,,,,,,Match Report
+23,2021-01-12,Tue,La Liga,Matchweek 1,Home,W 2–0,Atlético Madrid,Sevilla,Y,FW,65,1,0,0,0,1.0,1.0,0,0,20.0,15.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,9.0,13.0,69.2,0.0,15.0,3.0,1.0,2.0,Match Report
+24,2021-01-21,Thu,La Liga,Matchweek 19,Away,W 2–1,Atlético Madrid,Eibar,Y,FW,45,0,0,0,0,1.0,0.0,0,0,20.0,9.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,8.0,12.0,66.7,0.0,10.0,0.0,0.0,0.0,Match Report
+25,2021-01-24,Sun,La Liga,Matchweek 20,Home,W 3–1,Atlético Madrid,Valencia,N,"RW,FW",29,1,0,0,0,2.0,2.0,0,0,19.0,2.0,0.0,1.0,0.0,0.7,0.7,0.1,1.0,0.0,9.0,11.0,81.8,2.0,10.0,2.0,0.0,2.0,Match Report
+26,2021-01-31,Sun,La Liga,Matchweek 21,Away,W 4–2,Atlético Madrid,Cádiz,N,FW,31,0,1,0,0,0.0,0.0,0,0,14.0,6.0,0.0,0.0,0.0,0.0,0.0,0.6,2.0,2.0,10.0,12.0,83.3,1.0,15.0,3.0,3.0,3.0,Match Report
+27,2021-02-08,Mon,La Liga,Matchweek 22,Home,D 2–2,Atlético Madrid,Celta Vigo,Y,FW,90,0,0,0,0,1.0,0.0,0,0,43.0,20.0,4.0,0.0,2.0,0.0,0.0,0.1,3.0,1.0,22.0,29.0,75.9,2.0,37.0,4.0,4.0,6.0,Match Report
+28,2021-02-13,Sat,La Liga,Matchweek 23,Away,W 2–1,Atlético Madrid,Granada,Y,"FW,RW",90,1,0,0,0,3.0,2.0,0,0,55.0,18.0,3.0,1.0,1.0,0.2,0.2,0.3,3.0,0.0,23.0,35.0,65.7,2.0,44.0,5.0,2.0,5.0,Match Report
+29,2021-02-17,Wed,La Liga,Matchweek 2,Away,D 1–1,Atlético Madrid,Levante,Y,"FW,AM",80,0,0,0,0,3.0,0.0,0,0,62.0,22.0,1.0,2.0,1.0,0.8,0.8,0.0,2.0,0.0,35.0,46.0,76.1,4.0,50.0,6.0,1.0,6.0,Match Report
+30,2021-02-20,Sat,La Liga,Matchweek 24,Home,L 0–2,Atlético Madrid,Levante,Y,"AM,RM",60,0,0,0,0,0.0,0.0,0,0,33.0,24.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,21.0,28.0,75.0,3.0,21.0,2.0,0.0,1.0,Match Report
+31,2021-02-23,Tue,Champions Lg,Round of 16,Home,L 0–1,es  Atlético Madrid,eng  Chelsea,Y,RW,81,0,0,0,0,1.0,0.0,0,0,49.0,19.0,3.0,1.0,1.0,0.0,0.0,0.1,1.0,0.0,26.0,34.0,76.5,2.0,26.0,2.0,0.0,0.0,Match Report
+32,2021-02-28,Sun,La Liga,Matchweek 25,Away,W 2–0,Atlético Madrid,Villarreal,Y,"FW,RM",82,0,0,0,0,1.0,1.0,0,0,32.0,18.0,1.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,17.0,21.0,81.0,3.0,23.0,3.0,0.0,1.0,Match Report
+33,2021-03-07,Sun,La Liga,Matchweek 26,Home,D 1–1,Atlético Madrid,Real Madrid,Y,RM,81,0,0,0,0,1.0,0.0,1,0,47.0,25.0,6.0,3.0,0.0,0.3,0.3,0.0,1.0,0.0,27.0,32.0,84.4,4.0,38.0,5.0,1.0,2.0,Match Report
+34,2021-03-10,Wed,La Liga,Matchweek 18,Home,W 2–1,Atlético Madrid,Athletic Club,N,"FW,RW",24,0,0,0,0,1.0,0.0,0,0,13.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,10.0,11.0,90.9,2.0,11.0,3.0,1.0,1.0,Match Report
+35,2021-03-13,Sat,La Liga,Matchweek 27,Away,D 0–0,Atlético Madrid,Getafe,Y,RM,63,0,0,0,0,0.0,0.0,0,0,33.0,6.0,0.0,1.0,0.0,0.0,0.0,0.2,1.0,0.0,23.0,27.0,85.2,1.0,33.0,1.0,1.0,1.0,Match Report
+36,2021-03-17,Wed,Champions Lg,Round of 16,Away,L 0–2,es  Atlético Madrid,eng  Chelsea,N,AM,32,0,0,0,0,0.0,0.0,0,0,30.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,20.0,26.0,76.9,2.0,25.0,2.0,1.0,1.0,Match Report
+37,2021-03-21,Sun,La Liga,Matchweek 28,Home,W 1–0,Atlético Madrid,Alavés,Y,FW,73,0,0,0,0,1.0,0.0,0,0,36.0,12.0,1.0,0.0,1.0,0.1,0.1,0.0,2.0,0.0,22.0,26.0,84.6,1.0,25.0,3.0,2.0,3.0,Match Report
+38,2021-04-04,Sun,La Liga,Matchweek 29,Away,L 0–1,Atlético Madrid,Sevilla,N,FW,57,0,0,0,0,1.0,1.0,0,0,41.0,9.0,0.0,0.0,1.0,0.3,0.3,0.0,0.0,0.0,26.0,32.0,81.3,1.0,26.0,2.0,0.0,1.0,Match Report
+39,2021-04-11,Sun,La Liga,Matchweek 30,Away,D 1–1,Atlético Madrid,Betis,Y,FW,90,0,1,0,0,3.0,2.0,0,0,38.0,25.0,0.0,2.0,0.0,0.4,0.4,0.8,3.0,1.0,13.0,20.0,65.0,0.0,25.0,0.0,2.0,2.0,Match Report
+40,2021-04-18,Sun,La Liga,Matchweek 33,Home,W 5–0,Atlético Madrid,Eibar,Y,FW,60,2,1,0,0,2.0,2.0,0,0,17.0,8.0,3.0,0.0,0.0,1.1,1.1,0.2,1.0,1.0,6.0,10.0,60.0,0.0,14.0,2.0,1.0,2.0,Match Report
+41,2021-04-22,Thu,La Liga,Matchweek 31,Home,W 2–0,Atlético Madrid,Huesca,Y,"FW,AM",83,1,0,0,0,2.0,1.0,0,0,41.0,16.0,0.0,1.0,0.0,0.1,0.1,0.2,4.0,1.0,27.0,29.0,93.1,4.0,35.0,2.0,2.0,4.0,Match Report
+42,2021-04-25,Sun,La Liga,Matchweek 32,Away,L 1–2,Atlético Madrid,Athletic Club,Y,"FW,RM",64,0,0,0,0,3.0,0.0,0,0,30.0,11.0,0.0,0.0,0.0,0.3,0.3,0.1,4.0,0.0,21.0,25.0,84.0,0.0,23.0,2.0,2.0,2.0,Match Report
+43,2021-05-01,Sat,La Liga,Matchweek 34,Away,W 1–0,Atlético Madrid,Elche,Y,AM,64,0,0,0,0,2.0,0.0,0,0,30.0,12.0,0.0,0.0,1.0,0.1,0.1,0.2,1.0,0.0,20.0,23.0,87.0,3.0,25.0,4.0,1.0,2.0,Match Report
+44,,,,,,26-10-8,,,32/44,,2741,7,11,0,0,52.0,19.0,3,0,1363.0,544.0,38.0,21.0,36.0,6.9,6.7,6.9,85.0,16.0,777.0,998.0,77.9,66.0,1027.0,112.0,55.0,97.0,

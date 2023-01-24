@@ -1,0 +1,16 @@
+,minute,team,player,x,y,xG,result,shotType,assist
+0,1,Barcelona,Sergi Roberto,0.9230000305175782,0.48400001525878905,0.11077185720205307,Goal,RightFoot,Jordi Alba
+1,20,Barcelona,Memphis Depay,0.799000015258789,0.720999984741211,0.019959090277552605,BlockedShot,RightFoot,Jordi Alba
+2,29,Barcelona,Memphis Depay,0.915,0.6469999694824219,0.11648231744766235,Goal,RightFoot,Frenkie de Jong
+3,60,Barcelona,Sergi Roberto,0.899000015258789,0.4640000152587891,0.29384663701057434,SavedShot,Head,Clement Lenglet
+4,68,Barcelona,Martin Braithwaite,0.8340000152587891,0.6179999923706054,0.06734105199575424,BlockedShot,RightFoot,Jordi Alba
+5,84,Barcelona,Memphis Depay,0.9259999847412109,0.54,0.41853514313697815,MissedShots,RightFoot,Sergiño Dest
+6,88,Barcelona,Nico González,0.7719999694824219,0.710999984741211,0.024279223755002022,MissedShots,RightFoot,Jordi Alba
+7,7,Getafe,Carles Aleñá,0.705999984741211,0.3940000152587891,0.015667524188756943,MissedShots,LeftFoot,Juan Iglesias
+8,18,Getafe,Sandro Ramírez,0.85,0.555,0.07905427366495132,Goal,RightFoot,Carles Aleñá
+9,40,Getafe,Mauro Arambarri,0.735,0.6229999923706054,0.017983466386795044,SavedShot,RightFoot,Nemanja Maksimovic
+10,50,Getafe,Jakub Jankto,0.8069999694824219,0.705,0.023164182901382446,MissedShots,LeftFoot,Enes Ünal
+11,50,Getafe,Stefan Mitrovic,0.8930000305175781,0.4620000076293945,0.018884411081671715,MissedShots,Head,Enes Ünal
+12,55,Getafe,Mauro Arambarri,0.745,0.37,0.01592179760336876,MissedShots,RightFoot,Nemanja Maksimovic
+13,59,Getafe,Nemanja Maksimovic,0.855999984741211,0.5270000076293946,0.08495570719242096,SavedShot,RightFoot,Jakub Jankto
+14,62,Getafe,Mauro Arambarri,0.769000015258789,0.48700000762939455,0.027683204039931297,MissedShots,RightFoot,Enes Ünal

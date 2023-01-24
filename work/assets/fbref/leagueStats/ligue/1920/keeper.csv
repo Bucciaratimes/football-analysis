@@ -1,0 +1,41 @@
+,Player,Nation,Pos,Squad,Age,Born,MP_Playing Time,Starts_Playing Time,Min_Playing Time,90s_Playing Time,GA_Performance,GA90_Performance,SoTA_Performance,Saves_Performance,Save%_Performance,W,D,L,CS_Performance,CS%_Performance,PKatt_Performance,PKA_Penalty Kicks,PKsv_Penalty Kicks,PKm_Penalty Kicks,Save%_Penalty Kicks
+0,Rúnar Alex Rúnarsson,is  ISL,GK,Dijon,24,1995,11,9,900,10.0,17,1.70,46,29,63.0,1,2,6,0,0.0,0,0,0,0,
+1,Alphonse Areola,fr  FRA,GK,Paris S-G,26,1993,3,3,270,3.0,2,0.67,4,2,50.0,2,0,1,2,66.7,0,0,0,0,
+2,Stefan Bajic,fr  FRA,GK,Saint-Étienne,17,2001,1,1,90,1.0,1,1.00,2,1,50.0,0,0,1,0,0.0,0,0,0,0,
+3,Walter Benítez,ar  ARG,GK,Nice,26,1993,26,26,2340,26.0,36,1.38,129,99,75.2,9,8,9,4,15.4,6,4,1,1,20.0
+4,Paul Bernardoni,fr  FRA,GK,Nîmes,22,1997,25,25,2204,24.5,38,1.55,102,69,66.7,7,4,14,6,24.0,4,4,0,0,0.0
+5,Dimitry Bertaud,fr  FRA,GK,Montpellier,21,1998,3,3,196,2.2,3,1.38,6,3,50.0,0,0,3,0,0.0,0,0,0,0,
+6,Ludovic Butelle,fr  FRA,GK,Angers,36,1983,26,26,2340,26.0,32,1.23,78,50,62.8,10,6,10,11,42.3,3,3,0,0,0.0
+7,Marcin Bułka,pl  POL,GK,Paris S-G,19,1999,1,1,90,1.0,0,0.00,2,2,100.0,1,0,0,1,100.0,0,0,0,0,
+8,Matis Carvalho,pt  POR,GK,Montpellier,20,1999,1,0,71,0.8,4,5.07,8,5,50.0,0,0,0,0,,0,0,0,0,
+9,Yannis Clementia,fr  FRA,GK,Nice,22,1997,2,2,180,2.0,2,1.00,6,5,83.3,2,0,0,0,0.0,1,1,0,0,0.0
+10,Benoît Costil,fr  FRA,GK,Bordeaux,32,1987,28,28,2520,28.0,34,1.21,106,75,69.8,9,10,9,6,21.4,3,2,1,0,33.3
+11,Paul Delecroix,fr  FRA,GK,Metz,30,1988,2,1,135,1.5,4,2.67,5,2,40.0,0,0,1,0,0.0,1,1,0,0,0.0
+12,Lucas Dias,fr  FRA,GK,Nîmes,20,1999,4,3,316,3.5,6,1.71,18,12,66.7,0,2,1,1,33.3,0,0,0,0,
+13,Mauro Goicoechea,uy  URU,GK,Toulouse,31,1988,2,2,180,2.0,5,2.50,13,8,61.5,0,0,2,0,0.0,0,0,0,0,
+14,Alfred Gomis,sn  SEN,GK,Dijon,25,1993,19,19,1620,18.0,20,1.11,83,65,77.1,6,7,6,6,31.6,1,1,0,0,0.0
+15,Régis Gurtner,fr  FRA,GK,Amiens,32,1986,28,28,2520,28.0,50,1.79,140,92,65.0,4,11,13,5,17.9,1,1,0,0,0.0
+16,Lovre Kalinić,hr  CRO,GK,Toulouse,29,1990,4,4,306,3.4,4,1.18,15,11,73.3,0,1,3,1,25.0,0,0,0,0,
+17,Alban Lafont,fr  FRA,GK,Nantes,20,1999,27,27,2430,27.0,29,1.07,91,65,71.4,11,4,12,10,37.0,6,3,2,1,40.0
+18,Gautier Larsonneur,fr  FRA,GK,Brest,22,1997,27,27,2398,26.6,34,1.28,128,95,75.8,7,10,10,7,25.9,5,3,1,1,25.0
+19,Benjamin Lecomte,fr  FRA,GK,Monaco,28,1991,28,28,2520,28.0,44,1.57,132,95,71.2,11,7,10,7,25.0,6,6,0,0,0.0
+20,Nicolas Lemaître,fr  FRA,GK,Reims,22,1997,1,1,90,1.0,3,3.00,3,1,33.3,0,0,1,0,0.0,1,1,0,0,0.0
+21,Donovan Léon,gf  GUF,GK,Brest,26,1992,2,1,122,1.4,3,2.21,10,8,80.0,1,0,0,1,100.0,1,1,0,0,0.0
+22,Anthony Lopes,pt  POR,GK,Lyon,28,1990,26,26,2340,26.0,25,0.96,85,64,72.9,10,7,9,8,30.8,3,2,0,1,0.0
+23,Mike Maignan,fr  FRA,GK,Lille,23,1995,28,28,2520,28.0,27,0.96,78,58,70.5,15,4,9,12,42.9,6,4,1,1,20.0
+24,Steve Mandanda,fr  FRA,GK,Marseille,34,1985,27,27,2371,26.3,27,1.02,91,71,74.7,15,8,4,11,40.7,4,4,0,0,0.0
+25,Edouard Mendy,sn  SEN,GK,Rennes,27,1992,24,24,2160,24.0,19,0.79,74,59,78.4,13,5,6,9,37.5,4,3,1,0,25.0
+26,Jessy Moulin,fr  FRA,GK,Saint-Étienne,33,1986,5,5,450,5.0,4,0.80,20,18,90.0,2,2,1,2,40.0,2,2,0,0,0.0
+27,Keylor Navas,cr  CRC,GK,Paris S-G,32,1986,21,21,1890,21.0,18,0.86,65,46,72.3,17,2,2,11,52.4,0,0,0,0,
+28,Alexandre Oukidja,dz  ALG,GK,Metz,31,1988,27,27,2385,26.5,31,1.17,127,99,78.0,8,10,9,8,29.6,3,3,0,0,0.0
+29,Yohann Pelé,fr  FRA,GK,Marseille,36,1982,2,1,149,1.7,2,1.21,6,4,66.7,1,0,0,0,0.0,1,0,1,0,100.0
+30,Danijel Petković,me  MNE,GK,Angers,26,1993,2,2,180,2.0,1,0.50,7,6,85.7,1,0,1,1,50.0,0,0,0,0,
+31,Denis Petrić,rs  SRB,GK,Nantes,31,1988,1,1,90,1.0,2,2.00,6,4,66.7,0,0,1,0,0.0,0,0,0,0,
+32,Predrag Rajković,rs  SRB,GK,Reims,23,1995,27,27,2430,27.0,18,0.67,84,65,79.8,10,11,6,12,44.4,5,1,3,1,75.0
+33,Baptiste Reynet,fr  FRA,GK,Toulouse,28,1990,23,22,2034,22.6,49,2.17,112,67,58.9,3,3,16,2,9.1,5,3,2,0,40.0
+34,Sergio Rico,es  ESP,GK,Paris S-G,25,1993,2,2,180,2.0,4,2.00,11,7,63.6,2,0,0,0,0.0,0,0,0,0,
+35,Stéphane Ruffier,fr  FRA,GK,Saint-Étienne,32,1986,22,22,1980,22.0,40,1.82,94,56,60.6,6,4,12,3,13.6,4,3,0,1,0.0
+36,Gerónimo Rulli,ar  ARG,GK,Montpellier,27,1992,25,25,2250,25.0,27,1.08,112,89,78.6,11,7,7,8,32.0,5,3,1,1,25.0
+37,Romain Salin,fr  FRA,GK,Rennes,35,1984,5,4,360,4.0,5,1.25,18,13,72.2,2,0,2,2,50.0,1,0,1,0,100.0
+38,Matz Sels,be  BEL,GK,Strasbourg,27,1992,27,27,2430,27.0,32,1.19,95,67,72.6,11,5,11,8,29.6,7,6,1,0,14.3
+39,Ciprian Tătărușanu,ro  ROU,GK,Lyon,33,1986,2,2,180,2.0,2,1.00,11,9,81.8,1,0,1,1,50.0,0,0,0,0,

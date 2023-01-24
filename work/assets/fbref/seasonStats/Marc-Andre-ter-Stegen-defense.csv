@@ -1,0 +1,19 @@
+,Season,Age,Squad,Country,Comp,LgRank,90s,Att,Live_Pass Types,Dead_Pass Types,FK_Pass Types,TB_Pass Types,Press_Pass Types,Sw_Pass Types,Crs_Pass Types,CK_Pass Types,In_Corner Kicks,Out_Corner Kicks,Str_Corner Kicks,Ground_Height,Low_Height,High_Height,Left_Body Parts,Right_Body Parts,Head_Body Parts,TI_Body Parts,Other_Body Parts,Cmp_Outcomes,Off_Outcomes,Out_Outcomes,Int_Outcomes,Blocks_Outcomes
+0,2010-2011,18,M'Gladbach,de  GER,1.  Bundesliga,16th,6.0,,,,,,,,,,,,,,,,,,,,,,,,,
+1,2011-2012,19,M'Gladbach,de  GER,1.  Bundesliga,4th,34.0,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2012-2013,20,M'Gladbach,de  GER,1.  Bundesliga,8th,33.8,,,,,,,,,,,,,,,,,,,,,,,,,
+3,2013-2014,21,M'Gladbach,de  GER,1.  Bundesliga,6th,34.0,,,,,,,,,,,,,,,,,,,,,,,,,
+4,2015-2016,23,Barcelona,es  ESP,1.  La Liga,1st,6.0,,,,,,,,,,,,,,,,,,,,,,,,,
+5,2016-2017,24,Barcelona,es  ESP,1.  La Liga,2nd,36.0,,,,,,,,0,,,,,,,,,,,,,,,,,
+6,2017-2018,25,Barcelona,es  ESP,1.  La Liga,1st,37.0,1015,889,126,28,0,143,38,0,0,0,0,0,655,54,306,180,700,0,0,128,821,1,12,6,1
+7,2018-2019,26,Barcelona,es  ESP,1.  La Liga,1st,35.0,1060,829,231,34,1,94,21,0,0,0,0,0,705,59,296,153,699,0,0,192,911,1,10,9,3
+8,2019-2020,27,Barcelona,es  ESP,1.  La Liga,2nd,36.0,1419,1161,258,39,2,165,28,0,0,0,0,0,914,142,363,296,937,0,0,178,1250,2,19,15,1
+9,2020-2021,28,Barcelona,es  ESP,1.  La Liga,3rd,31.0,1035,841,194,38,0,94,21,0,0,0,0,0,757,47,231,169,709,1,0,149,921,1,15,9,1
+10,2021-2022,29,Barcelona,es  ESP,1.  La Liga,7th,12.0,453,347,106,23,0,37,9,0,0,0,0,0,326,15,112,90,308,0,0,51,392,1,5,3,1
+11,12 Seasons,12 Seasons,2 Clubs,,2 Leagues,,300.9,4982,4067,915,162,3,533,117,0,0,0,0,0,3357,317,1308,888,3353,1,0,698,4295,6,61,42,7
+12,,,,Country,Comp,LgRank,90s,Att,Live,Dead,FK,TB,Press,Sw,Crs,CK,In,Out,Str,Ground,Low,High,Left,Right,Head,TI,Other,Cmp,Off,Out,Int,Blocks
+13,Barcelona (8 Seasons),Barcelona (8 Seasons),Barcelona (8 Seasons),,1 League,,193.0,4982,4067,915,162,3,533,117,0,0,0,0,0,3357,317,1308,888,3353,1,0,698,4295,6,61,42,7
+14,M'Gladbach (4 Seasons),M'Gladbach (4 Seasons),M'Gladbach (4 Seasons),,1 League,,107.8,,,,,,,,,,,,,,,,,,,,,,,,,
+15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,La Liga (8 Seasons),La Liga (8 Seasons),La Liga (8 Seasons),,,,193.0,4982,4067,915,162,3,533,117,0,0,0,0,0,3357,317,1308,888,3353,1,0,698,4295,6,61,42,7
+17,Bundesliga (4 Seasons),Bundesliga (4 Seasons),Bundesliga (4 Seasons),,,,107.8,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,16 @@
+,Player,#,Nation,Pos,Age,Min,Att,Live_Pass Types,Dead_Pass Types,FK_Pass Types,TB_Pass Types,Press_Pass Types,Sw_Pass Types,Crs_Pass Types,CK_Pass Types,In_Corner Kicks,Out_Corner Kicks,Str_Corner Kicks,Ground_Height,Low_Height,High_Height,Left_Body Parts,Right_Body Parts,Head_Body Parts,TI_Body Parts,Other_Body Parts,Cmp_Outcomes,Off_Outcomes,Out_Outcomes,Int_Outcomes,Blocks_Outcomes
+0,Lucas Boyé,9.0,ar  ARG,FW,24-331,90,22,19,3,0,0,9,1,0,0,0,0,0,18,3,1,5,17,0,0,0,16,1,0,1,1
+1,Emiliano Rigoni,22.0,ar  ARG,LM,27-355,74,20,20,0,0,0,5,1,0,0,0,0,0,19,0,1,10,10,0,0,0,18,0,0,1,0
+2,Luismi,15.0,es  ESP,CM,28-264,16,4,3,1,1,0,0,0,0,0,0,0,0,4,0,0,1,3,0,0,0,3,0,0,1,0
+3,Víctor Rodríguez,8.0,es  ESP,CM,31-185,81,31,30,1,1,0,5,0,0,0,0,0,0,25,5,1,12,18,1,0,0,27,0,0,1,2
+4,Nino,7.0,es  ESP,CM,40-228,9,4,4,0,0,0,0,0,0,0,0,0,0,2,2,0,0,3,0,0,1,4,0,0,0,0
+5,Raúl Guti,14.0,es  ESP,CM,24-025,73,23,22,1,1,0,5,0,0,0,0,0,0,19,1,3,0,22,1,0,0,21,0,2,0,0
+6,Tete Morente,11.0,es  ESP,LM,24-051,17,4,4,0,0,0,2,0,0,0,0,0,0,4,0,0,0,4,0,0,0,3,0,0,0,0
+7,Josan,17.0,es  ESP,RM,31-052,90,20,20,0,0,0,3,2,2,0,0,0,0,12,4,4,2,17,1,0,0,10,0,2,2,1
+8,Iván Marcone,4.0,ar  ARG,DM,30-235,90,38,38,0,0,0,4,1,0,0,0,0,0,27,4,7,6,32,0,0,0,34,0,0,3,0
+9,Johan Mojica,25.0,co  COL,LB,28-156,90,44,37,7,2,0,7,1,2,0,0,0,0,25,12,7,34,4,1,5,0,30,0,0,3,3
+10,Diego González,2.0,es  ESP,CB,25-362,90,42,41,1,1,0,7,1,0,0,0,0,0,30,2,10,21,20,1,0,0,37,0,0,0,1
+11,Gonzalo Verdú,5.0,es  ESP,CB,32-095,90,54,52,2,2,0,3,1,0,0,0,0,0,37,1,16,6,48,0,0,0,46,0,1,2,1
+12,Antonio Barragán,19.0,es  ESP,RB,33-226,90,43,36,7,2,0,3,0,1,0,0,0,0,33,6,4,6,31,1,5,0,38,0,1,1,0
+13,Édgar Badía,13.0,es  ESP,GK,28-347,90,49,33,16,0,0,3,0,0,0,0,0,0,36,0,13,14,26,0,0,6,40,0,1,0,0
+14,14 Players,,,,,990,398,359,39,10,0,56,8,5,0,0,0,0,291,40,67,117,255,6,10,7,327,1,7,15,9

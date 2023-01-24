@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,Iñaki Williams,9.0,es  ESP,FW,27-067,90,0,0,0,0,0,0,0,,0,18,5,27.8,0,3,15,0,0,0,0,1,1,1,0
+1,Oihan Sancet,8.0,es  ESP,FW,21-118,66,2,2,0,1,1,0,0,,0,20,4,20.0,0,6,14,0,0,0,0,0,2,0,0
+2,Raúl García,22.0,es  ESP,FW,35-041,24,0,0,0,0,0,0,0,,0,7,0,0.0,1,1,5,0,0,0,0,0,0,0,0
+3,Iker Muniain,10.0,es  ESP,LM,28-245,75,2,1,0,1,1,0,1,0.0,1,19,2,10.5,2,11,6,2,0,0,2,1,3,0,0
+4,Nico Williams,30.0,es  ESP,LM,19-040,15,0,0,0,0,0,0,0,,0,2,0,0.0,0,0,2,0,0,0,0,1,1,0,0
+5,Álex Berenguer,7.0,es  ESP,RM,26-048,81,1,1,0,0,1,1,5,20.0,4,30,8,26.7,7,15,8,3,0,0,3,0,1,0,0
+6,Jon Morcillo,11.0,es  ESP,RM,22-340,9,0,0,0,0,0,0,0,,0,3,0,0.0,0,2,1,0,0,0,0,0,0,0,0
+7,Dani García,14.0,es  ESP,DM,31-089,81,2,0,1,1,0,1,2,50.0,1,16,4,25.0,2,11,3,3,1,0,2,2,4,2,0
+8,Oier Zarraga,19.0,es  ESP,DM,22-229,9,0,0,0,0,0,0,0,,0,3,0,0.0,0,3,0,0,0,0,0,0,0,0,0
+9,Unai Vencedor Paris,16.0,es  ESP,DM,20-279,66,0,0,0,0,0,0,0,,0,16,2,12.5,1,12,3,1,1,0,0,1,1,0,0
+10,Mikel Vesga,6.0,es  ESP,DM,28-092,24,1,1,1,0,0,0,0,,0,7,1,14.3,1,5,1,0,0,0,0,0,1,0,0
+11,Mikel Balenziaga,24.0,es  ESP,LB,33-173,90,2,0,0,1,1,2,3,66.7,1,9,1,11.1,2,5,2,3,0,0,3,2,4,8,0
+12,Iñigo Martínez,4.0,es  ESP,CB,30-096,90,1,1,0,1,0,0,2,0.0,2,12,4,33.3,9,3,0,0,0,0,0,2,3,6,0
+13,Daniel Vivian,28.0,es  ESP,CB,22-037,90,1,1,0,1,0,0,0,,0,4,3,75.0,2,2,0,0,0,0,0,1,2,7,0
+14,Iñigo Lekue,15.0,es  ESP,RB,28-109,90,0,0,0,0,0,0,0,,0,10,1,10.0,0,6,4,2,0,0,2,2,2,3,0
+15,Julen Agirrezabala,26.0,es  ESP,GK,20-238,90,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,2,0
+16,16 Players,,,,,990,12,7,2,6,4,4,13,30.8,9,176,35,19.9,27,85,64,14,2,0,12,13,25,29,0

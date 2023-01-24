@@ -1,0 +1,36 @@
+,Player,Nation,Pos,Squad,Age,Born,MP_Playing Time,Starts_Playing Time,Min_Playing Time,90s_Playing Time,GA_Performance,GA90_Performance,SoTA_Performance,Saves_Performance,Save%_Performance,W,D,L,CS_Performance,CS%_Performance,PKatt_Performance,PKA_Penalty Kicks,PKsv_Penalty Kicks,PKm_Penalty Kicks,Save%_Penalty Kicks
+0,Nícolas Andrade,br  BRA,GK,Udinese,32-343,1988,2,2,180,2.0,5,2.50,7,2,28.6,1,0,1,0,0.0,0,0,0,0,
+1,Emil Audero,it  ITA,GK,Sampdoria,24-062,1997,27,27,2430,27.0,42,1.56,124,87,71.0,9,5,13,2,7.4,7,6,1,0,14.3
+2,Gianluigi Buffon,it  ITA,GK,Juventus,43-052,1978,5,5,450,5.0,2,0.40,11,10,90.9,4,1,0,3,60.0,1,1,0,0,0.0
+3,Andrea Consigli,it  ITA,GK,Sassuolo,34-053,1987,26,26,2340,26.0,44,1.69,127,85,67.7,10,8,8,4,15.4,3,3,0,0,0.0
+4,Alex Cordaz,it  ITA,GK,Crotone,38-079,1983,28,28,2520,28.0,70,2.50,160,92,59.4,4,3,21,2,7.1,5,5,0,0,0.0
+5,Angelo da Costa Júnior,br  BRA,GK,Bologna,37-129,1983,6,6,540,6.0,9,1.50,26,17,69.2,0,5,1,1,16.7,1,1,0,0,0.0
+6,Alessio Cragno,it  ITA,GK,Cagliari,26-266,1994,28,28,2520,28.0,48,1.71,152,106,71.7,5,7,16,4,14.3,5,5,0,0,0.0
+7,Gianluigi Donnarumma,it  ITA,GK,Milan,22-024,1999,26,26,2340,26.0,28,1.08,95,70,72.6,17,4,5,9,34.6,4,2,1,1,33.3
+8,Bartłomiej Drągowski,pl  POL,GK,Fiorentina,23-214,1997,27,27,2430,27.0,42,1.56,102,66,63.7,7,8,12,6,22.2,7,5,2,0,28.6
+9,Pierluigi Gollini,it  ITA,GK,Atalanta,26-003,1995,15,15,1325,14.7,16,1.09,43,27,65.1,7,6,2,5,33.3,3,1,2,0,66.7
+10,Samir Handanović,si  SVN,GK,Inter,36-250,1984,27,27,2430,27.0,26,0.96,89,65,74.2,20,5,2,10,37.0,4,3,1,0,25.0
+11,Pau López,es  ESP,GK,Roma,26-098,1994,17,16,1457,16.2,21,1.30,56,41,67.9,10,2,4,4,25.0,3,3,0,0,0.0
+12,Federico Marchetti,it  ITA,GK,Genoa,38-042,1983,3,3,244,2.7,7,2.58,13,6,46.2,0,1,2,0,0.0,0,0,0,0,
+13,Alex Meret,it  ITA,GK,Napoli,23-364,1997,12,12,1080,12.0,17,1.42,49,35,69.4,7,2,3,4,33.3,2,2,0,0,0.0
+14,Vanja Milinković-Savić,rs  SRB,GK,Torino,24-029,1997,2,2,180,2.0,4,2.00,10,7,70.0,0,1,1,0,0.0,1,1,0,0,0.0
+15,Antonio Mirante,it  ITA,GK,Roma,37-256,1983,11,11,973,10.8,16,1.48,39,24,64.1,5,3,3,4,36.4,3,2,1,0,33.3
+16,Lorenzo Montipò,it  ITA,GK,Benevento,25-029,1996,27,27,2430,27.0,52,1.93,117,70,58.1,6,8,13,6,22.2,3,3,0,0,0.0
+17,Juan Musso,ar  ARG,GK,Udinese,26-319,1994,25,25,2250,25.0,30,1.20,89,65,73.0,7,9,9,8,32.0,6,6,0,0,0.0
+18,David Ospina,co  COL,GK,Napoli,32-202,1988,14,14,1260,14.0,12,0.86,32,23,71.9,9,0,5,6,42.9,3,3,0,0,0.0
+19,Alberto Paleari,it  ITA,GK,Genoa,28-204,1992,2,1,116,1.3,3,2.33,8,4,62.5,0,0,1,0,0.0,0,0,0,0,
+20,Gianluca Pegolo,it  ITA,GK,Sassuolo,39-361,1981,1,1,90,1.0,0,0.00,1,1,100.0,0,1,0,1,100.0,0,0,0,0,
+21,Mattia Perin,it  ITA,GK,Genoa,28-131,1992,24,24,2159,24.0,30,1.25,108,81,76.9,7,9,8,6,25.0,5,5,0,0,0.0
+22,Ivan Provedel,it  ITA,GK,Spezia,27-004,1994,22,22,1980,22.0,39,1.77,88,54,61.4,5,7,10,4,18.2,6,5,1,0,16.7
+23,Rafael,br  BRA,GK,Spezia,39-018,1982,2,1,117,1.3,3,2.31,9,6,66.7,0,0,1,1,100.0,0,0,0,0,
+24,Federico Ravaglia,it  ITA,GK,Bologna,21-130,1999,1,1,90,1.0,5,5.00,7,3,28.6,0,0,1,0,0.0,0,0,0,0,
+25,Pepe Reina,es  ESP,GK,Lazio,38-202,1982,20,20,1800,20.0,25,1.25,73,53,72.6,12,3,5,6,30.0,5,5,0,0,0.0
+26,Luigi Sepe,it  ITA,GK,Parma,29-317,1991,28,28,2520,28.0,54,1.93,132,81,59.8,3,10,15,5,17.9,1,1,0,0,0.0
+27,Marco Silvestri,it  ITA,GK,Hellas Verona,30-019,1991,27,27,2430,27.0,32,1.19,102,73,71.6,10,8,9,6,22.2,4,3,0,1,0.0
+28,Salvatore Sirigu,it  ITA,GK,Torino,34-068,1987,24,24,2160,24.0,45,1.87,83,45,53.0,4,10,10,5,20.8,6,6,0,0,0.0
+29,Łukasz Skorupski,pl  POL,GK,Bologna,29-320,1991,21,21,1890,21.0,30,1.43,107,81,74.8,9,2,10,4,19.0,5,3,2,0,40.0
+30,Marco Sportiello,it  ITA,GK,Atalanta,28-315,1992,13,12,1105,12.3,18,1.47,42,24,57.1,8,1,3,2,16.7,1,0,1,0,100.0
+31,Thomas Strakosha,al  ALB,GK,Lazio,26-002,1995,6,6,540,6.0,12,2.00,27,16,59.3,2,1,3,1,16.7,1,1,0,0,0.0
+32,Wojciech Szczęsny,pl  POL,GK,Juventus,30-337,1990,21,21,1890,21.0,20,0.95,68,49,73.5,12,6,3,5,23.8,3,2,1,0,33.3
+33,Ciprian Tătărușanu,ro  ROU,GK,Milan,35-040,1986,1,1,90,1.0,3,3.00,6,4,66.7,0,1,0,0,0.0,1,1,0,0,0.0
+34,Jeroen Zoet,nl  NED,GK,Spezia,30-074,1991,5,5,423,4.7,9,1.91,22,14,63.6,2,1,2,1,20.0,1,1,0,0,0.0

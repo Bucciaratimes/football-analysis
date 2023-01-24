@@ -1,0 +1,12 @@
+,Minute,Player,Squad,Outcome,Distance,Body Part,Notes,Player_SCA 1,Event_SCA 1,Player_SCA 2,Event_SCA 2
+0,8,Luuk de Jong,Sevilla,Goal,10.0,Left Foot,Half volley,,,,
+1,10,Philippe Coutinho,Barcelona,Goal,13.0,Right Foot,,,,,
+2,17,Jordi Alba,Barcelona,Saved,54.0,Left Foot,Free kick,Ansu Fati,Fouled,,
+3,21,Antoine Griezmann,Barcelona,Off Target,14.0,Left Foot,,Ansu Fati,Pass (Live),Sergio Busquets,Pass (Live)
+4,32,Suso,Sevilla,Off Target,11.0,Right Foot,,Suso,Dribble,Suso,Interception
+5,,,,,,,,,,,
+6,66,Ivan Rakitić,Sevilla,Off Target,25.0,Left Foot,,Munir El Haddadi,Pass (Live),Jesús Navas,Pass (Live)
+7,73,Youssef En-Nesyri,Sevilla,Off Target,4.0,Head,,Jesús Navas,Pass (Live),Munir El Haddadi,Pass (Live)
+8,82,Frenkie de Jong,Barcelona,Blocked,10.0,Right Foot,,Sergio Busquets,Pass (Live),Francisco Trincão,Pass (Live)
+9,90+1,Francisco Trincão,Barcelona,Saved,14.0,Left Foot,,Lionel Messi,Pass (Live),Frenkie de Jong,Pass (Live)
+10,90+2,Sergi Roberto,Barcelona,Blocked,17.0,Left Foot,,,,,

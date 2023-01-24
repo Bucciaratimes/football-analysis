@@ -1,0 +1,21 @@
+,minute,team,player,x,y,xG,result,shotType,assist
+0,6,Barcelona,Philippe Coutinho,0.815,0.46700000762939453,0.08202425390481949,MissedShots,RightFoot,Gavi
+1,10,Barcelona,Philippe Coutinho,0.9369999694824219,0.575999984741211,0.35546496510505676,SavedShot,RightFoot,Jordi Alba
+2,53,Barcelona,Riqui Puig,0.789000015258789,0.4159999847412109,0.01944395713508129,BlockedShot,RightFoot,Nico González
+3,54,Barcelona,Jordi Alba,0.7530000305175781,0.775,0.00921416562050581,BlockedShot,LeftFoot,None
+4,60,Barcelona,Ousmane Dembélé,0.8240000152587891,0.705,0.03836541622877121,MissedShots,RightFoot,Jordi Alba
+5,61,Barcelona,Ousmane Dembélé,0.8169999694824219,0.29399999618530276,0.0420970655977726,MissedShots,LeftFoot,None
+6,74,Barcelona,Clement Lenglet,0.9080000305175782,0.539000015258789,0.07939542829990387,SavedShot,Head,Memphis Depay
+7,75,Barcelona,Ousmane Dembélé,0.865999984741211,0.28200000762939453,0.03661269694566727,MissedShots,RightFoot,Sergiño Dest
+8,76,Barcelona,Ousmane Dembélé,0.875,0.23700000762939452,0.03154085576534271,MissedShots,RightFoot,Frenkie de Jong
+9,77,Barcelona,Ronald Araújo,0.8780000305175781,0.575,0.026925351470708847,SavedShot,Head,Memphis Depay
+10,80,Barcelona,Abdessamad Ezzalzouli,0.925,0.5720000076293945,0.4479272961616516,MissedShots,LeftFoot,Ousmane Dembélé
+11,85,Barcelona,Luuk de Jong,0.915,0.5690000152587891,0.03969629108905792,MissedShots,Head,Ronald Araújo
+12,1,Real Betis,Juanmi,0.894000015258789,0.649000015258789,0.013868631795048714,SavedShot,Head,Héctor Bellerín
+13,17,Real Betis,Héctor Bellerín,0.754000015258789,0.345,0.02123125270009041,MissedShots,RightFoot,Guido Rodríguez
+14,36,Real Betis,Aitor Ruibal,0.8030000305175782,0.37400001525878906,0.026636771857738495,MissedShots,RightFoot,None
+15,44,Real Betis,Aitor Ruibal,0.9230000305175782,0.5509999847412109,0.10083794593811035,MissedShots,LeftFoot,Álex Moreno
+16,46,Real Betis,Sergio Canales,0.750999984741211,0.7319999694824219,0.017745986580848694,MissedShots,LeftFoot,Juanmi
+17,46,Real Betis,Juanmi,0.875999984741211,0.4370000076293945,0.0639391839504242,BlockedShot,RightFoot,Héctor Bellerín
+18,71,Real Betis,Cristian Tello,0.855999984741211,0.3320000076293945,0.044452961534261703,BlockedShot,LeftFoot,Juanmi
+19,78,Real Betis,Juanmi,0.9069999694824219,0.6120000076293945,0.35398411750793457,Goal,RightFoot,Cristian Tello

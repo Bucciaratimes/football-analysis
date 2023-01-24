@@ -1,0 +1,660 @@
+,,,,Nation,Pos,Age,90s,SCA,SCA,SCA Types,SCA Types,SCA Types,SCA Types,SCA Types,SCA Types,GCA,GCA,GCA Types,GCA Types,GCA Types,GCA Types,GCA Types,GCA Types
+,,,,,,,,SCA,SCA90,PassLive,PassDead,Drib,Sh,Fld,Def,GCA,GCA90,PassLive,PassDead,Drib,Sh,Fld,Def
+league,season,team,player,,,,,,,,,,,,,,,,,,,,
+ESP-La Liga,2122,Alavés,Antonio Sivera,ESP,GK,24.0,3.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Alavés,Facundo Pellistri,URU,"MF,FW",19.0,7.5,15,2.01,11,0,1,0,3,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Alavés,Fernando Pacheco,ESP,GK,29.0,33.9,7,0.21,7,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Alavés,Florian Lejeune,FRA,DF,30.0,30.0,10,0.33,8,1,0,0,0,1,1,0.03,1,0,0,0,0,0
+ESP-La Liga,2122,Alavés,Gonzalo Escalante,ARG,MF,28.0,14.4,17,1.18,12,0,0,3,2,0,3,0.21,1,0,0,1,1,0
+ESP-La Liga,2122,Alavés,Iván Martín,ESP,MF,22.0,1.8,2,1.08,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Alavés,Jason,ESP,"MF,FW",27.0,7.5,30,3.98,14,13,2,0,1,0,3,0.4,0,2,0,0,1,0
+ESP-La Liga,2122,Alavés,Javi López,ESP,DF,19.0,5.1,6,1.17,4,1,1,0,0,0,1,0.19,1,0,0,0,0,0
+ESP-La Liga,2122,Alavés,Jesús Owono,EQG,GK,20.0,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Alavés,John Guidetti,SWE,"FW,MF",29.0,3.1,10,3.23,5,0,1,0,2,2,3,0.97,1,0,0,0,1,1
+ESP-La Liga,2122,Alavés,Joselu,ESP,FW,31.0,34.7,71,2.05,47,1,1,11,9,2,9,0.26,6,0,0,1,1,1
+ESP-La Liga,2122,Alavés,Loum Ndiaye,SEN,MF,24.0,25.7,15,0.58,12,0,0,3,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Alavés,Luis Rioja,ESP,"FW,MF",27.0,34.6,82,2.37,49,8,13,7,5,0,7,0.2,5,0,1,1,0,0
+ESP-La Liga,2122,Alavés,Mamadou Sylla,SEN,FW,27.0,4.4,3,0.69,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Alavés,Manu García,ESP,MF,23.0,12.0,37,3.09,20,12,2,1,1,1,3,0.25,1,1,1,0,0,0
+ESP-La Liga,2122,Alavés,Manu Vallejo,ESP,"MF,FW",24.0,4.1,7,1.7,4,3,0,0,0,0,1,0.24,0,1,0,0,0,0
+ESP-La Liga,2122,Alavés,Marc Tenas,ESP,"FW,MF",20.0,0.6,2,3.33,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Alavés,Martin Agirregabiria,ESP,DF,25.0,18.0,26,1.45,20,2,1,0,3,0,2,0.11,1,0,1,0,0,0
+ESP-La Liga,2122,Alavés,Matt Miazga,USA,DF,26.0,9.3,4,0.43,1,0,0,2,0,1,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Alavés,Miguel,ESP,"FW,MF",21.0,9.2,20,2.17,9,0,2,1,7,1,3,0.33,1,0,0,0,1,1
+ESP-La Liga,2122,Alavés,Mircea Alexandru Tirlea,ROU,DF,21.0,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Alavés,Nahuel Tenaglia,ARG,DF,25.0,11.9,11,0.92,8,1,0,1,0,1,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Alavés,Opponent Total,,,27.6,38.0,795,20.92,572,86,41,35,46,15,107,2.82,80,6,4,11,4,2
+ESP-La Liga,2122,Alavés,Pere Pons,ESP,MF,28.0,15.2,22,1.45,16,0,0,0,3,3,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Alavés,Rubén Duarte,ESP,DF,25.0,29.1,46,1.58,27,14,0,0,2,3,6,0.21,3,2,0,0,1,0
+ESP-La Liga,2122,Alavés,Saúl García,ESP,FW,26.0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Alavés,Squad Total,,,27.9,38.0,536,14.11,330,80,27,36,44,19,48,1.26,23,8,3,5,6,3
+ESP-La Liga,2122,Alavés,Tachi,ESP,DF,23.0,2.7,1,0.38,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Alavés,Tomás Mendes,ESP,MF,16.0,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Alavés,Tomás Pina Isla,ESP,MF,33.0,16.0,10,0.62,7,0,0,0,3,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Alavés,Toni Moya,ESP,MF,23.0,15.4,31,2.01,8,20,1,1,0,1,3,0.19,1,1,0,1,0,0
+ESP-La Liga,2122,Alavés,Unai Ropero,ESP,MF,19.0,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Alavés,Víctor Laguardia,ESP,DF,31.0,33.8,7,0.21,3,3,0,1,0,0,2,0.06,0,1,0,1,0,0
+ESP-La Liga,2122,Alavés,Ximo Navarro,ESP,DF,31.0,15.0,11,0.73,5,1,0,3,1,1,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Alavés,Édgar Méndez,ESP,"FW,MF",31.0,17.9,33,1.84,25,0,2,2,2,2,1,0.06,1,0,0,0,0,0
+ESP-La Liga,2122,Athletic Club,Alex Petxa,ESP,"DF,MF",24.0,4.6,9,1.97,7,0,1,0,1,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Athletic Club,Ander Capa,ESP,DF,29.0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Athletic Club,Asier Villalibre,ESP,FW,23.0,6.1,9,1.48,4,0,1,1,3,0,1,0.16,1,0,0,0,0,0
+ESP-La Liga,2122,Athletic Club,Dani García,ESP,MF,31.0,24.2,28,1.16,26,0,0,0,0,2,1,0.04,1,0,0,0,0,0
+ESP-La Liga,2122,Athletic Club,Daniel Vivian,ESP,DF,22.0,22.1,8,0.36,4,0,0,2,1,1,1,0.05,1,0,0,0,0,0
+ESP-La Liga,2122,Athletic Club,Iker Muniain,ESP,MF,28.0,30.9,172,5.56,87,56,12,3,13,1,21,0.68,9,5,3,1,2,1
+ESP-La Liga,2122,Athletic Club,Iñaki Williams,ESP,FW,27.0,30.9,68,2.2,48,0,4,6,7,3,5,0.16,5,0,0,0,0,0
+ESP-La Liga,2122,Athletic Club,Iñigo Lekue,ESP,DF,28.0,21.4,32,1.5,23,6,1,1,0,1,4,0.19,2,0,1,0,0,1
+ESP-La Liga,2122,Athletic Club,Iñigo Martínez,ESP,DF,30.0,26.0,14,0.54,10,0,0,3,0,1,1,0.04,1,0,0,0,0,0
+ESP-La Liga,2122,Athletic Club,Jon Morcillo,ESP,MF,22.0,0.6,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Athletic Club,Julen Agirrezabala,ESP,GK,20.0,4.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Athletic Club,Mikel Balenziaga,ESP,DF,33.0,22.5,20,0.89,15,2,1,1,1,0,1,0.04,0,0,0,0,1,0
+ESP-La Liga,2122,Athletic Club,Mikel Vesga,ESP,MF,28.0,15.1,24,1.59,23,0,0,1,0,0,1,0.07,1,0,0,0,0,0
+ESP-La Liga,2122,Athletic Club,Nico Williams,ESP,MF,19.0,14.9,41,2.76,26,0,6,3,4,2,1,0.07,1,0,0,0,0,0
+ESP-La Liga,2122,Athletic Club,Nicolás Serrano,ESP,MF,18.0,3.5,4,1.14,3,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Athletic Club,Oier Zarraga,ESP,MF,22.0,13.0,20,1.54,14,0,2,0,3,1,2,0.15,1,0,0,0,1,0
+ESP-La Liga,2122,Athletic Club,Oihan Sancet,ESP,FW,21.0,15.8,56,3.54,37,1,4,5,3,6,6,0.38,4,0,1,0,0,1
+ESP-La Liga,2122,Athletic Club,Opponent Total,,,27.6,38.0,675,17.76,498,59,28,33,33,24,58,1.53,44,1,5,4,3,1
+ESP-La Liga,2122,Athletic Club,Peru Nolaskoain,ESP,DF,22.0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Athletic Club,Raúl García,ESP,FW,35.0,20.0,42,2.1,30,0,2,5,4,1,5,0.25,5,0,0,0,0,0
+ESP-La Liga,2122,Athletic Club,Squad Total,,,26.9,38.0,723,19.03,489,90,38,35,47,24,70,1.84,48,7,5,2,5,3
+ESP-La Liga,2122,Athletic Club,Unai Núñez,ESP,DF,24.0,6.9,2,0.29,2,0,0,0,0,0,1,0.14,1,0,0,0,0,0
+ESP-La Liga,2122,Athletic Club,Unai Simón,ESP,GK,24.0,34.0,4,0.12,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Athletic Club,Unai Vencedor Paris,ESP,MF,20.0,26.5,36,1.36,31,1,1,0,2,1,2,0.08,1,0,0,0,1,0
+ESP-La Liga,2122,Athletic Club,Yeray Álvarez,ESP,DF,26.0,20.7,11,0.53,9,0,0,1,0,1,1,0.05,1,0,0,0,0,0
+ESP-La Liga,2122,Athletic Club,Yuri Berchiche,ESP,DF,31.0,11.3,19,1.68,16,1,0,0,1,1,3,0.27,3,0,0,0,0,0
+ESP-La Liga,2122,Athletic Club,Álex Berenguer,ESP,"MF,FW",26.0,24.1,71,2.95,44,16,3,3,4,1,8,0.33,5,2,0,1,0,0
+ESP-La Liga,2122,Athletic Club,Óscar de Marcos,ESP,DF,32.0,18.7,33,1.77,26,6,0,0,0,1,5,0.27,5,0,0,0,0,0
+ESP-La Liga,2122,Atlético Madrid,Antoine Griezmann,FRA,"FW,MF",30.0,18.8,51,2.71,39,8,0,1,2,1,11,0.58,10,0,0,0,0,1
+ESP-La Liga,2122,Atlético Madrid,Carlos Martín,ESP,DF,19.0,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Atlético Madrid,Daniel Wass,DEN,DF,32.0,0.5,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Atlético Madrid,Felipe,BRA,DF,32.0,16.7,9,0.54,8,0,0,1,0,0,1,0.06,1,0,0,0,0,0
+ESP-La Liga,2122,Atlético Madrid,Geoffrey Kondogbia,CTA,"MF,DF",28.0,20.9,23,1.1,19,0,2,0,0,2,4,0.19,3,0,0,0,0,1
+ESP-La Liga,2122,Atlético Madrid,Giuliano Simeone,ARG,DF,18.0,0.0,1,90.0,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Atlético Madrid,Héctor Herrera,MEX,MF,31.0,9.5,17,1.78,14,1,2,0,0,0,2,0.21,2,0,0,0,0,0
+ESP-La Liga,2122,Atlético Madrid,Jan Oblak,SVN,GK,28.0,38.0,1,0.03,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Atlético Madrid,Javier Serrano,ESP,MF,18.0,0.8,1,1.32,1,0,0,0,0,0,1,1.32,1,0,0,0,0,0
+ESP-La Liga,2122,Atlético Madrid,José María Giménez,URU,DF,26.0,22.7,8,0.35,6,0,0,1,1,0,2,0.09,1,0,0,1,0,0
+ESP-La Liga,2122,Atlético Madrid,João Félix,POR,"FW,MF",21.0,14.0,44,3.14,30,1,5,2,5,1,10,0.71,8,0,1,0,0,1
+ESP-La Liga,2122,Atlético Madrid,Kieran Trippier,ENG,DF,30.0,10.8,14,1.29,9,4,0,1,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Atlético Madrid,Koke,ESP,MF,29.0,27.9,54,1.94,46,3,0,1,3,1,7,0.25,7,0,0,0,0,0
+ESP-La Liga,2122,Atlético Madrid,Luis Suárez,URU,FW,34.0,20.4,36,1.77,27,0,0,4,3,2,6,0.29,4,0,0,1,1,0
+ESP-La Liga,2122,Atlético Madrid,Marcos Llorente,ESP,"DF,MF",26.0,27.2,41,1.51,37,2,1,0,1,0,4,0.15,4,0,0,0,0,0
+ESP-La Liga,2122,Atlético Madrid,Mario Hermoso,ESP,DF,26.0,20.7,23,1.11,19,3,0,1,0,0,2,0.1,2,0,0,0,0,0
+ESP-La Liga,2122,Atlético Madrid,Matheus Cunha,BRA,FW,22.0,11.8,22,1.86,12,0,0,3,6,1,7,0.59,4,0,0,1,2,0
+ESP-La Liga,2122,Atlético Madrid,Opponent Total,,,27.6,38.0,544,14.32,362,64,29,31,41,17,67,1.76,37,6,7,8,7,2
+ESP-La Liga,2122,Atlético Madrid,Reinildo Mandava,MOZ,DF,27.0,14.4,10,0.69,9,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Atlético Madrid,Renan Lodi,BRA,DF,23.0,13.1,18,1.37,17,0,0,0,1,0,2,0.15,2,0,0,0,0,0
+ESP-La Liga,2122,Atlético Madrid,Rodrigo De Paul,ARG,MF,27.0,23.9,85,3.56,57,23,1,1,1,2,5,0.21,4,1,0,0,0,0
+ESP-La Liga,2122,Atlético Madrid,Saúl Ñíguez,ESP,"DF,MF",26.0,2.2,3,1.34,2,0,0,0,1,0,1,0.45,1,0,0,0,0,0
+ESP-La Liga,2122,Atlético Madrid,Squad Total,,,28.1,38.0,713,18.76,516,78,39,32,34,14,101,2.66,77,6,4,7,3,4
+ESP-La Liga,2122,Atlético Madrid,Stefan Savić,MNE,DF,30.0,27.1,9,0.33,7,0,0,2,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Atlético Madrid,Thomas Lemar,FRA,MF,25.0,16.0,62,3.87,44,7,3,5,3,0,11,0.69,7,1,1,2,0,0
+ESP-La Liga,2122,Atlético Madrid,Yannick Carrasco,BEL,"DF,MF",27.0,28.7,115,4.01,62,22,22,6,2,1,12,0.42,5,4,2,1,0,0
+ESP-La Liga,2122,Atlético Madrid,Ángel Correa,ARG,"FW,MF",26.0,20.6,57,2.76,43,3,3,3,3,2,10,0.48,8,0,0,1,0,1
+ESP-La Liga,2122,Atlético Madrid,Šime Vrsaljko,CRO,DF,29.0,10.2,9,0.89,7,0,0,0,1,1,3,0.3,3,0,0,0,0,0
+ESP-La Liga,2122,Barcelona,Abdessamad Ezzalzouli,MAR,"FW,DF",19.0,6.4,11,1.71,6,0,2,1,1,1,1,0.16,0,0,0,1,0,0
+ESP-La Liga,2122,Barcelona,Adama Traoré,ESP,"FW,DF",25.0,4.2,18,4.24,13,0,4,0,0,1,3,0.71,3,0,0,0,0,0
+ESP-La Liga,2122,Barcelona,Alejandro Balde,ESP,"DF,FW",17.0,2.1,3,1.44,2,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Barcelona,Alvaro Sanz,ESP,MF,20.0,0.3,1,3.1,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Barcelona,Ansu Fati,ESP,FW,18.0,3.7,10,2.68,7,0,0,0,2,1,2,0.54,1,0,0,0,1,0
+ESP-La Liga,2122,Barcelona,Antoine Griezmann,FRA,FW,30.0,2.9,5,1.71,5,0,0,0,0,0,1,0.34,1,0,0,0,0,0
+ESP-La Liga,2122,Barcelona,Clément Lenglet,FRA,DF,26.0,9.2,6,0.65,6,0,0,0,0,0,2,0.22,2,0,0,0,0,0
+ESP-La Liga,2122,Barcelona,Dani Alves,BRA,DF,38.0,12.2,31,2.54,23,8,0,0,0,0,4,0.33,4,0,0,0,0,0
+ESP-La Liga,2122,Barcelona,Emerson,BRA,DF,22.0,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Barcelona,Eric García,ESP,DF,20.0,22.7,23,1.02,22,0,0,1,0,0,1,0.04,1,0,0,0,0,0
+ESP-La Liga,2122,Barcelona,Estanis,ESP,FW,17.0,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Barcelona,Ferrán Torres,ESP,FW,21.0,15.7,33,2.1,23,0,2,4,4,0,5,0.32,3,0,0,2,0,0
+ESP-La Liga,2122,Barcelona,Frenkie de Jong,NED,MF,24.0,27.5,73,2.65,65,2,1,1,3,1,8,0.29,8,0,0,0,0,0
+ESP-La Liga,2122,Barcelona,Gavi Paez,ESP,"MF,FW",16.0,25.7,52,2.02,43,0,5,1,2,1,13,0.51,10,0,2,0,1,0
+ESP-La Liga,2122,Barcelona,Gerard Piqué,ESP,DF,34.0,23.2,23,0.99,16,1,1,3,0,2,5,0.22,3,1,0,1,0,0
+ESP-La Liga,2122,Barcelona,Ilias Akhomach,ESP,FW,17.0,1.4,7,5.08,4,0,1,0,2,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Barcelona,Jordi Alba,ESP,DF,32.0,29.4,84,2.86,78,2,1,2,1,0,13,0.44,12,0,0,1,0,0
+ESP-La Liga,2122,Barcelona,Jutglà,ESP,FW,22.0,3.3,9,2.69,5,0,2,1,1,0,1,0.3,1,0,0,0,0,0
+ESP-La Liga,2122,Barcelona,Luuk de Jong,NED,FW,30.0,7.3,5,0.69,3,0,0,0,2,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Barcelona,Marc-André ter Stegen,GER,GK,29.0,35.0,6,0.17,4,2,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Barcelona,Martin Braithwaite,DEN,FW,30.0,2.6,3,1.15,3,0,0,0,0,0,1,0.38,1,0,0,0,0,0
+ESP-La Liga,2122,Barcelona,Memphis Depay,NED,FW,27.0,20.6,76,3.7,43,18,6,3,6,0,11,0.53,5,1,2,1,2,0
+ESP-La Liga,2122,Barcelona,Mika Màrmol,ESP,DF,19.0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Barcelona,Neto,BRA,GK,32.0,3.0,1,0.33,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Barcelona,Nicolás González,ESP,MF,19.0,12.4,33,2.67,27,0,2,1,1,2,3,0.24,2,0,1,0,0,0
+ESP-La Liga,2122,Barcelona,Opponent Total,,,27.7,38.0,571,15.03,386,63,37,27,38,20,58,1.53,37,5,5,3,6,2
+ESP-La Liga,2122,Barcelona,Ousmane Dembélé,FRA,FW,24.0,15.7,82,5.24,56,12,9,3,2,0,16,1.02,12,3,1,0,0,0
+ESP-La Liga,2122,Barcelona,Pedri,ESP,MF,18.0,9.8,39,3.97,27,6,1,2,3,0,6,0.61,4,0,0,1,1,0
+ESP-La Liga,2122,Barcelona,Philippe Coutinho,BRA,"MF,FW",29.0,5.6,16,2.86,11,2,1,0,1,1,4,0.72,3,0,0,0,1,0
+ESP-La Liga,2122,Barcelona,Pierre-Emerick Aubameyang,GAB,FW,32.0,12.0,15,1.25,12,0,0,2,0,1,2,0.17,2,0,0,0,0,0
+ESP-La Liga,2122,Barcelona,Riqui Puig,ESP,MF,21.0,5.4,22,4.07,20,0,1,1,0,0,3,0.55,1,0,1,1,0,0
+ESP-La Liga,2122,Barcelona,Ronald Araújo,URU,DF,22.0,25.2,13,0.51,10,0,0,2,1,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Barcelona,Samuel Umtiti,FRA,DF,27.0,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Barcelona,Sergi Roberto,ESP,"MF,DF",29.0,4.4,9,2.03,9,0,0,0,0,0,1,0.23,1,0,0,0,0,0
+ESP-La Liga,2122,Barcelona,Sergio Agüero,ARG,FW,33.0,1.7,3,1.79,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Barcelona,Sergio Busquets,ESP,MF,33.0,35.5,85,2.39,75,1,1,0,3,5,3,0.08,3,0,0,0,0,0
+ESP-La Liga,2122,Barcelona,Sergiño Dest,USA,"DF,FW",20.0,16.8,39,2.32,30,1,7,0,1,0,3,0.18,3,0,0,0,0,0
+ESP-La Liga,2122,Barcelona,Squad Total,,,26.2,38.0,852,22.42,664,58,47,28,39,16,113,2.97,87,5,7,8,6,0
+ESP-La Liga,2122,Barcelona,Yusuf Demir,AUT,FW,18.0,2.1,5,2.34,0,3,0,0,2,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Barcelona,Óscar Mingueza,ESP,DF,22.0,9.9,11,1.11,11,0,0,0,0,0,1,0.1,1,0,0,0,0,0
+ESP-La Liga,2122,Betis,Aitor Ruibal,ESP,"FW,DF",25.0,9.5,30,3.15,23,0,4,1,2,0,1,0.11,0,0,0,0,1,0
+ESP-La Liga,2122,Betis,Andrés Guardado,MEX,MF,34.0,15.5,28,1.81,26,0,0,1,0,1,2,0.13,2,0,0,0,0,0
+ESP-La Liga,2122,Betis,Borja Iglesias,ESP,FW,28.0,17.5,33,1.89,25,1,0,2,4,1,4,0.23,1,0,0,0,2,1
+ESP-La Liga,2122,Betis,Calderón,ESP,DF,21.0,0.7,1,1.38,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Betis,Claudio Bravo,CHI,GK,38.0,16.2,3,0.19,2,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Betis,Cristian Tello,ESP,"FW,MF",29.0,9.1,33,3.63,24,0,4,4,0,1,2,0.22,2,0,0,0,0,0
+ESP-La Liga,2122,Betis,Diego Lainez,MEX,FW,21.0,1.6,4,2.57,3,0,1,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Betis,Germán Pezzella,ARG,DF,30.0,22.1,4,0.18,3,0,0,1,0,0,1,0.05,0,0,0,1,0,0
+ESP-La Liga,2122,Betis,Guido Rodríguez,ARG,MF,27.0,28.1,47,1.67,40,0,1,2,3,1,4,0.14,4,0,0,0,0,0
+ESP-La Liga,2122,Betis,Héctor Bellerín,ESP,DF,26.0,22.0,44,2.0,39,4,1,0,0,0,6,0.27,6,0,0,0,0,0
+ESP-La Liga,2122,Betis,Joaquín,ESP,"FW,MF",40.0,5.2,31,5.92,16,11,3,0,1,0,2,0.38,2,0,0,0,0,0
+ESP-La Liga,2122,Betis,Juan Miranda,ESP,DF,21.0,8.7,15,1.72,13,0,0,0,1,1,3,0.34,3,0,0,0,0,0
+ESP-La Liga,2122,Betis,Juanmi,ESP,FW,28.0,23.7,46,1.94,31,0,6,1,5,3,6,0.25,4,0,1,0,1,0
+ESP-La Liga,2122,Betis,Kike Hermoso,ESP,DF,21.0,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Betis,Loren Morón,ESP,FW,27.0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Betis,Marc Bartra,ESP,DF,30.0,22.1,11,0.5,8,2,0,1,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Betis,Martín Montoya,ESP,DF,30.0,5.8,4,0.69,4,0,0,0,0,0,1,0.17,1,0,0,0,0,0
+ESP-La Liga,2122,Betis,Nabil Fekir,FRA,MF,28.0,31.0,161,5.19,78,49,9,4,15,6,19,0.61,11,5,2,0,1,0
+ESP-La Liga,2122,Betis,Opponent Total,,,27.4,38.0,625,16.45,445,57,46,36,30,11,59,1.55,46,3,6,1,3,0
+ESP-La Liga,2122,Betis,Paul Akouokou,CIV,MF,23.0,5.7,6,1.05,6,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Betis,Raúl,ESP,FW,20.0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Betis,Roberto González,ESP,"FW,MF",20.0,1.5,1,0.67,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Betis,Rodrigo,ESP,FW,21.0,9.8,33,3.37,26,0,1,1,5,0,5,0.51,3,0,0,0,2,0
+ESP-La Liga,2122,Betis,Rui Silva,POR,GK,27.0,21.8,2,0.09,0,2,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Betis,Sergio Canales,ESP,"FW,MF",30.0,31.0,117,3.77,100,3,4,4,3,3,13,0.42,11,0,1,0,1,0
+ESP-La Liga,2122,Betis,Squad Total,,,28.9,38.0,835,21.97,607,75,44,34,47,28,95,2.5,65,5,7,5,11,2
+ESP-La Liga,2122,Betis,Víctor Camarasa,ESP,"MF,FW",27.0,1.2,1,0.83,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Betis,Víctor Ruiz,ESP,DF,32.0,15.8,9,0.57,7,0,0,1,0,1,1,0.06,1,0,0,0,0,0
+ESP-La Liga,2122,Betis,William Carvalho,POR,MF,29.0,20.1,50,2.49,42,0,4,1,1,2,7,0.35,3,0,1,1,1,1
+ESP-La Liga,2122,Betis,Willian José,BRA,FW,29.0,17.8,43,2.41,34,0,1,4,1,3,6,0.34,5,0,0,1,0,0
+ESP-La Liga,2122,Betis,Youssouf Sabaly,SEN,DF,28.0,8.8,14,1.6,13,0,0,0,1,0,1,0.11,1,0,0,0,0,0
+ESP-La Liga,2122,Betis,Álex Moreno,ESP,DF,28.0,26.7,55,2.06,35,2,5,4,5,4,10,0.37,5,0,2,1,2,0
+ESP-La Liga,2122,Betis,Édgar González,ESP,DF,24.0,16.3,9,0.55,7,0,0,1,0,1,1,0.06,0,0,0,1,0,0
+ESP-La Liga,2122,Celta Vigo,Augusto Solari,ARG,"MF,DF",29.0,7.9,19,2.39,14,0,2,1,2,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Celta Vigo,Brais Méndez,ESP,MF,24.0,33.6,73,2.17,62,0,1,5,3,2,11,0.33,9,0,1,0,0,1
+ESP-La Liga,2122,Celta Vigo,Carlos Dominguez,ESP,DF,20.0,3.8,1,0.26,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Celta Vigo,Denis Suárez,ESP,MF,27.0,31.3,89,2.84,56,21,4,4,2,2,12,0.38,8,2,0,1,0,1
+ESP-La Liga,2122,Celta Vigo,Fran Beltrán,ESP,MF,22.0,28.9,35,1.21,30,0,1,1,1,2,2,0.07,0,0,0,1,0,1
+ESP-La Liga,2122,Celta Vigo,Franco Cervi,ARG,MF,27.0,20.0,32,1.6,22,2,0,3,4,1,7,0.35,4,0,0,2,1,0
+ESP-La Liga,2122,Celta Vigo,Gabriel Veiga,ESP,MF,19.0,1.2,1,0.83,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Celta Vigo,Hugo Mallo,ESP,DF,30.0,20.3,35,1.73,28,4,1,1,1,0,2,0.1,2,0,0,0,0,0
+ESP-La Liga,2122,Celta Vigo,Hugo Sotelo,ESP,MF,17.0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Celta Vigo,Hugo Álvarez,ESP,FW,18.0,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Celta Vigo,Iago Aspas,ESP,FW,33.0,34.3,113,3.29,89,7,4,7,6,0,15,0.44,10,0,1,4,0,0
+ESP-La Liga,2122,Celta Vigo,Javi Galán,ESP,DF,26.0,36.6,51,1.39,40,3,3,0,3,2,4,0.11,4,0,0,0,0,0
+ESP-La Liga,2122,Celta Vigo,Jeison Murillo,COL,DF,29.0,12.4,5,0.4,3,1,0,0,1,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Celta Vigo,Joseph Aidoo,GHA,DF,25.0,29.3,13,0.44,12,0,0,1,0,0,2,0.07,2,0,0,0,0,0
+ESP-La Liga,2122,Celta Vigo,José Fontán,ESP,DF,21.0,3.1,2,0.65,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Celta Vigo,Kevin Vázquez,ESP,DF,28.0,14.8,21,1.42,18,1,0,1,1,0,2,0.13,2,0,0,0,0,0
+ESP-La Liga,2122,Celta Vigo,Matías Dituro,ARG,GK,34.0,38.0,2,0.05,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Celta Vigo,Miguel Baeza,ESP,DF,21.0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Celta Vigo,Nolito,ESP,MF,34.0,15.4,27,1.76,24,0,0,1,0,2,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Celta Vigo,Néstor Araujo,MEX,DF,29.0,29.1,8,0.28,6,0,1,1,0,0,2,0.07,2,0,0,0,0,0
+ESP-La Liga,2122,Celta Vigo,Okay Yokuşlu,TUR,"DF,MF",27.0,1.6,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Celta Vigo,Opponent Total,,,27.4,38.0,624,16.42,428,66,37,33,45,15,66,1.74,42,1,5,10,4,4
+ESP-La Liga,2122,Celta Vigo,Orbelín Pineda,MEX,"MF,FW",25.0,1.1,2,1.82,1,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Celta Vigo,Renato Tapia,PER,MF,26.0,15.7,16,1.02,11,2,0,0,1,2,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Celta Vigo,Santi Mina,ESP,FW,25.0,26.3,43,1.63,32,0,2,3,4,2,7,0.27,6,0,0,1,0,0
+ESP-La Liga,2122,Celta Vigo,Squad Total,,,28.4,38.0,613,16.13,474,41,19,34,30,15,70,1.84,53,2,2,9,1,3
+ESP-La Liga,2122,Celta Vigo,Thiago Galhardo,BRA,"FW,MF",32.0,12.8,25,1.96,20,0,0,4,1,0,4,0.31,4,0,0,0,0,0
+ESP-La Liga,2122,Cádiz,Alberto Perea,ESP,MF,30.0,8.6,27,3.13,17,4,0,1,3,2,2,0.23,1,1,0,0,0,0
+ESP-La Liga,2122,Cádiz,Alfonso Espino,URU,DF,29.0,37.0,72,1.95,52,10,2,2,1,5,4,0.11,3,0,0,0,0,1
+ESP-La Liga,2122,Cádiz,Anthony Lozano,HON,"FW,MF",28.0,18.6,36,1.94,20,0,3,6,6,1,9,0.48,3,0,1,2,2,1
+ESP-La Liga,2122,Cádiz,Cala,ESP,DF,31.0,10.5,3,0.29,1,1,0,1,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Cádiz,Carlos Akapo,EQG,DF,28.0,20.5,24,1.17,16,1,2,1,3,1,1,0.05,1,0,0,0,0,0
+ESP-La Liga,2122,Cádiz,Chapela,ESP,"MF,FW",22.0,4.4,5,1.13,4,0,0,0,1,0,1,0.23,1,0,0,0,0,0
+ESP-La Liga,2122,Cádiz,Fali,ESP,"DF,MF",27.0,20.0,12,0.6,9,1,0,1,0,1,2,0.1,1,1,0,0,0,0
+ESP-La Liga,2122,Cádiz,Fede San Emeterio,ESP,MF,24.0,9.2,9,0.98,8,0,0,0,0,1,3,0.33,2,0,0,0,0,1
+ESP-La Liga,2122,Cádiz,Florin Andone,ROU,FW,28.0,2.0,4,2.05,3,0,1,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Cádiz,Isaac Carcelen,ESP,"DF,MF",28.0,17.2,23,1.34,15,1,0,4,2,1,1,0.06,1,0,0,0,0,0
+ESP-La Liga,2122,Cádiz,Iván Alejo,ESP,"MF,FW",26.0,11.8,37,3.13,30,2,3,1,0,1,5,0.42,4,0,1,0,0,0
+ESP-La Liga,2122,Cádiz,Jens Jønsson,DEN,MF,28.0,14.5,15,1.04,12,0,1,0,2,0,2,0.14,1,0,0,0,1,0
+ESP-La Liga,2122,Cádiz,Jeremías Ledesma,ARG,GK,28.0,38.0,5,0.13,3,1,0,0,1,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Cádiz,José Mari,ESP,MF,33.0,4.3,8,1.87,6,1,0,1,0,0,2,0.47,2,0,0,0,0,0
+ESP-La Liga,2122,Cádiz,Lucas Pérez,ESP,"FW,MF",32.0,11.8,39,3.31,25,12,0,1,1,0,2,0.17,2,0,0,0,0,0
+ESP-La Liga,2122,Cádiz,Luis Hernández,ESP,DF,32.0,15.2,14,0.92,8,6,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Cádiz,Marcos Mauro López Gutiérrez,ARG,DF,30.0,1.5,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Cádiz,Martín,ESP,MF,22.0,1.3,1,0.78,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Cádiz,Milutin Osmajić,MNE,"FW,MF",22.0,2.9,1,0.35,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Cádiz,Opponent Total,,,27.6,38.0,771,20.29,537,76,47,39,51,21,85,2.24,51,6,5,11,10,2
+ESP-La Liga,2122,Cádiz,Oussama Idrissi,MAR,MF,25.0,10.0,37,3.69,27,6,4,0,0,0,4,0.4,3,1,0,0,0,0
+ESP-La Liga,2122,Cádiz,Pedro Benito,ESP,FW,21.0,0.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Cádiz,Raúl Parra,ESP,DF,21.0,1.0,1,1.02,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Cádiz,Rubén Alcaraz,ESP,MF,30.0,12.3,30,2.44,21,4,1,1,3,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Cádiz,Rubén Sobrino,ESP,"FW,MF",29.0,20.7,47,2.27,25,1,4,6,4,7,5,0.24,1,0,0,1,2,1
+ESP-La Liga,2122,Cádiz,Salvi,ESP,"MF,FW",30.0,15.5,20,1.29,13,2,0,5,0,0,3,0.19,1,0,0,2,0,0
+ESP-La Liga,2122,Cádiz,Santiago Arzamendia,PAR,"MF,DF",23.0,5.2,4,0.77,3,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Cádiz,Squad Total,,,28.5,38.0,596,15.68,397,75,28,41,31,24,54,1.42,32,6,2,5,5,4
+ESP-La Liga,2122,Cádiz,Tomás Alarcón,CHI,MF,22.0,15.8,26,1.64,13,11,1,0,0,1,3,0.19,1,2,0,0,0,0
+ESP-La Liga,2122,Cádiz,Varazdat Haroyan,ARM,DF,28.0,16.0,6,0.38,5,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Cádiz,Víctor Chust,ESP,DF,21.0,20.3,7,0.34,6,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Cádiz,Álex Fernández,ESP,MF,28.0,22.8,38,1.67,26,7,0,3,0,2,2,0.09,2,0,0,0,0,0
+ESP-La Liga,2122,Cádiz,Álvaro Bastida,ESP,MF,17.0,2.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Cádiz,Álvaro Jiménez,ESP,"MF,FW",26.0,2.6,5,1.92,1,2,2,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Cádiz,Álvaro Negredo,ESP,FW,35.0,24.0,40,1.67,26,1,4,5,3,1,3,0.13,2,1,0,0,0,0
+ESP-La Liga,2122,Elche,Antonio Barragán,ESP,DF,34.0,11.3,10,0.88,8,1,0,0,1,0,2,0.18,2,0,0,0,0,0
+ESP-La Liga,2122,Elche,Darío Benedetto,ARG,FW,31.0,6.6,11,1.68,7,0,3,1,0,0,2,0.31,1,0,0,1,0,0
+ESP-La Liga,2122,Elche,Diego González,ESP,DF,26.0,19.9,4,0.2,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Elche,Enzo Roco,CHI,DF,28.0,28.4,7,0.25,7,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Elche,Ezequiel Ponce,ARG,FW,24.0,7.4,17,2.29,12,0,2,2,0,1,1,0.13,0,0,1,0,0,0
+ESP-La Liga,2122,Elche,Fidel,ESP,"MF,FW",31.0,25.1,72,2.87,54,13,2,0,1,2,10,0.4,9,1,0,0,0,0
+ESP-La Liga,2122,Elche,Gerard Gumbau,ESP,MF,26.0,21.0,50,2.38,26,22,1,1,0,0,7,0.33,6,1,0,0,0,0
+ESP-La Liga,2122,Elche,Gonzalo Verdú,ESP,DF,32.0,15.5,1,0.06,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Elche,Guido Carrillo,ARG,FW,30.0,13.0,21,1.62,13,0,0,3,3,2,1,0.08,1,0,0,0,0,0
+ESP-La Liga,2122,Elche,Helibelton Palacios,COL,DF,28.0,21.5,12,0.56,11,0,1,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Elche,Iván Marcone,ARG,MF,31.0,9.0,3,0.33,2,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Elche,Javier Pastore,ARG,"MF,FW",32.0,5.8,20,3.43,19,0,1,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Elche,Johan Mojica,COL,DF,28.0,31.7,50,1.58,43,2,3,0,2,0,8,0.25,7,0,0,0,1,0
+ESP-La Liga,2122,Elche,John Donald,ESP,DF,20.0,2.0,3,1.5,1,0,0,0,0,2,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Elche,Josan,ESP,"DF,MF",31.0,13.5,28,2.08,24,1,2,0,1,0,3,0.22,3,0,0,0,0,0
+ESP-La Liga,2122,Elche,Josema,ESP,DF,25.0,2.0,1,0.49,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Elche,Kike Pérez,ESP,"FW,MF",24.0,5.8,18,3.12,12,2,1,1,1,1,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Elche,Kiko Casilla,ESP,GK,34.0,14.0,4,0.29,2,2,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Elche,Lucas Boyé,ARG,FW,25.0,19.0,43,2.26,26,0,9,3,2,3,9,0.47,4,0,3,0,0,2
+ESP-La Liga,2122,Elche,Lucas Olaza,URU,DF,27.0,3.3,9,2.75,8,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Elche,Lucas Pérez,ESP,FW,32.0,14.1,25,1.78,15,4,3,0,3,0,3,0.21,0,1,1,0,1,0
+ESP-La Liga,2122,Elche,Omar Mascarell,ESP,MF,28.0,27.7,14,0.51,10,1,0,1,0,2,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Elche,Opponent Total,,,27.4,38.0,803,21.13,579,63,49,42,49,21,86,2.26,61,7,4,6,7,1
+ESP-La Liga,2122,Elche,Pablo Piatti,ARG,"MF,FW",32.0,3.5,8,2.31,5,0,2,0,1,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Elche,Pedro Bigas,ESP,DF,30.0,17.2,10,0.58,7,0,0,1,2,0,1,0.06,1,0,0,0,0,0
+ESP-La Liga,2122,Elche,Pere Milla,ESP,"FW,MF",28.0,18.3,28,1.53,21,0,2,3,1,1,5,0.27,3,0,1,1,0,0
+ESP-La Liga,2122,Elche,Raúl Guti,ESP,MF,24.0,18.1,18,1.0,13,0,0,1,2,2,2,0.11,2,0,0,0,0,0
+ESP-La Liga,2122,Elche,Squad Total,,,29.1,38.0,521,13.71,379,52,34,18,21,17,58,1.53,41,4,7,2,2,2
+ESP-La Liga,2122,Elche,Tete Morente,ESP,"MF,FW",24.0,18.1,34,1.87,27,2,2,1,1,1,4,0.22,2,1,1,0,0,0
+ESP-La Liga,2122,Elche,Édgar Badía,ESP,GK,29.0,24.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Espanyol,Adri Embarba,ESP,"FW,MF",29.0,22.1,81,3.67,38,23,8,4,5,3,6,0.27,2,3,0,1,0,0
+ESP-La Liga,2122,Espanyol,Aleix Vidal,ESP,"DF,MF",31.0,21.1,49,2.32,39,4,1,0,4,1,4,0.19,3,0,1,0,0,0
+ESP-La Liga,2122,Espanyol,Daniel Villahermosa,ESP,MF,20.0,0.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Espanyol,David López,ESP,"MF,DF",31.0,8.3,12,1.45,10,1,0,1,0,0,1,0.12,1,0,0,0,0,0
+ESP-La Liga,2122,Espanyol,Diego López,ESP,GK,39.0,35.3,2,0.06,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Espanyol,Dídac Vilà,ESP,"DF,MF",32.0,2.3,4,1.77,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Espanyol,Fernando Calero,ESP,DF,25.0,12.1,5,0.41,5,0,0,0,0,0,1,0.08,1,0,0,0,0,0
+ESP-La Liga,2122,Espanyol,Fran Mérida,ESP,MF,31.0,3.0,8,2.71,6,1,1,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Espanyol,Gori,ESP,MF,19.0,0.1,1,10.0,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Espanyol,Javi Puado,ESP,"FW,MF",23.0,24.9,39,1.56,32,0,2,3,2,0,3,0.12,2,0,1,0,0,0
+ESP-La Liga,2122,Espanyol,Joan García,ESP,GK,20.0,1.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Espanyol,Jofre,ESP,"MF,DF",20.0,0.2,4,18.0,3,0,0,0,1,0,2,9.0,1,0,0,0,1,0
+ESP-La Liga,2122,Espanyol,Keidi Bare,ALB,MF,23.0,16.5,21,1.28,19,0,1,0,1,0,2,0.12,1,0,0,0,1,0
+ESP-La Liga,2122,Espanyol,Landry Dimata,BEL,"FW,MF",23.0,6.0,16,2.66,11,0,1,0,3,1,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Espanyol,Leandro Cabrera,URU,DF,30.0,37.0,26,0.7,21,2,0,3,0,0,4,0.11,2,1,0,1,0,0
+ESP-La Liga,2122,Espanyol,Lluís Recasens,ESP,DF,19.0,0.5,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Espanyol,Loren Morón,ESP,"FW,MF",27.0,6.3,6,0.96,5,0,0,1,0,0,1,0.16,0,0,0,1,0,0
+ESP-La Liga,2122,Espanyol,Luca Koleosho,USA,FW,16.0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Espanyol,Manu Morlanes,ESP,MF,22.0,12.7,23,1.81,17,1,1,1,0,3,5,0.39,3,0,0,1,0,1
+ESP-La Liga,2122,Espanyol,Miguel Juan Llambrich,ESP,DF,25.0,0.8,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Espanyol,Nico Ribaudo,ESP,"MF,FW",20.0,12.4,31,2.5,22,2,2,1,3,1,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Espanyol,Oier Olazábal,ESP,GK,31.0,1.5,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Espanyol,Opponent Total,,,27.5,38.0,778,20.47,583,71,36,37,36,15,83,2.18,65,4,4,5,2,3
+ESP-La Liga,2122,Espanyol,Pedrosa,ESP,DF,23.0,30.2,43,1.42,29,1,4,2,5,2,2,0.07,2,0,0,0,0,0
+ESP-La Liga,2122,Espanyol,Raúl de Tomás,ESP,FW,26.0,32.4,65,2.01,47,0,6,5,6,1,8,0.25,4,0,1,2,1,0
+ESP-La Liga,2122,Espanyol,Rubén,ESP,DF,20.0,1.7,1,0.6,1,0,0,0,0,0,1,0.6,1,0,0,0,0,0
+ESP-La Liga,2122,Espanyol,Sergi Darder,ESP,MF,27.0,34.7,88,2.53,68,7,1,4,4,4,14,0.4,13,0,0,1,0,0
+ESP-La Liga,2122,Espanyol,Sergi Gómez,ESP,DF,29.0,30.2,11,0.36,11,0,0,0,0,0,2,0.07,2,0,0,0,0,0
+ESP-La Liga,2122,Espanyol,Squad Total,,,27.6,38.0,643,16.92,478,51,30,29,38,17,64,1.68,43,5,3,7,4,2
+ESP-La Liga,2122,Espanyol,Tonny Vilhena,NED,"MF,FW",26.0,10.3,18,1.75,11,5,0,1,1,0,1,0.1,0,1,0,0,0,0
+ESP-La Liga,2122,Espanyol,Victor Perea,ESP,DF,21.0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Espanyol,Wu Lei,CHN,"FW,MF",29.0,5.3,11,2.09,10,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Espanyol,Yangel Herrera,VEN,MF,23.0,18.3,24,1.31,17,0,2,1,3,1,4,0.22,2,0,0,0,1,1
+ESP-La Liga,2122,Espanyol,Álvaro Vadillo,ESP,"MF,DF",26.0,0.1,1,12.86,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Espanyol,Óscar Gil,ESP,DF,23.0,18.8,20,1.07,16,4,0,0,0,0,2,0.11,2,0,0,0,0,0
+ESP-La Liga,2122,Espanyol,Óscar Melendo,ESP,"MF,FW",23.0,11.0,33,3.0,32,0,0,1,0,0,1,0.09,1,0,0,0,0,0
+ESP-La Liga,2122,Getafe,Allan Nyom,CMR,DF,33.0,2.7,3,1.11,2,0,1,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Getafe,Borja Mayoral,ESP,FW,24.0,11.6,27,2.33,23,0,2,2,0,0,6,0.52,4,0,1,1,0,0
+ESP-La Liga,2122,Getafe,Carles Aleñá,ESP,MF,23.0,25.8,52,2.02,42,1,2,3,4,0,4,0.16,4,0,0,0,0,0
+ESP-La Liga,2122,Getafe,Chema,ESP,MF,29.0,0.5,1,2.0,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Getafe,Damián Suárez,URU,DF,33.0,30.1,70,2.32,48,15,0,1,2,4,7,0.23,3,1,0,0,2,1
+ESP-La Liga,2122,Getafe,Darío Poveda,ESP,"FW,MF",24.0,4.2,11,2.61,9,0,1,0,0,1,1,0.24,1,0,0,0,0,0
+ESP-La Liga,2122,Getafe,David Soria,ESP,GK,28.0,37.9,3,0.08,2,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Getafe,David Timor,ESP,MF,31.0,3.8,3,0.79,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Getafe,Diego Conde,ESP,GK,22.0,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Getafe,Djené,TOG,DF,29.0,34.6,26,0.75,20,0,2,1,1,2,4,0.12,4,0,0,0,0,0
+ESP-La Liga,2122,Getafe,Emmanuel Amankwaa Akurugu,GHA,DF,19.0,0.9,1,1.14,1,0,0,0,0,0,1,1.14,1,0,0,0,0,0
+ESP-La Liga,2122,Getafe,Enes Ünal,TUR,FW,24.0,31.1,69,2.22,41,0,5,7,15,1,4,0.13,3,0,0,0,0,1
+ESP-La Liga,2122,Getafe,Erick Cabaco,URU,DF,26.0,4.5,3,0.67,2,1,0,0,0,0,1,0.22,1,0,0,0,0,0
+ESP-La Liga,2122,Getafe,Florentino Luís,POR,MF,21.0,11.0,16,1.45,14,0,0,0,0,2,1,0.09,1,0,0,0,0,0
+ESP-La Liga,2122,Getafe,Gonzalo Villar,ESP,MF,23.0,3.3,6,1.81,3,0,1,1,1,0,1,0.3,1,0,0,0,0,0
+ESP-La Liga,2122,Getafe,Hugo Duro,ESP,"DF,MF",21.0,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Getafe,Iglesias,ESP,DF,23.0,8.0,16,2.0,10,2,1,0,3,0,1,0.13,1,0,0,0,0,0
+ESP-La Liga,2122,Getafe,Jaime Mata,ESP,FW,32.0,7.5,13,1.74,12,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Getafe,Jakub Jankto,CZE,"DF,MF",25.0,6.5,9,1.38,4,1,0,1,2,1,3,0.46,1,1,0,1,0,0
+ESP-La Liga,2122,Getafe,Jonathan Silva,ARG,"DF,MF",27.0,2.5,3,1.19,2,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Getafe,Jorge Cuenca,ESP,DF,21.0,29.8,7,0.23,6,0,0,0,1,0,1,0.03,1,0,0,0,0,0
+ESP-La Liga,2122,Getafe,José Juan Macías,MEX,"FW,MF",21.0,2.2,2,0.9,0,0,0,0,2,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Getafe,Marc Cucurella,ESP,"FW,DF",23.0,0.3,4,15.65,1,1,1,0,0,1,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Getafe,Mathías Olivera,URU,DF,23.0,31.1,73,2.34,49,3,2,4,8,7,4,0.13,4,0,0,0,0,0
+ESP-La Liga,2122,Getafe,Mauro Arambarri,URU,MF,25.0,29.6,70,2.37,30,29,4,2,3,2,11,0.37,4,4,2,0,0,1
+ESP-La Liga,2122,Getafe,Nemanja Maksimović,SRB,MF,26.0,32.6,42,1.29,35,1,1,1,2,2,1,0.03,1,0,0,0,0,0
+ESP-La Liga,2122,Getafe,Okay Yokuşlu,TUR,"DF,MF",27.0,5.2,1,0.19,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Getafe,Opponent Total,,,27.8,38.0,621,16.34,438,77,21,22,49,14,64,1.68,48,5,3,3,2,3
+ESP-La Liga,2122,Getafe,Sandro Ramírez,ESP,FW,26.0,16.2,53,3.26,29,2,7,6,7,2,2,0.12,2,0,0,0,0,0
+ESP-La Liga,2122,Getafe,Squad Total,,,26.6,38.0,623,16.39,412,69,30,32,55,25,56,1.47,40,6,3,2,2,3
+ESP-La Liga,2122,Getafe,Stefan Mitrović,SRB,DF,31.0,29.6,8,0.27,7,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Getafe,Vitolo,ESP,"MF,FW",31.0,2.5,6,2.44,5,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Getafe,Óscar Rodríguez Arnaiz,ESP,"MF,FW",23.0,10.5,25,2.39,10,10,0,2,3,0,3,0.29,3,0,0,0,0,0
+ESP-La Liga,2122,Granada,Aarón Escandell,ESP,GK,25.0,3.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Granada,Adrián Butzke,ESP,FW,22.0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Granada,Alberto Soro,ESP,"MF,FW",22.0,6.4,12,1.87,7,1,1,1,1,1,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Granada,Antonio Puertas,ESP,"MF,FW",29.0,25.1,53,2.11,37,2,5,1,6,2,6,0.24,4,0,1,0,0,1
+ESP-La Liga,2122,Granada,Barcia,ESP,DF,20.0,0.8,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Granada,Carlos Bacca,COL,FW,34.0,5.7,13,2.28,9,0,0,2,2,0,2,0.35,1,0,0,0,1,0
+ESP-La Liga,2122,Granada,Carlos Neva,ESP,DF,25.0,23.4,27,1.15,23,2,1,0,0,1,2,0.09,2,0,0,0,0,0
+ESP-La Liga,2122,Granada,Dani Raba,ESP,"MF,FW",25.0,0.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Granada,Darwin Machís,VEN,"MF,FW",28.0,15.3,40,2.62,26,2,6,3,3,0,5,0.33,3,0,1,1,0,0
+ESP-La Liga,2122,Granada,Dimitri Foulquier,FRA,DF,28.0,2.0,2,1.0,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Granada,Domingos Duarte,POR,DF,26.0,18.7,7,0.37,6,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Granada,Germán Sánchez,ESP,DF,34.0,25.5,12,0.47,9,1,0,2,0,0,1,0.04,1,0,0,0,0,0
+ESP-La Liga,2122,Granada,Isma Ruiz,ESP,MF,20.0,3.1,4,1.27,4,0,0,0,0,0,1,0.32,1,0,0,0,0,0
+ESP-La Liga,2122,Granada,Jorge Molina,ESP,FW,39.0,21.8,50,2.29,39,0,3,3,5,0,5,0.23,5,0,0,0,0,0
+ESP-La Liga,2122,Granada,Luis Abram,PER,DF,25.0,6.2,3,0.48,1,0,0,2,0,0,1,0.16,0,0,0,1,0,0
+ESP-La Liga,2122,Granada,Luis Javier Suárez,COL,FW,23.0,31.6,64,2.03,43,0,7,6,5,3,7,0.22,5,0,0,0,1,1
+ESP-La Liga,2122,Granada,Luis Milla,ESP,MF,26.0,30.8,71,2.3,46,19,1,1,2,2,7,0.23,3,3,0,1,0,0
+ESP-La Liga,2122,Granada,Luís Maximiano,POR,GK,22.0,34.8,4,0.11,3,1,0,0,0,0,1,0.03,1,0,0,0,0,0
+ESP-La Liga,2122,Granada,Matias Arezo,URU,FW,18.0,1.8,7,3.89,6,0,0,1,0,0,1,0.56,0,0,0,1,0,0
+ESP-La Liga,2122,Granada,Maxime Gonalons,FRA,MF,32.0,17.2,26,1.51,22,0,1,1,1,1,2,0.12,2,0,0,0,0,0
+ESP-La Liga,2122,Granada,Monchu,ESP,MF,21.0,7.4,7,0.94,6,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Granada,Myrto Uzuni,ALB,"MF,FW",26.0,9.5,15,1.58,14,1,0,0,0,0,2,0.21,2,0,0,0,0,0
+ESP-La Liga,2122,Granada,Njegoš Petrović,SRB,MF,22.0,10.2,16,1.57,12,0,1,2,1,0,3,0.29,2,0,0,1,0,0
+ESP-La Liga,2122,Granada,Opponent Total,,,27.6,38.0,870,22.89,613,92,47,43,51,24,102,2.68,60,8,11,8,11,4
+ESP-La Liga,2122,Granada,Quini,ESP,DF,31.0,25.6,30,1.17,23,3,1,1,0,2,4,0.16,2,0,0,0,0,2
+ESP-La Liga,2122,Granada,Raúl Torrente,ESP,DF,19.0,14.2,8,0.56,5,0,0,0,1,2,1,0.07,0,0,0,0,1,0
+ESP-La Liga,2122,Granada,Rubén Rochina,ESP,"MF,FW",30.0,8.3,22,2.66,17,3,1,0,0,1,3,0.36,1,2,0,0,0,0
+ESP-La Liga,2122,Granada,Santiago Arias,COL,DF,29.0,4.9,8,1.64,5,1,1,0,1,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Granada,Sergio Escudero,ESP,"DF,MF",31.0,15.9,37,2.32,24,3,1,6,3,0,4,0.25,3,0,1,0,0,0
+ESP-La Liga,2122,Granada,Squad Total,,,28.1,38.0,621,16.34,444,55,34,39,32,17,64,1.68,43,6,3,5,3,4
+ESP-La Liga,2122,Granada,Víctor Díaz,ESP,DF,33.0,16.7,11,0.66,11,0,0,0,0,0,1,0.06,1,0,0,0,0,0
+ESP-La Liga,2122,Granada,Yan Brice Eteki,CMR,MF,23.0,3.8,2,0.52,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Granada,Álex Collado,ESP,"MF,FW",22.0,11.3,33,2.91,21,5,4,2,1,0,2,0.18,1,1,0,0,0,0
+ESP-La Liga,2122,Granada,Ángel Montoro,ESP,MF,33.0,14.8,37,2.5,21,11,0,3,0,2,3,0.2,3,0,0,0,0,0
+ESP-La Liga,2122,Levante,Aitor Fernández,ESP,GK,30.0,13.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Levante,Alejandro Primo,ESP,GK,17.0,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Levante,Carlos Clerc,ESP,DF,29.0,16.8,20,1.19,15,3,1,0,0,1,1,0.06,1,0,0,0,0,0
+ESP-La Liga,2122,Levante,Coke,ESP,DF,34.0,1.3,3,2.29,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Levante,Cárdenas,ESP,GK,24.0,24.0,4,0.17,3,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Levante,Dani Gómez,ESP,FW,23.0,11.8,29,2.46,19,0,1,5,4,0,6,0.51,4,0,0,0,2,0
+ESP-La Liga,2122,Levante,Enis Bardhi,MKD,"MF,FW",26.0,18.9,75,3.97,40,19,2,8,6,0,4,0.21,3,1,0,0,0,0
+ESP-La Liga,2122,Levante,Enric Franquesa,ESP,DF,24.0,6.9,7,1.01,7,0,0,0,0,0,1,0.14,1,0,0,0,0,0
+ESP-La Liga,2122,Levante,Gonzalo Melero,ESP,MF,27.0,18.8,32,1.7,26,0,0,5,1,0,5,0.27,5,0,0,0,0,0
+ESP-La Liga,2122,Levante,Jorge Miramón,ESP,DF,32.0,22.0,28,1.27,19,6,1,0,0,2,3,0.14,3,0,0,0,0,0
+ESP-La Liga,2122,Levante,Jorge de Frutos,ESP,"MF,FW",24.0,19.6,51,2.61,31,3,10,4,2,1,11,0.56,7,0,2,1,0,1
+ESP-La Liga,2122,Levante,José Campaña,ESP,MF,28.0,15.8,46,2.91,33,9,0,3,1,0,3,0.19,2,0,0,1,0,0
+ESP-La Liga,2122,Levante,José Luis García Vayá,ESP,MF,22.0,22.4,42,1.88,22,17,1,1,0,1,1,0.04,1,0,0,0,0,0
+ESP-La Liga,2122,Levante,José Luis Morales,ESP,"FW,MF",34.0,30.2,100,3.31,59,9,17,6,4,5,13,0.43,7,1,3,1,1,0
+ESP-La Liga,2122,Levante,Marcelo Saracchi,URU,DF,23.0,2.1,6,2.9,5,1,0,0,0,0,1,0.48,1,0,0,0,0,0
+ESP-La Liga,2122,Levante,Martín Cáceres,URU,DF,34.0,7.4,6,0.81,6,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Levante,Mickael Malsa,MTQ,MF,25.0,12.7,16,1.26,15,0,0,0,1,0,2,0.16,2,0,0,0,0,0
+ESP-La Liga,2122,Levante,Nemanja Radoja,SRB,MF,28.0,13.5,13,0.96,12,0,0,0,1,0,1,0.07,1,0,0,0,0,0
+ESP-La Liga,2122,Levante,Nikola Vukčević,MNE,MF,29.0,1.3,2,1.53,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Levante,Omar Faraj,SWE,FW,19.0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Levante,Opponent Total,,,27.4,38.0,809,21.29,588,79,40,38,44,20,126,3.32,89,10,10,5,9,3
+ESP-La Liga,2122,Levante,Pablo Martínez,ESP,MF,23.0,7.3,10,1.37,8,0,0,0,0,2,1,0.14,1,0,0,0,0,0
+ESP-La Liga,2122,Levante,Pubill,ESP,DF,18.0,5.7,16,2.81,12,2,0,2,0,0,3,0.53,1,1,0,1,0,0
+ESP-La Liga,2122,Levante,Rober,ESP,DF,26.0,22.3,17,0.76,16,0,0,1,0,0,3,0.13,2,0,0,1,0,0
+ESP-La Liga,2122,Levante,Roberto Soldado,ESP,FW,36.0,7.4,16,2.17,12,0,2,0,1,1,2,0.27,2,0,0,0,0,0
+ESP-La Liga,2122,Levante,Roger Martí,ESP,FW,30.0,23.5,38,1.62,28,0,0,5,4,1,6,0.26,4,0,0,1,1,0
+ESP-La Liga,2122,Levante,Rúben Vezo,POR,DF,27.0,26.9,18,0.67,12,1,0,3,1,1,3,0.11,0,0,0,1,1,1
+ESP-La Liga,2122,Levante,Sergio Postigo,ESP,DF,32.0,9.4,3,0.32,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Levante,Shkodran Mustafi,GER,DF,29.0,7.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Levante,Son,ESP,DF,27.0,21.9,35,1.6,29,2,1,1,1,1,5,0.23,4,0,0,0,1,0
+ESP-La Liga,2122,Levante,Squad Total,,,28.0,38.0,655,17.24,453,73,37,48,28,16,79,2.08,56,3,5,7,6,2
+ESP-La Liga,2122,Levante,Álex Cantero,ESP,"FW,MF",21.0,6.8,18,2.66,13,0,1,3,1,0,4,0.59,4,0,0,0,0,0
+ESP-La Liga,2122,Levante,Óscar Duarte,CRC,DF,32.0,19.7,4,0.2,3,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Mallorca,Abdón Prats,ESP,FW,28.0,7.1,18,2.53,12,0,0,1,3,2,1,0.14,0,0,0,1,0,0
+ESP-La Liga,2122,Mallorca,Aleix Febas,ESP,MF,25.0,1.3,2,1.54,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Mallorca,Aleksandar Sedlar,SRB,"DF,MF",29.0,4.5,2,0.45,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Mallorca,Amath,SEN,"FW,MF",25.0,9.8,18,1.83,10,0,1,2,4,1,2,0.2,1,0,0,1,0,0
+ESP-La Liga,2122,Mallorca,Antonio Raillo,ESP,DF,29.0,17.0,3,0.18,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Mallorca,Antonio Sánchez,ESP,"MF,FW",24.0,18.0,31,1.73,24,1,1,2,2,1,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Mallorca,Brian Oliván,ESP,DF,27.0,24.3,35,1.44,21,10,1,2,1,0,1,0.04,0,0,0,0,1,0
+ESP-La Liga,2122,Mallorca,Clément Grenier,FRA,MF,30.0,0.7,1,1.5,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Mallorca,Dani Rodríguez,ESP,"MF,FW",33.0,31.5,85,2.7,51,9,4,6,11,4,6,0.19,4,1,0,1,0,0
+ESP-La Liga,2122,Mallorca,Dominik Greif,SVK,GK,24.0,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Mallorca,Fernando Niño,ESP,FW,20.0,9.8,22,2.24,15,0,2,0,4,1,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Mallorca,Franco Russo,ARG,DF,26.0,16.3,4,0.25,1,0,0,1,0,2,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Mallorca,Giovanni González,URU,DF,26.0,4.1,7,1.73,6,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Mallorca,Iddrisu Baba,GHA,MF,25.0,21.5,18,0.84,15,0,0,2,0,1,1,0.05,1,0,0,0,0,0
+ESP-La Liga,2122,Mallorca,Iñigo Ruiz de Galarreta,ESP,MF,27.0,15.3,28,1.83,22,1,1,1,2,1,1,0.07,1,0,0,0,0,0
+ESP-La Liga,2122,Mallorca,Jaume Costa,ESP,DF,33.0,20.3,38,1.87,31,4,0,0,1,2,6,0.3,5,0,0,0,0,1
+ESP-La Liga,2122,Mallorca,Javier Llabrés,,"FW,MF",,1.5,4,2.73,2,0,1,1,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Mallorca,Joan Sastre Vanrell,ESP,DF,24.0,2.9,3,1.05,0,3,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Mallorca,Jordi Mboula,ESP,FW,22.0,4.8,7,1.45,4,0,0,0,0,3,1,0.21,0,0,0,0,0,1
+ESP-La Liga,2122,Mallorca,Josep Antoni Gayá,ESP,DF,21.0,0.6,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Mallorca,Lago Junior,CIV,"FW,MF",30.0,2.0,3,1.53,1,0,1,0,1,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Mallorca,Lee Kangin,KOR,"MF,FW",20.0,15.7,48,3.06,28,11,4,2,3,0,3,0.19,1,1,1,0,0,0
+ESP-La Liga,2122,Mallorca,Leonardo Román,ESP,GK,21.0,2.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Mallorca,Manolo Reina,ESP,GK,36.0,21.0,5,0.24,3,2,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Mallorca,Martin Valjent,SVK,DF,25.0,35.3,17,0.48,12,2,0,1,1,1,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Mallorca,Matthew Hoppe,USA,FW,20.0,1.5,4,2.75,4,0,0,0,0,0,1,0.69,1,0,0,0,0,0
+ESP-La Liga,2122,Mallorca,Opponent Total,,,27.7,38.0,714,18.79,512,72,30,44,37,19,99,2.61,70,6,4,8,7,4
+ESP-La Liga,2122,Mallorca,Pablo Maffeo,ESP,DF,24.0,32.7,54,1.65,33,2,5,3,8,3,10,0.31,6,0,1,0,3,0
+ESP-La Liga,2122,Mallorca,Rodrigo Battaglia,ARG,MF,30.0,13.1,14,1.07,11,0,1,0,2,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Mallorca,Salva Sevilla,ESP,MF,37.0,16.7,48,2.87,29,15,2,1,1,0,5,0.3,2,2,0,0,1,0
+ESP-La Liga,2122,Mallorca,Sergio Rico,ESP,GK,27.0,14.0,1,0.07,0,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Mallorca,Squad Total,,,27.9,38.0,656,17.26,436,67,35,33,60,25,54,1.42,32,4,4,4,8,2
+ESP-La Liga,2122,Mallorca,Takefusa Kubo,JPN,"FW,MF",20.0,17.8,69,3.87,43,6,5,2,12,1,4,0.22,3,0,0,0,1,0
+ESP-La Liga,2122,Mallorca,Vedat Muriqi,KVX,FW,27.0,16.0,36,2.25,26,0,4,4,0,2,6,0.38,4,0,1,1,0,0
+ESP-La Liga,2122,Mallorca,Ángel Rodríguez,ESP,FW,34.0,17.2,31,1.81,24,0,2,2,3,0,6,0.35,3,0,1,0,2,0
+ESP-La Liga,2122,Osasuna,Ante Budimir,CRO,FW,30.0,19.3,31,1.61,16,0,2,3,9,1,4,0.21,2,0,0,0,2,0
+ESP-La Liga,2122,Osasuna,Aridane Hernández,EQG,DF,32.0,12.9,5,0.39,3,0,1,0,0,1,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Osasuna,Barbero,ESP,"MF,FW",22.0,0.2,1,4.29,0,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Osasuna,Darko Brašanac,SRB,MF,29.0,26.7,57,2.13,50,0,0,3,2,2,6,0.22,5,0,0,1,0,0
+ESP-La Liga,2122,Osasuna,David García,ESP,DF,27.0,34.5,19,0.55,15,2,0,2,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Osasuna,Ezequiel Ávila,ARG,"FW,MF",27.0,20.8,37,1.78,22,4,0,3,6,2,6,0.29,3,1,0,0,1,1
+ESP-La Liga,2122,Osasuna,Iker Benito,ESP,"MF,FW",18.0,1.3,3,2.29,2,0,1,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Osasuna,Iñigo Pérez,ESP,MF,33.0,3.8,9,2.4,8,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Osasuna,Jaume Grau,ESP,MF,24.0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Osasuna,Javi Martínez,ESP,MF,21.0,9.8,22,2.25,17,4,0,0,0,1,4,0.41,4,0,0,0,0,0
+ESP-La Liga,2122,Osasuna,Javier Ontiveros,ESP,"MF,FW",23.0,0.4,1,2.31,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Osasuna,Jesús Areso,ESP,DF,22.0,2.1,2,0.96,1,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Osasuna,Jon Moncayola,ESP,MF,23.0,32.4,57,1.76,38,15,0,4,0,0,4,0.12,3,1,0,0,0,0
+ESP-La Liga,2122,Osasuna,Jonás Ramalho,ESP,DF,28.0,2.7,1,0.37,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Osasuna,José Ángel,ESP,DF,31.0,12.0,16,1.33,14,1,0,1,0,0,2,0.17,1,0,0,1,0,0
+ESP-La Liga,2122,Osasuna,Juan Cruz Armada,ESP,DF,29.0,21.5,6,0.28,5,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Osasuna,Juan Pérez,ESP,GK,25.0,2.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Osasuna,Kike,ESP,FW,31.0,20.7,49,2.37,36,0,2,5,4,2,4,0.19,3,0,0,1,0,0
+ESP-La Liga,2122,Osasuna,Kike Barja,ESP,"MF,FW",24.0,9.6,22,2.29,15,0,0,2,3,2,3,0.31,1,0,0,1,1,0
+ESP-La Liga,2122,Osasuna,Lucas Torró,ESP,MF,27.0,30.3,30,0.99,24,0,1,1,3,1,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Osasuna,Manuel Sánchez,ESP,DF,20.0,25.1,45,1.79,36,3,1,1,2,2,4,0.16,4,0,0,0,0,0
+ESP-La Liga,2122,Osasuna,Nacho Vidal,ESP,DF,26.0,32.2,50,1.55,36,3,4,2,5,0,5,0.16,3,1,0,0,1,0
+ESP-La Liga,2122,Osasuna,Oier Sanjurjo,ESP,MF,35.0,8.4,4,0.47,3,1,0,0,0,0,1,0.12,0,1,0,0,0,0
+ESP-La Liga,2122,Osasuna,Opponent Total,,,27.6,38.0,673,17.71,499,60,41,36,18,19,80,2.11,53,8,7,8,4,0
+ESP-La Liga,2122,Osasuna,Robert Ibáñez,ESP,MF,28.0,1.0,5,4.84,4,0,1,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Osasuna,Roberto Torres,ESP,"MF,FW",32.0,9.0,32,3.56,20,10,0,2,0,0,3,0.33,2,1,0,0,0,0
+ESP-La Liga,2122,Osasuna,Rubén García,ESP,"FW,MF",28.0,26.4,89,3.37,47,28,2,7,1,4,10,0.38,6,2,0,1,0,1
+ESP-La Liga,2122,Osasuna,Sergio Herrera,ESP,GK,28.0,36.0,1,0.03,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Osasuna,Squad Total,,,27.7,38.0,599,15.76,418,76,15,37,35,18,56,1.47,37,7,0,5,5,2
+ESP-La Liga,2122,Osasuna,Unai Dufur,ESP,DF,22.0,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Osasuna,Unai García,ESP,DF,29.0,15.6,5,0.32,4,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Rayo Vallecano,Alejandro Asensio,ESP,FW,20.0,0.1,2,15.0,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Rayo Vallecano,Andrés Martín,ESP,"FW,MF",22.0,2.1,1,0.48,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Rayo Vallecano,Bebé,CPV,"FW,MF",31.0,9.6,41,4.26,21,6,6,3,5,0,6,0.62,2,1,2,0,1,0
+ESP-La Liga,2122,Rayo Vallecano,Catena,ESP,DF,26.0,36.0,25,0.69,17,2,0,2,2,2,3,0.08,2,0,0,1,0,0
+ESP-La Liga,2122,Rayo Vallecano,Esteban Saveljich,MNE,DF,30.0,18.9,7,0.37,6,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Rayo Vallecano,Francisco Garcia,ESP,DF,21.0,33.6,52,1.55,40,8,1,2,0,1,1,0.03,1,0,0,0,0,0
+ESP-La Liga,2122,Rayo Vallecano,Isaac Palazón Camacho,ESP,"FW,MF",26.0,25.4,75,2.95,49,10,4,3,7,2,8,0.31,5,1,2,0,0,0
+ESP-La Liga,2122,Rayo Vallecano,Iván Balliu,ALB,DF,29.0,35.0,77,2.2,57,12,2,1,3,2,5,0.14,5,0,0,0,0,0
+ESP-La Liga,2122,Rayo Vallecano,José Pozo,ESP,MF,25.0,0.8,8,10.0,7,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Rayo Vallecano,Kévin Rodrigues,POR,"DF,FW",27.0,4.8,7,1.45,5,1,0,0,1,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Rayo Vallecano,Luca Zidane,FRA,"GK,MF",23.0,7.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Rayo Vallecano,Mamadou Sylla,SEN,"FW,MF",27.0,2.8,5,1.78,4,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Rayo Vallecano,Mario Hernández,ESP,"DF,FW",22.0,4.4,4,0.91,3,0,0,1,0,0,1,0.23,1,0,0,0,0,0
+ESP-La Liga,2122,Rayo Vallecano,Mario Suárez,ESP,DF,34.0,7.9,6,0.76,3,0,0,3,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Rayo Vallecano,Martín Merquelanz,ESP,FW,26.0,1.9,7,3.64,5,2,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Rayo Vallecano,Nikola Maraš,SRB,DF,25.0,11.6,3,0.26,2,0,0,1,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Rayo Vallecano,Opponent Total,,,27.6,38.0,646,17.0,465,62,37,24,37,21,82,2.16,53,8,8,5,5,3
+ESP-La Liga,2122,Rayo Vallecano,Pathé Ciss,SEN,MF,27.0,12.2,24,1.97,15,0,1,3,2,3,1,0.08,1,0,0,0,0,0
+ESP-La Liga,2122,Rayo Vallecano,Radamel Falcao,COL,FW,35.0,9.3,14,1.5,7,0,2,3,2,0,3,0.32,0,0,0,2,1,0
+ESP-La Liga,2122,Rayo Vallecano,Randy Ntekja,FRA,"FW,MF",23.0,16.2,32,1.97,23,0,2,2,5,0,5,0.31,1,0,1,0,3,0
+ESP-La Liga,2122,Rayo Vallecano,Santi Comesaña,ESP,MF,24.0,29.8,54,1.81,44,2,2,2,2,2,5,0.17,3,0,1,1,0,0
+ESP-La Liga,2122,Rayo Vallecano,Sergi Guardiola,ESP,FW,30.0,19.0,34,1.79,23,1,3,3,2,2,6,0.32,3,0,0,1,1,1
+ESP-La Liga,2122,Rayo Vallecano,Squad Total,,,27.5,38.0,747,19.66,511,90,31,43,49,23,64,1.68,38,5,6,6,6,3
+ESP-La Liga,2122,Rayo Vallecano,Stole Dimitrievski,MKD,GK,27.0,30.8,3,0.1,1,2,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Rayo Vallecano,Unai López,ESP,MF,25.0,12.9,46,3.57,30,9,2,1,3,1,2,0.16,1,1,0,0,0,0
+ESP-La Liga,2122,Rayo Vallecano,Yacine Qasmi,MAR,MF,30.0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Rayo Vallecano,Álvaro Aguirre,ESP,FW,21.0,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Rayo Vallecano,Álvaro García,ESP,FW,28.0,33.3,86,2.58,67,5,3,5,4,2,7,0.21,4,1,0,1,0,1
+ESP-La Liga,2122,Rayo Vallecano,Óscar Trejo,ARG,MF,33.0,22.3,105,4.71,54,30,3,4,9,5,11,0.49,9,1,0,0,0,1
+ESP-La Liga,2122,Rayo Vallecano,Óscar Valentín,ESP,MF,26.0,28.5,29,1.02,25,0,0,2,1,1,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Real Madrid,Andriy Lunin,UKR,GK,22.0,2.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Real Madrid,Blanco,ESP,MF,21.0,0.3,1,2.9,1,0,0,0,0,0,1,2.9,1,0,0,0,0,0
+ESP-La Liga,2122,Real Madrid,Casemiro,BRA,MF,29.0,28.5,63,2.21,56,0,0,1,2,4,11,0.39,8,0,0,1,1,1
+ESP-La Liga,2122,Real Madrid,Dani Carvajal,ESP,DF,29.0,17.2,38,2.21,35,0,1,0,0,2,6,0.35,5,0,1,0,0,0
+ESP-La Liga,2122,Real Madrid,Dani Ceballos,ESP,MF,24.0,3.1,13,4.24,11,0,0,2,0,0,2,0.65,1,0,0,1,0,0
+ESP-La Liga,2122,Real Madrid,David Alaba,AUT,DF,29.0,29.4,46,1.57,37,2,1,4,0,2,8,0.27,7,0,0,1,0,0
+ESP-La Liga,2122,Real Madrid,Eden Hazard,BEL,"FW,MF",30.0,8.0,44,5.52,36,0,4,0,4,0,1,0.13,1,0,0,0,0,0
+ESP-La Liga,2122,Real Madrid,Eduardo Camavinga,FRA,MF,18.0,13.7,31,2.26,26,0,1,0,2,2,3,0.22,3,0,0,0,0,0
+ESP-La Liga,2122,Real Madrid,Federico Valverde,URU,MF,23.0,20.4,64,3.14,52,1,4,3,1,3,4,0.2,4,0,0,0,0,0
+ESP-La Liga,2122,Real Madrid,Ferland Mendy,FRA,DF,26.0,19.3,53,2.75,48,2,2,0,1,0,3,0.16,2,0,0,0,1,0
+ESP-La Liga,2122,Real Madrid,Gareth Bale,WAL,FW,32.0,3.1,1,0.32,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Real Madrid,Isco,ESP,"MF,FW",29.0,3.7,19,5.17,15,1,0,1,2,0,2,0.54,2,0,0,0,0,0
+ESP-La Liga,2122,Real Madrid,Jesús Vallejo,ESP,DF,24.0,3.8,1,0.26,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Real Madrid,Karim Benzema,FRA,FW,33.0,28.8,124,4.3,103,0,13,6,2,0,21,0.73,16,0,4,1,0,0
+ESP-La Liga,2122,Real Madrid,Latasa,ESP,FW,20.0,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Real Madrid,Lucas Vázquez,ESP,DF,30.0,20.4,59,2.9,47,5,3,1,3,0,2,0.1,2,0,0,0,0,0
+ESP-La Liga,2122,Real Madrid,Luka Jović,SRB,FW,23.0,4.1,12,2.93,8,1,1,2,0,0,3,0.73,3,0,0,0,0,0
+ESP-La Liga,2122,Real Madrid,Luka Modrić,CRO,MF,35.0,22.6,73,3.23,58,8,3,3,0,1,11,0.49,8,1,0,2,0,0
+ESP-La Liga,2122,Real Madrid,Marcelo,BRA,DF,33.0,5.8,14,2.4,13,0,0,0,0,1,2,0.34,2,0,0,0,0,0
+ESP-La Liga,2122,Real Madrid,Marco Asensio,ESP,"FW,MF",25.0,19.2,65,3.38,41,10,3,8,2,1,7,0.36,3,0,1,2,0,1
+ESP-La Liga,2122,Real Madrid,Mariano,DOM,FW,27.0,3.8,10,2.63,7,0,2,0,0,1,2,0.53,1,0,0,0,0,1
+ESP-La Liga,2122,Real Madrid,Mario Gila,ESP,DF,20.0,0.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Real Madrid,Miguel Gutiérrez,ESP,DF,20.0,2.9,5,1.73,5,0,0,0,0,0,2,0.69,2,0,0,0,0,0
+ESP-La Liga,2122,Real Madrid,Nacho,ESP,DF,31.0,17.3,18,1.04,17,0,0,1,0,0,2,0.12,2,0,0,0,0,0
+ESP-La Liga,2122,Real Madrid,Opponent Total,,,27.6,38.0,680,17.89,476,66,41,34,38,25,48,1.26,32,3,3,3,4,3
+ESP-La Liga,2122,Real Madrid,Peter González,DOM,"MF,DF",19.0,0.3,5,16.67,3,0,1,0,1,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Real Madrid,Rodrygo,BRA,FW,20.0,16.9,65,3.84,40,6,9,2,7,1,11,0.65,8,0,1,1,1,0
+ESP-La Liga,2122,Real Madrid,Sergio Santos,ESP,DF,20.0,0.1,2,16.36,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Real Madrid,Squad Total,,,27.7,38.0,1115,29.34,863,64,71,44,49,24,139,3.66,105,2,10,10,7,5
+ESP-La Liga,2122,Real Madrid,Thibaut Courtois,BEL,GK,29.0,36.0,3,0.08,3,0,0,0,0,0,1,0.03,1,0,0,0,0,0
+ESP-La Liga,2122,Real Madrid,Toni Kroos,GER,MF,31.0,23.4,84,3.59,55,26,2,0,0,1,4,0.17,3,1,0,0,0,0
+ESP-La Liga,2122,Real Madrid,Vinicius Júnior,BRA,FW,21.0,29.9,170,5.69,119,1,21,7,19,3,25,0.84,18,0,3,0,3,1
+ESP-La Liga,2122,Real Madrid,Éder Militão,BRA,DF,23.0,33.7,32,0.95,23,1,0,3,3,2,5,0.15,2,0,0,1,1,1
+ESP-La Liga,2122,Real Sociedad,Adnan Januzaj,BEL,"FW,MF",26.0,18.1,66,3.66,34,18,5,7,2,0,6,0.33,1,0,1,3,1,0
+ESP-La Liga,2122,Real Sociedad,Aihen Muñoz,ESP,DF,23.0,14.9,17,1.14,10,4,1,1,1,0,1,0.07,0,0,0,1,0,0
+ESP-La Liga,2122,Real Sociedad,Alex Sola,ESP,"DF,FW",22.0,0.5,1,2.2,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Real Sociedad,Alexander Isak,SWE,FW,21.0,23.8,60,2.52,35,0,9,7,8,1,5,0.21,2,0,1,2,0,0
+ESP-La Liga,2122,Real Sociedad,Alexander Sørloth,NOR,FW,25.0,19.6,41,2.09,31,0,5,3,2,0,4,0.2,1,0,2,0,1,0
+ESP-La Liga,2122,Real Sociedad,Ander Barrenetxea,ESP,"FW,MF",19.0,6.1,16,2.63,12,0,3,0,1,0,3,0.49,2,0,1,0,0,0
+ESP-La Liga,2122,Real Sociedad,Ander Guevara,ESP,MF,24.0,9.6,9,0.93,9,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Real Sociedad,Ander Martin,ESP,"FW,MF",20.0,1.0,5,5.11,2,1,1,1,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Real Sociedad,Andoni Gorosabel,ESP,DF,24.0,25.4,46,1.81,39,3,1,2,1,0,4,0.16,4,0,0,0,0,0
+ESP-La Liga,2122,Real Sociedad,Aritz Elustondo,ESP,DF,27.0,23.4,10,0.43,7,0,0,1,1,1,1,0.04,1,0,0,0,0,0
+ESP-La Liga,2122,Real Sociedad,Asier Illarramendi,ESP,MF,31.0,4.2,7,1.68,6,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Real Sociedad,Beñat Turrientes,ESP,MF,19.0,2.3,6,2.61,3,1,1,1,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Real Sociedad,Cristo,ESP,DF,21.0,0.2,1,5.29,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Real Sociedad,David Silva,ESP,MF,35.0,19.1,91,4.76,69,9,5,1,5,2,11,0.58,7,1,0,0,3,0
+ESP-La Liga,2122,Real Sociedad,Diego Rico,ESP,DF,28.0,18.3,29,1.59,26,1,0,1,1,0,2,0.11,2,0,0,0,0,0
+ESP-La Liga,2122,Real Sociedad,Germán Valera,ESP,"FW,MF",19.0,0.6,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Real Sociedad,Igor Zubeldia,ESP,DF,24.0,18.3,8,0.44,6,0,0,1,0,1,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Real Sociedad,Jon Bautista,ESP,"FW,MF",26.0,0.5,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Real Sociedad,Jon Guridi,ESP,MF,26.0,2.3,4,1.75,3,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Real Sociedad,Jon Pacheco,ESP,DF,20.0,4.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Real Sociedad,Joseba Zaldúa,ESP,DF,29.0,13.0,12,0.92,9,0,0,0,0,3,1,0.08,1,0,0,0,0,0
+ESP-La Liga,2122,Real Sociedad,Julen Lobete,ESP,"FW,MF",20.0,3.2,3,0.95,1,0,0,0,2,0,1,0.32,0,0,0,0,1,0
+ESP-La Liga,2122,Real Sociedad,Martín Zubimendi,ESP,MF,22.0,28.8,34,1.18,26,1,0,0,4,3,1,0.03,1,0,0,0,0,0
+ESP-La Liga,2122,Real Sociedad,Mathew Ryan,AUS,GK,29.0,3.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Real Sociedad,Mikel Merino,ESP,MF,25.0,32.1,69,2.15,52,0,3,4,7,3,10,0.31,5,0,0,3,2,0
+ESP-La Liga,2122,Real Sociedad,Mikel Oyarzabal,ESP,"FW,MF",24.0,18.6,63,3.39,33,17,4,7,2,0,6,0.32,2,2,0,2,0,0
+ESP-La Liga,2122,Real Sociedad,Naïs Djouahra,FRA,"FW,MF",21.0,2.4,8,3.29,6,0,1,1,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Real Sociedad,Opponent Total,,,27.7,38.0,649,17.08,472,71,17,35,35,19,66,1.74,46,7,1,3,7,2
+ESP-La Liga,2122,Real Sociedad,Portu,ESP,"FW,MF",29.0,17.7,34,1.92,27,3,0,2,1,1,4,0.23,3,0,0,0,1,0
+ESP-La Liga,2122,Real Sociedad,Rafinha,BRA,"MF,FW",28.0,11.7,30,2.57,22,1,0,1,3,3,1,0.09,0,0,0,0,1,0
+ESP-La Liga,2122,Real Sociedad,Roberto Navarro,ESP,"MF,FW",19.0,2.2,7,3.17,3,0,1,2,1,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Real Sociedad,Robin Le Normand,FRA,DF,24.0,37.0,6,0.16,3,1,0,2,0,0,2,0.05,2,0,0,0,0,0
+ESP-La Liga,2122,Real Sociedad,Squad Total,,,25.7,38.0,685,18.03,478,61,40,45,43,18,63,1.66,34,3,5,11,10,0
+ESP-La Liga,2122,Real Sociedad,Álex Remiro,ESP,GK,26.0,35.0,2,0.06,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Sevilla,Anthony Martial,FRA,"FW,MF",25.0,5.4,3,0.55,2,0,0,1,0,0,1,0.18,1,0,0,0,0,0
+ESP-La Liga,2122,Sevilla,Carmona,ESP,DF,19.0,0.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Sevilla,Diego Carlos,BRA,DF,28.0,32.9,15,0.46,12,0,0,2,0,1,2,0.06,2,0,0,0,0,0
+ESP-La Liga,2122,Sevilla,Fernando,BRA,"MF,DF",34.0,20.6,23,1.12,21,1,1,0,0,0,3,0.15,2,1,0,0,0,0
+ESP-La Liga,2122,Sevilla,Gonzalo Montiel,ARG,DF,24.0,11.8,21,1.77,19,0,0,1,1,0,3,0.25,3,0,0,0,0,0
+ESP-La Liga,2122,Sevilla,Ivan Rakitić,CRO,MF,33.0,24.2,75,3.09,42,25,0,5,2,1,10,0.41,5,4,0,1,0,0
+ESP-La Liga,2122,Sevilla,Iván Romero,ESP,FW,20.0,2.0,3,1.52,1,0,0,0,1,1,1,0.51,1,0,0,0,0,0
+ESP-La Liga,2122,Sevilla,Javier Díaz,ESP,GK,24.0,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Sevilla,Jesús Corona,MEX,"FW,DF",28.0,12.9,38,2.96,30,3,4,0,1,0,6,0.47,5,0,1,0,0,0
+ESP-La Liga,2122,Sevilla,Jesús Navas,ESP,DF,35.0,19.8,58,2.92,53,2,2,0,1,0,5,0.25,4,0,1,0,0,0
+ESP-La Liga,2122,Sevilla,Joan Jordán,ESP,MF,27.0,27.9,52,1.86,43,4,1,1,2,1,4,0.14,3,0,0,0,1,0
+ESP-La Liga,2122,Sevilla,Juan Sánchez,ESP,MF,17.0,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Sevilla,Jules Koundé,FRA,DF,22.0,30.4,34,1.12,30,0,1,1,2,0,2,0.07,2,0,0,0,0,0
+ESP-La Liga,2122,Sevilla,Karim Rekik,NED,DF,26.0,12.2,16,1.31,13,0,0,0,0,3,2,0.16,2,0,0,0,0,0
+ESP-La Liga,2122,Sevilla,Lucas Ocampos,ARG,FW,27.0,23.6,46,1.95,28,2,8,2,3,3,7,0.3,4,0,3,0,0,0
+ESP-La Liga,2122,Sevilla,Ludwig Augustinsson,SWE,DF,27.0,8.8,14,1.59,8,5,0,0,0,1,1,0.11,0,1,0,0,0,0
+ESP-La Liga,2122,Sevilla,Luismi,ESP,FW,20.0,0.1,1,6.92,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Sevilla,Marcos Acuña,ARG,DF,29.0,25.1,66,2.63,42,16,1,3,4,0,3,0.12,1,2,0,0,0,0
+ESP-La Liga,2122,Sevilla,Marko Dmitrović,SRB,GK,29.0,6.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Sevilla,Munir El Haddadi,MAR,"FW,MF",25.0,5.3,11,2.09,9,0,0,2,0,0,1,0.19,1,0,0,0,0,0
+ESP-La Liga,2122,Sevilla,Nemanja Gudelj,SRB,"MF,DF",29.0,11.6,8,0.69,7,0,0,0,0,1,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Sevilla,Opponent Total,,,27.8,38.0,611,16.08,443,55,26,30,33,24,43,1.13,24,5,2,7,3,2
+ESP-La Liga,2122,Sevilla,Oussama Idrissi,MAR,"FW,MF",25.0,1.4,4,2.83,1,1,1,0,1,0,1,0.71,0,0,0,0,1,0
+ESP-La Liga,2122,Sevilla,Papu Gómez,ARG,"MF,FW",33.0,19.8,55,2.77,35,8,5,1,5,1,7,0.35,4,0,1,1,1,0
+ESP-La Liga,2122,Sevilla,Pedro Ortiz,ESP,MF,20.0,0.1,2,25.71,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Sevilla,Rafa Mir,ESP,FW,24.0,20.1,31,1.54,18,0,4,5,4,0,5,0.25,3,0,0,2,0,0
+ESP-La Liga,2122,Sevilla,Squad Total,,,28.6,38.0,690,18.16,509,73,31,28,31,18,85,2.24,58,9,7,6,5,0
+ESP-La Liga,2122,Sevilla,Suso,ESP,FW,27.0,4.3,10,2.34,8,0,1,1,0,0,3,0.7,2,0,0,1,0,0
+ESP-La Liga,2122,Sevilla,Thomas Delaney,DEN,MF,29.0,17.2,15,0.87,11,0,0,2,1,1,2,0.12,1,0,0,1,0,0
+ESP-La Liga,2122,Sevilla,Valentino Scotta,ESP,DF,19.0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Sevilla,Yassine Bounou,MAR,GK,30.0,31.0,4,0.13,3,1,0,0,0,0,2,0.06,1,1,0,0,0,0
+ESP-La Liga,2122,Sevilla,Youssef En-Nesyri,MAR,FW,24.0,14.2,12,0.85,9,0,1,1,1,0,4,0.28,2,0,1,0,1,0
+ESP-La Liga,2122,Sevilla,Érik Lamela,ARG,FW,29.0,11.3,35,3.1,31,1,1,0,1,1,4,0.35,4,0,0,0,0,0
+ESP-La Liga,2122,Sevilla,Óliver Torres,ESP,"MF,FW",26.0,11.2,22,1.96,20,1,0,0,0,1,5,0.45,5,0,0,0,0,0
+ESP-La Liga,2122,Sevilla,Óscar Rodríguez Arnaiz,ESP,"FW,MF",23.0,4.6,16,3.45,10,3,0,0,1,2,1,0.22,0,0,0,0,1,0
+ESP-La Liga,2122,Valencia,Bryan,ESP,"MF,FW",20.0,8.4,19,2.27,13,4,1,0,1,0,1,0.12,1,0,0,0,0,0
+ESP-La Liga,2122,Valencia,Carlos Soler,ESP,MF,24.0,27.5,79,2.87,40,36,0,2,1,0,8,0.29,4,4,0,0,0,0
+ESP-La Liga,2122,Valencia,Cristhian Mosquera,COL,DF,17.0,2.4,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Valencia,Cristiano Piccini,ITA,DF,28.0,3.6,6,1.68,5,1,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Valencia,Daniel Wass,DEN,MF,32.0,17.6,24,1.37,14,7,1,1,1,0,1,0.06,1,0,0,0,0,0
+ESP-La Liga,2122,Valencia,Denis Cheryshev,RUS,MF,30.0,6.3,15,2.4,10,2,0,0,1,2,3,0.48,1,0,0,0,1,1
+ESP-La Liga,2122,Valencia,Dimitri Foulquier,FRA,DF,28.0,26.0,23,0.88,15,2,1,1,4,0,4,0.15,1,1,0,0,2,0
+ESP-La Liga,2122,Valencia,Eray Cömert,SUI,DF,23.0,4.5,3,0.66,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Valencia,Gabriel Paulista,BRA,DF,30.0,17.7,3,0.17,3,0,0,0,0,0,1,0.06,1,0,0,0,0,0
+ESP-La Liga,2122,Valencia,Giorgi Mamardashvili,GEO,GK,20.0,18.0,1,0.06,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Valencia,Gonçalo Guedes,POR,"FW,MF",24.0,29.0,93,3.21,55,14,9,4,11,0,14,0.48,8,1,2,1,2,0
+ESP-La Liga,2122,Valencia,Hugo Duro,ESP,"FW,MF",21.0,20.4,32,1.57,21,0,3,1,6,1,7,0.34,2,0,1,1,2,1
+ESP-La Liga,2122,Valencia,Hugo Guillamón,ESP,"MF,DF",21.0,26.2,27,1.03,23,0,0,1,2,1,3,0.11,3,0,0,0,0,0
+ESP-La Liga,2122,Valencia,Hélder Costa,ANG,"MF,FW",27.0,12.4,33,2.66,27,2,3,0,0,1,2,0.16,2,0,0,0,0,0
+ESP-La Liga,2122,Valencia,Ilaix Moriba,GUI,MF,18.0,9.1,10,1.1,7,0,0,0,2,1,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Valencia,Jason,ESP,"MF,DF",27.0,0.8,5,6.0,2,2,0,0,1,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Valencia,Jasper Cillessen,NED,GK,32.0,16.2,3,0.19,3,0,0,0,0,0,2,0.12,2,0,0,0,0,0
+ESP-La Liga,2122,Valencia,Jaume Doménech,ESP,GK,30.0,3.8,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Valencia,Jesus Vazquez,ESP,DF,18.0,9.0,15,1.66,11,1,2,1,0,0,1,0.11,1,0,0,0,0,0
+ESP-La Liga,2122,Valencia,Jesús Santiago,ESP,MF,17.0,0.9,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Valencia,José Luis Gayà,ESP,DF,26.0,20.8,39,1.88,33,3,0,0,1,2,8,0.38,7,0,0,0,1,0
+ESP-La Liga,2122,Valencia,Koba Koindredi,FRA,MF,19.0,2.0,4,1.99,3,0,0,0,1,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Valencia,Manu Vallejo,ESP,"FW,MF",24.0,1.1,3,2.76,2,1,0,0,0,0,1,0.92,1,0,0,0,0,0
+ESP-La Liga,2122,Valencia,Maranhão,BRA,"FW,MF",24.0,10.8,27,2.5,16,0,2,2,5,2,3,0.28,2,0,0,1,0,0
+ESP-La Liga,2122,Valencia,Mario Dominguez,ESP,FW,17.0,0.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Valencia,Maxi Gómez,URU,FW,24.0,21.7,51,2.35,32,0,2,2,15,0,4,0.18,1,0,1,0,2,0
+ESP-La Liga,2122,Valencia,Mouctar Diakhaby,GUI,DF,24.0,21.6,9,0.42,6,0,1,0,1,1,1,0.05,1,0,0,0,0,0
+ESP-La Liga,2122,Valencia,Omar Alderete,PAR,DF,24.0,26.7,11,0.41,10,0,1,0,0,0,2,0.07,2,0,0,0,0,0
+ESP-La Liga,2122,Valencia,Opponent Total,,,27.8,38.0,680,17.89,470,74,34,38,50,14,82,2.16,55,8,2,7,7,3
+ESP-La Liga,2122,Valencia,Ruben Lendinez,ESP,DF,18.0,1.5,2,1.31,1,0,0,1,0,0,1,0.66,1,0,0,0,0,0
+ESP-La Liga,2122,Valencia,Rubén Sobrino,ESP,MF,29.0,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Valencia,Squad Total,,,24.8,38.0,614,16.16,415,78,31,17,57,16,71,1.87,46,6,4,3,10,2
+ESP-La Liga,2122,Valencia,Thierry Correia,POR,DF,22.0,15.7,22,1.4,17,0,1,0,1,3,1,0.06,1,0,0,0,0,0
+ESP-La Liga,2122,Valencia,Toni Lato,ESP,"DF,MF",23.0,6.6,10,1.53,9,0,0,0,1,0,1,0.15,1,0,0,0,0,0
+ESP-La Liga,2122,Valencia,Uroš Račić,SRB,MF,23.0,13.4,21,1.57,15,2,1,1,1,1,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Valencia,Yunus Musah,USA,"MF,FW",18.0,14.0,24,1.72,18,1,3,0,1,1,2,0.14,2,0,0,0,0,0
+ESP-La Liga,2122,Villarreal,Alberto Moreno,ESP,"MF,DF",29.0,13.6,38,2.8,28,5,0,3,2,0,3,0.22,0,2,0,1,0,0
+ESP-La Liga,2122,Villarreal,Alfonso Pedraza,ESP,DF,25.0,18.9,40,2.12,33,0,4,2,1,0,8,0.42,7,0,1,0,0,0
+ESP-La Liga,2122,Villarreal,Arnaut Groeneveld,NED,FW,24.0,16.4,36,2.2,21,0,9,4,1,1,8,0.49,4,0,3,1,0,0
+ESP-La Liga,2122,Villarreal,Aïssa Mandi,ALG,DF,29.0,15.3,4,0.26,2,0,0,1,1,0,1,0.07,0,0,0,1,0,0
+ESP-La Liga,2122,Villarreal,Boulaye Dia,SEN,FW,24.0,14.1,32,2.27,24,0,3,2,0,3,7,0.5,5,0,1,1,0,0
+ESP-La Liga,2122,Villarreal,Carlo,ESP,MF,20.0,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Villarreal,Dani Raba,ESP,"MF,FW",25.0,1.0,6,6.07,4,2,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Villarreal,Daniel Parejo,ESP,MF,32.0,30.0,112,3.73,62,45,2,0,2,1,15,0.5,9,6,0,0,0,0
+ESP-La Liga,2122,Villarreal,Francis Coquelin,FRA,MF,30.0,9.2,17,1.84,12,0,0,1,3,1,1,0.11,1,0,0,0,0,0
+ESP-La Liga,2122,Villarreal,Gerard Moreno,ESP,FW,29.0,13.2,49,3.7,39,0,5,1,2,2,6,0.45,4,0,0,0,1,1
+ESP-La Liga,2122,Villarreal,Gerónimo Rulli,ARG,GK,29.0,32.0,5,0.16,5,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Villarreal,Giovani Lo Celso,ARG,"MF,FW",25.0,11.0,35,3.17,24,4,2,3,2,0,2,0.18,0,1,0,0,1,0
+ESP-La Liga,2122,Villarreal,Juan Foyth,ARG,DF,23.0,21.4,27,1.26,26,0,1,0,0,0,1,0.05,1,0,0,0,0,0
+ESP-La Liga,2122,Villarreal,Manu Trigueros,ESP,"MF,FW",29.0,24.2,60,2.48,49,3,1,3,3,1,12,0.5,9,1,0,0,2,0
+ESP-La Liga,2122,Villarreal,Mario Gaspar,ESP,DF,30.0,6.9,7,1.01,5,0,0,1,0,1,1,0.14,0,0,0,1,0,0
+ESP-La Liga,2122,Villarreal,Moi Gómez,ESP,"MF,FW",27.0,14.3,37,2.59,29,6,2,0,0,0,6,0.42,4,1,1,0,0,0
+ESP-La Liga,2122,Villarreal,Nicolas Jackson,SEN,FW,20.0,1.8,5,2.73,4,0,0,0,1,0,1,0.55,0,0,0,0,1,0
+ESP-La Liga,2122,Villarreal,Nikita Iosifov,RUS,MF,20.0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Villarreal,Opponent Total,,,27.6,38.0,632,16.63,445,64,26,29,39,29,53,1.39,34,3,4,4,5,3
+ESP-La Liga,2122,Villarreal,Paco Alcácer,ESP,FW,27.0,8.7,13,1.49,11,0,1,1,0,0,6,0.69,5,0,1,0,0,0
+ESP-La Liga,2122,Villarreal,Pau Torres,ESP,DF,24.0,31.7,24,0.76,20,2,0,1,1,0,3,0.09,3,0,0,0,0,0
+ESP-La Liga,2122,Villarreal,Pervis Estupiñán,ECU,DF,23.0,17.5,25,1.43,20,3,0,2,0,0,3,0.17,3,0,0,0,0,0
+ESP-La Liga,2122,Villarreal,Raúl Albiol,ESP,DF,35.0,27.4,9,0.33,7,0,0,2,0,0,2,0.07,1,0,0,1,0,0
+ESP-La Liga,2122,Villarreal,Rubén Peña,ESP,"MF,FW",30.0,1.5,8,5.45,5,0,1,1,1,0,1,0.68,0,0,0,1,0,0
+ESP-La Liga,2122,Villarreal,Samuel Chukwueze,NGA,"MF,FW",22.0,14.8,50,3.38,36,0,9,2,2,1,7,0.47,3,0,2,2,0,0
+ESP-La Liga,2122,Villarreal,Serge Aurier,CIV,DF,28.0,11.2,13,1.16,12,1,0,0,0,0,1,0.09,1,0,0,0,0,0
+ESP-La Liga,2122,Villarreal,Sergio Asenjo,ESP,GK,32.0,6.0,1,0.17,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0
+ESP-La Liga,2122,Villarreal,Squad Total,,,28.0,38.0,734,19.32,538,71,49,33,30,13,110,2.89,69,11,13,11,5,1
+ESP-La Liga,2122,Villarreal,Vicente Iborra,ESP,MF,33.0,11.5,10,0.87,10,0,0,0,0,0,2,0.17,2,0,0,0,0,0
+ESP-La Liga,2122,Villarreal,Yeremi Pino,ESP,"MF,FW",18.0,18.6,46,2.47,33,0,7,1,5,0,10,0.54,5,0,4,1,0,0
+ESP-La Liga,2122,Villarreal,Étienne Capoue,FRA,MF,33.0,25.4,25,0.98,16,0,2,2,3,2,3,0.12,2,0,0,1,0,0

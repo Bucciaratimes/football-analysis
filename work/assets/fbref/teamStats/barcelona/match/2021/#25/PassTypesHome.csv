@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,Att,Live_Pass Types,Dead_Pass Types,FK_Pass Types,TB_Pass Types,Press_Pass Types,Sw_Pass Types,Crs_Pass Types,CK_Pass Types,In_Corner Kicks,Out_Corner Kicks,Str_Corner Kicks,Ground_Height,Low_Height,High_Height,Left_Body Parts,Right_Body Parts,Head_Body Parts,TI_Body Parts,Other_Body Parts,Cmp_Outcomes,Off_Outcomes,Out_Outcomes,Int_Outcomes,Blocks_Outcomes
+0,Luuk de Jong,9.0,nl  NED,FW,30-184,62,17,15,2,0,0,2,0,0,0,0,0,0,11,3,3,2,11,1,0,2,17,0,0,0,0
+1,Óliver Torres,21.0,es  ESP,FW,26-109,28,21,19,2,0,0,7,0,0,2,0,1,0,13,3,5,0,20,1,0,0,18,0,0,0,0
+2,Munir El Haddadi,11.0,es  ESP,LW,25-179,45,13,13,0,0,0,4,0,0,0,0,0,0,10,2,1,11,1,0,0,1,11,0,0,1,0
+3,Youssef En-Nesyri,15.0,ma  MAR,RW,23-271,45,8,6,2,0,0,3,0,0,0,0,0,0,2,6,0,4,2,0,1,1,6,0,0,0,1
+4,Papu Gómez,24.0,ar  ARG,RW,33-012,45,14,14,0,0,0,4,0,1,0,0,0,0,8,3,3,4,10,0,0,0,10,0,0,0,0
+5,Suso,7.0,es  ESP,LW,27-100,45,26,25,1,0,0,6,1,1,1,0,0,0,18,4,4,20,5,1,0,0,20,0,1,2,1
+6,Ivan Rakitić,10.0,hr  CRO,AM,32-354,62,35,34,1,1,0,5,0,0,0,0,0,0,25,5,5,5,28,2,0,0,27,1,1,3,0
+7,Óscar Rodríguez Arnaiz,14.0,es  ESP,AM,22-244,28,18,18,0,0,0,3,1,1,0,0,0,0,13,1,4,5,13,0,0,0,14,0,0,0,0
+8,Fernando,25.0,br  BRA,DM,33-217,90,49,46,3,3,0,9,1,0,0,0,0,0,37,6,6,7,37,1,0,1,43,0,0,1,1
+9,Joan Jordán,8.0,es  ESP,DM,26-236,90,66,65,1,1,0,10,4,0,0,0,0,0,46,8,12,10,52,3,0,0,61,0,1,1,0
+10,Sergio Escudero,18.0,es  ESP,LB,31-178,90,50,40,10,2,0,3,1,0,0,0,0,0,27,9,14,35,3,4,8,0,38,0,1,0,1
+11,Diego Carlos,20.0,br  BRA,CB,27-349,45,28,27,1,1,0,2,0,0,0,0,0,0,25,1,2,11,17,0,0,0,25,0,0,2,0
+12,Karim Rekik,4.0,nl  NED,CB,26-087,45,25,25,0,0,0,2,1,1,0,0,0,0,23,1,1,22,2,0,0,0,23,0,1,0,0
+13,Jules Koundé,12.0,fr  FRA,CB,22-107,90,54,53,1,1,0,6,0,0,0,0,0,0,43,5,6,5,45,3,0,0,49,1,0,1,0
+14,Jesús Navas,16.0,es  ESP,RB,35-098,90,44,37,7,0,0,6,2,2,0,0,0,0,25,9,10,3,33,0,7,0,34,0,1,1,1
+15,Yassine Bounou,13.0,ma  MAR,GK,29-328,90,48,38,10,2,0,7,6,0,0,0,0,0,30,0,18,35,9,0,0,4,37,0,2,0,0
+16,16 Players,,,,,990,516,475,41,11,0,79,17,6,3,0,1,0,356,66,94,179,288,16,16,9,433,2,8,12,5

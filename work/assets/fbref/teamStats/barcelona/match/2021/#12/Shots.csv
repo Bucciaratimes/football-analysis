@@ -1,0 +1,11 @@
+,Minute,Player,Squad,Outcome,Distance,Body Part,Notes,Player_SCA 1,Event_SCA 1,Player_SCA 2,Event_SCA 2
+0,10.0,Pedri,Barcelona,Off Target,16.0,Head,,Sergiño Dest,Pass (Live),Pedri,Pass (Live)
+1,14.0,Ronald Araújo,Barcelona,Blocked,7.0,Head,,Lionel Messi,Pass (Dead),,
+2,17.0,Sergiño Dest,Barcelona,Blocked,16.0,Left Foot,,Frenkie de Jong,Pass (Live),Lionel Messi,Pass (Live)
+3,31.0,Jordi Alba,Barcelona,Goal,16.0,Right Foot,,,,,
+4,38.0,Martin Braithwaite,Barcelona,Off Target,10.0,Left Foot,,Pedri,Pass (Live),Lionel Messi,Pass (Live)
+5,43.0,Frenkie de Jong,Barcelona,Goal,9.0,Right Foot,Half volley,Jordi Alba,Pass (Live),Lionel Messi,Pass (Live)
+6,,,,,,,,,,,
+7,72.0,Carles Aleñá,Barcelona,Off Target,17.0,Left Foot,,Lionel Messi,Pass (Live),Francisco Trincão,Pass (Live)
+8,78.0,Martín Zubimendi,Real Sociedad,Blocked,17.0,Left Foot,,Martín Zubimendi,Dribble,Andoni Gorosabel,Pass (Live)
+9,78.0,Nacho Monreal,Real Sociedad,Off Target,6.0,Left Foot,Volley,Andoni Gorosabel,Pass (Live),Mikel Merino,Shot

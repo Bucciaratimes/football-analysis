@@ -1,0 +1,16 @@
+,Player,#,Nation,Pos,Age,Min,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,Gonçalo Guedes,7.0,pt  POR,"FW,LM",24-154,90,0,0,0,0,0,0,2,0.0,2,18,3,16.7,1,11,6,2,0,0,2,1,1,0,0
+1,Maxi Gómez,22.0,uy  URU,FW,24-261,90,0,0,0,0,0,0,1,0.0,1,6,1,16.7,0,4,2,0,0,0,0,0,0,0,0
+2,Uroš Račić,19.0,rs  SRB,CM,23-046,78,0,0,0,0,0,0,3,0.0,3,17,5,29.4,8,7,2,1,0,0,1,0,0,1,0
+3,Christian Oliva,10.0,uy  URU,DM,24-335,12,0,0,0,0,0,0,0,,0,5,0,0.0,2,3,0,0,0,0,0,0,0,0,0
+4,Carlos Soler,8.0,es  ESP,"CM,RM",24-120,90,1,1,0,0,1,1,2,50.0,1,19,6,31.6,12,4,3,2,0,0,2,2,3,1,0
+5,Daniel Wass,18.0,dk  DEN,DM,31-336,90,2,1,1,1,0,0,0,,0,20,9,45.0,13,7,0,1,1,0,0,0,2,0,0
+6,José Luis Gayà,14.0,es  ESP,"WB,LB",25-342,90,1,1,1,0,0,0,0,,0,6,2,33.3,4,1,1,1,0,0,1,1,2,0,0
+7,Thierry Correia,2.0,pt  POR,"WB,RB",22-054,90,5,3,5,0,0,2,2,100.0,0,18,5,27.8,16,2,0,1,0,0,1,3,8,1,0
+8,Toni Lato,3.0,es  ESP,CB,23-162,63,1,1,1,0,0,1,1,100.0,0,2,1,50.0,2,0,0,1,0,0,1,2,3,2,0
+9,Mouctar Diakhaby,12.0,fr  FRA,CB,24-134,27,1,1,1,0,0,0,0,,0,2,0,0.0,2,0,0,0,0,0,0,1,2,1,0
+10,Hugo Guillamón,15.0,es  ESP,CB,21-091,78,2,2,1,1,0,0,0,,0,7,1,14.3,5,2,0,2,1,0,1,0,2,4,0
+11,Kévin Gameiro,9.0,fr  FRA,FW,33-358,12,0,0,0,0,0,0,0,,0,2,0,0.0,0,2,0,0,0,0,0,0,0,0,0
+12,Gabriel Paulista,5.0,br  BRA,CB,30-157,90,0,0,0,0,0,0,2,0.0,2,4,2,50.0,2,2,0,2,2,1,0,4,4,4,0
+13,Jasper Cillessen,13.0,nl  NED,GK,32-010,90,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,1,0
+14,14 Players,,,,,990,13,10,10,2,1,4,13,30.8,9,126,35,27.8,67,45,14,13,4,1,9,14,27,15,0

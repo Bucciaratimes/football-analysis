@@ -1,0 +1,16 @@
+,Season,Age,Squad,Country,Comp,LgRank,MP_Playing Time,Starts_Playing Time,Min_Playing Time,90s_Playing Time,Gls_Performance,Ast_Performance,G-PK_Performance,PK_Performance,PKatt_Performance,CrdY_Performance,CrdR_Performance,Gls_Per 90 Minutes,Ast_Per 90 Minutes,G+A_Per 90 Minutes,G-PK_Per 90 Minutes,G+A-PK_Per 90 Minutes,xG_Expected,npxG_Expected,xA_Expected,npxG+xA_Expected,xG_Per 90 Minutes,xA_Per 90 Minutes,xG+xA_Per 90 Minutes,npxG_Per 90 Minutes,npxG+xA_Per 90 Minutes
+0,2014-2015,15,Milan,it  ITA,1.  Serie A,10th,0,0,,,,,,,,,,,,,,,,,,,,,,,
+1,2015-2016,16,Milan,it  ITA,1.  Serie A,7th,30,30,2628,29.2,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,,,,,,,,,
+2,2016-2017,17,Milan,it  ITA,1.  Serie A,6th,38,38,3420,38.0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,,,,,,,,,
+3,2017-2018,18,Milan,it  ITA,1.  Serie A,6th,38,38,3420,38.0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00
+4,2018-2019,19,Milan,it  ITA,1.  Serie A,5th,36,36,3090,34.4,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00
+5,2019-2020,20,Milan,it  ITA,1.  Serie A,6th,36,36,3201,35.6,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00
+6,2020-2021,21,Milan,it  ITA,1.  Serie A,2nd,37,37,3330,37.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00
+7,2021-2022,22,Paris S-G,fr  FRA,1.  Ligue 1,1st,7,7,630,7.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00
+8,8 Seasons,8 Seasons,2 Clubs,,2 Leagues,,222,222,19719,219.1,0,0,0,0,0,16,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.1,0.1,0.00,0.00,0.00,0.00,0.00
+9,,,,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,xG,npxG,xA,npxG+xA,xG,xA,xG+xA,npxG,npxG+xA
+10,Milan (7 Seasons),Milan (7 Seasons),Milan (7 Seasons),,1 League,,215,215,19089,212.1,0,0,0,0,0,15,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.1,0.1,0.00,0.00,0.00,0.00,0.00
+11,Paris S-G (1 Season),Paris S-G (1 Season),Paris S-G (1 Season),,1 League,,7,7,630,7.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00
+12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,Serie A (7 Seasons),Serie A (7 Seasons),Serie A (7 Seasons),,,,215,215,19089,212.1,0,0,0,0,0,15,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.1,0.1,0.00,0.00,0.00,0.00,0.00
+14,Ligue 1 (1 Season),Ligue 1 (1 Season),Ligue 1 (1 Season),,,,7,7,630,7.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00

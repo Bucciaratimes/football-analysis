@@ -1,0 +1,19 @@
+,Season,Age,Squad,Country,Comp,LgRank,MP_Playing Time,Min_Playing Time,Mn/MP_Playing Time,Min%_Playing Time,90s_Playing Time,Starts_Starts,Mn/Start_Starts,Compl_Starts,Subs_Subs,Mn/Sub_Subs,unSub_Subs,PPM_Team Success,onG_Team Success,onGA_Team Success,+/-_Team Success,+/-90_Team Success,On-Off_Team Success,onxG_Team Success (xG),onxGA_Team Success (xG),xG+/-_Team Success (xG),xG+/-90_Team Success (xG),On-Off_Team Success (xG)
+0,2012-2013,18,Rio Ave,pt  POR,1.  Primeira Liga,6th,2,180,90,,2.0,2,,2,0,,,,,,,,,,,,,
+1,2013-2014,19,Rio Ave,pt  POR,1.  Primeira Liga,11th,18,1596,89,,17.7,17,,17,1,,,,,,,,,,,,,
+2,2014-2015,20,Rio Ave,pt  POR,1.  Primeira Liga,10th,17,1530,90,50.0,17.0,17,,17,0,,16,1.18,14,18,-4,-0.24,-0.24,,,,,
+3,2015-2016,21,Benfica,pt  POR,1.  Primeira Liga,1st,10,890,89,29.1,9.9,10,,9,0,,23,3.00,22,4,+18,+1.82,-0.17,,,,,
+4,2016-2017,22,Benfica,pt  POR,1.  Primeira Liga,1st,27,2381,88,77.8,26.5,27,,26,0,,4,2.41,57,12,+45,+1.70,+0.51,,,,,
+5,2017-2018,23,Manchester City,eng  ENG,1.  Premier League,1st,36,3194,89,93.4,35.5,36,,35,0,,1,2.62,99,26,+73,+2.06,-0.33,81.8,21.3,+60.4,+1.70,+0.46
+6,2018-2019,24,Manchester City,eng  ENG,1.  Premier League,1st,38,3420,90,100.0,38.0,38,90,38,0,,0,2.58,95,23,+72,+1.89,,82.0,25.3,+56.7,+1.49,
+7,2019-2020,25,Manchester City,eng  ENG,1.  Premier League,2nd,35,3071,88,89.8,34.1,35,88,34,0,,0,2.14,95,28,+67,+1.96,+1.96,89.1,31.5,+57.6,+1.69,+1.50
+8,2020-2021,26,Manchester City,eng  ENG,1.  Premier League,1st,36,3240,90,94.7,36.0,36,90,,0,,0,2.22,76,28,+48,+1.33,-0.17,69.7,28.4,+41.2,+1.15,+0.79
+9,2021-2022,27,Manchester City,eng  ENG,1.  Premier League,2nd,13,1170,90,92.9,13.0,13,90,13,0,,0,2.23,27,8,+19,+1.46,-0.54,27.6,8.3,+19.2,+1.48,+0.57
+10,10 Seasons,10 Seasons,3 Clubs,,2 Leagues,,232,20672,89,78.3,229.7,231,89,191,1,,44,2.32,485,147,+338,+1.61,+0.44,350.0,114.9,+235.1,+1.50,+0.92
+11,,,,Country,Comp,LgRank,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off
+12,Manchester City (5 Seasons),Manchester City (5 Seasons),Manchester City (5 Seasons),,1 League,,158,14095,89,94.3,156.6,158,89,120,0,,1,2.38,392,113,+279,+1.78,+0.61,350.0,114.9,+235.1,+1.50,+0.92
+13,Rio Ave (3 Seasons),Rio Ave (3 Seasons),Rio Ave (3 Seasons),,1 League,,37,3306,89,50.0,36.7,36,,36,1,,16,1.18,14,18,-4,-0.24,-0.24,,,,,
+14,Benfica (2 Seasons),Benfica (2 Seasons),Benfica (2 Seasons),,1 League,,37,3271,88,53.4,36.3,37,,35,0,,27,2.57,79,16,+63,+1.73,-0.07,,,,,
+15,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,Premier League (5 Seasons),Premier League (5 Seasons),Premier League (5 Seasons),,,,158,14095,89,94.3,156.6,158,89,120,0,,1,2.38,392,113,+279,+1.78,+0.61,350.0,114.9,+235.1,+1.50,+0.92
+17,Primeira Liga (5 Seasons),Primeira Liga (5 Seasons),Primeira Liga (5 Seasons),,,,74,6577,89,52.3,73.1,73,,71,1,,43,2.13,93,34,+59,+1.11,-0.07,,,,,

@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,Att,Live_Pass Types,Dead_Pass Types,FK_Pass Types,TB_Pass Types,Press_Pass Types,Sw_Pass Types,Crs_Pass Types,CK_Pass Types,In_Corner Kicks,Out_Corner Kicks,Str_Corner Kicks,Ground_Height,Low_Height,High_Height,Left_Body Parts,Right_Body Parts,Head_Body Parts,TI_Body Parts,Other_Body Parts,Cmp_Outcomes,Off_Outcomes,Out_Outcomes,Int_Outcomes,Blocks_Outcomes
+0,Ángel Rodríguez,9.0,es  ESP,FW,33-361,62,12,10,2,0,0,4,0,0,0,0,0,0,7,4,1,2,8,0,0,0,7,0,0,1,1
+1,Enes Ünal,10.0,tr  TUR,FW,23-347,28,9,8,1,0,0,5,0,0,0,0,0,0,6,3,0,0,6,0,0,1,8,0,0,0,0
+2,Takefusa Kubo,5.0,jp  JPN,LW,19-322,90,19,16,3,1,0,6,0,0,1,0,0,0,15,4,0,15,2,1,1,0,16,0,0,1,1
+3,Iglesias,29.0,es  ESP,RW,22-293,90,17,14,3,0,0,5,1,2,0,0,0,0,9,1,7,3,11,1,2,0,10,0,0,0,1
+4,Nemanja Maksimović,20.0,rs  SRB,CM,26-086,45,9,9,0,0,0,6,0,0,0,0,0,0,6,0,3,0,7,0,0,0,6,0,0,1,0
+5,Mauro Arambarri,18.0,uy  URU,CM,25-204,45,7,7,0,0,0,3,0,0,0,0,0,0,6,1,0,0,7,0,0,0,6,0,0,1,0
+6,Carles Aleñá,11.0,es  ESP,CM,23-107,45,10,8,2,1,0,4,0,0,0,0,0,0,6,2,2,6,2,1,0,0,7,0,1,1,0
+7,Sabit Abdulai,35.0,gh  GHA,CM,21-346,45,10,10,0,0,0,7,1,1,0,0,0,0,7,0,3,1,9,0,0,0,7,0,1,0,1
+8,Chema,6.0,es  ESP,DM,29-050,75,8,8,0,0,0,4,0,0,0,0,0,0,6,2,0,7,1,0,0,0,3,1,1,1,2
+9,José Antonio Miranda,32.0,gq  EQG,DM,22-274,15,3,3,0,0,0,1,0,0,0,0,0,0,2,1,0,1,1,0,0,0,1,0,0,0,0
+10,Marc Cucurella,15.0,es  ESP,LB,22-274,45,16,13,3,0,0,4,0,2,0,0,0,0,9,3,4,9,3,0,3,1,13,0,0,1,1
+11,Emmanuel Amankwaa Akurugu,40.0,gh  GHA,LB,19-153,45,12,10,2,0,0,3,0,0,0,0,0,0,9,1,2,9,1,0,2,0,8,0,0,0,2
+12,Sofian Chakla,21.0,ma  MAR,CB,27-232,90,19,19,0,0,0,2,0,0,0,0,0,0,11,1,7,2,14,3,0,0,11,0,0,1,0
+13,Djené,2.0,tg  TOG,CB,29-112,90,22,21,1,1,0,3,2,0,0,0,0,0,16,2,4,4,16,2,0,0,19,0,0,0,0
+14,Damián Suárez,22.0,uy  URU,RB,32-360,90,33,29,4,3,0,10,2,2,0,0,0,0,17,4,12,4,27,1,1,0,20,0,1,2,1
+15,David Soria,13.0,es  ESP,GK,28-018,90,23,15,8,2,0,0,0,0,0,0,0,0,2,0,21,2,15,0,0,0,11,0,1,0,0
+16,16 Players,,,,,990,229,200,29,8,0,67,6,7,1,0,0,0,134,29,66,65,130,9,9,2,153,1,5,10,10

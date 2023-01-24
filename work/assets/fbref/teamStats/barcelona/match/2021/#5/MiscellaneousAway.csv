@@ -1,0 +1,16 @@
+,Player,#,Nation,Pos,Age,Min,CrdY_Performance,CrdR_Performance,2CrdY_Performance,Fls_Performance,Fld_Performance,Off_Performance,Crs_Performance,Int_Performance,TklW_Performance,PKwon_Performance,PKcon_Performance,OG_Performance,Recov_Performance,Won_Aerial Duels,Lost_Aerial Duels,Won%_Aerial Duels
+0,Karim Benzema,9.0,fr  FRA,FW,32-310,90,0,0,0,0,0,1,0,0,0,0,0,0,3,0,3,0.0
+1,Vinicius Júnior,20.0,br  BRA,LW,20-104,90,0,0,0,2,1,0,2,0,0,0,0,0,7,0,2,0.0
+2,Marco Asensio,11.0,es  ESP,RW,24-277,80,0,0,0,0,2,0,0,0,2,0,0,0,7,1,0,100.0
+3,Rodrygo,25.0,br  BRA,RW,19-289,10,0,0,0,0,0,0,0,1,0,0,0,0,3,0,0,
+4,Toni Kroos,8.0,de  GER,CM,30-294,90,0,0,0,3,2,0,1,1,2,0,0,0,8,0,0,
+5,Federico Valverde,15.0,uy  URU,CM,22-094,68,0,0,0,2,3,0,0,2,5,0,0,0,4,0,1,0.0
+6,Luka Modrić,10.0,hr  CRO,CM,35-045,22,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,
+7,Casemiro,14.0,br  BRA,DM,28-244,90,1,0,0,3,0,0,1,1,3,0,0,0,8,0,2,0.0
+8,Ferland Mendy,23.0,fr  FRA,LB,25-138,90,0,0,0,0,1,0,1,1,0,0,0,0,8,0,0,
+9,Sergio Ramos,4.0,es  ESP,CB,34-208,90,0,0,0,2,1,0,0,1,1,1,0,0,5,4,1,80.0
+10,Raphaël Varane,5.0,fr  FRA,CB,27-182,90,0,0,0,1,0,0,0,2,0,0,0,0,9,1,0,100.0
+11,Nacho,6.0,es  ESP,RB,30-280,42,1,0,0,2,1,0,1,1,0,0,0,0,1,0,0,
+12,Lucas Vázquez,17.0,es  ESP,RB,29-115,48,0,0,0,2,0,0,2,1,2,0,0,0,5,0,0,
+13,Thibaut Courtois,1.0,be  BEL,GK,28-166,90,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,
+14,14 Players,,,,,990,2,0,0,17,11,1,8,11,16,1,0,0,78,6,9,40.0

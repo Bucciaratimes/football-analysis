@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,Gls_Performance,Ast_Performance,PK_Performance,PKatt_Performance,Sh_Performance,SoT_Performance,CrdY_Performance,CrdR_Performance,Touches_Performance,Press_Performance,Tkl_Performance,Int_Performance,Blocks_Performance,xG_Expected,npxG_Expected,xA_Expected,SCA_SCA,GCA_SCA,Cmp_Passes,Att_Passes,Cmp%_Passes,Prog_Passes,Carries_Carries,Prog_Carries,Succ_Dribbles,Att_Dribbles
+0,Antoine Griezmann,7.0,fr  FRA,FW,29-323,90,0,0,0,0,2,0,0,0,56,14,2,2,2,0.1,0.1,0.2,1,0,42,44,95.5,2,31,2,0,0
+1,Martin Braithwaite,9.0,dk  DEN,LW,29-247,45,0,0,0,0,1,0,0,0,20,4,0,0,0,0.1,0.1,0.0,1,0,11,14,78.6,0,16,3,1,2
+2,Pedri,16.0,es  ESP,"CM,LW",18-074,45,0,0,0,0,0,0,0,0,44,19,1,1,1,0.0,0.0,0.0,0,0,33,37,89.2,3,35,3,0,0
+3,Ousmane Dembélé,11.0,fr  FRA,RW,23-268,90,0,1,0,0,3,0,1,0,63,11,0,4,0,0.3,0.3,0.1,6,2,42,50,84.0,1,53,15,4,7
+4,Riqui Puig,12.0,es  ESP,CM,21-178,56,0,0,0,0,0,0,0,0,72,13,1,0,0,0.0,0.0,0.0,1,0,61,66,92.4,2,53,7,1,1
+5,Lionel Messi,10.0,ar  ARG,AM,33-228,34,1,0,0,0,2,1,0,0,27,3,0,0,0,0.1,0.1,0.2,5,1,21,23,91.3,7,26,3,3,4
+6,Miralem Pjanić,8.0,ba  BIH,CM,30-311,56,0,0,0,0,0,0,0,0,73,5,0,0,0,0.0,0.0,0.1,2,0,63,67,94.0,3,50,4,1,2
+7,Francisco Trincão,17.0,pt  POR,LW,21-040,34,1,0,0,0,1,1,0,0,17,4,1,0,0,0.1,0.1,0.0,0,0,12,14,85.7,2,12,4,0,0
+8,Sergio Busquets,5.0,es  ESP,DM,32-206,77,0,0,0,0,0,0,1,0,98,17,5,1,0,0.0,0.0,0.0,3,0,83,90,92.2,5,63,6,0,0
+9,Samuel Umtiti,23.0,fr  FRA,CB,27-085,13,0,0,0,0,0,0,0,0,10,1,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,1,5,0,0,0
+10,Jordi Alba,18.0,es  ESP,LB,31-323,90,0,0,0,0,0,0,0,0,72,9,2,0,1,0.0,0.0,0.4,4,1,55,64,85.9,4,53,3,0,2
+11,Clément Lenglet,15.0,fr  FRA,CB,25-235,90,0,0,0,0,1,0,0,0,93,9,1,1,2,0.3,0.3,0.0,0,0,77,87,88.5,5,68,6,0,0
+12,Ronald Araújo,4.0,uy  URU,CB,21-337,10,0,0,0,0,0,0,0,0,7,1,0,0,1,0.0,0.0,0.0,0,0,5,6,83.3,0,6,0,0,0
+13,Frenkie de Jong,21.0,nl  NED,"CB,DM",23-271,80,0,0,0,0,0,0,1,0,92,5,0,1,0,0.0,0.0,0.0,0,0,88,88,100.0,4,59,7,0,0
+14,Óscar Mingueza,28.0,es  ESP,RB,21-270,90,0,0,0,0,2,1,0,0,68,15,3,3,0,0.2,0.2,0.0,1,0,50,58,86.2,2,46,2,0,3
+15,Marc-André ter Stegen,1.0,de  GER,GK,28-283,90,0,0,0,0,0,0,0,0,43,0,0,0,0,0.0,0.0,0.0,0,0,37,41,90.2,0,29,0,0,0
+16,16 Players,,,,,990,2,1,0,0,12,3,3,0,855,130,16,13,7,1.1,1.1,1.0,24,4,688,758,90.8,41,605,65,10,21

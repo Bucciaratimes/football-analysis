@@ -1,0 +1,354 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season
+Athletic Bilbao,Germán Pezzella,30,Argentina,Centre-Back,CB,€5.00m,Fiorentina,Italy,€3.50m,in,summer,liga,2021
+Athletic Bilbao,Juan Miranda,21,Spain,Left-Back,LB,€7.00m,Barcelona,Spain,free transfer,in,summer,liga,2021
+Athletic Bilbao,Youssouf Sabaly,28,Senegal,Right-Back,RB,€6.50m,G. Bordeaux,France,free transfer,in,summer,liga,2021
+Athletic Bilbao,Rui Silva,27,Portugal,Goalkeeper,GK,€12.00m,Granada CF,Spain,free transfer,in,summer,liga,2021
+Athletic Bilbao,Willian José,29,Brazil,Centre-Forward,CF,€18.00m,Real Sociedad,Spain,loan transfer,in,summer,liga,2021
+Athletic Bilbao,Héctor Bellerín,26,Spain,Right-Back,RB,€20.00m,Arsenal,England,loan transfer,in,summer,liga,2021
+Athletic Bilbao,Emerson Royal,22,Brazil,Right-Back,RB,€25.00m,Barcelona,Spain,€14.00m,out,summer,liga,2021
+Athletic Bilbao,Aïssa Mandi,29,Algeria,Centre-Back,CB,€8.00m,Villarreal,Spain,free transfer,out,summer,liga,2021
+Athletic Bilbao,Dani Martín,23,Spain,Goalkeeper,GK,€2.00m,Málaga CF,Spain,loan transfer,out,summer,liga,2021
+Athletic Bilbao,Loren Morón,27,Spain,Centre-Forward,CF,€9.00m,Espanyol,Spain,loan transfer,out,summer,liga,2021
+Athletic Bilbao,Sidnei,32,Brazil,Centre-Back,CB,€2.00m,Without Club,,-,out,summer,liga,2021
+Athletic Bilbao,Juan Miranda,21,Spain,Left-Back,LB,€7.00m,Barcelona,Spain,"End of loanJun 30, 2021",out,summer,liga,2021
+CA Osasuna,Landry Dimata,23,Belgium,Centre-Forward,CF,€3.00m,RSC Anderlecht,Belgium,€2.20m,in,summer,liga,2021
+CA Osasuna,Álvaro Vadillo,26,Spain,Left Winger,LW,€1.00m,Celta de Vigo,Spain,€1.80m,in,summer,liga,2021
+CA Osasuna,Sergi Gómez,29,Spain,Centre-Back,CB,€2.00m,Sevilla FC,Spain,€1.00m,in,summer,liga,2021
+CA Osasuna,Miguelón,25,Spain,Right-Back,RB,€1.00m,Villarreal,Spain,€500Th.,in,summer,liga,2021
+CA Osasuna,Aleix Vidal,31,Spain,Right-Back,RB,€2.00m,Sevilla FC,Spain,free transfer,in,summer,liga,2021
+CA Osasuna,Manu Morlanes,22,Spain,Central Midfield,CM,€5.00m,Villarreal,Spain,loan transfer,in,summer,liga,2021
+CA Osasuna,Loren Morón,27,Spain,Centre-Forward,CF,€9.00m,Real Betis,Spain,loan transfer,in,summer,liga,2021
+CA Osasuna,Yangel Herrera,23,Venezuela,Central Midfield,CM,€18.00m,Man City,England,loan transfer,in,summer,liga,2021
+CA Osasuna,Lluís López,24,Spain,Centre-Back,CB,€800Th.,Real Zaragoza,Spain,free transfer,out,summer,liga,2021
+CA Osasuna,Matías Vargas,24,Argentina,Left Winger,LW,€2.70m,Adana Demirspor,Turkey,loan transfer,out,summer,liga,2021
+CA Osasuna,Juan Camilo Becerra,23,Colombia,Centre-Forward,CF,€350Th.,Ponferradina,Spain,loan transfer,out,summer,liga,2021
+CA Osasuna,Víctor Gómez,21,Spain,Right-Back,RB,€2.50m,Málaga CF,Spain,loan transfer,out,summer,liga,2021
+CA Osasuna,Pol Lozano,21,Spain,Central Midfield,CM,€800Th.,Girona,Spain,loan transfer,out,summer,liga,2021
+CA Osasuna,Miguelón,25,Spain,Right-Back,RB,€1.00m,Villarreal,Spain,"End of loanJun 30, 2021",out,summer,liga,2021
+CA Osasuna,Álvaro Vadillo,26,Spain,Left Winger,LW,€1.00m,Celta de Vigo,Spain,"End of loanJun 30, 2021",out,summer,liga,2021
+CA Osasuna,Landry Dimata,23,Belgium,Centre-Forward,CF,€3.00m,RSC Anderlecht,Belgium,"End of loanJun 30, 2021",out,summer,liga,2021
+Celta de Vigo,Luís Maximiano,22,Portugal,Goalkeeper,GK,€6.00m,Sporting CP,Portugal,€4.50m,in,summer,liga,2021
+Celta de Vigo,Sergio Escudero,31,Spain,Left-Back,LB,€2.50m,Sevilla FC,Spain,free transfer,in,summer,liga,2021
+Celta de Vigo,Luis Abram,25,Peru,Centre-Back,CB,€7.00m,Vélez Sarsfield,Argentina,free transfer,in,summer,liga,2021
+Celta de Vigo,Monchu,21,Spain,Central Midfield,CM,€4.00m,Barcelona,Spain,free transfer,in,summer,liga,2021
+Celta de Vigo,Carlos Bacca,34,Colombia,Centre-Forward,CF,€1.50m,Villarreal,Spain,free transfer,in,summer,liga,2021
+Celta de Vigo,Rubén Rochina,30,Spain,Right Winger,RW,€2.80m,Levante,Spain,free transfer,in,summer,liga,2021
+Celta de Vigo,Alpha Dionkou,19,Senegal,Right-Back,RB,€300Th.,Man City U23,England,free transfer,in,summer,liga,2021
+Celta de Vigo,Ricard Sánchez,21,Spain,Right-Back,RB,€800Th.,Atl. Madrid B,Spain,?,in,summer,liga,2021
+Celta de Vigo,Santiago Arias,29,Colombia,Right-Back,RB,€5.00m,Atlético Madrid,Spain,loan transfer,in,summer,liga,2021
+Celta de Vigo,Dimitri Foulquier,28,Guadeloupe,Right-Back,RB,€2.50m,Valencia,Spain,€2.50m,out,summer,liga,2021
+Celta de Vigo,Roberto Soldado,36,Spain,Centre-Forward,CF,€1.00m,Levante,Spain,€500Th.,out,summer,liga,2021
+Celta de Vigo,Fede Vico,27,Spain,Attacking Midfield,AM,€2.00m,CD Leganés,Spain,free transfer,out,summer,liga,2021
+Celta de Vigo,Rui Silva,27,Portugal,Goalkeeper,GK,€12.00m,Real Betis,Spain,free transfer,out,summer,liga,2021
+Celta de Vigo,Ricard Sánchez,21,Spain,Right-Back,RB,€800Th.,CD Lugo,Spain,loan transfer,out,summer,liga,2021
+Celta de Vigo,Alpha Dionkou,19,Senegal,Right-Back,RB,€300Th.,San Fernando CD,Spain,loan transfer,out,summer,liga,2021
+Celta de Vigo,Antoñín,21,Spain,Centre-Forward,CF,€1.00m,Málaga CF,Spain,loan transfer,out,summer,liga,2021
+Celta de Vigo,Adrián Marín,24,Spain,Left-Back,LB,€1.20m,Famalicão,Portugal,loan transfer,out,summer,liga,2021
+Celta de Vigo,Ramon Azeez,28,Nigeria,Central Midfield,CM,€700Th.,Without Club,,-,out,summer,liga,2021
+Celta de Vigo,Domingos Quina,21,Portugal,Central Midfield,CM,€3.00m,Watford,England,"End of loanJun 30, 2021",out,summer,liga,2021
+Celta de Vigo,Nehuén Pérez,21,Argentina,Centre-Back,CB,€4.00m,Atlético Madrid,Spain,"End of loanJun 30, 2021",out,summer,liga,2021
+Celta de Vigo,Kenedy,25,Brazil,Left Winger,LW,€10.00m,Chelsea,England,"End of loanJun 30, 2021",out,summer,liga,2021
+Celta de Vigo,Yangel Herrera,23,Venezuela,Central Midfield,CM,€18.00m,Man City,England,"End of loanJun 30, 2021",out,summer,liga,2021
+Celta de Vigo,Jesús Vallejo,24,Spain,Centre-Back,CB,€5.00m,Real Madrid,Spain,"End of loanJun 30, 2021",out,summer,liga,2021
+Cádiz CF,Javi Galán,26,Spain,Left-Back,LB,€6.00m,SD Huesca,Spain,€4.00m,in,summer,liga,2021
+Cádiz CF,Franco Cervi,27,Argentina,Left Winger,LW,€5.00m,Benfica,Portugal,€4.00m,in,summer,liga,2021
+Cádiz CF,Thiago Galhardo,32,Brazil,Centre-Forward,CF,€2.50m,Internacional,Brazil,Loan fee:€600Th.,in,summer,liga,2021
+Cádiz CF,Matías Dituro,34,Argentina,Goalkeeper,GK,€1.00m,CDUC,Chile,loan transfer,in,summer,liga,2021
+Cádiz CF,Jeison Murillo,29,Colombia,Centre-Back,CB,€7.00m,Sampdoria,Italy,loan transfer,in,summer,liga,2021
+Cádiz CF,Álvaro Vadillo,26,Spain,Left Winger,LW,€1.00m,Espanyol,Spain,€1.80m,out,summer,liga,2021
+Cádiz CF,Jozabed Sánchez,30,Spain,Central Midfield,CM,€700Th.,Málaga CF,Spain,free transfer,out,summer,liga,2021
+Cádiz CF,Juan Hernández,26,Spain,Right Winger,RW,€400Th.,Alcorcón,Spain,free transfer,out,summer,liga,2021
+Cádiz CF,David Costas,26,Spain,Centre-Back,CB,€1.20m,Real Oviedo,Spain,free transfer,out,summer,liga,2021
+Cádiz CF,David Juncà,27,Spain,Left-Back,LB,€500Th.,Girona,Spain,free transfer,out,summer,liga,2021
+Cádiz CF,Iván Villar,24,Spain,Goalkeeper,GK,€2.50m,CD Leganés,Spain,loan transfer,out,summer,liga,2021
+Cádiz CF,Emre Mor,24,Turkey,Right Winger,RW,€575Th.,Karagümrük,Turkey,loan transfer,out,summer,liga,2021
+Cádiz CF,Sergio Carreira,20,Spain,Right-Back,RB,€1.00m,CD Mirandés,Spain,loan transfer,out,summer,liga,2021
+Cádiz CF,Gabriel Fernández,27,Uruguay,Centre-Forward,CF,€2.00m,FC Juárez,Mexico,loan transfer,out,summer,liga,2021
+Cádiz CF,Facundo Ferreyra,30,Argentina,Centre-Forward,CF,€1.70m,Without Club,,-,out,summer,liga,2021
+Cádiz CF,Sergio Álvarez,34,Spain,Goalkeeper,GK,-,,,-,out,summer,liga,2021
+Cádiz CF,Aarón Martín,24,Spain,Left-Back,LB,€4.50m,1.FSV Mainz 05,Germany,"End of loanJun 30, 2021",out,summer,liga,2021
+Cádiz CF,Jorge Sáenz,24,Spain,Centre-Back,CB,€1.00m,Valencia,Spain,"End of loanJun 30, 2021",out,summer,liga,2021
+Cádiz CF,Jeison Murillo,29,Colombia,Centre-Back,CB,€7.00m,Sampdoria,Italy,"End of loanJun 30, 2021",out,summer,liga,2021
+Deportivo Alavés,Jakub Jankto,25,Czech Republic,Left Midfield,LM,€8.00m,Sampdoria,Italy,€6.00m,in,summer,liga,2021
+Deportivo Alavés,Carles Aleñá,23,Spain,Central Midfield,CM,€15.00m,Barcelona,Spain,€5.00m,in,summer,liga,2021
+Deportivo Alavés,Jonathan Silva,27,Argentina,Left-Back,LB,€2.50m,CD Leganés,Spain,€2.50m,in,summer,liga,2021
+Deportivo Alavés,Stefan Mitrovic,31,Serbia,Centre-Back,CB,€1.50m,R. Strasbourg,France,€1.00m,in,summer,liga,2021
+Deportivo Alavés,Sandro Ramírez,26,Spain,Centre-Forward,CF,€3.50m,SD Huesca,Spain,Loan fee:€1.00m,in,summer,liga,2021
+Deportivo Alavés,Diego Conde,22,Spain,Goalkeeper,GK,€300Th.,Atl. Madrid B,Spain,free transfer,in,summer,liga,2021
+Deportivo Alavés,Darío Poveda,24,Spain,Centre-Forward,CF,€400Th.,Atl. Madrid B,Spain,free transfer,in,summer,liga,2021
+Deportivo Alavés,Jorge Cuenca,21,Spain,Centre-Back,CB,€6.00m,Villarreal,Spain,loan transfer,in,summer,liga,2021
+Deportivo Alavés,Florentino,22,Portugal,Defensive Midfield,DM,€10.00m,Benfica,Portugal,loan transfer,in,summer,liga,2021
+Deportivo Alavés,José Macías,21,Mexico,Centre-Forward,CF,€10.00m,Chivas,Mexico,loan transfer,in,summer,liga,2021
+Deportivo Alavés,Vitolo,31,Spain,Left Winger,LW,€4.00m,Atlético Madrid,Spain,loan transfer,in,summer,liga,2021
+Deportivo Alavés,Marc Cucurella,23,Spain,Left Midfield,LM,€20.00m,Brighton,England,€18.00m,out,summer,liga,2021
+Deportivo Alavés,Amath Ndiaye,24,Senegal,Left Winger,LW,€4.00m,RCD Mallorca,Spain,€3.00m,out,summer,liga,2021
+Deportivo Alavés,Ángel Rodríguez,34,Spain,Centre-Forward,CF,€2.00m,RCD Mallorca,Spain,free transfer,out,summer,liga,2021
+Deportivo Alavés,Xabi Etxeita,33,Spain,Centre-Back,CB,€800Th.,SD Eibar,Spain,free transfer,out,summer,liga,2021
+Deportivo Alavés,Francisco Portillo,31,Spain,Right Winger,RW,€1.50m,UD Almería,Spain,free transfer,out,summer,liga,2021
+Deportivo Alavés,Jack Harper,25,Scotland,Centre-Forward,CF,€300Th.,Racing,Spain,loan transfer,out,summer,liga,2021
+Deportivo Alavés,Ignasi Miquel,28,Spain,Centre-Back,CB,€1.00m,SD Huesca,Spain,loan transfer,out,summer,liga,2021
+Deportivo Alavés,Hugo Duro,21,Spain,Centre-Forward,CF,€5.00m,Valencia,Spain,loan transfer,out,summer,liga,2021
+Deportivo Alavés,Miguel Rubio,23,Spain,Centre-Back,CB,€150Th.,Burgos CF,Spain,loan transfer,out,summer,liga,2021
+Deportivo Alavés,Cucho Hernández,22,Colombia,Centre-Forward,CF,€9.00m,Watford,England,"End of loanJun 30, 2021",out,summer,liga,2021
+Deportivo Alavés,Soufiane Chakla,27,Morocco,Centre-Back,CB,€800Th.,Villarreal,Spain,"End of loanJun 30, 2021",out,summer,liga,2021
+Deportivo Alavés,Takefusa Kubo,20,Japan,Right Winger,RW,€10.00m,Real Madrid,Spain,"End of loanJun 30, 2021",out,summer,liga,2021
+Deportivo Alavés,Carles Aleñá,23,Spain,Central Midfield,CM,€15.00m,Barcelona,Spain,"End of loanJun 30, 2021",out,summer,liga,2021
+Deportivo Alavés,Darío Poveda,24,Spain,Centre-Forward,CF,€400Th.,Atl. Madrid B,Spain,"End of loanJun 30, 2021",out,summer,liga,2021
+Elche CF,Mamadou Sylla,27,Senegal,Centre-Forward,CF,€1.50m,Girona,Spain,€1.15m,in,summer,liga,2021
+Elche CF,Miguel de la Fuente,21,Spain,Centre-Forward,CF,€500Th.,Valladolid B,Spain,free transfer,in,summer,liga,2021
+Elche CF,Taichi Hara,22,Japan,Centre-Forward,CF,€1.00m,NK Istra,Croatia,free transfer,in,summer,liga,2021
+Elche CF,Toni Moya,23,Spain,Central Midfield,CM,€400Th.,Atl. Madrid B,Spain,free transfer,in,summer,liga,2021
+Elche CF,Florian Lejeune,30,France,Centre-Back,CB,€3.00m,Newcastle,England,?,in,summer,liga,2021
+Elche CF,Matt Miazga,26,United States,Centre-Back,CB,€3.00m,Chelsea,England,loan transfer,in,summer,liga,2021
+Elche CF,Manu García,23,Spain,Attacking Midfield,AM,€4.00m,Sporting Gijón,Spain,loan transfer,in,summer,liga,2021
+Elche CF,Iván Martín,22,Spain,Attacking Midfield,AM,€800Th.,Villarreal,Spain,loan transfer,in,summer,liga,2021
+Elche CF,Mamadou Loum,24,Senegal,Defensive Midfield,DM,€2.50m,FC Porto,Portugal,loan transfer,in,summer,liga,2021
+Elche CF,Facundo Pellistri,19,Uruguay,Right Winger,RW,€6.00m,Man Utd,England,loan transfer,in,summer,liga,2021
+Elche CF,Ramón Miérez,24,Argentina,Centre-Forward,CF,€5.00m,NK Osijek,Croatia,€2.50m,out,summer,liga,2021
+Elche CF,Olivier Verdon,25,Benin,Centre-Back,CB,€1.30m,Ludogorets,Bulgaria,€1.00m,out,summer,liga,2021
+Elche CF,Lucas Pérez,32,Spain,Centre-Forward,CF,€2.50m,Elche CF,Spain,free transfer,out,summer,liga,2021
+Elche CF,Manu García,35,Spain,Defensive Midfield,DM,€800Th.,Aris Limassol,Cyprus,free transfer,out,summer,liga,2021
+Elche CF,Rafa Páez,26,Spain,Centre-Back,CB,€50Th.,Mar Menor FC,Spain,free transfer,out,summer,liga,2021
+Elche CF,Javi Muñoz,26,Spain,Central Midfield,CM,€700Th.,SD Eibar,Spain,free transfer,out,summer,liga,2021
+Elche CF,Rafa Navarro,27,Spain,Right-Back,RB,€300Th.,NK Istra,Croatia,free transfer,out,summer,liga,2021
+Elche CF,Taichi Hara,22,Japan,Centre-Forward,CF,€1.00m,Sint-Truiden,Belgium,loan transfer,out,summer,liga,2021
+Elche CF,Carlos Isaac,23,Spain,Right-Back,RB,€200Th.,Real Oviedo,Spain,loan transfer,out,summer,liga,2021
+Elche CF,José Luis Rodríguez,23,Panama,Left Winger,LW,€700Th.,Sporting Gijón,Spain,loan transfer,out,summer,liga,2021
+Elche CF,Borja Sainz,20,Spain,Left Winger,LW,€2.00m,Real Zaragoza,Spain,loan transfer,out,summer,liga,2021
+Elche CF,Abdallahi Mahmoud,21,Mauritania,Central Midfield,CM,€300Th.,NK Istra,Croatia,loan transfer,out,summer,liga,2021
+Elche CF,Rodrigo Ely,27,Brazil,Centre-Back,CB,€2.20m,Without Club,,-,out,summer,liga,2021
+Elche CF,Fabrice Ondoa,25,Cameroon,Goalkeeper,GK,€250Th.,Without Club,,-,out,summer,liga,2021
+Elche CF,Burgui,27,Spain,Left Winger,LW,€700Th.,Without Club,,-,out,summer,liga,2021
+Elche CF,Jota Peleteiro,30,Spain,Right Winger,RW,€1.50m,Without Club,,-,out,summer,liga,2021
+Elche CF,Iñigo Córdoba,24,Spain,Left Winger,LW,€1.50m,Athletic,Spain,"End of loanJun 30, 2021",out,summer,liga,2021
+Elche CF,Facundo Pellistri,19,Uruguay,Right Winger,RW,€6.00m,Man Utd,England,"End of loanJun 30, 2021",out,summer,liga,2021
+Elche CF,Florian Lejeune,30,France,Centre-Back,CB,€3.00m,Newcastle,England,"End of loanJun 30, 2021",out,summer,liga,2021
+Elche CF,Rodrigo Battaglia,29,Argentina,Central Midfield,CM,€2.50m,Sporting CP,Portugal,"End of loanJun 30, 2021",out,summer,liga,2021
+FC Barcelona,Rodrigo de Paul,27,Argentina,Central Midfield,CM,€40.00m,Udinese Calcio,Italy,€35.00m,in,summer,liga,2021
+FC Barcelona,Matheus Cunha,22,Brazil,Centre-Forward,CF,€30.00m,Hertha BSC,Germany,€26.00m,in,summer,liga,2021
+FC Barcelona,Antoine Griezmann,30,France,Second Striker,SS,€50.00m,Barcelona,Spain,Loan fee:€10.00m,in,summer,liga,2021
+FC Barcelona,Marcos Paulo,20,Portugal,Left Winger,LW,€9.00m,Fluminense,Brazil,free transfer,in,summer,liga,2021
+FC Barcelona,Benjamin Lecomte,30,France,Goalkeeper,GK,€9.00m,Monaco,France,loan transfer,in,summer,liga,2021
+FC Barcelona,Saúl Ñíguez,26,Spain,Central Midfield,CM,€40.00m,Chelsea,England,Loan fee:€5.00m,out,summer,liga,2021
+FC Barcelona,Nicolás Ibáñez,26,Argentina,Centre-Forward,CF,€4.50m,CF Pachuca,Mexico,€3.00m,out,summer,liga,2021
+FC Barcelona,Francisco Montero,22,Spain,Centre-Back,CB,€4.00m,Besiktas,Turkey,€750Th.,out,summer,liga,2021
+FC Barcelona,Vitolo,31,Spain,Left Winger,LW,€4.00m,Getafe,Spain,loan transfer,out,summer,liga,2021
+FC Barcelona,Manu Sánchez,20,Spain,Left-Back,LB,€8.00m,CA Osasuna,Spain,loan transfer,out,summer,liga,2021
+FC Barcelona,Ivo Grbic,25,Croatia,Goalkeeper,GK,€3.50m,LOSC Lille,France,loan transfer,out,summer,liga,2021
+FC Barcelona,Marcos Paulo,20,Portugal,Left Winger,LW,€9.00m,Famalicão,Portugal,loan transfer,out,summer,liga,2021
+FC Barcelona,Nehuén Pérez,21,Argentina,Centre-Back,CB,€4.00m,Udinese Calcio,Italy,loan transfer,out,summer,liga,2021
+FC Barcelona,Santiago Arias,29,Colombia,Right-Back,RB,€5.00m,Granada CF,Spain,loan transfer,out,summer,liga,2021
+FC Barcelona,Axel Werner,25,Argentina,Goalkeeper,GK,€1.00m,Without Club,,-,out,summer,liga,2021
+FC Barcelona,Víctor Mollejo,20,Spain,Right Winger,RW,€3.00m,CD Tenerife,Spain,loan transfer,out,summer,liga,2021
+FC Barcelona,Moussa Dembélé,24,France,Centre-Forward,CF,€20.00m,Olympique Lyon,France,"End of loanJun 30, 2021",out,summer,liga,2021
+FC Barcelona,Lucas Torreira,25,Uruguay,Defensive Midfield,DM,€18.00m,Arsenal,England,"End of loanJun 30, 2021",out,summer,liga,2021
+Getafe CF,Marcos André,24,Brazil,Centre-Forward,CF,€8.50m,Real Valladolid,Spain,€8.50m,in,summer,liga,2021
+Getafe CF,Dimitri Foulquier,28,Guadeloupe,Right-Back,RB,€2.50m,Granada CF,Spain,€2.50m,in,summer,liga,2021
+Getafe CF,Giorgi Mamardashvili,20,Georgia,Goalkeeper,GK,€3.00m,Dinamo Tbilisi,Georgia,Loan fee:€200Th.,in,summer,liga,2021
+Getafe CF,Omar Alderete,24,Paraguay,Centre-Back,CB,€6.00m,Hertha BSC,Germany,loan transfer,in,summer,liga,2021
+Getafe CF,Hugo Duro,21,Spain,Centre-Forward,CF,€5.00m,Getafe,Spain,loan transfer,in,summer,liga,2021
+Getafe CF,Hélder Costa,27,Angola,Right Winger,RW,€8.00m,Leeds,England,loan transfer,in,summer,liga,2021
+Getafe CF,Javi Jiménez,24,Spain,Centre-Back,CB,€200Th.,Albacete,Spain,free transfer,out,summer,liga,2021
+Getafe CF,Kévin Gameiro,34,France,Centre-Forward,CF,€3.00m,R. Strasbourg,France,free transfer,out,summer,liga,2021
+Getafe CF,Kang-in Lee,20,"Korea, South",Attacking Midfield,AM,€10.00m,RCD Mallorca,Spain,free transfer,out,summer,liga,2021
+Getafe CF,Rubén Sobrino,29,Spain,Centre-Forward,CF,€1.50m,Cádiz CF,Spain,?,out,summer,liga,2021
+Getafe CF,Jorge Sáenz,24,Spain,Centre-Back,CB,€1.00m,Marítimo,Portugal,loan transfer,out,summer,liga,2021
+Getafe CF,Eliaquim Mangala,30,France,Centre-Back,CB,€2.00m,Without Club,,-,out,summer,liga,2021
+Getafe CF,Patrick Cutrone,23,Italy,Centre-Forward,CF,€7.00m,Wolves,England,"End of loanJun 30, 2021",out,summer,liga,2021
+Getafe CF,Ferro,24,Portugal,Centre-Back,CB,€5.00m,Benfica,Portugal,"End of loanJun 30, 2021",out,summer,liga,2021
+Getafe CF,Christian Oliva,25,Uruguay,Defensive Midfield,DM,€3.00m,Cagliari Calcio,Italy,"End of loanJun 30, 2021",out,summer,liga,2021
+Granada CF,Álex Petxa,24,Spain,Right-Back,RB,€800Th.,Real Sociedad B,Spain,free transfer,in,summer,liga,2021
+Granada CF,Iago Herrerín,33,Spain,Goalkeeper,GK,€1.00m,Al-Raed,Saudi Arabia,free transfer,out,summer,liga,2021
+Granada CF,Kenan Kodro,28,Bosnia-Herzegovina,Centre-Forward,CF,€1.00m,Fehérvár,Hungary,free transfer,out,summer,liga,2021
+Granada CF,Iñigo Vicente,23,Spain,Left Winger,LW,€1.00m,CD Mirandés,Spain,loan transfer,out,summer,liga,2021
+Granada CF,Imanol García de Albéniz,21,Spain,Left-Back,LB,€300Th.,CD Mirandés,Spain,loan transfer,out,summer,liga,2021
+Granada CF,Unai López,25,Spain,Central Midfield,CM,€12.00m,Rayo Vallecano,Spain,loan transfer,out,summer,liga,2021
+Granada CF,Iñigo Córdoba,24,Spain,Left Winger,LW,€1.50m,Go Ahead Eagles,Netherlands,loan transfer,out,summer,liga,2021
+Granada CF,Ibai Gómez,31,Spain,Right Winger,RW,€800Th.,Without Club,,-,out,summer,liga,2021
+Levante UD,Ante Budimir,29,Croatia,Centre-Forward,CF,€9.00m,RCD Mallorca,Spain,€8.00m,in,summer,liga,2021
+Levante UD,Jonás Ramalho,28,Angola,Centre-Back,CB,€1.00m,Girona,Spain,€700Th.,in,summer,liga,2021
+Levante UD,Kike García,31,Spain,Centre-Forward,CF,€2.80m,SD Eibar,Spain,free transfer,in,summer,liga,2021
+Levante UD,Jesús Areso,21,Spain,Right-Back,RB,€800Th.,Bilbao Athletic,Spain,free transfer,in,summer,liga,2021
+Levante UD,Cote,31,Spain,Left-Back,LB,€1.50m,SD Eibar,Spain,free transfer,in,summer,liga,2021
+Levante UD,Javi Ontiveros,23,Spain,Left Winger,LW,€4.00m,Villarreal,Spain,loan transfer,in,summer,liga,2021
+Levante UD,Manu Sánchez,20,Spain,Left-Back,LB,€8.00m,Atlético Madrid,Spain,loan transfer,in,summer,liga,2021
+Levante UD,Facundo Roncaglia,34,Argentina,Centre-Back,CB,€1.00m,Aris Limassol,Cyprus,free transfer,out,summer,liga,2021
+Levante UD,Enric Gallego,34,Spain,Centre-Forward,CF,€600Th.,CD Tenerife,Spain,free transfer,out,summer,liga,2021
+Levante UD,Rubén Martínez,37,Spain,Goalkeeper,GK,€500Th.,AEK Larnaca,Cyprus,free transfer,out,summer,liga,2021
+Levante UD,Brandon Thomas,26,Spain,Centre-Forward,CF,€600Th.,Málaga CF,Spain,free transfer,out,summer,liga,2021
+Levante UD,Marc Cardona,26,Spain,Centre-Forward,CF,€600Th.,Go Ahead Eagles,Netherlands,loan transfer,out,summer,liga,2021
+Levante UD,Kike Saverio,22,Ecuador,Left Winger,LW,€200Th.,Ponferradina,Spain,loan transfer,out,summer,liga,2021
+Levante UD,Adrián López,33,Spain,Centre-Forward,CF,€700Th.,Without Club,,-,out,summer,liga,2021
+Levante UD,Jonás Ramalho,28,Angola,Centre-Back,CB,€1.00m,Girona,Spain,"End of loanJun 30, 2021",out,summer,liga,2021
+Levante UD,Manu Sánchez,20,Spain,Left-Back,LB,€8.00m,Atlético Madrid,Spain,"End of loanJun 30, 2021",out,summer,liga,2021
+Levante UD,Ante Budimir,29,Croatia,Centre-Forward,CF,€9.00m,RCD Mallorca,Spain,"End of loanJun 30, 2021",out,summer,liga,2021
+Levante UD,Jony,29,Spain,Left Winger,LW,€1.50m,Lazio,Italy,"End of loanJun 30, 2021",out,summer,liga,2021
+Levante UD,Jonathan Calleri,27,Argentina,Centre-Forward,CF,€5.00m,Maldonado,Uruguay,"End of loanJun 30, 2021",out,summer,liga,2021
+RCD Espanyol Barcelona,Santiago Arzamendia,23,Paraguay,Left-Back,LB,€3.00m,Cerro Porteño,Paraguay,€2.10m,in,summer,liga,2021
+RCD Espanyol Barcelona,Tomás Alarcón,22,Chile,Defensive Midfield,DM,€3.00m,O'Higgins,Chile,€2.00m,in,summer,liga,2021
+RCD Espanyol Barcelona,Jeremías Ledesma,28,Argentina,Goalkeeper,GK,€6.00m,Rosario Central,Argentina,€1.80m,in,summer,liga,2021
+RCD Espanyol Barcelona,Álvaro Jiménez,26,Spain,Right Winger,RW,€600Th.,Albacete,Spain,€700Th.,in,summer,liga,2021
+RCD Espanyol Barcelona,Varazdat Haroyan,28,Armenia,Centre-Back,CB,€1.20m,FC Astana,Kazakhstan,free transfer,in,summer,liga,2021
+RCD Espanyol Barcelona,Martín Calderón,22,Spain,Central Midfield,CM,€300Th.,RM Castilla,Spain,free transfer,in,summer,liga,2021
+RCD Espanyol Barcelona,Rubén Sobrino,29,Spain,Centre-Forward,CF,€1.50m,Valencia,Spain,?,in,summer,liga,2021
+RCD Espanyol Barcelona,Milutin Osmajic,21,Montenegro,Centre-Forward,CF,€400Th.,Sutjeska Niksic,Montenegro,?,in,summer,liga,2021
+RCD Espanyol Barcelona,Víctor Chust,21,Spain,Centre-Back,CB,€1.00m,RM Castilla,Spain,loan transfer,in,summer,liga,2021
+RCD Espanyol Barcelona,Florin Andone,28,Romania,Centre-Forward,CF,€1.50m,Brighton,England,loan transfer,in,summer,liga,2021
+RCD Espanyol Barcelona,Pedro Alcalá,32,Spain,Centre-Back,CB,€600Th.,FC Cartagena,Spain,free transfer,out,summer,liga,2021
+RCD Espanyol Barcelona,Gaspar Panadero,23,Spain,Left Winger,LW,€300Th.,Qarabag FK,Azerbaijan,free transfer,out,summer,liga,2021
+RCD Espanyol Barcelona,Dani Sotres,28,Spain,Goalkeeper,GK,€250Th.,CyD Leonesa,Spain,free transfer,out,summer,liga,2021
+RCD Espanyol Barcelona,José Matos,26,Spain,Left-Back,LB,€500Th.,Burgos CF,Spain,free transfer,out,summer,liga,2021
+RCD Espanyol Barcelona,Jean-Pierre Rhyner,25,Peru,Centre-Back,CB,€300Th.,Volos NPS,Greece,free transfer,out,summer,liga,2021
+RCD Espanyol Barcelona,Caye Quintana,27,Spain,Centre-Forward,CF,€300Th.,Slask Wroclaw,Poland,free transfer,out,summer,liga,2021
+RCD Espanyol Barcelona,Sergio González,24,Spain,Defensive Midfield,DM,€500Th.,CD Tenerife,Spain,free transfer,out,summer,liga,2021
+RCD Espanyol Barcelona,Álvaro Giménez,30,Spain,Centre-Forward,CF,€1.00m,Real Zaragoza,Spain,loan transfer,out,summer,liga,2021
+RCD Espanyol Barcelona,Nano Mesa,26,Spain,Centre-Forward,CF,€500Th.,Real Zaragoza,Spain,loan transfer,out,summer,liga,2021
+RCD Espanyol Barcelona,Jorge Pombo,27,Spain,Attacking Midfield,AM,€1.00m,Real Oviedo,Spain,loan transfer,out,summer,liga,2021
+RCD Espanyol Barcelona,Filip Malbasic,28,Serbia,Right Winger,RW,€900Th.,Without Club,,-,out,summer,liga,2021
+RCD Espanyol Barcelona,Augusto Fernández,35,Argentina,Central Midfield,CM,-,,,-,out,summer,liga,2021
+RCD Espanyol Barcelona,Rubén Sobrino,29,Spain,Centre-Forward,CF,€1.50m,Valencia,Spain,"End of loanJun 30, 2021",out,summer,liga,2021
+RCD Espanyol Barcelona,Ivan Saponjic,23,Serbia,Centre-Forward,CF,€900Th.,Atlético Madrid,Spain,"End of loanJun 30, 2021",out,summer,liga,2021
+RCD Espanyol Barcelona,Jairo Izquierdo,27,Spain,Left Winger,LW,€800Th.,Girona,Spain,"End of loanJun 30, 2021",out,summer,liga,2021
+RCD Espanyol Barcelona,Jeremías Ledesma,28,Argentina,Goalkeeper,GK,€6.00m,Rosario Central,Argentina,"End of loanJun 30, 2021",out,summer,liga,2021
+RCD Espanyol Barcelona,David Mayoral,24,Spain,Right Winger,RW,€400Th.,CD Lugo,Spain,loan transfer,out,summer,liga,2021
+RCD Mallorca,Iván Marcone,31,Argentina,Defensive Midfield,DM,€3.00m,Boca Juniors,Argentina,€4.00m,in,summer,liga,2021
+RCD Mallorca,Lucas Boyé,25,Argentina,Centre-Forward,CF,€3.50m,Torino,Italy,€2.00m,in,summer,liga,2021
+RCD Mallorca,Johan Mojica,28,Colombia,Left-Back,LB,€3.00m,Girona,Spain,€1.20m,in,summer,liga,2021
+RCD Mallorca,Gerard Gumbau,26,Spain,Defensive Midfield,DM,€1.00m,Girona,Spain,free transfer,in,summer,liga,2021
+RCD Mallorca,Lucas Pérez,32,Spain,Centre-Forward,CF,€2.50m,Alavés,Spain,free transfer,in,summer,liga,2021
+RCD Mallorca,Enzo Roco,28,Chile,Centre-Back,CB,€1.50m,Karagümrük,Turkey,free transfer,in,summer,liga,2021
+RCD Mallorca,Omar Mascarell,28,Spain,Defensive Midfield,DM,€3.50m,FC Schalke 04,Germany,free transfer,in,summer,liga,2021
+RCD Mallorca,Pedro Bigas,31,Spain,Centre-Back,CB,€1.20m,SD Eibar,Spain,free transfer,in,summer,liga,2021
+RCD Mallorca,Darío Benedetto,31,Argentina,Centre-Forward,CF,€5.00m,Marseille,France,loan transfer,in,summer,liga,2021
+RCD Mallorca,Kiko Casilla,34,Spain,Goalkeeper,GK,€800Th.,Leeds,England,loan transfer,in,summer,liga,2021
+RCD Mallorca,Javier Pastore,32,Argentina,Attacking Midfield,AM,€1.00m,Without Club,,-,in,summer,liga,2021
+RCD Mallorca,Axel Werner,25,Argentina,Goalkeeper,GK,€1.00m,Without Club,,-,in,summer,liga,2021
+RCD Mallorca,Luismi,29,Spain,Defensive Midfield,DM,€500Th.,Real Oviedo,Spain,free transfer,out,summer,liga,2021
+RCD Mallorca,Dani Calvo,27,Spain,Centre-Back,CB,€1.50m,Real Oviedo,Spain,free transfer,out,summer,liga,2021
+RCD Mallorca,Ramón Folch,31,Spain,Central Midfield,CM,€200Th.,CE Sabadell,Spain,free transfer,out,summer,liga,2021
+RCD Mallorca,Miguel Cifuentes,30,Spain,Right-Back,RB,€600Th.,UD Ibiza,Spain,free transfer,out,summer,liga,2021
+RCD Mallorca,Omenuke Mfulu,27,DR Congo,Defensive Midfield,DM,€800Th.,UD Las Palmas,Spain,free transfer,out,summer,liga,2021
+RCD Mallorca,Manu Justo,25,Spain,Second Striker,SS,€250Th.,Racing,Spain,loan transfer,out,summer,liga,2021
+RCD Mallorca,Víctor Rodríguez,31,Spain,Left Winger,LW,€500Th.,Without Club,,-,out,summer,liga,2021
+RCD Mallorca,Nino,41,Spain,Centre-Forward,CF,-,,,-,out,summer,liga,2021
+RCD Mallorca,Paulo Gazzaniga,29,Argentina,Goalkeeper,GK,€3.00m,Spurs,England,"End of loanJun 30, 2021",out,summer,liga,2021
+RCD Mallorca,Johan Mojica,28,Colombia,Left-Back,LB,€3.00m,Girona,Spain,"End of loanJun 30, 2021",out,summer,liga,2021
+RCD Mallorca,Iván Marcone,31,Argentina,Defensive Midfield,DM,€3.00m,Boca Juniors,Argentina,"End of loanJun 30, 2021",out,summer,liga,2021
+RCD Mallorca,Lucas Boyé,25,Argentina,Centre-Forward,CF,€3.50m,Torino,Italy,"End of loanJun 30, 2021",out,summer,liga,2021
+Rayo Vallecano,Matthew Hoppe,20,United States,Centre-Forward,CF,€4.50m,FC Schalke 04,Germany,€3.50m,in,summer,liga,2021
+Rayo Vallecano,Amath Ndiaye,24,Senegal,Left Winger,LW,€4.00m,Getafe,Spain,€3.00m,in,summer,liga,2021
+Rayo Vallecano,Dominik Greif,24,Slovakia,Goalkeeper,GK,€2.00m,Slo. Bratislava,Slovakia,€2.50m,in,summer,liga,2021
+Rayo Vallecano,Pablo Maffeo,23,Spain,Right-Back,RB,€3.50m,VfB Stuttgart,Germany,Loan fee:€500Th.,in,summer,liga,2021
+Rayo Vallecano,Jaume Costa,33,Spain,Left-Back,LB,€2.00m,Villarreal,Spain,free transfer,in,summer,liga,2021
+Rayo Vallecano,Kang-in Lee,20,"Korea, South",Attacking Midfield,AM,€10.00m,Valencia,Spain,free transfer,in,summer,liga,2021
+Rayo Vallecano,Ángel Rodríguez,34,Spain,Centre-Forward,CF,€2.00m,Getafe,Spain,free transfer,in,summer,liga,2021
+Rayo Vallecano,Takefusa Kubo,20,Japan,Right Winger,RW,€10.00m,Real Madrid,Spain,loan transfer,in,summer,liga,2021
+Rayo Vallecano,Rodrigo Battaglia,30,Argentina,Central Midfield,CM,€2.50m,Sporting CP,Portugal,loan transfer,in,summer,liga,2021
+Rayo Vallecano,Fer Niño,20,Spain,Centre-Forward,CF,€5.00m,Villarreal,Spain,loan transfer,in,summer,liga,2021
+Rayo Vallecano,Ante Budimir,29,Croatia,Centre-Forward,CF,€9.00m,CA Osasuna,Spain,€8.00m,out,summer,liga,2021
+Rayo Vallecano,Stoichkov,27,Spain,Attacking Midfield,AM,€2.50m,SD Eibar,Spain,€1.00m,out,summer,liga,2021
+Rayo Vallecano,Josep Señé,29,Spain,Attacking Midfield,AM,€400Th.,CD Lugo,Spain,free transfer,out,summer,liga,2021
+Rayo Vallecano,Pablo Valcarce,28,Spain,Right Winger,RW,€400Th.,Burgos CF,Spain,free transfer,out,summer,liga,2021
+Rayo Vallecano,Fran Gámez,29,Spain,Right-Back,RB,€500Th.,Real Zaragoza,Spain,free transfer,out,summer,liga,2021
+Rayo Vallecano,Enzo Lombardo,24,France,Left Winger,LW,€400Th.,SD Huesca,Spain,free transfer,out,summer,liga,2021
+Rayo Vallecano,Igor Zlatanovic,23,Serbia,Centre-Forward,CF,€500Th.,Maccabi Netanya,Israel,free transfer,out,summer,liga,2021
+Rayo Vallecano,Miquel Parera,25,Spain,Goalkeeper,GK,€200Th.,Racing,Spain,free transfer,out,summer,liga,2021
+Rayo Vallecano,Álex Alegría,28,Spain,Centre-Forward,CF,€500Th.,Burgos CF,Spain,loan transfer,out,summer,liga,2021
+Rayo Vallecano,Braian Cufré,24,Argentina,Left-Back,LB,€2.00m,Málaga CF,Spain,loan transfer,out,summer,liga,2021
+Rayo Vallecano,Aleksandar Trajkovski,28,North Macedonia,Left Winger,LW,€400Th.,Aalborg BK,Denmark,loan transfer,out,summer,liga,2021
+Rayo Vallecano,Álex López,27,Spain,Centre-Forward,CF,€300Th.,Without Club,,-,out,summer,liga,2021
+Rayo Vallecano,Murilo de Souza,26,Brazil,Right Winger,RW,€600Th.,SC Braga,Portugal,"End of loanJun 30, 2021",out,summer,liga,2021
+Rayo Vallecano,Koke Vegas,25,Spain,Goalkeeper,GK,€400Th.,Levante,Spain,"End of loanJun 30, 2021",out,summer,liga,2021
+Rayo Vallecano,Víctor Mollejo,20,Spain,Right Winger,RW,€3.00m,Atlético Madrid,Spain,"End of loanAug 30, 2021",out,summer,liga,2021
+Rayo Vallecano,Álvaro Giménez,30,Spain,Centre-Forward,CF,€1.00m,Cádiz CF,Spain,"End of loanJun 30, 2021",out,summer,liga,2021
+Rayo Vallecano,Amath Ndiaye,24,Senegal,Left Winger,LW,€4.00m,Getafe,Spain,"End of loanJun 30, 2021",out,summer,liga,2021
+Rayo Vallecano,Marc Cardona,25,Spain,Centre-Forward,CF,€600Th.,CA Osasuna,Spain,"End of loanJun 30, 2021",out,summer,liga,2021
+Real Betis Balompié,Arnaut Danjuma,24,Netherlands,Left Winger,LW,€25.00m,Bournemouth,England,€23.50m,in,summer,liga,2021
+Real Betis Balompié,Juan Foyth,23,Argentina,Centre-Back,CB,€15.00m,Spurs,England,€15.00m,in,summer,liga,2021
+Real Betis Balompié,Boulaye Dia,24,Senegal,Centre-Forward,CF,€14.00m,Stade Reims,France,€12.00m,in,summer,liga,2021
+Real Betis Balompié,Manu Morlanes,22,Spain,Central Midfield,CM,€5.00m,UD Almería,Spain,€4.00m,in,summer,liga,2021
+Real Betis Balompié,Aïssa Mandi,29,Algeria,Centre-Back,CB,€8.00m,Real Betis,Spain,free transfer,in,summer,liga,2021
+Real Betis Balompié,Serge Aurier,28,Cote d'Ivoire,Right-Back,RB,€15.00m,Without Club,,-,in,summer,liga,2021
+Real Betis Balompié,Manu Morlanes,22,Spain,Central Midfield,CM,€5.00m,UD Almería,Spain,€3.00m,out,summer,liga,2021
+Real Betis Balompié,Ramiro Funes Mori,30,Argentina,Centre-Back,CB,€2.00m,Al-Nassr FC,Saudi Arabia,€2.50m,out,summer,liga,2021
+Real Betis Balompié,Mario González,25,Spain,Centre-Forward,CF,€3.00m,SC Braga,Portugal,€1.50m,out,summer,liga,2021
+Real Betis Balompié,Enric Franquesa,24,Spain,Left-Back,LB,€800Th.,Levante,Spain,€750Th.,out,summer,liga,2021
+Real Betis Balompié,Miguelón,25,Spain,Right-Back,RB,€1.00m,Espanyol,Spain,€500Th.,out,summer,liga,2021
+Real Betis Balompié,Soufiane Chakla,27,Morocco,Centre-Back,CB,€800Th.,OH Leuven,Belgium,free transfer,out,summer,liga,2021
+Real Betis Balompié,Andrei Ratiu,23,Romania,Right-Back,RB,€600Th.,SD Huesca,Spain,free transfer,out,summer,liga,2021
+Real Betis Balompié,Carlos Bacca,34,Colombia,Centre-Forward,CF,€1.50m,Granada CF,Spain,free transfer,out,summer,liga,2021
+Real Betis Balompié,Jaume Costa,33,Spain,Left-Back,LB,€2.00m,RCD Mallorca,Spain,free transfer,out,summer,liga,2021
+Real Betis Balompié,Iván Martín,22,Spain,Attacking Midfield,AM,€800Th.,Alavés,Spain,loan transfer,out,summer,liga,2021
+Real Betis Balompié,Xavi Quintillà,24,Spain,Left-Back,LB,€2.00m,CD Leganés,Spain,loan transfer,out,summer,liga,2021
+Real Betis Balompié,Manu Morlanes,22,Spain,Central Midfield,CM,€5.00m,Espanyol,Spain,loan transfer,out,summer,liga,2021
+Real Betis Balompié,Fer Niño,20,Spain,Centre-Forward,CF,€5.00m,RCD Mallorca,Spain,loan transfer,out,summer,liga,2021
+Real Betis Balompié,Javi Ontiveros,23,Spain,Left Winger,LW,€4.00m,CA Osasuna,Spain,loan transfer,out,summer,liga,2021
+Real Betis Balompié,Jorge Cuenca,21,Spain,Centre-Back,CB,€6.00m,Getafe,Spain,loan transfer,out,summer,liga,2021
+Real Betis Balompié,Juan Foyth,23,Argentina,Centre-Back,CB,€15.00m,Spurs,England,"End of loanJun 30, 2021",out,summer,liga,2021
+Real Madrid,Emerson Royal,22,Brazil,Right-Back,RB,€25.00m,Real Betis,Spain,€14.00m,in,summer,liga,2021
+Real Madrid,Yusuf Demir,18,Austria,Right Winger,RW,€12.00m,Rapid Vienna,Austria,Loan fee:€500Th.,in,summer,liga,2021
+Real Madrid,Sergio Agüero,33,Argentina,Centre-Forward,CF,-,Man City,England,free transfer,in,summer,liga,2021
+Real Madrid,Eric García,20,Spain,Centre-Back,CB,€20.00m,Man City,England,free transfer,in,summer,liga,2021
+Real Madrid,Memphis Depay,27,Netherlands,Centre-Forward,CF,€45.00m,Olympique Lyon,France,free transfer,in,summer,liga,2021
+Real Madrid,Luuk de Jong,31,Netherlands,Centre-Forward,CF,€7.50m,Sevilla FC,Spain,loan transfer,in,summer,liga,2021
+Real Madrid,Emerson Royal,22,Brazil,Right-Back,RB,€25.00m,Spurs,England,€25.00m,out,summer,liga,2021
+Real Madrid,Junior Firpo,24,Dominican Republic,Left-Back,LB,€12.00m,Leeds,England,€15.00m,out,summer,liga,2021
+Real Madrid,Antoine Griezmann,30,France,Second Striker,SS,€50.00m,Atlético Madrid,Spain,Loan fee:€10.00m,out,summer,liga,2021
+Real Madrid,Jean-Clair Todibo,21,France,Centre-Back,CB,€14.00m,OGC Nice,France,€8.50m,out,summer,liga,2021
+Real Madrid,Francisco Trincão,21,Portugal,Right Winger,RW,€22.00m,Wolves,England,Loan fee:€6.00m,out,summer,liga,2021
+Real Madrid,Carles Aleñá,23,Spain,Central Midfield,CM,€15.00m,Getafe,Spain,€5.00m,out,summer,liga,2021
+Real Madrid,Lionel Messi,34,Argentina,Right Winger,RW,€80.00m,Paris SG,France,free transfer,out,summer,liga,2021
+Real Madrid,Monchu,21,Spain,Central Midfield,CM,€4.00m,Granada CF,Spain,free transfer,out,summer,liga,2021
+Real Madrid,Matheus Fernandes,23,Brazil,Central Midfield,CM,€1.50m,Palmeiras,Brazil,free transfer,out,summer,liga,2021
+Real Madrid,Juan Miranda,21,Spain,Left-Back,LB,€7.00m,Real Betis,Spain,free transfer,out,summer,liga,2021
+Real Madrid,Miralem Pjanic,31,Bosnia-Herzegovina,Central Midfield,CM,€18.00m,Besiktas,Turkey,loan transfer,out,summer,liga,2021
+Real Madrid,Dani Alves,38,Brazil,Right-Back,RB,€1.00m,Without Club,,-,in,winter,liga,2021
+Real Sociedad,Rafa Mir,24,Spain,Centre-Forward,CF,€16.00m,Wolves,England,€16.00m,in,summer,liga,2021
+Real Sociedad,Gonzalo Montiel,24,Argentina,Right-Back,RB,€17.00m,River Plate,Argentina,€11.00m,in,summer,liga,2021
+Real Sociedad,Thomas Delaney,29,Denmark,Defensive Midfield,DM,€9.00m,Bor. Dortmund,Germany,€6.00m,in,summer,liga,2021
+Real Sociedad,Ludwig Augustinsson,27,Sweden,Left-Back,LB,€7.50m,Werder Bremen,Germany,€5.50m,in,summer,liga,2021
+Real Sociedad,Erik Lamela,29,Argentina,Right Winger,RW,€20.00m,Spurs,England,free transfer,in,summer,liga,2021
+Real Sociedad,Marko Dmitrovic,29,Serbia,Goalkeeper,GK,€8.00m,SD Eibar,Spain,free transfer,in,summer,liga,2021
+Real Sociedad,Bryan Gil,20,Spain,Left Winger,LW,€30.00m,Spurs,England,€25.00m,out,summer,liga,2021
+Real Sociedad,Guilherme Arana,24,Brazil,Left-Back,LB,€8.00m,Atlético-MG,Brazil,€2.50m,out,summer,liga,2021
+Real Sociedad,Sergi Gómez,29,Spain,Centre-Back,CB,€2.00m,Espanyol,Spain,€1.00m,out,summer,liga,2021
+Real Sociedad,Franco Vázquez,32,Argentina,Attacking Midfield,AM,€4.00m,Parma,Italy,free transfer,out,summer,liga,2021
+Real Sociedad,Sergio Escudero,31,Spain,Left-Back,LB,€2.50m,Granada CF,Spain,free transfer,out,summer,liga,2021
+Real Sociedad,Aleix Vidal,31,Spain,Right-Back,RB,€2.00m,Espanyol,Spain,free transfer,out,summer,liga,2021
+Real Sociedad,José Alonso Lara,21,Spain,Left Winger,LW,€500Th.,Betis Deportivo,Spain,free transfer,out,summer,liga,2021
+Real Sociedad,Juan Soriano,23,Spain,Goalkeeper,GK,€1.00m,CD Tenerife,Spain,free transfer,out,summer,liga,2021
+Real Sociedad,Tomas Vaclik,32,Czech Republic,Goalkeeper,GK,€4.00m,Olympiacos,Greece,free transfer,out,summer,liga,2021
+Real Sociedad,Luuk de Jong,31,Netherlands,Centre-Forward,CF,€7.50m,Barcelona,Spain,loan transfer,out,summer,liga,2021
+Real Sociedad,Juan Berrocal,22,Spain,Centre-Back,CB,€1.00m,Sporting Gijón,Spain,loan transfer,out,summer,liga,2021
+Real Sociedad,Rony Lopes,25,Portugal,Right Winger,RW,€6.00m,Olympiacos,Greece,loan transfer,out,summer,liga,2021
+Real Sociedad,Alejandro Pozo,22,Spain,Right-Back,RB,€4.00m,UD Almería,Spain,loan transfer,out,summer,liga,2021
+Real Sociedad,Joris Gnagnon,24,France,Centre-Back,CB,€1.20m,Without Club,,-,out,summer,liga,2021
+Sevilla FC,Eduardo Camavinga,18,France,Central Midfield,CM,€55.00m,Stade Rennais,France,€31.00m,in,summer,liga,2021
+Sevilla FC,David Alaba,29,Austria,Centre-Back,CB,€55.00m,FC Bayern,Germany,free transfer,in,summer,liga,2021
+Sevilla FC,Raphaël Varane,28,France,Centre-Back,CB,€70.00m,Man Utd,England,€40.00m,out,summer,liga,2021
+Sevilla FC,Martin Ødegaard,22,Norway,Attacking Midfield,AM,€40.00m,Arsenal,England,€35.00m,out,summer,liga,2021
+Sevilla FC,Brahim Díaz,21,Spain,Attacking Midfield,AM,€23.00m,AC Milan,Italy,Loan fee:€3.00m,out,summer,liga,2021
+Sevilla FC,Sergio Ramos,35,Spain,Centre-Back,CB,€10.00m,Paris SG,France,free transfer,out,summer,liga,2021
+Sevilla FC,Takefusa Kubo,20,Japan,Right Winger,RW,€10.00m,RCD Mallorca,Spain,loan transfer,out,summer,liga,2021
+Sevilla FC,Álvaro Odriozola,25,Spain,Right-Back,RB,€10.00m,Fiorentina,Italy,loan transfer,out,summer,liga,2021
+Valencia CF,Enric Franquesa,24,Spain,Left-Back,LB,€800Th.,Villarreal,Spain,€750Th.,in,summer,liga,2021
+Valencia CF,Roberto Soldado,36,Spain,Centre-Forward,CF,€1.00m,Granada CF,Spain,€500Th.,in,summer,liga,2021
+Valencia CF,Roger Brugué,24,Spain,Right Winger,RW,€400Th.,Gimnàstic,Spain,free transfer,in,summer,liga,2021
+Valencia CF,Shkodran Mustafi,29,Germany,Centre-Back,CB,€2.50m,Without Club,,-,in,summer,liga,2021
+Valencia CF,Rubén Rochina,30,Spain,Right Winger,RW,€2.80m,Granada CF,Spain,free transfer,out,summer,liga,2021
+Valencia CF,Toño García,31,Spain,Left-Back,LB,€800Th.,SD Eibar,Spain,free transfer,out,summer,liga,2021
+Valencia CF,Cheick Doukouré,28,Cote d'Ivoire,Defensive Midfield,DM,€600Th.,CD Leganés,Spain,free transfer,out,summer,liga,2021
+Valencia CF,Arturo Molina,25,Spain,Attacking Midfield,AM,€300Th.,CF Fuenlabrada,Spain,free transfer,out,summer,liga,2021
+Valencia CF,Sergio León,32,Spain,Centre-Forward,CF,€1.20m,Real Valladolid,Spain,free transfer,out,summer,liga,2021
+Valencia CF,Roger Brugué,24,Spain,Right Winger,RW,€400Th.,CD Mirandés,Spain,loan transfer,out,summer,liga,2021
+Valencia CF,Koke Vegas,25,Spain,Goalkeeper,GK,€400Th.,Without Club,,-,out,summer,liga,2021
+Valencia CF,Hernâni,30,Portugal,Right Winger,RW,€1.00m,Without Club,,-,out,summer,liga,2021
+Villarreal CF,Alexander Sörloth,25,Norway,Centre-Forward,CF,€16.00m,RB Leipzig,Germany,Loan fee:€2.00m,in,summer,liga,2021
+Villarreal CF,Diego Rico,28,Spain,Left-Back,LB,€2.00m,Bournemouth,England,€500Th.,in,summer,liga,2021
+Villarreal CF,Mathew Ryan,29,Australia,Goalkeeper,GK,€6.00m,Brighton,England,?,in,summer,liga,2021
+Villarreal CF,Martín Merquelanz,26,Spain,Left Winger,LW,€2.00m,Rayo Vallecano,Spain,loan transfer,out,summer,liga,2021
+Villarreal CF,Kévin Rodrigues,27,Portugal,Left-Back,LB,€2.50m,Rayo Vallecano,Spain,loan transfer,out,summer,liga,2021
+Villarreal CF,Willian José,29,Brazil,Centre-Forward,CF,€18.00m,Real Betis,Spain,loan transfer,out,summer,liga,2021
+Villarreal CF,Jon Bautista,26,Spain,Centre-Forward,CF,€1.20m,CD Leganés,Spain,loan transfer,out,summer,liga,2021
+Villarreal CF,Modibo Sagnan,22,France,Centre-Back,CB,€3.00m,Tondela,Portugal,loan transfer,out,summer,liga,2021
+Villarreal CF,Miguel Ángel Moyá,37,Spain,Goalkeeper,GK,-,,,-,out,summer,liga,2021

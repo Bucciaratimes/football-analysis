@@ -1,0 +1,30 @@
+,minute,team,player,x,y,xG,result,shotType,assist
+0,1,Rayo Vallecano,Falcao,0.8719999694824219,0.5070000076293946,0.01932467147707939,MissedShots,Head,Álvaro García
+1,2,Rayo Vallecano,Óscar Trejo,0.49400001525878906,0.5109999847412109,0.009993222542107105,MissedShots,RightFoot,None
+2,19,Rayo Vallecano,Falcao,0.7580000305175781,0.4909999847412109,0.026280494406819344,BlockedShot,LeftFoot,Óscar Trejo
+3,29,Rayo Vallecano,Falcao,0.8969999694824219,0.415,0.11684063076972961,Goal,LeftFoot,Óscar Trejo
+4,33,Rayo Vallecano,Isi Palazón,0.7319999694824219,0.5420000076293945,0.022386861965060234,MissedShots,LeftFoot,None
+5,40,Rayo Vallecano,Álvaro García,0.9019999694824219,0.740999984741211,0.049601227045059204,MissedShots,LeftFoot,Fran García
+6,54,Rayo Vallecano,Óscar Trejo,0.8909999847412109,0.24700000762939453,0.03722932189702988,SavedShot,LeftFoot,Iván Balliu
+7,80,Rayo Vallecano,Álvaro García,0.8630000305175781,0.6530000305175782,0.06702207773923874,BlockedShot,RightFoot,Randy Nteka
+8,80,Rayo Vallecano,Isi Palazón,0.765,0.30700000762939456,0.02514568902552128,SavedShot,LeftFoot,Óscar Valentín
+9,84,Rayo Vallecano,Isi Palazón,0.8680000305175781,0.500999984741211,0.11562857776880264,BlockedShot,LeftFoot,Fran García
+10,88,Rayo Vallecano,Esteban Saveljich,0.955,0.500999984741211,0.1382158398628235,MissedShots,Head,Unai López
+11,94,Rayo Vallecano,Alejandro Catena,0.9419999694824219,0.49700000762939456,0.1332990527153015,MissedShots,Head,Unai López
+12,94,Rayo Vallecano,Randy Nteka,0.720999984741211,0.49400001525878906,0.02531396597623825,BlockedShot,LeftFoot,Mario Suárez
+13,8,Barcelona,Memphis Depay,0.870999984741211,0.6809999847412109,0.05493049696087837,MissedShots,RightFoot,Nico González
+14,25,Barcelona,Sergiño Dest,0.865999984741211,0.28,0.03219641372561455,MissedShots,LeftFoot,Nico González
+15,35,Barcelona,Sergiño Dest,0.9640000152587891,0.5029999923706054,0.7334249019622803,MissedShots,LeftFoot,Memphis Depay
+16,38,Barcelona,Nico González,0.799000015258789,0.40400001525878904,0.03576170280575752,BlockedShot,LeftFoot,Sergiño Dest
+17,38,Barcelona,Nico González,0.840999984741211,0.46,0.07285043597221375,BlockedShot,RightFoot,Sergi Roberto
+18,39,Barcelona,Philippe Coutinho,0.7069999694824218,0.6140000152587891,0.015959011390805244,BlockedShot,RightFoot,Sergio Busquets
+19,48,Barcelona,Nico González,0.855999984741211,0.6129999923706054,0.19784055650234222,MissedShots,LeftFoot,Jordi Alba
+20,54,Barcelona,Sergio Agüero,0.9430000305175781,0.3340000152587891,0.061220746487379074,MissedShots,RightFoot,Sergiño Dest
+21,58,Barcelona,Sergio Agüero,0.8969999694824219,0.3509999847412109,0.09498834609985352,BlockedShot,RightFoot,Nico González
+22,61,Barcelona,Philippe Coutinho,0.879000015258789,0.549000015258789,0.06963738054037094,MissedShots,RightFoot,Jordi Alba
+23,63,Barcelona,Philippe Coutinho,0.8269999694824218,0.3,0.03125593066215515,BlockedShot,RightFoot,Sergiño Dest
+24,71,Barcelona,Memphis Depay,0.885,0.5,0.7432776093482971,SavedShot,RightFoot,None
+25,90,Barcelona,Yusuf Demir,0.8930000305175781,0.40200000762939453,0.03915362432599068,BlockedShot,LeftFoot,None
+26,91,Barcelona,Luuk de Jong,0.89,0.165,0.017892340198159218,MissedShots,RightFoot,Sergio Busquets
+27,96,Barcelona,Sergio Agüero,0.9630000305175781,0.42200000762939455,0.328860342502594,MissedShots,Head,Sergiño Dest
+28,97,Barcelona,Gavi,0.8959999847412109,0.500999984741211,0.32806313037872314,MissedShots,RightFoot,Sergio Agüero

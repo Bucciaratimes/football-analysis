@@ -1,0 +1,17 @@
+,Player,#,Nation,Pos,Age,Min,Touches_Touches,Def Pen_Touches,Def 3rd_Touches,Mid 3rd_Touches,Att 3rd_Touches,Att Pen_Touches,Live_Touches,Succ_Dribbles,Att_Dribbles,Succ%_Dribbles,#Pl_Dribbles,Megs_Dribbles,Carries_Carries,TotDist_Carries,PrgDist_Carries,Prog_Carries,1/3_Carries,CPA_Carries,Mis_Carries,Dis_Carries,Targ_Receiving,Rec_Receiving,Rec%_Receiving,Prog_Receiving
+0,Antoine Griezmann,7.0,fr  FRA,FW,29-245,82,31,2,2,11,18,5,30,1,2,50.0,1,0,20,45,10,0,0,0,3,0,41,26,63.4,3
+1,Francisco Trincão,17.0,pt  POR,"RM,FW",20-328,8,3,0,0,0,3,0,3,0,0,,0,0,2,16,10,1,0,0,0,0,6,3,50.0,0
+2,Pedri,16.0,es  ESP,LW,17-362,56,30,0,3,13,15,3,29,0,2,0.0,0,0,26,121,52,4,1,0,3,1,29,26,89.7,5
+3,Philippe Coutinho,14.0,br  BRA,"LW,CM",28-162,34,23,0,4,10,10,1,20,1,1,100.0,1,0,18,111,74,2,0,1,0,1,20,18,90.0,2
+4,Ousmane Dembélé,11.0,fr  FRA,"RW,LM",23-190,90,64,0,8,17,44,5,64,4,6,66.7,4,0,46,201,117,11,2,2,1,2,54,44,81.5,7
+5,Lionel Messi,10.0,ar  ARG,"AM,CM",33-150,90,65,0,0,29,41,3,59,5,8,62.5,5,0,57,283,183,14,4,1,1,2,64,57,89.1,7
+6,Frenkie de Jong,21.0,nl  NED,"DM,CB",23-193,90,87,5,23,55,20,0,87,0,0,,0,0,69,465,278,10,4,0,0,2,72,69,95.8,2
+7,Miralem Pjanić,8.0,ba  BIH,DM,30-233,82,80,3,17,46,21,1,75,0,0,,0,0,50,224,101,2,1,0,0,0,63,61,96.8,1
+8,Martin Braithwaite,9.0,dk  DEN,"FW,DM",29-169,8,2,0,0,0,2,1,2,0,0,,0,0,2,12,11,1,0,0,0,0,3,1,33.3,1
+9,Jordi Alba,18.0,es  ESP,LB,31-245,90,92,4,25,41,31,1,84,0,1,0.0,0,0,56,243,155,6,1,0,1,0,75,70,93.3,2
+10,Clément Lenglet,15.0,fr  FRA,CB,25-157,90,80,13,32,45,5,2,80,0,0,,0,0,51,315,165,7,1,0,1,0,57,56,98.2,0
+11,Gerard Piqué,3.0,es  ESP,CB,33-293,61,66,7,22,47,0,0,62,0,0,,0,0,38,187,86,2,0,0,0,0,47,46,97.9,0
+12,Sergiño Dest,2.0,us  USA,RB,20-018,29,19,0,3,11,10,0,18,0,0,,0,0,15,67,40,3,4,0,0,1,17,14,82.4,0
+13,Sergi Roberto,20.0,es  ESP,"RB,DM",28-288,90,93,4,14,65,22,2,91,0,0,,0,0,64,361,242,13,4,1,0,0,72,69,95.8,2
+14,Marc-André ter Stegen,1.0,de  GER,GK,28-205,90,25,22,24,1,0,0,18,0,0,,0,0,10,52,32,0,0,0,0,0,13,12,92.3,0
+15,15 Players,,,,,990,760,60,177,391,242,24,722,11,20,55.0,11,0,524,2703,1556,76,22,5,10,9,633,572,90.4,32

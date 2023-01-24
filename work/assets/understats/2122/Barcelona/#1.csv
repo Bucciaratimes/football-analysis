@@ -1,0 +1,25 @@
+,minute,team,player,x,y,xG,result,shotType,assist
+0,0,Barcelona,Martin Braithwaite,0.8719999694824219,0.30100000381469727,0.03314667195081711,SavedShot,RightFoot,Memphis Depay
+1,1,Barcelona,Antoine Griezmann,0.7480000305175781,0.3920000076293945,0.023612288758158684,MissedShots,LeftFoot,Frenkie de Jong
+2,9,Barcelona,Antoine Griezmann,0.905,0.504000015258789,0.07474099099636078,MissedShots,LeftFoot,Jordi Alba
+3,11,Barcelona,Martin Braithwaite,0.9480000305175781,0.44799999237060545,0.0690598338842392,BlockedShot,Head,Memphis Depay
+4,11,Barcelona,Antoine Griezmann,0.9640000152587891,0.41900001525878905,0.10595345497131348,ShotOnPost,Head,Memphis Depay
+5,18,Barcelona,Gerard Piqué,0.9119999694824219,0.4929999923706055,0.2780325412750244,Goal,Head,Memphis Depay
+6,24,Barcelona,Memphis Depay,0.9519999694824218,0.5029999923706054,0.6747970581054688,SavedShot,RightFoot,Martin Braithwaite
+7,27,Barcelona,Memphis Depay,0.63,0.39099998474121095,0.01719011552631855,SavedShot,RightFoot,Eric Garcia
+8,46,Barcelona,Martin Braithwaite,0.9369999694824219,0.580999984741211,0.3162813186645508,Goal,Head,Frenkie de Jong
+9,49,Barcelona,Jordi Alba,0.8690000152587891,0.5459999847412109,0.32021477818489075,ShotOnPost,LeftFoot,Frenkie de Jong
+10,58,Barcelona,Martin Braithwaite,0.9119999694824219,0.5129999923706055,0.5660626888275146,Goal,RightFoot,None
+11,72,Barcelona,Pedri,0.875999984741211,0.6020000076293945,0.1202717050909996,SavedShot,RightFoot,Sergi Roberto
+12,90,Barcelona,Sergi Roberto,0.9640000152587891,0.5259999847412109,0.8654761910438538,Goal,LeftFoot,Martin Braithwaite
+13,29,Real Sociedad,Portu,0.9030000305175782,0.3029999923706055,0.05275523662567139,BlockedShot,RightFoot,David Silva
+14,40,Real Sociedad,Aihen Muñoz,0.965,0.68,0.050989046692848206,BlockedShot,LeftFoot,Mikel Oyarzabal
+15,45,Real Sociedad,Aihen Muñoz,0.6869999694824219,0.5729999923706055,0.012127669528126717,MissedShots,LeftFoot,None
+16,50,Real Sociedad,Mikel Oyarzabal,0.8580000305175781,0.534000015258789,0.14072926342487335,BlockedShot,LeftFoot,Mikel Merino
+17,52,Real Sociedad,Mikel Oyarzabal,0.8569999694824219,0.33,0.06408047676086426,MissedShots,LeftFoot,None
+18,53,Real Sociedad,Jon Bautista,0.8590000152587891,0.5420000076293945,0.04627373069524765,MissedShots,LeftFoot,Aihen Muñoz
+19,65,Real Sociedad,Mikel Merino,0.71,0.529000015258789,0.013355409726500511,SavedShot,LeftFoot,Martín Zubimendi
+20,65,Real Sociedad,Ander Barrenetxea,0.8830000305175781,0.2560000038146973,0.026208767667412758,MissedShots,LeftFoot,None
+21,81,Real Sociedad,Julen Lobete,0.9180000305175782,0.5579999923706055,0.38681790232658386,Goal,LeftFoot,Ander Barrenetxea
+22,84,Real Sociedad,Mikel Oyarzabal,0.7480000305175781,0.545,0.07038810104131699,Goal,LeftFoot,None
+23,93,Real Sociedad,Ander Barrenetxea,0.8590000152587891,0.675,0.0385868065059185,MissedShots,LeftFoot,None

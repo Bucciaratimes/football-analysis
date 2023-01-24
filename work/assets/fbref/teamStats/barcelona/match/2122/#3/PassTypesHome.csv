@@ -1,0 +1,17 @@
+,Player,#,Nation,Pos,Age,Min,Att,Live_Pass Types,Dead_Pass Types,FK_Pass Types,TB_Pass Types,Press_Pass Types,Sw_Pass Types,Crs_Pass Types,CK_Pass Types,In_Corner Kicks,Out_Corner Kicks,Str_Corner Kicks,Ground_Height,Low_Height,High_Height,Left_Body Parts,Right_Body Parts,Head_Body Parts,TI_Body Parts,Other_Body Parts,Cmp_Outcomes,Off_Outcomes,Out_Outcomes,Int_Outcomes,Blocks_Outcomes
+0,Memphis Depay,9.0,nl  NED,"FW,LW",27-197,90,36,29,7,2,0,9,1,0,3,2,0,0,30,2,4,1,35,0,0,0,26,1,1,3,1
+1,Martin Braithwaite,12.0,dk  DEN,"LW,FW",30-085,73,14,14,0,0,0,5,1,0,0,0,0,0,9,3,2,3,9,0,0,1,9,0,0,1,1
+2,Nicolás González,28.0,es  ESP,CM,19-238,17,17,15,2,1,0,2,1,0,0,0,0,0,12,4,1,1,13,2,1,0,14,0,0,0,0
+3,Antoine Griezmann,7.0,fr  FRA,RW,30-161,83,30,30,0,0,0,14,1,0,0,0,0,0,19,7,4,23,3,2,0,0,25,0,0,1,0
+4,Óscar Mingueza,29.0,es  ESP,"RB,RW",22-108,7,6,6,0,0,0,2,0,0,0,0,0,0,4,1,1,1,4,1,0,0,4,0,0,0,1
+5,Frenkie de Jong,21.0,nl  NED,CM,24-109,90,78,75,3,2,1,22,2,0,0,0,0,0,65,7,6,8,68,0,1,1,75,0,0,1,2
+6,Sergi Roberto,20.0,es  ESP,CM,29-203,73,50,46,4,4,0,11,1,0,0,0,0,0,43,3,4,11,36,3,0,0,46,0,1,0,1
+7,Gavi Paez,30.0,es  ESP,FW,17-024,17,14,14,0,0,0,4,0,0,0,0,0,0,12,0,2,3,9,0,0,0,11,0,0,1,0
+8,Sergio Busquets,5.0,es  ESP,DM,33-044,90,89,84,5,5,0,22,3,0,0,0,0,0,75,5,9,11,76,1,0,0,78,0,0,5,0
+9,Jordi Alba,18.0,es  ESP,LB,32-161,90,78,69,9,1,0,12,3,4,0,0,0,0,52,15,11,55,12,3,8,0,64,1,0,3,3
+10,Clément Lenglet,15.0,fr  FRA,CB,26-073,90,101,99,2,2,1,17,1,0,0,0,0,0,89,6,6,91,6,1,0,0,91,0,0,4,2
+11,Ronald Araújo,4.0,uy  URU,CB,22-175,90,87,84,3,3,0,8,0,0,0,0,0,0,79,1,7,9,75,2,0,0,81,1,1,1,0
+12,Emerson,22.0,br  BRA,RB,22-227,62,48,40,8,0,0,7,0,1,0,0,0,0,35,10,3,3,36,0,8,1,41,0,0,4,2
+13,Sergiño Dest,2.0,us  USA,"RB,RW",20-299,28,21,17,4,0,0,1,1,2,0,0,0,0,13,4,4,2,14,1,4,0,19,0,1,0,0
+14,Marc-André ter Stegen,1.0,de  GER,GK,29-121,90,47,37,10,3,0,6,1,0,0,0,0,0,26,1,20,9,36,0,0,2,33,0,0,1,1
+15,15 Players,,,,,990,716,659,57,23,2,142,16,7,3,2,0,0,563,69,84,231,432,16,22,5,617,3,4,25,14

@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,Sandro Ramírez,12.0,es  ESP,FW,26-051,60,0,0,0,0,0,0,0,,0,19,6,31.6,0,8,11,1,0,0,1,1,1,0,0
+1,Jaime Mata,7.0,es  ESP,FW,32-309,30,0,0,0,0,0,0,0,,0,10,2,20.0,0,8,2,0,0,0,0,0,0,0,0
+2,Enes Ünal,10.0,tr  TUR,FW,24-111,75,2,1,0,2,0,1,3,33.3,2,40,11,27.5,3,25,12,1,0,0,1,0,2,1,0
+3,José Juan Macías,9.0,mx  MEX,FW,21-341,15,0,0,0,0,0,0,0,,0,5,1,20.0,0,2,3,0,0,0,0,0,0,0,0
+4,Jakub Jankto,16.0,cz  CZE,LM,25-222,90,2,1,1,1,0,2,2,100.0,0,22,4,18.2,6,10,6,1,0,0,1,2,4,0,0
+5,Carles Aleñá,11.0,es  ESP,RM,23-236,60,0,0,0,0,0,0,2,0.0,2,22,3,13.6,4,14,4,1,0,0,1,1,1,0,0
+6,David Timor,24.0,es  ESP,RM,31-316,30,0,0,0,0,0,0,0,,0,6,0,0.0,1,4,1,0,0,0,0,1,1,0,0
+7,Mauro Arambarri,18.0,uy  URU,DM,25-333,90,6,3,1,3,2,4,7,57.1,3,37,13,35.1,9,23,5,0,0,0,0,3,9,1,0
+8,Nemanja Maksimović,20.0,rs  SRB,DM,26-215,90,3,2,1,2,0,1,2,50.0,1,23,9,39.1,2,16,5,5,1,0,4,3,6,0,0
+9,Mathías Olivera,17.0,uy  URU,LB,23-302,90,2,2,1,0,1,1,2,50.0,1,25,8,32.0,6,15,4,3,0,0,3,0,2,1,0
+10,Stefan Mitrović,23.0,rs  SRB,CB,31-099,90,1,1,0,1,0,0,0,,0,10,4,40.0,4,5,1,0,0,0,0,6,7,2,0
+11,Djené,2.0,tg  TOG,CB,29-241,83,2,2,1,1,0,0,0,,0,8,4,50.0,4,4,0,2,1,0,1,4,6,2,0
+12,Emmanuel Amankwaa Akurugu,28.0,gh  GHA,CB,19-282,7,0,0,0,0,0,0,0,,0,1,0,0.0,1,0,0,0,0,0,0,0,0,0,0
+13,Iglesias,21.0,es  ESP,RB,23-057,45,1,1,1,0,0,1,3,33.3,2,12,6,50.0,4,6,2,2,0,0,2,2,3,1,0
+14,Damián Suárez,22.0,uy  URU,RB,33-124,45,2,2,1,1,0,1,1,100.0,0,7,3,42.9,4,3,0,0,0,0,0,4,6,1,0
+15,David Soria,13.0,es  ESP,GK,28-147,90,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+16,16 Players,,,,,990,21,15,7,11,3,11,22,50.0,11,247,74,30.0,48,143,56,16,2,0,14,27,48,9,0

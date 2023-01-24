@@ -1,0 +1,16 @@
+,Player,#,Nation,Pos,Age,Min,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,Kenan Kodro,3.0,ba  BIH,FW,27-229,84,0,0,0,0,0,0,0,,0,6,0,0.0,2,0,4,0,0,0,0,2,2,1,0
+1,Waldo Rubio,23.0,es  ESP,FW,25-231,6,1,0,0,1,0,0,0,,0,4,0,0.0,0,2,2,1,0,0,1,0,1,0,0
+2,Sergi Guardiola,7.0,es  ESP,FW,29-311,76,0,0,0,0,0,0,1,0.0,1,26,5,19.2,9,7,10,1,0,0,1,2,2,1,0
+3,Maranhão,16.0,br  BRA,FW,24-167,14,0,0,0,0,0,0,0,,0,1,0,0.0,0,1,0,0,0,0,0,0,0,0,0
+4,Rubén Alcaraz,14.0,es  ESP,CM,29-339,90,2,1,2,0,0,1,6,16.7,5,37,10,27.0,30,7,0,2,0,0,2,1,3,0,0
+5,Roque Mesa,17.0,es  ESP,CM,31-302,90,2,2,2,0,0,0,2,0.0,2,14,7,50.0,10,4,0,0,0,0,0,3,5,0,0
+6,Óscar Plano,10.0,es  ESP,DM,30-053,78,3,1,1,1,1,3,4,75.0,1,23,7,30.4,11,6,6,4,2,0,2,3,6,1,0
+7,Nacho,22.0,es  ESP,WB,32-029,90,4,2,4,0,0,3,4,75.0,1,26,5,19.2,17,4,5,1,0,0,1,2,6,1,0
+8,Saidy Janko,18.0,ch  SUI,WB,25-165,64,0,0,0,0,0,0,0,,0,7,2,28.6,2,2,3,2,0,0,2,3,3,1,0
+9,Pablo Hervías,11.0,es  ESP,WB,28-028,26,0,0,0,0,0,0,0,,0,5,3,60.0,5,0,0,2,0,0,2,2,2,1,0
+10,Lucas Olaza,25.0,uy  URU,CB,26-258,90,1,0,1,0,0,1,2,50.0,1,7,2,28.6,5,1,1,2,2,0,0,3,4,1,0
+11,Javi Sánchez,5.0,es  ESP,CB,24-022,90,3,2,3,0,0,1,1,100.0,0,13,9,69.2,12,1,0,1,0,0,1,4,7,6,0
+12,Bruno González,6.0,es  ESP,CB,30-316,90,2,0,1,1,0,0,1,0.0,1,16,2,12.5,12,3,1,2,2,0,0,2,4,6,0
+13,Jordi Masip,1.0,es  ESP,GK,32-092,90,0,0,0,0,0,0,0,,0,2,0,0.0,2,0,0,1,0,0,1,0,0,0,0
+14,14 Players,,,,,978,18,8,14,3,1,9,21,42.9,12,187,52,27.8,117,38,32,19,6,0,13,27,45,19,0

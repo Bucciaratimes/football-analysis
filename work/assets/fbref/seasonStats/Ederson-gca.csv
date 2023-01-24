@@ -1,0 +1,19 @@
+,Season,Age,Squad,Country,Comp,LgRank,90s,Att,Live_Pass Types,Dead_Pass Types,FK_Pass Types,TB_Pass Types,Press_Pass Types,Sw_Pass Types,Crs_Pass Types,CK_Pass Types,In_Corner Kicks,Out_Corner Kicks,Str_Corner Kicks,Ground_Height,Low_Height,High_Height,Left_Body Parts,Right_Body Parts,Head_Body Parts,TI_Body Parts,Other_Body Parts,Cmp_Outcomes,Off_Outcomes,Out_Outcomes,Int_Outcomes,Blocks_Outcomes
+0,2012-2013,18,Rio Ave,pt  POR,1.  Primeira Liga,6th,2.0,,,,,,,,,,,,,,,,,,,,,,,,,
+1,2013-2014,19,Rio Ave,pt  POR,1.  Primeira Liga,11th,17.7,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2014-2015,20,Rio Ave,pt  POR,1.  Primeira Liga,10th,17.0,,,,,,,,,,,,,,,,,,,,,,,,,
+3,2015-2016,21,Benfica,pt  POR,1.  Primeira Liga,1st,9.9,,,,,,,,,,,,,,,,,,,,,,,,,
+4,2016-2017,22,Benfica,pt  POR,1.  Primeira Liga,1st,26.5,,,,,,,,0,,,,,,,,,,,,,,,,,
+5,2017-2018,23,Manchester City,eng  ENG,1.  Premier League,1st,35.5,1101,877,224,63,0,80,36,0,0,0,0,0,792,57,252,759,149,3,1,157,961,5,27,7,0
+6,2018-2019,24,Manchester City,eng  ENG,1.  Premier League,1st,38.0,1099,857,242,55,2,104,46,0,0,0,0,0,798,54,247,701,192,1,0,177,942,4,19,1,3
+7,2019-2020,25,Manchester City,eng  ENG,1.  Premier League,2nd,34.1,1063,878,185,45,1,116,38,0,0,0,0,0,790,59,214,738,142,3,1,161,927,3,17,4,1
+8,2020-2021,26,Manchester City,eng  ENG,1.  Premier League,1st,36.0,1090,872,218,60,1,80,30,0,0,0,0,0,765,44,281,770,156,2,0,148,906,2,18,9,2
+9,2021-2022,27,Manchester City,eng  ENG,1.  Premier League,2nd,13.0,374,309,65,15,1,29,9,0,0,0,0,0,278,15,81,237,70,0,0,63,335,0,8,1,1
+10,10 Seasons,10 Seasons,3 Clubs,,2 Leagues,,229.7,4727,3793,934,238,5,409,159,0,0,0,0,0,3423,229,1075,3205,709,9,2,706,4071,14,89,22,7
+11,,,,Country,Comp,LgRank,90s,Att,Live,Dead,FK,TB,Press,Sw,Crs,CK,In,Out,Str,Ground,Low,High,Left,Right,Head,TI,Other,Cmp,Off,Out,Int,Blocks
+12,Manchester City (5 Seasons),Manchester City (5 Seasons),Manchester City (5 Seasons),,1 League,,156.6,4727,3793,934,238,5,409,159,0,0,0,0,0,3423,229,1075,3205,709,9,2,706,4071,14,89,22,7
+13,Rio Ave (3 Seasons),Rio Ave (3 Seasons),Rio Ave (3 Seasons),,1 League,,36.7,,,,,,,,,,,,,,,,,,,,,,,,,
+14,Benfica (2 Seasons),Benfica (2 Seasons),Benfica (2 Seasons),,1 League,,36.3,,,,,,,,0,,,,,,,,,,,,,,,,,
+15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,Premier League (5 Seasons),Premier League (5 Seasons),Premier League (5 Seasons),,,,156.6,4727,3793,934,238,5,409,159,0,0,0,0,0,3423,229,1075,3205,709,9,2,706,4071,14,89,22,7
+17,Primeira Liga (5 Seasons),Primeira Liga (5 Seasons),Primeira Liga (5 Seasons),,,,73.1,,,,,,,,0,,,,,,,,,,,,,,,,,

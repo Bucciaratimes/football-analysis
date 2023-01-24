@@ -1,0 +1,16 @@
+,minute,team,player,x,y,xG,result,shotType,assist
+0,7,Atletico Madrid,Thomas Lemar,0.794000015258789,0.34400001525878904,0.02628995291888714,MissedShots,LeftFoot,Marcos Llorente
+1,16,Atletico Madrid,João Félix,0.8330000305175781,0.5670000076293945,0.06186438351869583,MissedShots,RightFoot,Thomas Lemar
+2,22,Atletico Madrid,Thomas Lemar,0.8969999694824219,0.6519999694824219,0.2750013470649719,Goal,LeftFoot,Luis Suárez
+3,27,Atletico Madrid,Luis Suárez,0.904000015258789,0.57,0.4329664707183838,MissedShots,RightFoot,João Félix
+4,43,Atletico Madrid,Luis Suárez,0.905,0.45,0.48274070024490356,Goal,RightFoot,Thomas Lemar
+5,65,Atletico Madrid,João Félix,0.8230000305175781,0.5479999923706055,0.09525714814662933,SavedShot,RightFoot,None
+6,2,Barcelona,Philippe Coutinho,0.8130000305175781,0.5820000076293945,0.049139026552438736,BlockedShot,RightFoot,Sergiño Dest
+7,18,Barcelona,Nico González,0.745,0.5990000152587891,0.02110346034169197,BlockedShot,RightFoot,Sergiño Dest
+8,26,Barcelona,Philippe Coutinho,0.8319999694824218,0.4590000152587891,0.05512480437755585,MissedShots,RightFoot,None
+9,46,Barcelona,Óscar Mingueza,0.9490000152587891,0.500999984741211,0.0757528766989708,MissedShots,Head,None
+10,51,Barcelona,Philippe Coutinho,0.7319999694824219,0.685,0.012110265903174877,BlockedShot,RightFoot,Memphis Depay
+11,59,Barcelona,Philippe Coutinho,0.874000015258789,0.6170000076293946,0.3579702377319336,SavedShot,RightFoot,Gavi
+12,69,Barcelona,Anssumane Fati,0.7880000305175782,0.37400001525878906,0.09156810492277145,MissedShots,RightFoot,None
+13,70,Barcelona,Anssumane Fati,0.769000015258789,0.605,0.0232637170702219,SavedShot,RightFoot,Memphis Depay
+14,84,Barcelona,Memphis Depay,0.7430000305175781,0.40099998474121096,0.061427608132362366,MissedShots,RightFoot,None

@@ -1,0 +1,23 @@
+,minute,team,player,x,y,xG,result,shotType,assist
+0,24,Barcelona,Sergiño Dest,0.895,0.455,0.4260721504688263,MissedShots,RightFoot,Anssumane Fati
+1,30,Barcelona,Memphis Depay,0.74,0.745999984741211,0.01779298670589924,MissedShots,RightFoot,Frenkie de Jong
+2,34,Barcelona,Gerard Piqué,0.91,0.45,0.07652434706687927,MissedShots,Head,Memphis Depay
+3,36,Barcelona,Eric Garcia,0.7469999694824219,0.40700000762939453,0.02168002910912037,BlockedShot,RightFoot,Sergio Busquets
+4,37,Barcelona,Gerard Piqué,0.904000015258789,0.4829999923706055,0.0805988535284996,MissedShots,Head,Memphis Depay
+5,43,Barcelona,Anssumane Fati,0.9169999694824219,0.5970000076293945,0.10743740946054459,BlockedShot,RightFoot,Jordi Alba
+6,47,Barcelona,Philippe Coutinho,0.8859999847412109,0.6120000076293945,0.0844561830163002,BlockedShot,LeftFoot,Memphis Depay
+7,48,Barcelona,Anssumane Fati,0.904000015258789,0.5659999847412109,0.07653839886188507,SavedShot,LeftFoot,Jordi Alba
+8,55,Barcelona,Anssumane Fati,0.8009999847412109,0.615,0.03365175053477287,BlockedShot,RightFoot,Memphis Depay
+9,72,Barcelona,Sergiño Dest,0.8369999694824218,0.27799999237060546,0.026975393295288086,MissedShots,LeftFoot,None
+10,83,Barcelona,Sergio Agüero,0.9469999694824218,0.4620000076293945,0.06807034462690353,MissedShots,Head,Memphis Depay
+11,96,Barcelona,Sergio Agüero,0.9580000305175781,0.47200000762939454,0.5680930018424988,Goal,RightFoot,Sergiño Dest
+12,13,Real Madrid,Casemiro,0.9219999694824219,0.52,0.0537300668656826,MissedShots,Head,Toni Kroos
+13,31,Real Madrid,David Alaba,0.855999984741211,0.72,0.05189882591366768,Goal,LeftFoot,Rodrygo
+14,37,Real Madrid,Toni Kroos,0.8980000305175782,0.4229999923706055,0.1377708613872528,BlockedShot,RightFoot,Karim Benzema
+15,54,Real Madrid,Ferland Mendy,0.7819999694824219,0.6419999694824219,0.037453021854162216,SavedShot,RightFoot,Vinícius Júnior
+16,54,Real Madrid,Rodrygo,0.874000015258789,0.6880000305175781,0.06540067493915558,MissedShots,RightFoot,Toni Kroos
+17,61,Real Madrid,Luka Modric,0.825,0.3320000076293945,0.049891844391822815,BlockedShot,LeftFoot,Rodrygo
+18,61,Real Madrid,Karim Benzema,0.8959999847412109,0.5670000076293945,0.3315390348434448,SavedShot,RightFoot,Luka Modric
+19,71,Real Madrid,Federico Valverde,0.9669999694824218,0.36200000762939455,0.09491848200559616,MissedShots,RightFoot,Karim Benzema
+20,92,Real Madrid,Marco Asensio,0.9269999694824219,0.6859999847412109,0.08798253536224365,SavedShot,LeftFoot,Lucas Vázquez
+21,92,Real Madrid,Lucas Vázquez,0.955,0.46799999237060547,0.6970416307449341,Goal,RightFoot,None

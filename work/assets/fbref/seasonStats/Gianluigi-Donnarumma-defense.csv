@@ -1,0 +1,15 @@
+,Season,Age,Squad,Country,Comp,LgRank,90s,Att,Live_Pass Types,Dead_Pass Types,FK_Pass Types,TB_Pass Types,Press_Pass Types,Sw_Pass Types,Crs_Pass Types,CK_Pass Types,In_Corner Kicks,Out_Corner Kicks,Str_Corner Kicks,Ground_Height,Low_Height,High_Height,Left_Body Parts,Right_Body Parts,Head_Body Parts,TI_Body Parts,Other_Body Parts,Cmp_Outcomes,Off_Outcomes,Out_Outcomes,Int_Outcomes,Blocks_Outcomes
+0,2015-2016,16,Milan,it  ITA,1.  Serie A,7th,29.2,,,,,,,,,,,,,,,,,,,,,,,,,
+1,2016-2017,17,Milan,it  ITA,1.  Serie A,6th,38.0,,,,,,,,0,,,,,,,,,,,,,,,,,
+2,2017-2018,18,Milan,it  ITA,1.  Serie A,6th,38.0,1086,817,269,75,0,119,27,0,0,0,0,0,599,70,417,121,803,1,0,136,851,2,17,3,0
+3,2018-2019,19,Milan,it  ITA,1.  Serie A,5th,34.4,1161,802,359,66,0,90,20,0,0,0,0,0,719,57,385,91,846,0,1,195,958,0,24,6,1
+4,2019-2020,20,Milan,it  ITA,1.  Serie A,6th,35.6,1142,791,351,91,1,95,24,0,0,0,0,0,578,81,483,140,803,1,0,173,873,2,25,4,2
+5,2020-2021,21,Milan,it  ITA,1.  Serie A,2nd,37.0,1245,962,283,64,0,96,16,0,0,0,0,0,740,41,464,157,901,1,0,142,977,4,23,2,1
+6,2021-2022,22,Paris S-G,fr  FRA,1.  Ligue 1,1st,7.0,185,141,44,4,0,13,1,0,0,0,0,0,158,9,18,28,111,1,0,44,173,0,1,4,0
+7,8 Seasons,8 Seasons,2 Clubs,,2 Leagues,,219.1,4819,3513,1306,300,1,413,88,0,0,0,0,0,2794,258,1767,537,3464,4,1,690,3832,8,90,19,4
+8,,,,Country,Comp,LgRank,90s,Att,Live,Dead,FK,TB,Press,Sw,Crs,CK,In,Out,Str,Ground,Low,High,Left,Right,Head,TI,Other,Cmp,Off,Out,Int,Blocks
+9,Milan (7 Seasons),Milan (7 Seasons),Milan (7 Seasons),,1 League,,212.1,4634,3372,1262,296,1,400,87,0,0,0,0,0,2636,249,1749,509,3353,3,1,646,3659,8,89,15,4
+10,Paris S-G (1 Season),Paris S-G (1 Season),Paris S-G (1 Season),,1 League,,7.0,185,141,44,4,0,13,1,0,0,0,0,0,158,9,18,28,111,1,0,44,173,0,1,4,0
+11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,Serie A (7 Seasons),Serie A (7 Seasons),Serie A (7 Seasons),,,,212.1,4634,3372,1262,296,1,400,87,0,0,0,0,0,2636,249,1749,509,3353,3,1,646,3659,8,89,15,4
+13,Ligue 1 (1 Season),Ligue 1 (1 Season),Ligue 1 (1 Season),,,,7.0,185,141,44,4,0,13,1,0,0,0,0,0,158,9,18,28,111,1,0,44,173,0,1,4,0

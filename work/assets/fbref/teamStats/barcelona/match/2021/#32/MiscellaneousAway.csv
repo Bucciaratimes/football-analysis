@@ -1,0 +1,17 @@
+,Player,#,Nation,Pos,Age,Min,CrdY_Performance,CrdR_Performance,2CrdY_Performance,Fls_Performance,Fld_Performance,Off_Performance,Crs_Performance,Int_Performance,TklW_Performance,PKwon_Performance,PKcon_Performance,OG_Performance,Recov_Performance,Won_Aerial Duels,Lost_Aerial Duels,Won%_Aerial Duels
+0,Antoine Griezmann,7.0,fr  FRA,FW,30-035,79,1,0,0,1,1,0,0,1,1,0,0,0,2,0,0,
+1,Ousmane Dembélé,11.0,fr  FRA,FW,23-345,11,0,0,0,0,0,2,1,0,0,0,0,0,1,0,0,
+2,Lionel Messi,10.0,ar  ARG,FW,33-305,90,0,0,0,0,7,0,0,0,1,0,0,0,7,0,0,
+3,Pedri,16.0,es  ESP,CM,18-151,63,0,0,0,0,0,0,0,3,1,0,0,0,7,0,0,
+4,Ilaix,27.0,es  ESP,CM,18-096,27,0,0,0,2,2,0,0,3,0,0,0,0,2,1,0,100.0
+5,Frenkie de Jong,21.0,nl  NED,"CM,DM",23-348,90,0,0,0,0,1,1,0,0,1,0,0,0,8,0,1,0.0
+6,Sergio Busquets,5.0,es  ESP,DM,32-283,87,1,0,0,3,1,0,0,1,3,0,0,0,9,0,1,0.0
+7,Ronald Araújo,4.0,uy  URU,CB,22-049,3,0,0,0,0,0,0,0,0,1,0,0,0,1,2,0,100.0
+8,Jordi Alba,18.0,es  ESP,WB,32-035,90,0,0,0,1,0,2,5,3,0,0,0,0,6,1,0,100.0
+9,Sergiño Dest,2.0,us  USA,WB,20-173,45,0,0,0,2,0,1,0,0,0,0,0,0,2,0,0,
+10,Sergi Roberto,20.0,es  ESP,"WB,CM",29-077,45,0,0,0,0,0,0,2,0,0,0,0,0,5,1,0,100.0
+11,Clément Lenglet,15.0,fr  FRA,CB,25-312,90,0,0,0,2,3,0,1,6,1,0,0,0,2,0,0,
+12,Gerard Piqué,3.0,es  ESP,CB,34-082,90,0,0,0,0,0,0,0,0,0,0,0,0,10,7,1,87.5
+13,Óscar Mingueza,28.0,es  ESP,"CB,WB",21-347,90,1,0,0,0,0,0,0,1,2,0,0,0,7,0,1,0.0
+14,Marc-André ter Stegen,1.0,de  GER,GK,28-360,90,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+15,15 Players,,,,,990,3,0,0,11,15,6,9,18,11,0,0,0,70,12,4,75.0

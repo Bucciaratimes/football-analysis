@@ -1,0 +1,22 @@
+,minute,team,player,x,y,xG,result,shotType,assist
+0,12,Barcelona,Ferrán Torres,0.91,0.4809999847412109,0.08072462677955627,BlockedShot,LeftFoot,Pierre-Emerick Aubameyang
+1,12,Barcelona,Ronald Araújo,0.8669999694824219,0.47,0.08022822439670563,SavedShot,RightFoot,None
+2,24,Barcelona,Jordi Alba,0.7780000305175782,0.6630000305175782,0.0198101457208395,ShotOnPost,RightFoot,None
+3,30,Barcelona,Jordi Alba,0.8669999694824219,0.69,0.04328451305627823,MissedShots,LeftFoot,Ferrán Torres
+4,33,Barcelona,Ousmane Dembélé,0.7280000305175781,0.28100000381469725,0.01111910305917263,MissedShots,LeftFoot,Frenkie de Jong
+5,33,Barcelona,Pierre-Emerick Aubameyang,0.94,0.45799999237060546,0.12364386767148972,BlockedShot,RightFoot,Ousmane Dembélé
+6,41,Barcelona,Gavi,0.895,0.534000015258789,0.08851879835128784,ShotOnPost,RightFoot,None
+7,45,Barcelona,Ousmane Dembélé,0.8069999694824219,0.48700000762939455,0.14696717262268066,MissedShots,RightFoot,None
+8,57,Barcelona,Jordi Alba,0.8159999847412109,0.66,0.05171395093202591,BlockedShot,LeftFoot,Ousmane Dembélé
+9,69,Barcelona,Memphis Depay,0.91,0.475,0.08864908665418625,BlockedShot,RightFoot,Ronald Araújo
+10,75,Barcelona,Ousmane Dembélé,0.7930000305175782,0.7190000152587891,0.02179785631597042,BlockedShot,RightFoot,Memphis Depay
+11,75,Barcelona,Memphis Depay,0.8769999694824219,0.5629999923706055,0.013765392825007439,MissedShots,Head,Gavi
+12,79,Barcelona,Memphis Depay,0.7780000305175782,0.44,0.026761092245578766,SavedShot,RightFoot,Sergio Busquets
+13,91,Barcelona,Adama Traoré,0.879000015258789,0.39799999237060546,0.10060437768697739,SavedShot,RightFoot,None
+14,92,Barcelona,Jordi Alba,0.7819999694824219,0.659000015258789,0.019138440489768982,SavedShot,RightFoot,None
+15,97,Barcelona,Adama Traoré,0.85,0.455,0.08131024241447449,BlockedShot,RightFoot,Memphis Depay
+16,99,Barcelona,Ousmane Dembélé,0.815,0.539000015258789,0.055141884833574295,MissedShots,LeftFoot,Sergio Busquets
+17,102,Barcelona,Ousmane Dembélé,0.875,0.6170000076293946,0.06136055290699005,BlockedShot,RightFoot,None
+18,6,Rayo Vallecano,Álvaro García,0.8769999694824219,0.3890000152587891,0.07440576702356339,Goal,RightFoot,Isi Palazón
+19,48,Rayo Vallecano,Isi Palazón,0.9030000305175782,0.5329999923706055,0.11291556060314178,BlockedShot,LeftFoot,Álvaro García
+20,98,Rayo Vallecano,Pathé Ciss,0.8109999847412109,0.5659999847412109,0.06042739748954773,ShotOnPost,LeftFoot,Álvaro García

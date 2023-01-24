@@ -1,0 +1,6 @@
+﻿season,Age,Squad,Comp,MP,Starts,Min,goal,Ast,PK,PKatt,CrdY,CrdR,g9,Ast_2,G+A,G-PK,G+A-PK,xG,npxG,xA,xG_3,xA_4,xG+xA,npxG_5,npxG+xA,Matches
+2015-2016,17,Manchester Utd,3 Leagues,18,18,1406,8,2,0,0,1,0,0.51,0.13,0.64,0.51,0.64,,,,,,,,,Matches
+2016-2017,18,Manchester Utd,5 Leagues,53,30,3077,11,4,0,0,3,0,0.32,0.12,0.44,0.32,0.44,,,,,,,,,Matches
+2017-2018,19,Manchester Utd,5 Leagues,52,26,2683,13,8,0,0,7,0,0.44,0.27,0.7,0.44,0.7,4.3,4.3,4.5,0.22,0.23,0.44,0.22,0.44,Matches
+2018-2019,20,Manchester Utd,3 Leagues,47,36,3281,13,8,1,1,6,1,0.36,0.22,0.58,0.33,0.55,12.3,11.6,4.7,0.36,0.14,0.5,0.34,0.48,Matches
+2019-2020,21,Manchester Utd,4 Leagues,31,27,2357,19,6,6,8,2,0,0.73,0.23,0.95,0.5,0.73,16.1,10.8,3.3,0.69,0.14,0.84,0.46,0.61,Matches

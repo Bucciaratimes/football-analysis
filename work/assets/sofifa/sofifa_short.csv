@@ -1,0 +1,2054 @@
+,Id,Name,Age,Nationality,Club,Height,Weight,Value,Wage,Overall,Potential
+0,188545,Robert Lewandowski,32,Poland,FC Bayern München,185,81,€119.5M,€270K,92,92
+1,158023,Lionel Messi,34,Argentina,Paris Saint-Germain,169,67,€69.5M,€290K,92,92
+2,231747,Kylian Mbappé,22,France,Paris Saint-Germain,182,73,€194M,€230K,91,95
+3,209331,Mohamed Salah,29,Egypt,Liverpool,175,71,€129M,€350K,91,91
+4,192985,Kevin De Bruyne,30,Belgium,Manchester City,181,70,€125.5M,€350K,91,91
+5,165153,Karim Benzema,33,France,Real Madrid CF,185,81,€84M,€450K,91,91
+6,20801,C. Ronaldo dos Santos Aveiro,36,Portugal,Manchester United,187,83,€45M,€270K,91,91
+7,215914,N'Golo Kanté,30,France,Chelsea,168,70,€100M,€230K,90,90
+8,203376,Virgil van Dijk,29,Netherlands,Liverpool,193,92,€100M,€240K,90,90
+9,190871,Neymar da Silva Santos Jr.,29,Brazil,Paris Saint-Germain,175,68,€117.5M,€220K,90,90
+10,167495,Manuel Neuer,35,Germany,FC Bayern München,193,93,€13.5M,€86K,90,90
+11,212831,Alisson Ramses Becker,28,Brazil,Liverpool,191,91,€82M,€190K,89,90
+12,212622,Joshua Kimmich,26,Germany,FC Bayern München,177,75,€108M,€160K,89,90
+13,210257,Ederson Santana de Moraes,27,Brazil,Manchester City,188,86,€94M,€200K,89,91
+14,208722,Sadio Mané,29,Senegal,Liverpool,175,69,€101M,€270K,89,89
+15,202126,Harry Kane,27,England,Tottenham Hotspur,188,89,€112M,€230K,89,89
+16,200389,Jan Oblak,28,Slovenia,Atlético de Madrid,188,87,€88M,€100K,89,91
+17,200145,Carlos Henrique Venancio Casimiro,29,Brazil,Real Madrid CF,185,84,€88M,€310K,89,89
+18,200104,Heung Min Son,28,Korea Republic,Tottenham Hotspur,183,78,€104M,€240K,89,89
+19,192119,Thibaut Courtois,29,Belgium,Real Madrid CF,199,96,€79M,€250K,89,90
+20,239818,Rúben Santos Gato Alves Dias,24,Portugal,Manchester City,187,82,€111.5M,€210K,88,91
+21,239085,Erling Haaland,20,Norway,Borussia Dortmund,194,94,€143.5M,€110K,88,94
+22,230621,Gianluigi Donnarumma,22,Italy,Paris Saint-Germain,196,90,€106M,€110K,88,92
+23,210514,João Pedro Cavaco Cancelo,27,Portugal,Manchester City,182,74,€96M,€240K,88,89
+24,209658,Leon Goretzka,26,Germany,FC Bayern München,189,82,€107M,€165K,88,89
+25,207865,Marcos Aoás Corrêa,27,Brazil,Paris Saint-Germain,183,75,€97.5M,€160K,88,90
+26,193041,Keylor Navas,34,Costa Rica,Paris Saint-Germain,185,80,€15.5M,€130K,88,88
+27,192448,Marc-André ter Stegen,29,Germany,FC Barcelona,187,85,€70M,€230K,88,89
+28,182521,Toni Kroos,31,Germany,Real Madrid CF,183,76,€75M,€310K,88,88
+29,177003,Luka Modrić,35,Croatia,Real Madrid CF,172,66,€36.5M,€230K,88,88
+30,231866,Rodrigo Hernández Cascante,25,Spain,Manchester City,191,82,€90M,€190K,87,89
+31,231281,Trent Alexander-Arnold,22,England,Liverpool,180,69,€102.5M,€150K,87,90
+32,228702,Frenkie de Jong,24,Netherlands,FC Barcelona,180,74,€119.5M,€210K,87,92
+33,218667,Bernardo Mota Carvalho e Silva,26,Portugal,Manchester City,173,64,€94M,€220K,87,88
+34,216267,Andrew Robertson,27,Scotland,Liverpool,178,64,€77M,€175K,87,87
+35,212198,Bruno Miguel Borges Fernandes,26,Portugal,Manchester United,179,69,€94M,€210K,87,88
+36,211110,Paulo Dybala,27,Argentina,Juventus,177,75,€86.5M,€160K,87,87
+37,209499,Fábio Henrique Tavares,27,Brazil,Liverpool,188,78,€81.5M,€175K,87,88
+38,202652,Raheem Sterling,26,England,Manchester City,170,69,€87M,€240K,87,87
+39,199556,Marco Verratti,28,Italy,Paris Saint-Germain,165,60,€79.5M,€155K,87,87
+40,193080,David De Gea Quintana,30,Spain,Manchester United,192,76,€53M,€150K,87,87
+41,189596,Thomas Müller,31,Germany,FC Bayern München,185,76,€66M,€140K,87,87
+42,167948,Hugo Lloris,34,France,Tottenham Hotspur,188,82,€13.5M,€125K,87,87
+43,234642,Édouard Mendy,29,Senegal,Chelsea,197,86,€52M,€140K,86,87
+44,232411,Christopher Nkunku,23,France,RB Leipzig,175,73,€93M,€110K,86,89
+45,232363,Milan Škriniar,26,Slovakia,Inter,188,80,€70M,€150K,86,87
+46,222492,Leroy Sané,25,Germany,FC Bayern München,183,80,€81M,€120K,86,87
+47,212218,Aymeric Laporte,27,Spain,Manchester City,191,85,€72.5M,€185K,86,88
+48,208830,Jamie Vardy,34,England,Leicester City,179,74,€33M,€180K,86,86
+49,208093,Gerard Moreno Balagueró,29,Spain,Villarreal CF,180,77,€68M,€73K,86,86
+50,205452,Antonio Rüdiger,28,Germany,Chelsea,190,85,€64.5M,€170K,86,87
+51,204485,Riyad Mahrez,30,Algeria,Manchester City,179,67,€65.5M,€220K,86,86
+52,201024,Kalidou Koulibaly,30,Senegal,Napoli,187,89,€55.5M,€105K,86,86
+53,195864,Paul Pogba,28,France,Manchester United,191,84,€68M,€200K,86,86
+54,192505,Romelu Lukaku,28,Belgium,Chelsea,191,94,€69.5M,€200K,86,86
+55,192387,Ciro Immobile,31,Italy,Lazio,185,85,€57.5M,€115K,86,86
+56,189513,Daniel Parejo Muñoz,32,Spain,Villarreal CF,182,74,€53.5M,€64K,86,86
+57,189509,Thiago Alcântara,30,Spain,Liverpool,174,70,€65M,€180K,86,86
+58,186153,Wojciech Szczęsny,31,Poland,Juventus,195,90,€36M,€100K,86,86
+59,176580,Luis Suárez,34,Uruguay,Atlético de Madrid,182,86,€33M,€105K,86,86
+60,164240,Thiago Emiliano da Silva,36,Brazil,Chelsea,183,79,€12M,€115K,86,86
+61,235243,Matthijs de Ligt,21,Netherlands,Juventus,189,89,€71M,€81K,85,89
+62,235212,Achraf Hakimi,22,Morocco,Paris Saint-Germain,181,73,€73M,€100K,85,89
+63,233049,Jadon Sancho,21,England,Manchester United,180,76,€78.5M,€145K,85,89
+64,231478,Lautaro Martínez,23,Argentina,Inter,174,72,€78M,€145K,85,89
+65,230142,Mikel Oyarzabal Ugarte,24,Spain,Real Sociedad,181,79,€73.5M,€57K,85,88
+66,226161,Marcos Llorente Moreno,26,Spain,Atlético de Madrid,184,74,€63M,€89K,85,86
+67,224458,Diogo José Teixeira da Silva,24,Portugal,Liverpool,178,73,€78M,€155K,85,89
+68,224232,Nicolò Barella,24,Italy,Inter,172,68,€73M,€130K,85,88
+69,223848,Sergej Milinković-Savić,26,Serbia,Lazio,191,76,€63M,€100K,85,86
+70,216594,Nabil Fekir,27,France,Real Betis Balompié,173,75,€57.5M,€46K,85,85
+71,215698,Mike Maignan,25,France,AC Milan,191,89,€63M,€49K,85,90
+72,213345,Kingsley Coman,25,France,FC Bayern München,180,76,€64.5M,€110K,85,86
+73,206113,Serge Gnabry,25,Germany,FC Bayern München,176,77,€60M,€110K,85,85
+74,205498,Luiz Frello Filho Jorge,29,Italy,Chelsea,180,68,€52.5M,€170K,85,85
+75,202556,Memphis Depay,27,Netherlands,FC Barcelona,176,78,€58.5M,€220K,85,85
+76,201942,Roberto Firmino Barbosa de Oliveira,29,Brazil,Liverpool,181,76,€54M,€185K,85,85
+77,201535,Raphaël Varane,28,France,Manchester United,191,81,€51M,€170K,85,86
+78,198219,Lorenzo Insigne,30,Italy,Toronto FC,163,59,€52M,€20K,85,85
+79,197445,David Alaba,29,Austria,Real Madrid CF,180,78,€45M,€210K,85,85
+80,194765,Antoine Griezmann,30,France,Atlético de Madrid,176,73,€53M,€220K,85,85
+81,193747,Jorge Resurrección,29,Spain,Atlético de Madrid,176,77,€52.5M,€90K,85,85
+82,192984,Koen Casteels,29,Belgium,VfL Wolfsburg,197,86,€41.5M,€81K,85,86
+83,188567,Pierre-Emerick Aubameyang,32,Gabon,FC Barcelona,187,80,€43.5M,€220K,85,85
+84,188377,Kyle Walker,31,England,Manchester City,183,83,€39M,€170K,85,85
+85,188350,Marco Reus,32,Germany,Borussia Dortmund,180,71,€43M,€95K,85,85
+86,186942,İlkay Gündoğan,30,Germany,Manchester City,180,80,€51.5M,€185K,85,85
+87,185122,Péter Gulácsi,31,Hungary,RB Leipzig,191,86,€28.5M,€87K,85,85
+88,184344,Leonardo Bonucci,34,Italy,Juventus,190,85,€17.5M,€110K,85,85
+89,183898,Ángel Di María,33,Argentina,Paris Saint-Germain,180,69,€33.5M,€135K,85,85
+90,177683,Yann Sommer,32,Switzerland,Borussia Mönchengladbach,183,79,€26.5M,€40K,85,85
+91,162835,Samir Handanovič,36,Slovenia,Inter,193,92,€6M,€72K,85,85
+92,155862,Sergio Ramos García,35,Spain,Paris Saint-Germain,184,82,€14.5M,€82K,85,85
+93,138956,Giorgio Chiellini,36,Italy,Los Angeles FC,187,85,€9.5M,€12K,85,85
+94,251854,Pedro González López,18,Spain,FC Barcelona,174,61,€88.5M,€66K,84,92
+95,241084,Luis Díaz,24,Colombia,Liverpool,180,73,€57.5M,€145K,84,87
+96,238794,Vinícius José de Oliveira Júnior,20,Brazil,Real Madrid CF,176,73,€83.5M,€165K,84,91
+97,237692,Phil Foden,21,England,Manchester City,171,69,€94.5M,€140K,84,92
+98,235805,Federico Chiesa,23,Italy,Juventus,175,70,€66.5M,€81K,84,90
+99,235790,Kai Havertz,22,Germany,Chelsea,189,82,€85.5M,€130K,84,91
+100,234396,Alphonso Davies,20,Canada,FC Bayern München,183,75,€58.5M,€70K,84,89
+101,232656,Theo Hernández,23,France,AC Milan,184,81,€59.5M,€51K,84,89
+102,230938,Franck Yannick Kessié,24,Côte d'Ivoire,AC Milan,183,88,€49.5M,€51K,84,86
+103,226790,Wilfred Ndidi,24,Nigeria,Leicester City,183,74,€49.5M,€110K,84,86
+104,224334,Marcos Acuña,29,Argentina,Sevilla FC,172,69,€37M,€45K,84,84
+105,220814,Lucas Hernández,25,France,FC Bayern München,184,79,€47M,€95K,84,86
+106,216460,José María Giménez,26,Uruguay,Atlético de Madrid,185,80,€49M,€74K,84,87
+107,216393,Youri Tielemans,24,Belgium,Leicester City,176,72,€57M,€125K,84,87
+108,216352,Marcelo Brozović,28,Croatia,Inter,181,68,€37M,€130K,84,84
+109,215333,Duván Zapata,30,Colombia,Atalanta,189,88,€41.5M,€84K,84,84
+110,212190,Niklas Süle,25,Germany,FC Bayern München,195,99,€47M,€95K,84,86
+111,209989,Thomas Partey,28,Ghana,Arsenal,185,77,€37M,€115K,84,84
+112,208574,Filip Kostić,28,Serbia,Eintracht Frankfurt,184,84,€42.5M,€52K,84,84
+113,208418,Yannick Carrasco,27,Belgium,Atlético de Madrid,185,73,€45M,€81K,84,84
+114,207410,Mateo Kovačić,27,Croatia,Chelsea,176,80,€44.5M,€150K,84,84
+115,206517,Jack Grealish,25,England,Manchester City,180,81,€50.5M,€180K,84,85
+116,204963,Daniel Carvajal Ramos,29,Spain,Real Madrid CF,173,73,€37M,€195K,84,84
+117,204639,Stefan Savić,30,Montenegro,Atlético de Madrid,187,81,€34.5M,€74K,84,84
+118,202811,Emiliano Martínez,28,Argentina,Aston Villa,195,88,€30M,€81K,84,84
+119,199434,Dušan Tadić,32,Serbia,Ajax,181,76,€33.5M,€32K,84,84
+120,198176,Stefan de Vrij,29,Netherlands,Inter,189,78,€35.5M,€130K,84,84
+121,197061,Joel Matip,29,Cameroon,Liverpool,194,90,€35.5M,€145K,84,84
+122,192629,Iago Aspas Juncal,33,Spain,RC Celta de Vigo,176,67,€27M,€46K,84,84
+123,189575,Iker Muniain Goñi,28,Spain,Athletic Club de Bilbao,170,66,€42.5M,€49K,84,84
+124,189511,Sergio Busquets Burgos,32,Spain,FC Barcelona,189,76,€28M,€175K,84,84
+125,189332,Jordi Alba Ramos,32,Spain,FC Barcelona,170,68,€29M,€175K,84,84
+126,188943,Kevin Trapp,30,Germany,Eintracht Frankfurt,189,84,€28M,€37K,84,84
+127,186345,Kieran Trippier,30,England,Newcastle United,173,71,€36.5M,€63K,84,84
+128,184134,Fernando Reges Mouta,33,Brazil,Sevilla FC,183,76,€21M,€43K,84,84
+129,183277,Eden Hazard,30,Belgium,Real Madrid CF,175,74,€40.5M,€220K,84,84
+130,180930,Edin Džeko,35,Bosnia and Herzegovina,Inter,193,80,€18M,€115K,84,84
+131,178603,Mats Hummels,32,Germany,Borussia Dortmund,191,94,€27.5M,€79K,84,84
+132,175943,Dries Mertens,34,Belgium,Napoli,169,61,€20.5M,€105K,84,84
+133,168542,David Josué Jiménez Silva,35,Spain,Real Sociedad,173,67,€17.5M,€40K,84,84
+134,152729,Gerard Piqué Bernabeu,34,Spain,FC Barcelona,194,85,€13.5M,€175K,84,84
+135,146536,Jesús Navas González,35,Spain,Sevilla FC,172,60,€13M,€30K,84,84
+136,143076,Alejandro Gómez,33,Argentina,Sevilla FC,167,68,€26.5M,€47K,84,84
+137,246430,Dušan Vlahović,21,Serbia,Juventus,190,75,€74.5M,€85K,83,90
+138,242444,João Félix Sequeira,21,Portugal,Atlético de Madrid,181,70,€82M,€61K,83,91
+139,241852,Moussa Diaby,21,France,Bayer 04 Leverkusen,170,68,€56M,€55K,83,88
+140,241486,Jules Koundé,22,France,Sevilla FC,181,75,€53M,€33K,83,89
+141,241461,Ferran Torres García,21,Spain,FC Barcelona,184,77,€58.5M,€140K,83,89
+142,240130,Éder Gabriel Militão,23,Brazil,Real Madrid CF,186,78,€67.5M,€145K,83,90
+143,239053,Federico Valverde,22,Uruguay,Real Madrid CF,182,78,€58M,€160K,83,89
+144,238074,Reece James,21,England,Chelsea,178,87,€49.5M,€90K,83,87
+145,237383,Alessandro Bastoni,22,Italy,Inter,190,75,€53M,€100K,83,89
+146,234378,Declan Rice,22,England,West Ham United,185,80,€51M,€76K,83,88
+147,234236,Patrik Schick,25,Czech Republic,Bayer 04 Leverkusen,191,85,€46M,€77K,83,85
+148,233419,Raphael Dias Belloli,24,Brazil,Leeds United,176,68,€49.5M,€95K,83,86
+149,233064,Mason Mount,22,England,Chelsea,180,74,€58.5M,€120K,83,89
+150,231443,Ousmane Dembélé,24,France,FC Barcelona,178,67,€49.5M,€165K,83,86
+151,230666,Gabriel Fernando de Jesus,24,Brazil,Manchester City,175,73,€49.5M,€150K,83,86
+152,230481,Ronaldo Jailson Cabrais Petri,29,Brazil,Grêmio,177,75,€35.5M,€49K,83,83
+153,229984,Ben Chilwell,24,England,Chelsea,180,77,€46M,€105K,83,86
+154,228941,André Miguel Valente da Silva,25,Portugal,RB Leipzig,185,84,€44M,€100K,83,84
+155,228618,Ferland Mendy,26,France,Real Madrid CF,180,73,€43.5M,€170K,83,86
+156,228251,Lorenzo Pellegrini,25,Italy,Roma,186,77,€50.5M,€72K,83,87
+157,225850,Presnel Kimpembe,25,France,Paris Saint-Germain,189,80,€45.5M,€90K,83,87
+158,225193,Mikel Merino Zazón,25,Spain,Real Sociedad,189,83,€50M,€47K,83,87
+159,224293,Rúben Diogo da Silva Neves,24,Portugal,Wolverhampton Wanderers,180,80,€54.5M,€95K,83,88
+160,223697,Robin Gosens,26,Germany,Inter,183,76,€36M,€65K,83,83
+161,222665,Martin Ødegaard,22,Norway,Arsenal,178,68,€58.5M,€95K,83,89
+162,220834,Marco Asensio Willemsen,25,Spain,Real Madrid CF,182,76,€43.5M,€190K,83,84
+163,220651,José Ángel Esmoris Tasende,24,Spain,RB Leipzig,175,69,€43.5M,€77K,83,85
+164,214997,Ángel Correa,26,Argentina,Atlético de Madrid,171,70,€43.5M,€80K,83,84
+165,213648,Pierre-Emile Højbjerg,25,Denmark,Tottenham Hotspur,187,84,€41M,€105K,83,85
+166,213565,Thomas Lemar,25,France,Atlético de Madrid,171,63,€47.5M,€71K,83,86
+167,212616,Rodrigo Javier De Paul,27,Argentina,Atlético de Madrid,180,70,€41.5M,€74K,83,84
+168,212188,Timo Werner,25,Germany,Chelsea,180,76,€48.5M,€145K,83,86
+169,211688,José Luís Gayà Peña,26,Spain,Valencia CF,172,66,€43.5M,€48K,83,86
+170,210935,Domenico Berardi,26,Italy,U.S. Sassuolo Calcio,183,72,€39.5M,€52K,83,83
+171,210243,Ricardo Barbosa Pereira,27,Portugal,Leicester City,175,70,€35M,€115K,83,83
+172,209889,Raphaël Guerreiro,27,Portugal,Borussia Dortmund,170,71,€35M,€72K,83,83
+173,208670,Hakim Ziyech,28,Morocco,Chelsea,181,65,€36.5M,€155K,83,83
+174,207863,Felipe Augusto de Almeida Monteiro,32,Brazil,Atlético de Madrid,190,83,€23.5M,€68K,83,83
+175,207862,Matthias Ginter,27,Germany,Borussia Mönchengladbach,191,86,€36.5M,€41K,83,84
+176,203574,John Stones,27,England,Manchester City,188,76,€41M,€140K,83,86
+177,202884,Leonardo Spinazzola,28,Italy,Roma,186,75,€33M,€72K,83,83
+178,200458,Lucas Digne,27,France,Aston Villa,178,74,€35M,€86K,83,83
+179,199845,Francesco Acerbi,33,Italy,Lazio,192,88,€17.5M,€75K,83,83
+180,199451,Wissam Ben Yedder,30,France,AS Monaco,170,68,€35.5M,€80K,83,83
+181,198706,Luis Alberto Romero Alconchel,28,Spain,Lazio,183,74,€36.5M,€86K,83,83
+182,197655,Sebastián Coates,30,Uruguay,Sporting CP,196,94,€30M,€21K,83,83
+183,193698,Oliver Baumann,31,Germany,TSG Hoffenheim,187,82,€19M,€40K,83,83
+184,193082,Juan Cuadrado,33,Colombia,Juventus,179,72,€19M,€95K,83,83
+185,190941,Lukáš Hrádecký,31,Finland,Bayer 04 Leverkusen,192,83,€19M,€55K,83,83
+186,190286,Sergio Canales Madrazo,30,Spain,Real Betis Balompié,176,65,€35M,€38K,83,83
+187,184432,César Azpilicueta Tanco,31,Spain,Chelsea,178,77,€25M,€125K,83,83
+188,184087,Toby Alderweireld,32,Belgium,,186,81,€0,€0,83,83
+189,183711,Jordan Henderson,31,England,Liverpool,182,80,€30M,€135K,83,83
+190,179645,Simon Kjær,32,Denmark,AC Milan,190,86,€23.5M,€54K,83,83
+191,163587,Kasper Schmeichel,34,Denmark,Leicester City,189,89,€6M,€95K,83,83
+192,41236,Zlatan Ibrahimović,39,Sweden,AC Milan,195,102,€12.5M,€46K,83,83
+193,256630,Florian Wirtz,18,Germany,Bayer 04 Leverkusen,176,70,€64M,€24K,82,90
+194,255475,Antony Matheus dos Santos,21,Brazil,Ajax,174,63,€62M,€21K,82,89
+195,253163,Ronald Araujo,22,Uruguay,FC Barcelona,192,91,€57.5M,€125K,82,89
+196,252371,Jude Bellingham,18,England,Borussia Dortmund,186,75,€64M,€25K,82,90
+197,246669,Bukayo Saka,19,England,Arsenal,178,65,€59.5M,€58K,82,89
+198,244260,Daniel Olmo Carvajal,23,Spain,RB Leipzig,179,72,€46M,€78K,82,87
+199,241721,Rafael da Conceição Leão,22,Portugal,AC Milan,188,81,€68.5M,€52K,82,90
+200,241464,Pau Francisco Torres,24,Spain,Villarreal CF,191,80,€56.5M,€35K,82,89
+201,241096,Sandro Tonali,21,Italy,AC Milan,181,79,€64.5M,€35K,82,90
+202,236792,Tomáš Souček,26,Czech Republic,West Ham United,192,86,€34M,€81K,82,84
+203,236401,Noussair Mazraoui,23,Morocco,Ajax,183,62,€40.5M,€20K,82,86
+204,235410,Youssef En-Nesyri,24,Morocco,Sevilla FC,188,78,€44M,€37K,82,86
+205,235073,Gregor Kobel,23,Switzerland,Borussia Dortmund,195,88,€37M,€44K,82,87
+206,233731,Alexander Isak,21,Sweden,Real Sociedad,192,77,€45M,€37K,82,86
+207,232756,Fikayo Tomori,23,England,AC Milan,185,79,€43.5M,€42K,82,88
+208,232488,Cristian Romero,23,Argentina,Tottenham Hotspur,185,79,€41.5M,€51K,82,87
+209,232293,Victor Osimhen,22,Nigeria,Napoli,185,78,€49.5M,€77K,82,88
+210,231969,Ruslan Malinovskyi,28,Ukraine,Atalanta,181,79,€31M,€73K,82,82
+211,231677,Marcus Rashford,23,England,Manchester United,186,70,€43.5M,€130K,82,86
+212,230869,Unai Simón Mendibil,24,Spain,Athletic Club de Bilbao,190,89,€32.5M,€24K,82,85
+213,230375,Josué Durval Chiamulera Vaz,29,Brazil,Grêmio,185,80,€25.5M,€41K,82,82
+214,230168,Raphael William Anjos Rochedo,33,Brazil,RB Bragantino,190,85,€10M,€20K,82,82
+215,229668,Mario Hermoso Canseco,26,Spain,Atlético de Madrid,184,75,€35.5M,€62K,82,85
+216,229558,Dayot Upamecano,22,France,FC Bayern München,186,90,€42.5M,€70K,82,87
+217,229391,João Maria Palhinha Gonçalves,25,Portugal,Sporting CP,190,85,€36.5M,€18K,82,85
+218,229237,Manuel Akanji,25,Switzerland,Borussia Dortmund,187,91,€34M,€63K,82,84
+219,227796,Christian Pulisic,22,United States,Chelsea,177,69,€49M,€120K,82,88
+220,226753,André Onana,25,Cameroon,Ajax,190,93,€31M,€17K,82,85
+221,226271,Fabián Ruiz Peña,25,Spain,Napoli,189,70,€38M,€77K,82,84
+222,225375,Konrad Laimer,24,Austria,RB Leipzig,180,72,€35.5M,€70K,82,84
+223,222077,Manuel Locatelli,23,Italy,Juventus,185,75,€40M,€74K,82,86
+224,220697,James Maddison,24,England,Leicester City,175,73,€39.5M,€100K,82,84
+225,219693,Diego Carlos Santos Silva,28,Brazil,Sevilla FC,185,86,€29M,€37K,82,83
+226,216547,Rafael A. Ferreira Silva,28,Portugal,SL Benfica,170,63,€30.5M,€22K,82,82
+227,216354,Andrej Kramarić,30,Croatia,TSG Hoffenheim,177,73,€30M,€54K,82,82
+228,213661,Andreas Christensen,25,Denmark,Chelsea,188,81,€38M,€110K,82,86
+229,212523,Anderson Souza Conceição,27,Brazil,Al Nassr,190,80,€33M,€61K,82,82
+230,212194,Julian Brandt,25,Germany,Borussia Dortmund,185,83,€40.5M,€69K,82,85
+231,210411,Otávio Edmilson da Silva Monteiro,26,Portugal,FC Porto,172,71,€33.5M,€21K,82,82
+232,210406,Piotr Zieliński,27,Poland,Napoli,180,75,€35M,€80K,82,83
+233,210315,Raúl De Tomás Gómez,26,Spain,RCD Espanyol de Barcelona,180,79,€36.5M,€32K,82,83
+234,210035,Alejandro Grimaldo García,25,Spain,SL Benfica,171,69,€37M,€18K,82,85
+235,209981,Yassine Bounou,30,Morocco,Sevilla FC,192,78,€20.5M,€29K,82,82
+236,208333,Emre Can,27,Germany,Borussia Dortmund,186,86,€32M,€72K,82,82
+237,208128,Hakan Çalhanoğlu,27,Turkey,Inter,178,76,€32M,€115K,82,82
+238,205988,Luke Shaw,25,England,Manchester United,181,75,€35M,€115K,82,84
+239,205693,Sébastien Haller,27,Côte d'Ivoire,Ajax,190,82,€33M,€27K,82,82
+240,205632,Lucas Ocampos,26,Argentina,Sevilla FC,188,84,€33.5M,€42K,82,82
+241,204838,Raúl Jiménez,30,Mexico,Wolverhampton Wanderers,188,81,€30M,€110K,82,82
+242,201305,Gabriel Armando de Abreu,30,Brazil,Valencia CF,185,72,€25M,€44K,82,82
+243,200647,Josip Iličić,33,Slovenia,Atalanta,190,79,€19.5M,€70K,82,82
+244,200260,Steven Berghuis,29,Netherlands,Ajax,182,75,€30M,€26K,82,82
+245,199482,Anthony Lopes,30,Portugal,Olympique Lyonnais,184,81,€20.5M,€60K,82,82
+246,199110,Luis Muriel,30,Colombia,Atalanta,179,79,€30M,€70K,82,82
+247,198717,Wilfried Zaha,28,Côte d'Ivoire,Crystal Palace,180,66,€30.5M,€85K,82,82
+248,197781,Francisco Román Alarcón Suárez,29,Spain,Real Madrid CF,176,79,€30M,€175K,82,82
+249,193474,Idrissa Gueye,31,Senegal,Paris Saint-Germain,174,66,€21.5M,€88K,82,82
+250,193301,Alexandre Lacazette,30,France,Arsenal,175,73,€30M,€110K,82,82
+251,192774,Kostas Manolas,30,Greece,Olympiacos CFP,189,83,€25M,€2K,82,82
+252,190460,Christian Eriksen,29,Denmark,Brentford,181,76,€29.5M,€71K,82,82
+253,189242,Philippe Coutinho Correia,29,Brazil,Aston Villa,172,68,€30M,€165K,82,82
+254,183512,Yuri Berchiche Izeta,31,Spain,Athletic Club de Bilbao,181,80,€22M,€35K,82,82
+255,181458,Ivan Perišić,32,Croatia,Inter,186,80,€24M,€115K,82,82
+256,181291,Georginio Wijnaldum,30,Netherlands,Paris Saint-Germain,175,74,€29M,€95K,82,82
+257,179813,Edinson Cavani,34,Uruguay,Manchester United,185,77,€15M,€145K,82,82
+258,178562,Éver Banega,33,Argentina,Al Shabab,174,75,€18.5M,€51K,82,82
+259,178005,Rui Pedro dos Santos Patrício,33,Portugal,Roma,190,84,€10M,€51K,82,82
+260,177388,Dimitri Payet,34,France,Olympique de Marseille,175,77,€14.5M,€54K,82,82
+261,168651,Ivan Rakitić,33,Croatia,Sevilla FC,184,78,€18.5M,€39K,82,82
+262,164835,Łukasz Fabiański,36,Poland,West Ham United,190,83,€3.4M,€43K,82,82
+263,120533,Képler Laveran Lima Ferreira,38,Portugal,FC Porto,188,80,€5.5M,€14K,82,82
+264,251573,Renan Augusto Lodi dos Santos,23,Brazil,Atlético de Madrid,173,68,€36.5M,€49K,81,86
+265,242516,Cody Gakpo,22,Netherlands,PSV,189,76,€39.5M,€22K,81,86
+266,241637,Aurélien Tchouaméni,21,France,AS Monaco,187,81,€52M,€46K,81,88
+267,240950,Pedro António Pereira Gonçalves,23,Portugal,Sporting CP,173,77,€51.5M,€19K,81,88
+268,237238,Scott McTominay,24,Scotland,Manchester United,193,88,€32M,€95K,81,84
+269,236480,Yves Bissouma,24,Mali,Brighton & Hove Albion,182,80,€35.5M,€57K,81,86
+270,234943,Florian Neuhaus,24,Germany,Borussia Mönchengladbach,185,74,€36.5M,€33K,81,85
+271,234153,Carlos Soler Barragán,24,Spain,Valencia CF,180,76,€38.5M,€39K,81,86
+272,233934,Aaron Ramsdale,23,England,Arsenal,191,77,€31M,€58K,81,86
+273,233927,Lucas Tolentino Coelho de Lima,23,Brazil,Olympique Lyonnais,180,72,€39M,€65K,81,86
+274,233096,Denzel Dumfries,25,Netherlands,Inter,188,80,€29.5M,€90K,81,83
+275,232580,Gabriel dos S. Magalhães,23,Brazil,Arsenal,190,87,€37M,€74K,81,87
+276,231943,Richarlison de Andrade,24,Brazil,Everton,181,71,€39.5M,€90K,81,86
+277,231352,Tammy Abraham,23,England,Roma,190,80,€39.5M,€61K,81,86
+278,230658,Arthur Henrique Ramos Oliveira Melo,24,Brazil,Juventus,171,73,€33M,€76K,81,83
+279,230430,Marvin Oswaldo Rangel Azevedo,29,Brazil,Flamengo,184,79,€25.5M,€56K,81,81
+280,230347,Welington Kauê Dano Nascimento,21,Brazil,Clube Atlético Mineiro,178,69,€27.5M,€31K,81,81
+281,230294,Lourival Adnan Beretta Barbosa,29,Brazil,RB Bragantino,188,83,€25.5M,€28K,81,81
+282,230258,Rosberto J. Dourado Santos,21,Brazil,Sport Club Corinthians Paulista,175,70,€27M,€26K,81,81
+283,230256,Adryan Juliano Zonta Torres,29,Brazil,RB Bragantino,172,68,€22.5M,€24K,81,81
+284,230225,Juan Everton Mestres de Mesquita,25,Brazil,Clube Atlético Mineiro,181,82,€25M,€41K,81,81
+285,229906,Leon Bailey,23,Jamaica,Aston Villa,178,77,€35M,€70K,81,84
+286,229261,Denis Zakaria,24,Switzerland,Juventus,191,81,€35.5M,€68K,81,86
+287,227928,Nélson Cabral Semedo,27,Portugal,Wolverhampton Wanderers,177,69,€25M,€86K,81,81
+288,227127,Alejandro Remiro Gargallo,26,Spain,Real Sociedad,192,79,€27.5M,€31K,81,85
+289,226754,Ismaël Bennacer,23,Algeria,AC Milan,175,70,€33.5M,€39K,81,85
+290,226491,Kieran Tierney,24,Scotland,Arsenal,178,70,€38M,€74K,81,87
+291,225100,Joe Gomez,24,England,Liverpool,188,77,€35M,€90K,81,86
+292,224411,Gonçalo Manuel Ganchinho Guedes,24,Portugal,Valencia CF,179,68,€39.5M,€43K,81,86
+293,224081,Kalvin Phillips,25,England,Leeds United,178,72,€32.5M,€82K,81,85
+294,223952,David Soria Solís,28,Spain,Getafe CF,192,85,€20.5M,€30K,81,82
+295,221992,Hirving Lozano,25,Mexico,Napoli,175,70,€31M,€77K,81,82
+296,221479,Dominic Calvert-Lewin,24,England,Everton,187,71,€37.5M,€90K,81,85
+297,220018,Ante Rebić,27,Croatia,AC Milan,185,78,€27.5M,€54K,81,81
+298,217870,Giovanni Di Lorenzo,27,Italy,Napoli,183,83,€25M,€68K,81,81
+299,216475,José Luis Morales Nogales,33,Spain,Levante Unión Deportiva,180,70,€16M,€38K,81,81
+300,216409,Matteo Politano,27,Italy,Napoli,171,67,€27.5M,€81K,81,81
+301,216388,Allan Saint-Maximin,24,France,Newcastle United,173,67,€35M,€46K,81,84
+302,216201,Iñaki Williams Arthuer,27,Spain,Athletic Club de Bilbao,186,80,€28M,€39K,81,81
+303,215330,Joaquín Correa,26,Argentina,Inter,189,75,€31M,€76K,81,82
+304,215316,Gerónimo Rulli,29,Argentina,Villarreal CF,189,84,€17.5M,€33K,81,81
+305,214979,Juan Musso,27,Argentina,Atalanta,191,93,€22M,€44K,81,82
+306,213331,Jonathan Tah,25,Germany,Bayer 04 Leverkusen,195,98,€30.5M,€54K,81,84
+307,212442,José Pedro Malheiro de Sá,28,Portugal,Wolverhampton Wanderers,192,84,€20.5M,€74K,81,82
+308,211990,Odisseas Vlachodimos,27,Greece,SL Benfica,191,78,€23.5M,€14K,81,83
+309,211748,Kerem Demirbay,27,Germany,Bayer 04 Leverkusen,183,73,€27.5M,€62K,81,81
+310,211256,Nicolás Tagliafico,28,Argentina,Ajax,172,65,€23.5M,€22K,81,81
+311,210413,Alessio Romagnoli,26,Italy,AC Milan,185,75,€24.5M,€46K,81,81
+312,210385,Rui Tiago Dantas da Silva,27,Portugal,Real Betis Balompié,191,91,€25.5M,€24K,81,84
+313,210008,Adrien Rabiot,26,France,Juventus,192,80,€30M,€87K,81,82
+314,209519,Gaëtan Laborde,27,France,Stade Rennais FC,181,78,€28M,€63K,81,81
+315,208618,Lucas Vázquez Iglesias,30,Spain,Real Madrid CF,173,70,€22M,€140K,81,81
+316,208448,Emil Forsberg,29,Sweden,RB Leipzig,177,76,€25.5M,€87K,81,81
+317,208330,Adnan Januzaj,26,Belgium,Real Sociedad,186,75,€28M,€45K,81,81
+318,205686,Téji Savanier,29,France,Montpellier Hérault SC,172,69,€25.5M,€38K,81,81
+319,205678,Edin Višća,31,Bosnia and Herzegovina,Trabzonspor,172,63,€21.5M,€41K,81,81
+320,205569,James Ward-Prowse,26,England,Southampton,173,66,€30M,€69K,81,82
+321,204935,Jordan Pickford,27,England,Everton,185,77,€23.5M,€70K,81,83
+322,204923,Marcel Sabitzer,27,Austria,FC Bayern München,178,76,€27.5M,€83K,81,81
+323,204638,Willi Orban,28,Hungary,RB Leipzig,186,87,€22M,€79K,81,81
+324,204525,Iñigo Martínez Berridi,30,Spain,Athletic Club de Bilbao,182,77,€21M,€33K,81,81
+325,204311,Kurt Zouma,26,France,West Ham United,190,95,€30M,€75K,81,84
+326,203841,Nick Pope,29,England,Burnley,199,76,€17.5M,€38K,81,81
+327,203486,Thorgan Hazard,28,Belgium,Borussia Dortmund,175,71,€26M,€69K,81,81
+328,203263,Harry Maguire,28,England,Manchester United,194,100,€24.5M,€120K,81,82
+329,202648,Sergi Darder Moll,27,Spain,RCD Espanyol de Barcelona,180,71,€27.5M,€27K,81,81
+330,201153,Álvaro Borja Morata Martín,28,Spain,Juventus,190,84,€26.5M,€71K,81,81
+331,200949,Lucas Rodrigues M. Silva,28,Brazil,Tottenham Hotspur,174,70,€26M,€115K,81,81
+332,200724,José Ignacio Fernández Iglesias,31,Spain,Real Madrid CF,180,76,€17.5M,€140K,81,81
+333,200610,Kevin Volland,28,Germany,AS Monaco,179,85,€26.5M,€70K,81,81
+334,199914,Allan Marques Loureiro,30,Brazil,Everton,175,74,€21.5M,€86K,81,81
+335,199823,José Gómez Campaña,28,Spain,Levante Unión Deportiva,179,70,€25.5M,€39K,81,81
+336,198950,Pablo Sarabia García,29,Spain,Sporting CP,174,70,€25.5M,€100K,81,81
+337,194404,Norberto Murara Neto,31,Brazil,FC Barcelona,190,84,€13.5M,€105K,81,81
+338,193283,Thomas Delaney,29,Denmark,Sevilla FC,182,79,€22M,€34K,81,81
+339,193165,Jesús Corona,28,Mexico,Sevilla FC,173,66,€26M,€37K,81,81
+340,193105,Alphonse Areola,28,France,West Ham United,195,94,€22M,€69K,81,83
+341,192883,Henrikh Mkhitaryan,32,Armenia,Roma,177,75,€20.5M,€69K,81,81
+342,192563,Bernd Leno,29,Germany,Arsenal,190,83,€17.5M,€74K,81,81
+343,192366,Nicolás Otamendi,33,Argentina,SL Benfica,183,76,€12.5M,€18K,81,81
+344,192318,Mario Götze,29,Germany,PSV,176,71,€25.5M,€26K,81,81
+345,191043,Alex Sandro Lobo Silva,30,Brazil,Juventus,180,80,€22M,€80K,81,81
+346,190815,Daley Blind,31,Netherlands,Ajax,180,72,€18.5M,€21K,81,81
+347,188152,Oscar dos Santos Emboaba,29,Brazil,Shanghai Port FC,179,70,€25.5M,€35K,81,81
+348,187598,Rafael Tolói,30,Italy,Atalanta,185,75,€21M,€55K,81,81
+349,184200,Marko Arnautović,32,Austria,Bologna,192,83,€21M,€48K,81,81
+350,181872,Arturo Vidal,34,Chile,Inter,180,75,€12M,€105K,81,81
+351,180206,Miralem Pjanić,31,Bosnia and Herzegovina,Beşiktaş JK,178,72,€21M,€145K,81,81
+352,178509,Olivier Giroud,34,France,AC Milan,192,93,€12.5M,€54K,81,81
+353,178086,Antonio Adán Garrido,34,Spain,Sporting CP,190,94,€4.4M,€14K,81,81
+354,173731,Gareth Bale,31,Wales,Los Angeles FC,185,82,€21.5M,€14K,81,81
+355,172871,Jan Vertonghen,34,Belgium,SL Benfica,189,86,€8.5M,€18K,81,81
+356,169416,Carlos Vela,32,Mexico,Los Angeles FC,177,77,€20.5M,€14K,81,81
+357,162347,João Filipe Moutinho,34,Portugal,Wolverhampton Wanderers,170,61,€12M,€95K,81,81
+358,157481,Raúl Albiol Tortajada,35,Spain,Villarreal CF,190,82,€7M,€27K,81,81
+359,156519,Héctor Herrera,31,Mexico,Houston Dynamo,185,78,€21M,€13K,81,81
+360,153244,André-Pierre Gignac,35,France,Tigres U.A.N.L.,189,85,€11M,€50K,81,81
+361,135507,Fernando Luiz Rosa,36,Brazil,Manchester City,179,67,€5M,€86K,81,81
+362,45186,Joaquín Sánchez Rodríguez,39,Spain,Real Betis Balompié,179,75,€8.5M,€23K,81,81
+363,252145,Nuno Alexandre Tavares Mendes,19,Portugal,Paris Saint-Germain,176,70,€43.5M,€9K,80,88
+364,247851,Bruno Guimarães Moura,23,Brazil,Newcastle United,182,74,€31.5M,€43K,80,85
+365,247819,Nico Schlotterbeck,21,Germany,Sport-Club Freiburg,191,86,€31M,€23K,80,86
+366,247394,Dejan Kulusevski,21,Sweden,Tottenham Hotspur,186,75,€34M,€67K,80,86
+367,247263,Edmond Tapsoba,22,Burkina Faso,Bayer 04 Leverkusen,194,85,€31M,€46K,80,86
+368,245279,Sergio Reguilón Rodríguez,24,Spain,Tottenham Hotspur,178,68,€26.5M,€74K,80,83
+369,244470,Vladimír Coufal,28,Czech Republic,West Ham United,175,76,€19M,€73K,80,80
+370,244369,Viktor Tsygankov,23,Ukraine,Dynamo Kyiv,178,72,€32M,€1K,80,85
+371,243812,Rodrygo Silva de Goes,20,Brazil,Real Madrid CF,174,64,€42M,€120K,80,87
+372,243576,Pedro Antonio Porro Sauceda,21,Spain,Sporting CP,176,71,€40.5M,€80K,80,87
+373,241788,Mehdi Taremi,28,Iran,FC Porto,187,83,€21.5M,€20K,80,80
+374,241671,Dominik Livaković,26,Croatia,Dinamo Zagreb,187,79,€21M,€950,80,83
+375,240709,Ridle Baku,23,Germany,VfL Wolfsburg,176,75,€32M,€59K,80,85
+376,240273,Emile Smith Rowe,20,England,Arsenal,182,72,€42M,€65K,80,87
+377,239580,Gleison Bremer Silva Nascimento,24,Brazil,Torino F.C.,188,82,€29M,€41K,80,85
+378,239301,Lisandro Martínez,23,Argentina,Ajax,178,77,€29M,€17K,80,85
+379,239231,Marc Cucurella Saseta,22,Spain,Brighton & Hove Albion,172,66,€30M,€53K,80,85
+380,238067,Nicolò Zaniolo,21,Italy,Roma,190,79,€47.5M,€49K,80,88
+381,237678,Ibrahima Konaté,22,France,Liverpool,194,95,€44.5M,€85K,80,88
+382,236987,Boubacar Kamara,21,France,Olympique de Marseille,184,68,€31M,€30K,80,86
+383,236791,Antonín Barák,26,Czech Republic,Hellas Verona,190,86,€25M,€38K,80,81
+384,236786,Martin Terrier,24,France,Stade Rennais FC,184,73,€29M,€52K,80,83
+385,236496,Mattéo Guendouzi,22,France,Olympique de Marseille,185,68,€33.5M,€77K,80,86
+386,236403,Evan Ndicka,21,France,Eintracht Frankfurt,192,82,€29.5M,€23K,80,85
+387,234742,Harvey Barnes,23,England,Leicester City,180,66,€29M,€88K,80,83
+388,233306,Dean Henderson,24,England,Manchester United,188,85,€24M,€70K,80,84
+389,233195,Xaver Schlager,23,Austria,VfL Wolfsburg,174,76,€27.5M,€53K,80,84
+390,232730,Daichi Kamada,24,Japan,Eintracht Frankfurt,184,76,€27.5M,€31K,80,82
+391,232665,Mauro Arambarri,25,Uruguay,Getafe CF,175,74,€28.5M,€31K,80,85
+392,230767,Renato Júnior Luz Sanches,23,Portugal,LOSC Lille,176,70,€33M,€38K,80,86
+393,230313,Tony Josimar Abranjes Meneses,33,Brazil,Internacional,179,80,€10M,€32K,80,80
+394,230271,Laureano Thomas Santeiro Marre,21,Brazil,Fluminense,171,63,€25M,€23K,80,80
+395,230204,Héniton Enaldo Pires Tramontino,25,Brazil,Flamengo,182,74,€17M,€33K,80,80
+396,230201,Maikel Renan Catarino Fagundes,25,Brazil,Sport Club Corinthians Paulista,177,75,€21M,€33K,80,80
+397,229880,Aaron Wan-Bissaka,23,England,Manchester United,183,72,€26.5M,€90K,80,83
+398,229582,Gianluca Mancini,25,Italy,Roma,190,77,€25M,€52K,80,83
+399,227950,Yeray Álvarez López,26,Spain,Athletic Club de Bilbao,182,79,€23M,€31K,80,82
+400,227290,Marko Dmitrović,29,Serbia,Sevilla FC,194,94,€16M,€26K,80,81
+401,226300,Uğurcan Çakır,25,Turkey,Trabzonspor,191,82,€24.5M,€24K,80,85
+402,226226,Giovani Lo Celso,25,Argentina,Villarreal CF,177,68,€27.5M,€90K,80,83
+403,226221,Aritz Elustondo,27,Spain,Real Sociedad,180,71,€22.5M,€36K,80,82
+404,226166,Nordi Mukiele,23,France,RB Leipzig,187,84,€28M,€61K,80,84
+405,226110,Nicolas Pépé,26,Côte d'Ivoire,Arsenal,183,73,€25M,€88K,80,81
+406,225953,Steven Bergwijn,23,Netherlands,Tottenham Hotspur,178,78,€29M,€90K,80,83
+407,225201,Alejandro Berenguer Remiro,25,Spain,Athletic Club de Bilbao,175,73,€25M,€32K,80,81
+408,224309,Joan Jordán Moreno,26,Spain,Sevilla FC,183,74,€24.5M,€33K,80,81
+409,224179,Borja Iglesias Quintás,28,Spain,Real Betis Balompié,187,86,€21.5M,€34K,80,80
+410,223689,Wout Weghorst,28,Netherlands,Burnley,197,84,€21.5M,€51K,80,80
+411,223273,Mario Pašalić,26,Croatia,Atalanta,188,82,€23M,€56K,80,80
+412,222558,Rick Karsdorp,26,Netherlands,Roma,184,80,€21M,€54K,80,80
+413,222331,Lukas Klostermann,25,Germany,RB Leipzig,187,88,€23.5M,€67K,80,82
+414,221660,Victor Lindelöf,26,Sweden,Manchester United,187,80,€23M,€105K,80,82
+415,220971,Naby Keïta,26,Guinea,Liverpool,172,64,€24.5M,€110K,80,81
+416,220440,Clément Lenglet,26,France,FC Barcelona,186,81,€24.5M,€125K,80,83
+417,220093,Hans Hateboer,27,Netherlands,Atalanta,185,72,€20.5M,€51K,80,80
+418,219683,Corentin Tolisso,26,France,FC Bayern München,181,81,€23M,€78K,80,80
+419,218339,Mahmoud Dahoud,25,Germany,Borussia Dortmund,178,68,€26.5M,€59K,80,82
+420,217940,Dakonam Djené,29,Togo,Getafe CF,178,72,€17.5M,€34K,80,80
+421,217036,Alexandre Moreno Lopera,28,Spain,Real Betis Balompié,179,68,€19M,€29K,80,80
+422,216320,Seko Fofana,26,Côte d'Ivoire,Racing Club de Lens,185,74,€24.5M,€37K,80,81
+423,216189,Ander Capa Rodríguez,29,Spain,Athletic Club de Bilbao,175,75,€18.5M,€32K,80,80
+424,215223,Walter Benítez,28,Argentina,OGC Nice,191,93,€18M,€32K,80,82
+425,214097,Benjamin Bourigeaud,27,France,Stade Rennais FC,178,68,€22.5M,€59K,80,80
+426,214047,Mateus Uribe,30,Colombia,FC Porto,182,71,€20M,€18K,80,80
+427,213955,Sardar Azmoun,26,Iran,Bayer 04 Leverkusen,186,78,€25M,€63K,80,81
+428,212462,Alex Nicolao Telles,28,Brazil,Manchester United,181,71,€19M,€110K,80,80
+429,212096,Vincenzo Grifo,28,Italy,Sport-Club Freiburg,180,76,€21M,€37K,80,80
+430,211300,Anthony Martial,25,France,Sevilla FC,184,76,€28.5M,€120K,80,83
+431,210930,Carles Gil Pareja,28,Spain,New England Revolution,170,66,€21M,€13K,80,80
+432,210463,Darwin Machís,28,Venezuela,Granada CF,174,74,€21M,€31K,80,80
+433,210455,Jonathan Castro Otto,27,Spain,Wolverhampton Wanderers,170,70,€20.5M,€81K,80,80
+434,210324,Jonas Hofmann,28,Germany,Borussia Mönchengladbach,176,73,€21M,€37K,80,80
+435,209960,Fernando Pacheco Flores,29,Spain,Deportivo Alavés,186,81,€16M,€25K,80,81
+436,209846,Christian Günter,28,Germany,Sport-Club Freiburg,184,83,€19M,€34K,80,80
+437,209297,Frederico de Paula Santos,28,Brazil,Manchester United,169,62,€21M,€120K,80,80
+438,208596,Andrea Belotti,27,Italy,Torino F.C.,181,84,€23M,€57K,80,80
+439,208461,Marten de Roon,30,Netherlands,Atalanta,185,76,€17.5M,€51K,80,80
+440,208421,Saúl Ñíguez Esclápez,26,Spain,Chelsea,184,75,€24.5M,€58K,80,81
+441,207439,Leandro Paredes,27,Argentina,Paris Saint-Germain,180,75,€21.5M,€76K,80,81
+442,206585,Kepa Arrizabalaga,26,Spain,Chelsea,186,88,€21M,€80K,80,83
+443,206511,Maximilian Arnold,27,Germany,VfL Wolfsburg,184,74,€21.5M,€62K,80,81
+444,205659,Alessio Cragno,27,Italy,Cagliari,184,78,€18M,€30K,80,81
+445,205070,Cristian Portugues Manzanera,29,Spain,Real Sociedad,167,66,€20.5M,€44K,80,80
+446,204120,Tomáš Vaclík,32,Czech Republic,Olympiacos CFP,188,85,€10.5M,€1K,80,80
+447,203890,Šime Vrsaljko,29,Croatia,Atlético de Madrid,181,76,€18.5M,€56K,80,80
+448,202695,James Tarkowski,28,England,Burnley,188,81,€18M,€43K,80,80
+449,202651,Jesús Joaquín Fernández Sáez,27,Spain,Sevilla FC,176,70,€22.5M,€36K,80,80
+450,202335,Eric Dier,27,England,Tottenham Hotspur,190,90,€21M,€86K,80,81
+451,202024,Remo Freuler,29,Switzerland,Atalanta,181,80,€20.5M,€58K,80,80
+452,201519,Jordan Veretout,28,France,Roma,177,67,€18.5M,€57K,80,80
+453,201119,Ismaily Gonçalves dos S.,31,Brazil,Shakhtar Donetsk,177,82,€15.5M,€1K,80,80
+454,201095,Agustín Marchesín,33,Argentina,FC Porto,188,84,€7M,€13K,80,80
+455,200888,Danilo Luís Hélio Pereira,29,Portugal,Paris Saint-Germain,188,83,€18M,€79K,80,80
+456,200454,Francisco Alcácer García,27,Spain,Villarreal CF,175,70,€23M,€42K,80,80
+457,199987,Jasper Cillessen,32,Netherlands,Valencia CF,185,83,€10.5M,€31K,80,80
+458,199564,Sergio Roberto Carnicer,29,Spain,FC Barcelona,178,68,€18.5M,€130K,80,80
+459,199304,Danilo Luiz da Silva,29,Brazil,Juventus,184,78,€18.5M,€78K,80,80
+460,199254,João Pedro G. Santos Galvão,29,Italy,Cagliari,184,73,€21M,€46K,80,80
+461,199042,Charles Aránguiz,32,Chile,Bayer 04 Leverkusen,171,68,€14M,€53K,80,80
+462,198141,Marc Bartra Aregall,30,Spain,Real Betis Balompié,184,73,€17.5M,€28K,80,80
+463,198031,Sérgio Miguel Relvas de Oliveira,29,Portugal,Roma,181,78,€20.5M,€19K,80,80
+464,198009,Mattia Perin,28,Italy,Juventus,188,77,€16.5M,€64K,80,81
+465,197242,Grzegorz Krychowiak,31,Poland,AEK Athens,186,78,€15M,€2K,80,80
+466,195859,Danny Ings,28,England,Aston Villa,178,73,€21.5M,€84K,80,80
+467,195365,Kevin Kampl,30,Slovenia,RB Leipzig,178,66,€20M,€78K,80,80
+468,193983,Andy Delort,29,Algeria,OGC Nice,181,83,€21M,€46K,80,80
+469,192638,Marcos Alonso Mendoza,30,Spain,Chelsea,188,85,€18M,€100K,80,80
+470,191740,Ander Herrera Agüera,31,Spain,Paris Saint-Germain,182,71,€17.5M,€83K,80,80
+471,190717,Michail Antonio,31,Jamaica,West Ham United,178,82,€18M,€83K,80,80
+472,190674,Benjamin André,30,France,LOSC Lille,180,74,€17.5M,€40K,80,80
+473,189271,Francis Coquelin,30,France,Villarreal CF,176,74,€20M,€39K,80,80
+474,187072,Lars Stindl,32,Germany,Borussia Mönchengladbach,181,80,€16.5M,€36K,80,80
+475,184941,Alexis Sánchez,32,Chile,Inter,168,62,€17M,€105K,80,80
+476,183907,Jérôme Boateng,32,Germany,Olympique Lyonnais,190,94,€13.5M,€64K,80,80
+477,183855,Angelo Ogbonna,33,Italy,West Ham United,191,86,€10M,€70K,80,80
+478,183574,Max Kruse,33,Germany,VfL Wolfsburg,180,76,€13.5M,€74K,80,80
+479,182494,Fernando Muslera,35,Uruguay,Galatasaray SK,190,74,€2.3M,€32K,80,80
+480,178750,Sergio Asenjo Andrés,32,Spain,Villarreal CF,189,87,€10.5M,€29K,80,80
+481,177413,Axel Witsel,32,Belgium,Borussia Dortmund,186,81,€14M,€57K,80,80
+482,173426,Simon Mignolet,33,Belgium,Club Brugge KV,193,87,€7M,€24K,80,80
+483,172522,Daniel Wass,32,Denmark,Atlético de Madrid,181,74,€16.5M,€58K,80,80
+484,171877,Marek Hamšík,33,Slovakia,Trabzonspor,183,73,€13M,€35K,80,80
+485,171791,José Miguel da Rocha Fonte,37,Portugal,LOSC Lille,191,84,€3.8M,€28K,80,80
+486,171579,Raúl García Escudero,34,Spain,Athletic Club de Bilbao,184,83,€10.5M,€36K,80,80
+487,163489,Andrea Consigli,34,Italy,U.S. Sassuolo Calcio,189,82,€3.6M,€30K,80,80
+488,140233,Guillermo Ochoa,35,Mexico,Club América,185,78,€2.3M,€27K,80,80
+489,1179,Gianluigi Buffon,43,Italy,Parma,192,92,€2.3M,€3K,80,80
+490,256790,Jamal Musiala,18,Germany,FC Bayern München,180,68,€37M,€26K,79,89
+491,253124,Matheus Luiz Nunes,22,Portugal,Sporting CP,183,76,€35.5M,€15K,79,86
+492,253072,Darwin Núñez,22,Uruguay,SL Benfica,187,81,€39.5M,€16K,79,87
+493,253004,Anssumane Fati,18,Spain,FC Barcelona,178,66,€37M,€56K,79,90
+494,251809,Sven Botman,21,Netherlands,LOSC Lille,195,81,€25.5M,€27K,79,85
+495,251805,Jurriën Timber,20,Netherlands,Ajax,179,77,€36M,€13K,79,88
+496,251517,Joško Gvardiol,19,Croatia,RB Leipzig,185,80,€35.5M,€35K,79,89
+497,248243,Eduardo Camavinga,18,France,Real Madrid CF,182,68,€37M,€48K,79,89
+498,246646,Maxence Caqueret,21,France,Olympique Lyonnais,174,63,€26M,€43K,79,85
+499,245037,Eric García Martret,20,Spain,FC Barcelona,182,76,€24.5M,€84K,79,85
+500,244749,Nayef Aguerd,25,Morocco,Stade Rennais FC,188,76,€22M,€45K,79,83
+501,244263,Amir Rrahmani,27,Kosovo,Napoli,192,83,€18.5M,€60K,79,81
+502,244261,Lovro Majer,23,Croatia,Stade Rennais FC,179,75,€26.5M,€45K,79,84
+503,243715,William Saliba,20,France,Olympique de Marseille,192,85,€36M,€55K,79,87
+504,243630,Jonathan David,21,Canada,LOSC Lille,180,77,€28.5M,€34K,79,85
+505,243559,Jorge de Frutos Sebastián,24,Spain,Levante Unión Deportiva,176,71,€24M,€29K,79,82
+506,241771,Anthony Nwakaeme,32,Nigeria,Trabzonspor,185,80,€14M,€36K,79,79
+507,241095,Nikola Vlašić,23,Croatia,West Ham United,178,79,€26.5M,€63K,79,84
+508,240900,Unai Núñez Gestoso,24,Spain,Athletic Club de Bilbao,186,81,€22.5M,€25K,79,83
+509,240753,Amine Gouiri,21,France,OGC Nice,180,72,€36M,€32K,79,86
+510,240679,Teun Koopmeiners,23,Netherlands,Atalanta,183,77,€25M,€46K,79,83
+511,240243,Matheus Santos Carneiro Da Cunha,22,Brazil,Atlético de Madrid,184,76,€28.5M,€53K,79,85
+512,239433,Nemanja Maksimović,26,Serbia,Getafe CF,189,78,€20.5M,€30K,79,82
+513,239207,Maximiliano Gómez,24,Uruguay,Valencia CF,186,84,€24.5M,€38K,79,82
+514,239093,Jonathan Clauss,28,France,Racing Club de Lens,178,67,€16M,€34K,79,79
+515,238041,Tyrell Malacia,21,Netherlands,Feyenoord,169,67,€26.5M,€10K,79,85
+516,237942,Pervis Estupiñán,23,Ecuador,Villarreal CF,175,78,€23.5M,€29K,79,83
+517,236772,Dominik Szoboszlai,20,Hungary,RB Leipzig,186,74,€38.5M,€54K,79,87
+518,236703,David Raum,23,Germany,TSG Hoffenheim,180,75,€23.5M,€32K,79,83
+519,236632,David Neres Campos,24,Brazil,Shakhtar Donetsk,176,71,€24M,€1K,79,82
+520,236610,Moise Kean,21,Italy,Juventus,182,72,€39.5M,€69K,79,87
+521,236572,Owen Wijndal,21,Netherlands,AZ Alkmaar,176,65,€25M,€10K,79,84
+522,236355,Luiz Felipe Ramos Marchi,24,Italy,Lazio,187,80,€24M,€48K,79,84
+523,236276,Arnaut Danjuma,24,Netherlands,Villarreal CF,178,74,€24M,€32K,79,82
+524,235889,Cengiz Ünder,23,Turkey,Olympique de Marseille,173,66,€24M,€54K,79,82
+525,235844,Edson Álvarez,23,Mexico,Ajax,187,73,€24.5M,€16K,79,84
+526,235688,Lucas Veríssimo da Silva,25,Brazil,SL Benfica,188,77,€23M,€15K,79,84
+527,235569,Tanguy Ndombele,24,France,Olympique Lyonnais,179,76,€26.5M,€77K,79,84
+528,235374,Manuel Lazzari,27,Italy,Lazio,174,67,€17M,€56K,79,79
+529,235173,Ibrahim Sangaré,23,Côte d'Ivoire,PSV,191,77,€25.5M,€18K,79,85
+530,234906,Houssem Aouar,23,France,Olympique Lyonnais,175,70,€26.5M,€57K,79,84
+531,233738,Igor Zubeldia Elorza,24,Spain,Real Sociedad,181,73,€24M,€29K,79,84
+532,233500,Luis Sinisterra,22,Colombia,Feyenoord,172,60,€35.5M,€14K,79,86
+533,233486,Robin Le Normand,24,France,Real Sociedad,187,81,€24M,€29K,79,84
+534,232432,Luka Jović,23,Serbia,Real Madrid CF,182,85,€27M,€130K,79,84
+535,232229,Justin Bijlow,23,Netherlands,Feyenoord,188,76,€30M,€9K,79,86
+536,232119,Çağlar Söyüncü,25,Turkey,Leicester City,185,82,€19.5M,€84K,79,81
+537,231936,Benjamin White,23,England,Arsenal,185,77,€32.5M,€65K,79,86
+538,231691,Alban Lafont,22,France,FC Nantes,196,90,€23M,€20K,79,85
+539,231447,Donyell Malen,22,Netherlands,Borussia Dortmund,178,77,€28.5M,€56K,79,85
+540,231340,Gonzalo Montiel,24,Argentina,Sevilla FC,175,70,€22M,€25K,79,82
+541,231102,Ludovic Blas,23,France,FC Nantes,180,70,€25M,€28K,79,83
+542,230498,Luan Vágner Boas Macedo,21,Brazil,Santos,176,73,€21M,€27K,79,79
+543,230312,Bernard Gabriel Prestão Chaves,29,Brazil,Internacional,186,80,€12M,€26K,79,79
+544,230251,Melvin Luan Parrela Porfírio,21,Brazil,RB Bragantino,188,88,€18.5M,€15K,79,79
+545,230234,Everton Jorge Andrade Zanon,25,Brazil,Fluminense,177,75,€17M,€26K,79,79
+546,230216,Adnan Claudiano Vidual Machado,29,Brazil,Internacional,175,70,€15.5M,€32K,79,79
+547,230184,Ronaldo Diego Esler Domingues,21,Brazil,Fortaleza,168,65,€19M,€12K,79,79
+548,229857,Stefano Sensi,25,Italy,U.C. Sampdoria,168,62,€23M,€89K,79,82
+549,229752,Djibril Sow,24,Switzerland,Eintracht Frankfurt,184,76,€24M,€29K,79,82
+550,228881,Davide Calabria,24,Italy,AC Milan,177,70,€22M,€35K,79,82
+551,228520,Ezequiel Ávila,27,Argentina,CA Osasuna,172,81,€19M,€36K,79,79
+552,227813,Oleksandr Zinchenko,24,Ukraine,Manchester City,175,64,€22M,€90K,79,82
+553,227678,Ezri Konsa,23,England,Aston Villa,183,77,€32.5M,€55K,79,86
+554,227535,Rodrigo Bentancur,24,Uruguay,Tottenham Hotspur,187,78,€25M,€77K,79,83
+555,227236,André-Franck Zambo Anguissa,25,Cameroon,Napoli,184,78,€23M,€62K,79,82
+556,227174,Matty Cash,23,Poland,Aston Villa,179,74,€23.5M,€55K,79,83
+557,226851,Benjamin Pavard,25,France,FC Bayern München,186,81,€21.5M,€64K,79,82
+558,226456,Pablo Fornals Malla,25,Spain,West Ham United,178,67,€23M,€69K,79,82
+559,226162,Emiliano Buendía,24,Argentina,Aston Villa,172,65,€24M,€61K,79,82
+560,225663,Alexandr Golovin,25,Russia,AS Monaco,180,69,€24.5M,€53K,79,83
+561,225341,David García Zubiria,27,Spain,CA Osasuna,185,72,€18.5M,€30K,79,81
+562,225126,Ellyes Skhiri,26,Tunisia,1. FC Köln,185,74,€19.5M,€31K,79,81
+563,224371,Jarrod Bowen,24,England,West Ham United,175,70,€24M,€63K,79,82
+564,224031,Adam Marušić,28,Montenegro,Lazio,185,85,€16M,€59K,79,79
+565,224003,Sergio Herrera Pirón,28,Spain,CA Osasuna,192,82,€15M,€26K,79,81
+566,223959,Lucas Torreira,25,Uruguay,Fiorentina,166,60,€20M,€73K,79,81
+567,223816,Jonathan Rodríguez,27,Uruguay,Al Nassr,177,79,€19M,€50K,79,79
+568,223249,Gabriel Arias,33,Chile,Racing Club,188,82,€5.5M,€18K,79,79
+569,222501,Timothy Castagne,25,Belgium,Leicester City,185,80,€20M,€84K,79,81
+570,222028,Julian Weigl,25,Germany,SL Benfica,186,80,€23M,€16K,79,82
+571,221363,Donny van de Beek,24,Netherlands,Everton,184,74,€26.5M,€95K,79,84
+572,221087,Pau López Sabata,26,Spain,Olympique de Marseille,189,77,€17.5M,€33K,79,82
+573,220793,Davinson Sánchez,25,Colombia,Tottenham Hotspur,187,81,€18.5M,€77K,79,80
+574,220673,Renato Tapia,25,Peru,RC Celta de Vigo,185,80,€22M,€25K,79,83
+575,220407,Martin Dúbravka,32,Slovakia,Newcastle United,190,80,€8.5M,€35K,79,79
+576,220253,Munir El Haddadi,25,Morocco,Sevilla FC,175,69,€21M,€33K,79,80
+577,219789,Hamari Traoré,29,Mali,Stade Rennais FC,175,71,€15.5M,€49K,79,79
+578,219733,Ludovic Ajorque,27,France,RC Strasbourg Alsace,197,92,€19M,€32K,79,79
+579,216531,João Paulo Dias Fernandes,28,Portugal,Sporting CP,187,88,€18M,€19K,79,79
+580,216435,Stanislav Lobotka,26,Slovakia,Napoli,170,64,€18.5M,€60K,79,80
+581,216150,Davide Zappacosta,29,Italy,Atalanta,182,75,€15.5M,€51K,79,79
+582,215270,Lucas Zelarayán,29,Armenia,Columbus Crew,172,70,€17M,€12K,79,79
+583,214584,Franco Armani,34,Argentina,River Plate,189,88,€3M,€16K,79,79
+584,213956,Adama Traoré Diarra,25,Spain,FC Barcelona,178,86,€21M,€87K,79,80
+585,213516,Ricardo Jorge da Luz Horta,26,Portugal,SC Braga,173,63,€21M,€20K,79,80
+586,212814,João Mário N. Costa Eduardo,28,Portugal,SL Benfica,179,73,€17.5M,€18K,79,79
+587,212404,Federico Bernardeschi,27,Italy,Juventus,185,77,€18.5M,€77K,79,79
+588,212382,Paul Ebere Onuachu,27,Nigeria,KRC Genk,201,93,€19M,€23K,79,79
+589,212242,Robert Andrich,26,Germany,Bayer 04 Leverkusen,187,83,€18.5M,€50K,79,80
+590,212151,Thomas Strakosha,26,Albania,Lazio,193,78,€17.5M,€46K,79,82
+591,212067,Camilo Vargas,32,Colombia,Club Atlas,187,82,€8.5M,€14K,79,79
+592,211738,Mark Flekken,28,Netherlands,Sport-Club Freiburg,195,87,€14M,€26K,79,80
+593,211591,Moussa Dembélé,24,France,Olympique Lyonnais,183,79,€24.5M,€63K,79,82
+594,211241,Rubén Peña Jiménez,29,Spain,Villarreal CF,170,65,€15.5M,€35K,79,79
+595,211022,Rubén García Santos,27,Spain,CA Osasuna,171,71,€18.5M,€33K,79,79
+596,210897,Chancel Mbemba,26,Congo DR,FC Porto,182,82,€20.5M,€16K,79,82
+597,210881,John McGinn,26,Scotland,Aston Villa,178,68,€20.5M,€71K,79,80
+598,208268,Bryan Cristante,26,Italy,Roma,186,80,€20.5M,€51K,79,82
+599,208165,Berat Djimsiti,28,Albania,Atalanta,190,83,€15M,€51K,79,79
+600,208135,Abdoulaye Doucouré,28,France,Everton,184,76,€17.5M,€87K,79,79
+601,208104,Matheus Lima Magalhães,28,Brazil,SC Braga,190,84,€15M,€15K,79,81
+602,207732,Roger Martí Salvador,30,Spain,Levante Unión Deportiva,179,74,€17M,€36K,79,79
+603,207599,Michael Keane,28,England,Everton,191,82,€16.5M,€80K,79,80
+604,207566,William Silva de Carvalho,29,Portugal,Real Betis Balompié,187,79,€15M,€27K,79,79
+605,207421,Leandro Trossard,26,Belgium,Brighton & Hove Albion,172,67,€19M,€64K,79,79
+606,206545,Manuel Trigueros Muñoz,29,Spain,Villarreal CF,178,75,€17M,€39K,79,79
+607,205849,Esteban Andrada,30,Argentina,CF Monterrey ,194,80,€11.5M,€41K,79,79
+608,205600,Samuel Umtiti,27,France,FC Barcelona,182,75,€16M,€115K,79,79
+609,205175,Arkadiusz Milik,27,Poland,Olympique de Marseille,186,80,€19M,€71K,79,79
+610,205069,Juan Bernat Velasco,28,Spain,Paris Saint-Germain,170,67,€16M,€75K,79,79
+611,204970,Florian Thauvin,28,France,Tigres U.A.N.L.,181,77,€17.5M,€56K,79,79
+612,204538,Raúl Ruidíaz,30,Peru,Seattle Sounders FC,169,66,€17M,€13K,79,79
+613,204259,Santiago Arias,29,Colombia,Granada CF,178,72,€15.5M,€53K,79,79
+614,204234,Edgar Badia Guardiola,29,Spain,Elche CF,180,70,€13.5M,€20K,79,80
+615,203980,Konstantinos Fortounis,28,Greece,Olympiacos CFP,183,70,€17.5M,€2K,79,79
+616,203551,Alessandro Florenzi,30,Italy,AC Milan,173,67,€15M,€51K,79,79
+617,202857,Karim Bellarabi,31,Germany,Bayer 04 Leverkusen,184,81,€14.5M,€55K,79,79
+618,202477,Gerard Deulofeu Lázaro,27,Spain,Udinese Calcio,177,73,€19M,€24K,79,79
+619,202166,Julian Draxler,27,Germany,Paris Saint-Germain,187,77,€18.5M,€85K,79,79
+620,202048,Conor Coady,28,England,Wolverhampton Wanderers,186,80,€16.5M,€80K,79,80
+621,201995,Felipe Anderson Pereira Gomes,28,Brazil,Lazio,175,70,€17.5M,€70K,79,79
+622,201922,Martin Hinteregger,28,Austria,,186,82,€0,€0,79,79
+623,201455,Geoffrey Kondogbia,28,Central African Republic,Atlético de Madrid,188,80,€17.5M,€58K,79,79
+624,201399,Mauro Icardi,28,Argentina,Paris Saint-Germain,181,75,€18M,€88K,79,79
+625,201143,Aïssa Mandi,29,Algeria,Villarreal CF,184,78,€14.5M,€35K,79,79
+626,200726,Benjamin Lecomte,30,France,Atlético de Madrid,186,78,€11.5M,€41K,79,79
+627,200315,Cristian Tello Herrera,29,Spain,Real Betis Balompié,178,65,€17M,€30K,79,79
+628,200159,Stefan Ortega,28,Germany,DSC Arminia Bielefeld,185,88,€14M,€24K,79,80
+629,200155,Hans Vanaken,28,Belgium,Club Brugge KV,195,80,€17.5M,€32K,79,79
+630,199915,Lewis Dunk,29,England,Brighton & Hove Albion,192,88,€14.5M,€61K,79,79
+631,199641,Matz Sels,29,Belgium,RC Strasbourg Alsace,190,88,€13.5M,€23K,79,80
+632,199503,Granit Xhaka,28,Switzerland,Arsenal,185,82,€15.5M,€80K,79,79
+633,198230,Germán Sánchez Barahona,34,Spain,Granada CF,187,82,€5.5M,€26K,79,79
+634,198164,Jonathan Viera Ramos,31,Spain,Unión Deportiva Las Palmas,171,67,€14.5M,€14K,79,79
+635,197965,Luis Miguel Afonso Fernandes,31,Portugal,İstanbul Başakşehir FK,177,72,€14.5M,€17K,79,79
+636,197853,Serge Aurier,28,Côte d'Ivoire,Villarreal CF,174,74,€16M,€35K,79,79
+637,197225,Nicolás Lodeiro,32,Uruguay,Seattle Sounders FC,170,69,€14M,€12K,79,79
+638,196978,Callum Wilson,29,England,Newcastle United,180,66,€17.5M,€53K,79,79
+639,196432,Enzo Pérez,35,Argentina,River Plate,178,77,€4.9M,€14K,79,79
+640,193314,Aitor Fernández,30,Spain,Levante Unión Deportiva,182,78,€11.5M,€25K,79,79
+641,193198,Nemanja Gudelj,29,Serbia,Sevilla FC,187,73,€15M,€30K,79,79
+642,192789,Mario Gaspar Pérez Martínez,30,Spain,Villarreal CF,180,77,€15M,€34K,79,79
+643,191202,Nemanja Matić,32,Serbia,Manchester United,194,83,€11.5M,€100K,79,79
+644,190745,Marco Silvestri,30,Italy,Udinese Calcio,191,80,€11.5M,€16K,79,79
+645,190584,Asier Illarramendi,31,Spain,Real Sociedad,179,74,€12.5M,€34K,79,79
+646,189881,Chris Smalling,31,England,Roma,194,81,€12M,€51K,79,79
+647,189805,Luuk de Jong,30,Netherlands,FC Barcelona,188,86,€17M,€34K,79,79
+648,189690,Vicente Guaita Panadero,34,Spain,Crystal Palace,190,80,€3M,€45K,79,79
+649,189615,Aaron Cresswell,31,England,West Ham United,175,66,€12.5M,€66K,79,79
+650,189560,Vicente Iborra de la Fuente,33,Spain,Villarreal CF,190,80,€8.5M,€34K,79,79
+651,189117,Roman Bürki,30,Switzerland,Borussia Dortmund,187,85,€11.5M,€43K,79,79
+652,188041,Rafael de Souza Pereira,32,Brazil,Tigres U.A.N.L.,181,78,€11.5M,€49K,79,79
+653,186682,Ángel Montoro Sánchez,33,Spain,Granada CF,181,72,€8.5M,€26K,79,79
+654,184484,Gylfi Sigurðsson,31,Iceland,Everton,186,77,€14.5M,€83K,79,79
+655,184392,Matteo Darmian,31,Italy,Inter,182,70,€12.5M,€85K,79,79
+656,182212,Anthony Modeste,33,France,1. FC Köln,187,84,€11M,€37K,79,79
+657,178224,Javier Hernández,33,Mexico,LA Galaxy,175,73,€11M,€13K,79,79
+658,178213,Etienne Capoue,32,France,Villarreal CF,190,80,€14M,€37K,79,79
+659,177604,Ignacio Monreal Eraso,35,Spain,Real Sociedad,179,77,€5.5M,€24K,79,79
+660,176919,Nahuel Guzmán,35,Argentina,Tigres U.A.N.L.,193,94,€1.9M,€26K,79,79
+661,176676,Marcelo Vieira da Silva,33,Brazil,Real Madrid CF,174,75,€9M,€125K,79,79
+662,173221,Antonio Candreva,34,Italy,U.C. Sampdoria,180,70,€8M,€25K,79,79
+663,169588,Jonny Evans,33,Northern Ireland,Leicester City,188,77,€8.5M,€88K,79,79
+664,168435,Salvatore Sirigu,34,Italy,Genoa,192,85,€3M,€16K,79,79
+665,163705,Steve Mandanda,36,France,Olympique de Marseille,185,82,€1.9M,€21K,79,79
+666,146748,Diego López Rodríguez,39,Spain,RCD Espanyol de Barcelona,196,89,€1.9M,€11K,79,79
+667,41,Andrés Iniesta Luján,37,Spain,Vissel Kobe,171,68,€5.5M,€10K,79,79
+668,257179,Gonçalo Bernardo Inácio,19,Portugal,Sporting CP,185,78,€28.5M,€8K,78,87
+669,255253,Vítor Machado Ferreira,21,Portugal,FC Porto,173,64,€31.5M,€12K,78,88
+670,253149,Jeremie Frimpong,20,Netherlands,Bayer 04 Leverkusen,171,63,€26.5M,€33K,78,85
+671,251566,Gabriel Teodoro Martinelli Silva,20,Brazil,Arsenal,178,75,€31M,€56K,78,88
+672,251116,Tomáš Holeš,28,Czech Republic,SK Slavia Praha,180,73,€12.5M,€1K,78,78
+673,248695,Wesley Fofana,20,France,Leicester City,190,76,€29M,€57K,78,86
+674,247257,Roger Ibañez Da Silva,22,Brazil,Roma,185,73,€20.5M,€40K,78,84
+675,247204,Emerson Leite De Souza,22,Brazil,Tottenham Hotspur,181,79,€19M,€63K,78,82
+676,246844,Carlos Neva Tey,25,Spain,Granada CF,174,64,€19M,€23K,78,83
+677,246242,Boulaye Dia,24,Senegal,Villarreal CF,180,75,€21.5M,€32K,78,83
+678,246191,Julián Álvarez,21,Argentina,River Plate,173,68,€32M,€87K,78,86
+679,246104,Ryan Gravenberch,19,Netherlands,Ajax,190,79,€33M,€11K,78,90
+680,245388,Jean-Clair Todibo,21,France,OGC Nice,190,88,€20.5M,€23K,78,84
+681,244892,Sofiane Diop,21,France,AS Monaco,175,65,€31.5M,€37K,78,86
+682,244622,Javier Puado Díaz,23,Spain,RCD Espanyol de Barcelona,177,69,€22M,€19K,78,84
+683,244316,Luís Manuel Arantes Maximiano,22,Portugal,Granada CF,190,82,€24.5M,€16K,78,85
+684,243647,Altay Bayındır,23,Turkey,Fenerbahçe SK,198,73,€17M,€30K,78,83
+685,243245,Orkun Kökçü,20,Turkey,Feyenoord,175,68,€27.5M,€10K,78,85
+686,242577,Romain Faivre,22,France,Olympique Lyonnais,180,69,€22.5M,€52K,78,84
+687,242201,Luis Milla Manzanares,26,Spain,Granada CF,175,67,€16.5M,€24K,78,81
+688,242187,Christoph Baumgartner,21,Austria,TSG Hoffenheim,180,73,€22.5M,€27K,78,84
+689,241727,Predrag Rajković,25,Serbia,Stade de Reims,191,85,€16.5M,€20K,78,83
+690,241390,Eljif Elmas,21,North Macedonia,Napoli,184,74,€28.5M,€44K,78,85
+691,240938,Junior Messias,30,Brazil,AC Milan,179,70,€13.5M,€6K,78,78
+692,240740,Callum Hudson-Odoi,20,England,Chelsea,177,79,€31M,€77K,78,86
+693,240699,Nicolás De la Cruz,24,Uruguay,River Plate,167,65,€19M,€17K,78,81
+694,240690,Nicolás González,23,Argentina,Fiorentina,180,72,€22M,€50K,78,84
+695,239482,Wenderson Nascimento Galeno,23,Brazil,FC Porto,179,62,€20M,€14K,78,82
+696,239380,Noa Lang,22,Netherlands,Club Brugge KV,179,69,€28.5M,€27K,78,85
+697,238744,Weston McKennie,22,United States,Juventus,183,84,€20.5M,€61K,78,82
+698,238616,Pedro Lomba Neto,21,Portugal,Wolverhampton Wanderers,172,62,€28.5M,€62K,78,85
+699,238463,Amadou Haidara,23,Mali,RB Leipzig,175,72,€21M,€58K,78,83
+700,238216,Conor Gallagher,21,England,Crystal Palace,182,74,€28.5M,€69K,78,85
+701,238033,Florin Niță,33,Romania,AC Sparta Praha,184,78,€4.6M,€1K,78,78
+702,237184,Keidi Bare,23,Albania,RCD Espanyol de Barcelona,174,66,€19.5M,€17K,78,83
+703,236679,Óscar Melendo Jiménez,23,Spain,RCD Espanyol de Barcelona,167,63,€20M,€19K,78,82
+704,236583,Jiří Pavlenka,29,Czech Republic,SV Werder Bremen,196,81,€11M,€12K,78,79
+705,236506,Marcos Senesi,24,Argentina,Feyenoord,183,78,€20M,€11K,78,84
+706,235134,Pablo Rosario,24,Netherlands,OGC Nice,188,73,€18.5M,€27K,78,82
+707,234835,Domingos Sousa Menezes Duarte,26,Portugal,Granada CF,190,78,€16.5M,€24K,78,81
+708,234777,Zack Steffen,26,United States,Manchester City,191,86,€15M,€78K,78,82
+709,234711,Josip Brekalo,23,Croatia,Torino F.C.,175,70,€22.5M,€56K,78,84
+710,234612,Jonathan Ikoné,23,France,Fiorentina,175,73,€20M,€50K,78,82
+711,234574,José Diogo Dalot Teixeira,22,Portugal,Manchester United,184,76,€21M,€78K,78,84
+712,234426,Marcos Nascimento Teixeira,25,Brazil,Galatasaray SK,185,81,€18.5M,€49K,78,83
+713,234128,Luiz Araújo,25,Brazil,Atlanta United,175,70,€15.5M,€10K,78,78
+714,234035,Álvaro Odriozola Arzalluz,25,Spain,Fiorentina,176,66,€16M,€110K,78,80
+715,232938,Takehiro Tomiyasu,22,Japan,Arsenal,188,84,€27M,€59K,78,85
+716,232487,Wataru Endo,28,Japan,VfB Stuttgart,178,76,€12.5M,€29K,78,78
+717,232440,Caio Henrique Oliveira Silva,23,Brazil,AS Monaco,179,70,€18.5M,€39K,78,82
+718,231628,Rafael Mir Vicente,24,Spain,Sevilla FC,191,86,€21.5M,€27K,78,83
+719,231521,Exequiel Palacios,22,Argentina,Bayer 04 Leverkusen,177,67,€21.5M,€43K,78,83
+720,231410,Brahim Díaz,21,Spain,AC Milan,171,59,€31.5M,€90K,78,86
+721,230977,Miguel Almirón,27,Paraguay,Newcastle United,174,70,€15M,€43K,78,78
+722,230460,Jonathan Prazeres Conradi,21,Brazil,Flamengo,172,70,€16.5M,€33K,78,78
+723,230442,Matheus Jadson Bardeira Cunha,21,Brazil,Fortaleza,187,85,€17M,€14K,78,78
+724,230440,Fred Claudinei Tófoli Vilela,33,Brazil,Palmeiras,188,87,€9M,€43K,78,78
+725,230426,Arturo Adolfo Inálcio Dutra,21,Brazil,Flamengo,170,60,€16.5M,€30K,78,78
+726,230406,G. Pierre Paiva Souza,25,Brazil,Flamengo,173,72,€15.5M,€38K,78,78
+727,230385,Alberto Marcelo Dutra Cirino,29,Brazil,São Paulo,175,72,€14M,€45K,78,78
+728,230360,Everton Jorge Simão Resende,21,Brazil,RB Bragantino,176,75,€15M,€13K,78,78
+729,230285,Vincente Filho Dourado Hermes,25,Brazil,Flamengo,190,88,€13.5M,€35K,78,78
+730,230212,A. Benjamin Chiamuloira Paes,21,Brazil,Internacional,182,79,€14.5M,€20K,78,78
+731,230206,Wellingt. Edson Sabrão Rolim,33,Brazil,Flamengo,169,66,€7.5M,€37K,78,78
+732,230183,Gérson Adriano Gutierres Serra,21,Brazil,Internacional,186,73,€15M,€20K,78,78
+733,229927,Gerson Santos da Silva,24,Brazil,Olympique de Marseille,184,76,€20M,€35K,78,82
+734,228336,Florian Grillitsch,25,Austria,TSG Hoffenheim,187,77,€17M,€32K,78,81
+735,228093,Marcus Thuram,23,France,Borussia Mönchengladbach,192,88,€22M,€27K,78,84
+736,227890,Nuno Miguel Gomes dos Santos,26,Portugal,Sporting CP,177,72,€15.5M,€17K,78,78
+737,227536,Moussa Marega,30,Mali,Al Hilal,183,83,€14M,€45K,78,78
+738,227275,Agustín Rossi,25,Argentina,Boca Juniors,195,95,€16.5M,€14K,78,83
+739,227222,Frédéric Guilbert,26,France,RC Strasbourg Alsace,178,78,€15M,€58K,78,79
+740,226789,Angelo Fulgini,24,France,Angers SCO,183,71,€20M,€23K,78,82
+741,226766,Daniel Castelo Podence,25,Portugal,Wolverhampton Wanderers,165,58,€17M,€79K,78,79
+742,226710,Gianluca Scamacca,22,Italy,U.S. Sassuolo Calcio,195,85,€23M,€34K,78,84
+743,226515,Andrei Girotto,29,Brazil,FC Nantes,186,79,€12M,€28K,78,78
+744,225859,Moussa Niakhaté,25,France,1. FSV Mainz 05,190,85,€15.5M,€24K,78,80
+745,225719,Kelechi Iheanacho,24,Nigeria,Leicester City,185,82,€18.5M,€83K,78,80
+746,225711,Abdou Diallo,25,Senegal,Paris Saint-Germain,187,79,€16.5M,€62K,78,81
+747,225659,Guido Rodríguez,26,Argentina,Real Betis Balompié,185,80,€15M,€24K,78,79
+748,225263,Duje Ćaleta-Car,24,Croatia,Olympique de Marseille,192,89,€19M,€31K,78,83
+749,225116,Alex Meret,24,Italy,Napoli,190,83,€15M,€36K,78,81
+750,224196,Ramy Bensebaini,26,Algeria,Borussia Mönchengladbach,186,82,€15M,€28K,78,79
+751,224069,Karl Toko Ekambi,28,Cameroon,Olympique Lyonnais,185,74,€14M,€62K,78,78
+752,223874,Valentin Rongier,26,France,Olympique de Marseille,172,70,€16.5M,€40K,78,79
+753,223724,Stefan Lainer,28,Austria,Borussia Mönchengladbach,175,73,€12.5M,€29K,78,78
+754,223578,Jaime Mata Arnaiz,32,Spain,Getafe CF,185,79,€11.5M,€33K,78,78
+755,223550,Jonas Omlin,27,Switzerland,Montpellier Hérault SC,189,80,€13M,€21K,78,80
+756,223053,Ángel Mena,33,Ecuador,Club León,168,71,€9M,€28K,78,78
+757,222493,Marvin Friedrich,25,Germany,Borussia Mönchengladbach,192,83,€15.5M,€27K,78,80
+758,221697,Ollie Watkins,25,England,Aston Villa,180,70,€19M,€67K,78,81
+759,220621,Saïd Benrahma,25,Algeria,West Ham United,172,67,€17M,€63K,78,79
+760,220523,Yerry Mina,26,Colombia,Everton,195,94,€15.5M,€69K,78,80
+761,220502,Mattia Zaccagni,26,Italy,Lazio,177,63,€16.5M,€61K,78,79
+762,220182,Jason Denayer,26,Belgium,Olympique Lyonnais,184,80,€16.5M,€55K,78,81
+763,219985,Matias Vecino,29,Uruguay,Inter,187,81,€13.5M,€88K,78,78
+764,219522,Jeremías Conan Ledesma,28,Argentina,Cádiz CF,186,83,€12M,€25K,78,80
+765,219145,Guillermo Maripán,27,Chile,AS Monaco,193,83,€15M,€46K,78,80
+766,216258,Ihlas Bebou,27,Togo,TSG Hoffenheim,185,80,€15M,€40K,78,78
+767,216194,Daniel García Carrillo,31,Spain,Athletic Club de Bilbao,180,81,€11.5M,€29K,78,78
+768,215798,Maxwel Cornet,24,Côte d'Ivoire,Burnley,179,69,€19M,€34K,78,81
+769,215716,Aleksandar Mitrović,26,Serbia,Fulham,189,90,€17M,€64K,78,79
+770,214766,Carlos Izquierdoz,32,Argentina,Boca Juniors,185,85,€9M,€18K,78,78
+771,214092,Alexey Miranchuk,25,Russia,Atalanta,182,74,€17.5M,€46K,78,80
+772,213577,Antonio José Rodríguez Díaz,29,Spain,Granada CF,183,77,€14M,€27K,78,78
+773,212419,Tyrone Mings,28,England,Aston Villa,196,77,€12M,€61K,78,78
+774,212213,Ricardo Sousa Esgaio,28,Portugal,Sporting CP,173,65,€12.5M,€15K,78,78
+775,212187,Philipp Max,27,Germany,PSV,177,77,€13.5M,€19K,78,78
+776,211515,Pierluigi Gollini,26,Italy,Tottenham Hotspur,194,94,€14M,€36K,78,81
+777,211117,Dele Alli,25,England,Everton,188,80,€18.5M,€72K,78,81
+778,210665,Marcel Halstenberg,29,Germany,RB Leipzig,188,87,€12M,€64K,78,78
+779,210513,Juan Fernando Quintero,28,Colombia,River Plate,168,67,€14M,€16K,78,78
+780,210372,Rachid Ghezzal,29,Algeria,Beşiktaş JK,182,70,€14M,€51K,78,78
+781,209440,Romário Ricardo da Silva,30,Brazil,Al Ittihad,174,69,€14M,€45K,78,78
+782,208920,Nathan Aké,26,Netherlands,Manchester City,180,75,€16.5M,€95K,78,81
+783,208364,Clinton Mukoni Mata Pedro Lourenço,28,Angola,Club Brugge KV,180,73,€12.5M,€27K,78,78
+784,208334,Jonas Hector,31,Germany,1. FC Köln,185,75,€10M,€28K,78,78
+785,208295,Romain Saïss,31,Morocco,Wolverhampton Wanderers,188,84,€9.5M,€69K,78,78
+786,207877,Josef Martínez,28,Venezuela,Atlanta United,170,69,€14.5M,€12K,78,78
+787,207791,Yussuf Poulsen,27,Denmark,RB Leipzig,192,84,€15M,€72K,78,78
+788,207494,Jesse Lingard,28,England,Manchester United,175,60,€14M,€105K,78,78
+789,206651,Roberto Torres Morales,32,Spain,CA Osasuna,178,72,€11M,€30K,78,78
+790,206590,Moisés Gómez Bordonado,27,Spain,Villarreal CF,176,73,€15M,€33K,78,78
+791,206534,Patrick Bamford,27,England,Leeds United,185,71,€15M,€82K,78,78
+792,206467,Alassane Plea,28,France,Borussia Mönchengladbach,181,79,€14.5M,€35K,78,78
+793,206413,Taras Stepanenko,31,Ukraine,Shakhtar Donetsk,181,76,€10M,€1K,78,78
+794,205705,Zouhair Feddal,31,Morocco,Sporting CP,191,85,€9.5M,€14K,78,78
+795,205192,Denis Suárez Fernández,27,Spain,RC Celta de Vigo,178,66,€15M,€26K,78,78
+796,204399,Eran Zahavi,33,Israel,PSV,182,71,€9M,€22K,78,78
+797,204082,John Brooks,28,United States,VfL Wolfsburg,193,78,€13.5M,€56K,78,79
+798,204024,Christoph Kramer,30,Germany,Borussia Mönchengladbach,191,76,€12M,€28K,78,78
+799,203895,Alejandro Pozuelo Melero,29,Spain,Inter Miami CF,170,74,€14M,€11K,78,78
+800,203843,Damián Suárez,33,Uruguay,Getafe CF,173,68,€7.5M,€28K,78,78
+801,203747,Héctor Bellerín Moruno,26,Spain,Real Betis Balompié,178,74,€15M,€69K,78,79
+802,203605,Pavel Kadeřábek,29,Czech Republic,TSG Hoffenheim,182,81,€12.5M,€35K,78,78
+803,203483,Davy Klaassen,28,Netherlands,Ajax,179,70,€14M,€19K,78,78
+804,203299,André Carrillo,30,Peru,Al Hilal,182,78,€13.5M,€45K,78,78
+805,202750,Willy Boly,30,Côte d'Ivoire,Wolverhampton Wanderers,195,97,€11.5M,€69K,78,78
+806,202371,Thomas Meunier,29,Belgium,Borussia Dortmund,191,90,€12.5M,€51K,78,78
+807,201400,Rafael Alcântara,28,Brazil,Real Sociedad,174,71,€14M,€74K,78,78
+808,199813,Gernot Trauner,29,Austria,Feyenoord,183,82,€12M,€13K,78,78
+809,199652,Dennis Praet,27,Belgium,Torino F.C.,181,78,€15M,€87K,78,78
+810,199576,Oriol Romeu Vidal,29,Spain,Southampton,183,83,€12M,€53K,78,78
+811,199354,Lucas Pérez Martínez,32,Spain,Cádiz CF,180,73,€11.5M,€35K,78,78
+812,198946,Danilo D'Ambrosio,32,Italy,Inter,180,75,€9M,€77K,78,78
+813,198784,Alex Oxlade-Chamberlain,27,England,Liverpool,175,70,€15M,€95K,78,78
+814,198658,Fredrik Midtsjø,27,Norway,AZ Alkmaar,175,68,€15M,€13K,78,78
+815,198329,Rodrigo Moreno Machado,30,Spain,Leeds United,182,77,€13.5M,€76K,78,78
+816,195479,James Tavernier,29,England,Rangers FC,182,75,€12.5M,€53K,78,78
+817,195093,Willian José da Silva,29,Brazil,Real Betis Balompié,189,91,€14M,€38K,78,78
+818,194806,Craig Dawson,31,England,West Ham United,188,77,€9.5M,€60K,78,78
+819,194333,Rafał Gikiewicz,33,Poland,FC Augsburg,190,81,€4.6M,€21K,78,78
+820,194222,Víctor Laguardia Cisneros,31,Spain,Deportivo Alavés,185,80,€9.5M,€25K,78,78
+821,194209,Youssef El Arabi,34,Morocco,Olympiacos CFP,182,84,€7M,€2K,78,78
+822,193469,Víctor Ruiz Torre,32,Spain,Real Betis Balompié,185,78,€9M,€24K,78,78
+823,193061,Roberto Pereyra,30,Argentina,Udinese Calcio,182,77,€13.5M,€20K,78,78
+824,192906,Luis Miguel Rodríguez,36,Argentina,Club Atlético Colón,167,67,€4.8M,€14K,78,78
+825,192679,Sergio Escudero Palomo,31,Spain,Granada CF,176,72,€10M,€24K,78,78
+826,192678,Enrique García Martínez,31,Spain,CA Osasuna,186,79,€12M,€33K,78,78
+827,190972,Eduardo Salvio,30,Argentina,Boca Juniors,173,71,€13.5M,€21K,78,78
+828,190813,Stephan El Shaarawy,28,Italy,Roma,178,73,€14M,€58K,78,78
+829,190243,Marwin Hitz,33,Switzerland,Borussia Dortmund,194,89,€4.6M,€39K,78,78
+830,189682,Ben Mee,31,England,Burnley,180,82,€9.5M,€36K,78,78
+831,189505,Pedro Rodríguez Ledesma,33,Spain,Lazio,169,65,€9M,€61K,78,78
+832,189125,Giacomo Bonaventura,31,Italy,Fiorentina,181,75,€11.5M,€52K,78,78
+833,189053,Francesco Caputo,33,Italy,U.C. Sampdoria,181,74,€9M,€38K,78,78
+834,188988,Manuel Lanzini,28,Argentina,West Ham United,167,59,€14M,€68K,78,78
+835,188042,Matías Suárez,33,Argentina,River Plate,183,75,€9M,€21K,78,78
+836,187052,Yann M'Vila,31,France,Olympiacos CFP,182,80,€10M,€2K,78,78
+837,180216,Séamus Coleman,32,Republic of Ireland,Everton,177,77,€9.5M,€69K,78,78
+838,178518,Radja Nainggolan,33,Belgium,Royal Antwerp FC,176,65,€8.5M,€25K,78,78
+839,176635,Mesut Özil,32,Germany,Fenerbahçe SK,180,70,€11M,€50K,78,78
+840,176550,David Ospina,32,Colombia,Napoli,183,80,€7M,€44K,78,78
+841,174543,Claudio Bravo,38,Chile,Real Betis Balompié,184,80,€1.6M,€13K,78,78
+842,173608,José Luis Sanmartín Mato,31,Spain,Deportivo Alavés,192,80,€12M,€29K,78,78
+843,173373,Sergio Romero,34,Argentina,Venezia FC,192,86,€2.4M,€18K,78,78
+844,171897,Andrés Guardado,34,Mexico,Real Betis Balompié,169,67,€4.8M,€24K,78,78
+845,170368,Erik Lamela,29,Argentina,Sevilla FC,184,80,€14M,€32K,78,78
+846,167397,Radamel Falcao García Zarate,35,Colombia,Rayo Vallecano,177,72,€6M,€19K,78,78
+847,158625,Dante Bonfim Costa Santos,37,Brazil,OGC Nice,189,91,€2.5M,€23K,78,78
+848,156616,Franck Ribéry,38,France,US Salernitana 1919,170,72,€4.8M,€37K,78,78
+849,156433,Alfredo Talavera,38,Mexico,Club Universidad Nacional,186,85,€1.6M,€8K,78,78
+850,154472,Jorge Molina Vidal,39,Spain,Granada CF,188,72,€4.8M,€20K,78,78
+851,146439,Álvaro Negredo Sánchez,35,Spain,Cádiz CF,186,86,€6M,€27K,78,78
+852,139068,Luís Carlos Almeida da Cunha,34,Portugal,Venezia FC,177,70,€6.5M,€24K,78,78
+853,138412,James Milner,35,England,Liverpool,175,70,€5.5M,€69K,78,78
+854,124375,Burak Yılmaz,35,Turkey,LOSC Lille,188,77,€6M,€31K,78,78
+855,24630,José Manuel Reina Páez,38,Spain,Lazio,188,92,€1.6M,€27K,78,78
+856,264240,Pablo Martín Páez Gavira,16,Spain,FC Barcelona,173,68,€24M,€14K,77,89
+857,262621,Giorgi Mamardashvili,20,Georgia,Valencia CF,199,88,€13M,€16K,77,83
+858,257536,Jan Kuchta,24,Czech Republic,,184,68,€0,€0,77,80
+859,256612,F. Evanilson de Lima Barbosa,21,Brazil,FC Porto,183,80,€24M,€12K,77,86
+860,254796,Noni Madueke,19,England,PSV,182,70,€23M,€11K,77,88
+861,253727,Lukáš Provod,24,Czech Republic,SK Slavia Praha,189,84,€16M,€1K,77,82
+862,253109,Joey Veerman,22,Netherlands,PSV,185,75,€17M,€17K,77,83
+863,252308,Ali Musrati,25,Libya,SC Braga,189,83,€13.5M,€14K,77,81
+864,251804,Sergiño Dest,20,United States,FC Barcelona,175,62,€20M,€71K,77,84
+865,251470,Charles De Ketelaere,20,Belgium,Club Brugge KV,192,79,€23.5M,€22K,77,87
+866,247103,Dávid Hancko,23,Slovakia,AC Sparta Praha,188,80,€22M,€950,77,85
+867,247090,Enzo Fernández,20,Argentina,River Plate,180,77,€23M,€14K,77,86
+868,247030,Petr Ševčík,27,Czech Republic,SK Slavia Praha,172,66,€11M,€1K,77,77
+869,246785,Bryan Gil Salvatierra,20,Spain,Valencia CF,175,65,€23M,€56K,77,87
+870,246618,Adam Hložek,18,Czech Republic,AC Sparta Praha,188,86,€22M,€500,77,87
+871,246186,Arthur Mendonça Cabral,23,Brazil,Fiorentina,186,89,€17M,€47K,77,83
+872,246172,Samuel Chukwueze,22,Nigeria,Villarreal CF,172,70,€21.5M,€27K,77,84
+873,245630,Youssouf Fofana,22,France,AS Monaco,176,69,€16M,€41K,77,82
+874,245541,Giovanni Reyna,18,United States,Borussia Dortmund,185,79,€22M,€18K,77,87
+875,245336,Max Kilman,24,England,Wolverhampton Wanderers,194,89,€15M,€56K,77,83
+876,245235,Alexander Bah,23,Denmark,SK Slavia Praha,183,76,€14M,€900,77,81
+877,244915,Mohammed Salisu,22,Ghana,Southampton,191,85,€22M,€41K,77,85
+878,244621,Carlos Vinícius Alves Morais,26,Brazil,PSV,190,83,€12.5M,€16K,77,78
+879,244374,Mykola Shaparenko,22,Ukraine,Dynamo Kyiv,178,72,€23.5M,€1K,77,85
+880,244253,Uroš Račić,23,Serbia,Valencia CF,193,81,€16M,€29K,77,82
+881,244193,Jovane Eduardo Borges Cabral,23,Cape Verde Islands,Lazio,174,81,€16.5M,€14K,77,83
+882,244067,Maxence Lacroix,21,France,VfL Wolfsburg,190,88,€22M,€36K,77,85
+883,243854,Mohamed Simakan,21,France,RB Leipzig,187,82,€22M,€41K,77,85
+884,243388,Borna Sosa,23,Croatia,VfB Stuttgart,187,79,€14M,€23K,77,81
+885,243282,Dwight McNeil,21,England,Burnley,183,70,€17M,€27K,77,83
+886,243015,Luis Romo,26,Mexico,CF Monterrey ,182,84,€13.5M,€47K,77,80
+887,242664,Alexis Saelemaekers,22,Belgium,AC Milan,180,72,€15.5M,€36K,77,81
+888,242656,Illan Meslier,21,France,Leeds United,196,74,€18.5M,€34K,77,84
+889,242374,Musa Barrow,22,Gambia,Bologna,183,70,€16M,€29K,77,82
+890,241202,Patson Daka,22,Zambia,Leicester City,183,71,€17M,€78K,77,83
+891,241159,Marc Guéhi,20,England,Crystal Palace,185,75,€21.5M,€34K,77,86
+892,241049,Andoni Gorosabel Espinosa,24,Spain,Real Sociedad,174,70,€15M,€25K,77,82
+893,241042,Oliver Skipp,20,England,Tottenham Hotspur,175,70,€19.5M,€49K,77,84
+894,240471,Fernando Gorriarán,26,Uruguay,Santos Laguna,168,68,€12.5M,€22K,77,80
+895,239901,Saša Kalajdžić,23,Austria,VfB Stuttgart,200,90,€16M,€27K,77,82
+896,239613,Matteo Pessina,24,Italy,Atalanta,183,75,€14.5M,€39K,77,80
+897,238896,Eduardo Gabriel Aquino Cossa,24,Brazil,FC Porto,175,66,€14.5M,€13K,77,80
+898,238476,Dan-Axel Zagadou,22,France,Borussia Dortmund,196,90,€14.5M,€39K,77,82
+899,238160,Merih Demiral,23,Turkey,Atalanta,190,86,€14.5M,€51K,77,82
+900,238095,Nikola Milenković,23,Serbia,Fiorentina,195,90,€15M,€39K,77,83
+901,237679,Randal Kolo Muani,22,France,FC Nantes,187,73,€21.5M,€26K,77,84
+902,237239,Enis Bardhi,25,North Macedonia,Levante Unión Deportiva,172,64,€12.5M,€27K,77,78
+903,237221,Juan Foyth,23,Argentina,Villarreal CF,187,69,€15M,€25K,77,82
+904,237086,Min Jae Kim,24,Korea Republic,Fenerbahçe SK,190,81,€15M,€37K,77,83
+905,236499,Douglas Luiz Soares de Paulo,23,Brazil,Aston Villa,175,66,€20M,€47K,77,84
+906,236045,Reinildo Isnard Mandava,27,Mozambique,Atlético de Madrid,180,73,€10M,€43K,77,77
+907,235997,Francisco José Beltrán Peinado,22,Spain,RC Celta de Vigo,165,64,€20M,€19K,77,84
+908,235794,Eberechi Eze,23,England,Crystal Palace,178,67,€16.5M,€45K,77,83
+909,235619,Marcus Edwards,22,England,Sporting CP,168,65,€17M,€14K,77,83
+910,235407,Salih Özcan,23,Turkey,1. FC Köln,180,76,€14M,€23K,77,81
+911,235353,Ismaïla Sarr,23,Senegal,Watford,185,76,€16.5M,€45K,77,83
+912,235183,Carlos Acevedo,25,Mexico,Santos Laguna,184,74,€11.5M,€16K,77,81
+913,234730,Valentin Rosier,24,France,Beşiktaş JK,175,75,€15M,€33K,77,82
+914,234678,Joakim Mæhle,24,Denmark,Atalanta,185,79,€13.5M,€35K,77,80
+915,234577,Diogo Meireles Costa,21,Portugal,FC Porto,187,81,€20.5M,€7K,77,86
+916,234468,Emanuel Reynoso,25,Argentina,Minnesota United FC,176,67,€12.5M,€10K,77,78
+917,234060,Yangel Herrera,23,Venezuela,RCD Espanyol de Barcelona,184,77,€16.5M,€86K,77,83
+918,233301,Rasmus Kristensen,23,Denmark,FC Red Bull Salzburg,187,70,€15M,€23K,77,82
+919,233267,Matt Turner,27,United States,,191,79,€0,€0,77,80
+920,232905,Junya Ito,28,Japan,KRC Genk,176,66,€10.5M,€21K,77,77
+921,232862,Shoya Nakajima,26,Japan,Portimonense SC,165,67,€11.5M,€15K,77,77
+922,232639,Ritsu Doan,23,Japan,PSV,172,70,€16.5M,€17K,77,83
+923,232223,Konstantinos Tsimikas,25,Greece,Liverpool,179,68,€13M,€76K,77,80
+924,232104,Daniel James,23,Wales,Leeds United,171,76,€16M,€62K,77,82
+925,232080,Jack Harrison,24,England,Leeds United,175,70,€14.5M,€62K,77,80
+926,231836,Jesper Karlsson,22,Sweden,AZ Alkmaar,171,70,€21.5M,€12K,77,84
+927,231633,Issa Diop,24,France,West Ham United,194,92,€14.5M,€48K,77,82
+928,231554,James Justin,23,England,Leicester City,183,80,€13.5M,€64K,77,80
+929,231366,Philipp Lienhart,24,Austria,Sport-Club Freiburg,189,83,€13M,€23K,77,80
+930,231318,Romain Perraud,23,France,Southampton,173,68,€15.5M,€41K,77,83
+931,230899,Ademola Lookman,23,England,Leicester City,174,71,€15M,€54K,77,81
+932,230625,Matheus Reis de Lima,26,Brazil,Sporting CP,184,80,€12M,€13K,77,80
+933,230431,Sidney Adrián Pessoa Vidigal,29,Brazil,Internacional,187,85,€9M,€27K,77,77
+934,230402,Murilo Kauê Cadete Teixeira,21,Brazil,Palmeiras,178,78,€12.5M,€28K,77,77
+935,230384,Nuno Ailton Padrenda Mendes,25,Brazil,Clube Atlético Mineiro,180,75,€12M,€37K,77,77
+936,230379,Danilo Manuel Vieira Espíndola,33,Brazil,Santos,189,84,€5M,€26K,77,77
+937,230371,Victor Martin Maia Padilha,25,Brazil,Palmeiras,178,75,€10.5M,€33K,77,77
+938,230349,Rodrigo Éder Vuarte Ruiz,29,Brazil,Clube Atlético Mineiro,179,77,€9M,€34K,77,77
+939,230346,Jadson José Meireles Correia,25,Brazil,Flamengo,176,72,€10.5M,€33K,77,77
+940,230337,Andeson Jaime Trigo Gonçalves,33,Brazil,Fluminense,175,68,€5.5M,€23K,77,77
+941,230331,Wagner Mauro Laranjo Coelho,37,Brazil,Palmeiras,177,77,€2.1M,€25K,77,77
+942,230269,Claudio Nuno Coíntra Calegari,25,Brazil,Palmeiras,174,71,€11.5M,€36K,77,77
+943,230241,Enzo Leandro Chissano Baia,29,Brazil,Palmeiras,165,62,€9.5M,€36K,77,77
+944,230197,Alessandro Baia Marques,33,Brazil,Clube Atlético Mineiro,175,71,€5.5M,€32K,77,77
+945,230182,Lucas Luciano Mantela Patrício,21,Brazil,Palmeiras,183,77,€9.5M,€18K,77,77
+946,230084,Lukas Nmecha,22,Germany,VfL Wolfsburg,185,80,€17M,€52K,77,83
+947,230065,Suat Serdar,24,Germany,Hertha BSC,184,75,€16M,€37K,77,82
+948,229909,Andrey Lunev,29,Russia,Bayer 04 Leverkusen,190,80,€7M,€37K,77,77
+949,229862,Eduardo Expósito Jaén,24,Spain,SD Eibar,178,68,€15M,€12K,77,81
+950,228789,Robert Lynch Sanchéz,23,Spain,Brighton & Hove Albion,197,85,€13.5M,€33K,77,83
+951,228687,Kasper Dolberg,23,Denmark,OGC Nice,187,84,€15.5M,€31K,77,81
+952,228579,Benjamin Henrichs,24,Germany,RB Leipzig,183,79,€13.5M,€49K,77,80
+953,228413,Emil Audero,24,Italy,U.C. Sampdoria,192,83,€10M,€13K,77,78
+954,228302,Alfonso Pedraza Sag,25,Spain,Villarreal CF,184,73,€13M,€27K,77,80
+955,228295,Rob Holding,25,England,Arsenal,189,75,€11.5M,€62K,77,79
+956,227927,Kyle Walker-Peters,24,England,Southampton,174,64,€15M,€41K,77,82
+957,227055,Gelson Dany Batalha Martins,26,Portugal,AS Monaco,173,74,€11.5M,€47K,77,77
+958,226637,Rubén Duarte Sánchez,25,Spain,Deportivo Alavés,180,75,€13M,€22K,77,80
+959,226601,Vitor Hugo Franchescoli Souza,30,Brazil,Trabzonspor,187,80,€8.5M,€26K,77,77
+960,226380,Hee Chan Hwang,25,Korea Republic,Wolverhampton Wanderers,177,77,€12.5M,€65K,77,78
+961,226268,Federico Dimarco,23,Italy,Inter,175,75,€14M,€62K,77,81
+962,225863,Olivier Boscagli,23,France,PSV,181,68,€14.5M,€15K,77,82
+963,225793,Ben Godfrey,23,England,Everton,183,79,€22M,€56K,77,85
+964,225783,Stephy Mavididi,23,England,Montpellier Hérault SC,182,71,€15M,€24K,77,81
+965,225508,Eric Bailly,27,Côte d'Ivoire,Manchester United,186,77,€10.5M,€85K,77,78
+966,225403,İrfan Can Kahveci,25,Turkey,Fenerbahçe SK,176,72,€14M,€45K,77,80
+967,225293,Habib Diallo,26,Senegal,RC Strasbourg Alsace,186,79,€13M,€27K,77,79
+968,225085,Jonathan Bamba,25,France,LOSC Lille,175,70,€12.5M,€34K,77,78
+969,225014,Gaetano Castrovilli,24,Italy,Fiorentina,187,71,€15M,€43K,77,81
+970,224574,Orbelín Pineda,25,Mexico,RC Celta de Vigo,169,63,€12.5M,€23K,77,78
+971,224490,Zeki Çelik,24,Turkey,LOSC Lille,180,78,€13.5M,€27K,77,80
+972,224425,Marius Wolf,26,Germany,Borussia Dortmund,188,81,€12.5M,€50K,77,78
+973,224422,Jérémie Boga,24,Côte d'Ivoire,Atalanta,172,68,€14.5M,€31K,77,80
+974,224221,Joachim Andersen,25,Denmark,Crystal Palace,192,90,€12.5M,€45K,77,80
+975,224116,Dyego Wilverson Ferreira Sousa,31,Portugal,Unión Deportiva Almería,190,82,€9M,€14K,77,77
+976,223885,Alexander Nübel,24,Germany,AS Monaco,193,88,€13.5M,€38K,77,83
+977,223690,Sergio Rochet,28,Uruguay,Club Nacional de Football,190,85,€9M,€1K,77,79
+978,223597,Ruben Aguilar,28,France,AS Monaco,172,71,€9.5M,€45K,77,77
+979,222509,Daniel Ceballos Fernández,24,Spain,Real Madrid CF,179,68,€14.5M,€100K,77,80
+980,222400,Harry Winks,25,England,Tottenham Hotspur,176,65,€14M,€72K,77,80
+981,222357,Breel Embolo,24,Switzerland,Borussia Mönchengladbach,187,88,€14.5M,€27K,77,80
+982,221491,Nico Elvedi,24,Switzerland,Borussia Mönchengladbach,189,81,€13.5M,€23K,77,81
+983,220883,Rafael Santos Borré,25,Colombia,Eintracht Frankfurt,174,70,€13M,€30K,77,78
+984,220876,Franck Honorat,24,France,Stade Brestois 29,180,70,€13.5M,€18K,77,79
+985,220746,Andrija Živković,24,Serbia,PAOK,169,62,€13.5M,€1K,77,79
+986,220633,Demarai Gray,25,England,Everton,183,75,€14M,€68K,77,80
+987,220132,Joseba Zaldúa Bengoetxea,29,Spain,Real Sociedad,174,69,€9.5M,€30K,77,77
+988,219953,Adrián Embarba Blázquez,29,Spain,RCD Espanyol de Barcelona,173,68,€10.5M,€21K,77,77
+989,218659,Matt Targett,25,England,Newcastle United,183,70,€13M,€52K,77,80
+990,217546,Nuno Miguel Jerónimo Sequeira,30,Portugal,SC Braga,184,79,€9M,€15K,77,77
+991,217196,José Luis Palomino,31,Argentina,Atalanta,188,87,€7M,€41K,77,77
+992,216939,Andre Blake,30,Jamaica,Philadelphia Union,188,79,€7M,€7K,77,77
+993,216820,Moses Simon,25,Nigeria,FC Nantes,168,69,€12.5M,€26K,77,78
+994,216816,Giovanni Simeone,25,Argentina,Hellas Verona,181,81,€14M,€34K,77,80
+995,216700,Maximiliano Meza,28,Argentina,CF Monterrey ,181,80,€10.5M,€53K,77,77
+996,216549,Alexander Sørloth,25,Norway,Real Sociedad,195,94,€14M,€65K,77,80
+997,216158,Silvan Widmer,28,Switzerland,1. FSV Mainz 05,183,80,€9.5M,€25K,77,77
+998,215639,Robert Kenedy Nunes do Nascimento,25,Brazil,Chelsea,182,77,€12.5M,€83K,77,78
+999,215353,Lucas Alario,28,Argentina,Bayer 04 Leverkusen,184,78,€11M,€53K,77,77
+1000,215071,Milton Casco,33,Argentina,River Plate,170,69,€5.5M,€17K,77,77
+1001,214436,Paulo Díaz,26,Chile,River Plate,178,76,€11M,€17K,77,78
+1002,213761,Abderrazak Hamdallah,30,Morocco,Al Ittihad,180,82,€10.5M,€42K,77,77
+1003,213388,Flavien Tait,28,France,Stade Rennais FC,175,70,€10.5M,€46K,77,77
+1004,212602,Diego Javier Llorente Ríos,27,Spain,Leeds United,186,76,€11M,€65K,77,79
+1005,212501,Leander Dendoncker,26,Belgium,Wolverhampton Wanderers,189,88,€12.5M,€71K,77,78
+1006,212228,Ivan Toney,25,England,Brentford,187,76,€13.5M,€49K,77,79
+1007,212219,Alexander Djiku,26,Ghana,RC Strasbourg Alsace,182,81,€12M,€23K,77,80
+1008,212153,Roberto Gagliardini,27,Italy,Inter,188,77,€10M,€73K,77,77
+1009,211784,Neal Maupay,24,France,Brighton & Hove Albion,173,69,€16M,€52K,77,82
+1010,211567,Gilberto Moraes Júnior,28,Brazil,SL Benfica,181,76,€9.5M,€14K,77,77
+1011,211381,Sofiane Boufal,27,Morocco,Angers SCO,175,67,€11.5M,€27K,77,77
+1012,211368,Armindo Tué Na Bangna,26,Portugal,PSV,173,70,€11.5M,€19K,77,77
+1013,211320,Daniele Rugani,26,Italy,Juventus,190,84,€11M,€60K,77,78
+1014,211093,Callum McGregor,28,Scotland,Celtic,178,74,€10.5M,€54K,77,77
+1015,210736,Emerson Palmieri dos Santos,26,Italy,Olympique Lyonnais,176,79,€11.5M,€80K,77,78
+1016,210679,Paulo André Rodrigues Oliveira,29,Portugal,SC Braga,187,81,€9M,€15K,77,77
+1017,210625,Kevin Mbabu,26,Switzerland,VfL Wolfsburg,184,83,€11.5M,€50K,77,78
+1018,210047,Fabian Schär,29,Switzerland,Newcastle United,188,84,€9M,€38K,77,77
+1019,209973,Jean-Pierre Nsame,28,Cameroon,Venezia FC,188,88,€11M,€21K,77,77
+1020,209744,Eugenio Mena,32,Chile,Racing Club,173,74,€7.5M,€19K,77,77
+1021,208787,Adrien Thomasson,27,France,RC Strasbourg Alsace,177,72,€11M,€25K,77,77
+1022,208777,Óliver Torres Muñoz,26,Spain,Sevilla FC,175,70,€12.5M,€27K,77,78
+1023,208250,Anastasios Bakasetas,28,Greece,Trabzonspor,181,78,€10.5M,€29K,77,77
+1024,208224,Petros Mantalos,29,Greece,AEK Athens,176,73,€10.5M,€2K,77,77
+1025,208004,Joël Veltman,29,Netherlands,Brighton & Hove Albion,184,75,€9M,€52K,77,77
+1026,207948,Bertrand Traoré,25,Burkina Faso,Aston Villa,181,73,€12.5M,€57K,77,78
+1027,207807,Ryan Fraser,27,Scotland,Newcastle United,163,70,€11M,€40K,77,77
+1028,207715,Nicolas López,27,Uruguay,Tigres U.A.N.L.,178,75,€11.5M,€49K,77,77
+1029,207664,Carlos Bacca,34,Colombia,Granada CF,181,77,€5M,€26K,77,77
+1030,206306,Jordan Ferri,29,France,Montpellier Hérault SC,173,73,€9M,€26K,77,77
+1031,206058,Mattia De Sciglio,28,Italy,Juventus,182,78,€9.5M,€63K,77,77
+1032,205923,Ben Davies,28,Wales,Tottenham Hotspur,181,76,€9M,€72K,77,77
+1033,205566,Alberto Moreno Pérez,28,Spain,Villarreal CF,171,65,€9.5M,€30K,77,77
+1034,205409,Sebastián Sosa,34,Uruguay,Club Atlético Independiente,179,79,€1.8M,€12K,77,77
+1035,205211,Milan Borjan,33,Canada,,196,84,€0,€0,77,77
+1036,204614,Mário Rui Silva Duarte,30,Portugal,Napoli,170,67,€9M,€51K,77,77
+1037,204529,Michy Batshuayi,27,Belgium,Beşiktaş JK,185,78,€11.5M,€95K,77,77
+1038,204341,Luís Carlos Novo Neto,33,Portugal,Sporting CP,185,72,€5M,€13K,77,77
+1039,203757,José Luís Mendes Andrade,30,Cape Verde Islands,Al Taawoun,184,80,€10.5M,€30K,77,77
+1040,203535,Tonny Vilhena,26,Netherlands,RCD Espanyol de Barcelona,175,70,€11.5M,€20K,77,77
+1041,203177,Dimitri Foulquier,28,France,Valencia CF,183,78,€9.5M,€32K,77,77
+1042,202848,Gianluca Caprari,27,Italy,Hellas Verona,176,72,€11.5M,€23K,77,77
+1043,202642,Fernando Lucas Martins,29,Brazil,Antalyaspor,173,66,€9M,€19K,77,77
+1044,202599,Igor Caique Coronado,28,Brazil,Al Ittihad,170,65,€10.5M,€41K,77,77
+1045,202325,Diego Demme,29,Germany,Napoli,172,71,€9M,€53K,77,77
+1046,202282,Stuart Armstrong,29,Scotland,Southampton,183,75,€10.5M,€54K,77,77
+1047,201976,Alfred Gomis,27,Senegal,Stade Rennais FC,196,80,€9.5M,€32K,77,79
+1048,201862,Marcos Rojo,31,Argentina,Boca Juniors,186,82,€7M,€17K,77,77
+1049,201417,Matt Doherty,29,Republic of Ireland,Tottenham Hotspur,182,87,€9.5M,€72K,77,77
+1050,201389,Cristiano Biraghi,28,Italy,Fiorentina,185,78,€9.5M,€47K,77,77
+1051,201377,Jeison Murillo,29,Colombia,RC Celta de Vigo,184,78,€9.5M,€20K,77,78
+1052,201042,Djibril Sidibé,28,France,AS Monaco,182,71,€9.5M,€45K,77,77
+1053,200215,Sebastian Rode,30,Germany,Eintracht Frankfurt,180,71,€9M,€26K,77,77
+1054,199715,Víctor Machín Pérez,31,Spain,Getafe CF,185,79,€8.5M,€47K,77,77
+1055,199393,Nicolas Pallois,33,France,FC Nantes,189,89,€5M,€25K,77,77
+1056,199339,Manuel Riemann,32,Germany,VfL Bochum 1848,186,83,€5M,€19K,77,77
+1057,199206,Domagoj Vida,32,Croatia,Beşiktaş JK,184,76,€7M,€39K,77,77
+1058,199069,Vincent Aboubakar,29,Cameroon,Al Nassr,184,82,€10.5M,€44K,77,77
+1059,199005,Mathew Ryan,29,Australia,Real Sociedad,184,82,€8M,€25K,77,78
+1060,198951,Cédric Bakambu,30,Congo DR,Olympique de Marseille,182,73,€10.5M,€41K,77,77
+1061,198657,Jonas Svensson,28,Norway,Adana Demirspor,170,70,€9.5M,€19K,77,77
+1062,198140,Rogelio Funes Mori,30,Mexico,CF Monterrey ,186,78,€10.5M,€51K,77,77
+1063,198118,Josuha Guilavogui,30,France,FC Girondins de Bordeaux,188,77,€9M,€50K,77,77
+1064,198032,Dan Burn,29,England,Newcastle United,198,87,€9M,€38K,77,77
+1065,197948,Florian Lejeune,30,France,Deportivo Alavés,189,81,€8.5M,€23K,77,77
+1066,195272,Marco Davide Faraoni,29,Italy,Hellas Verona,180,71,€9.5M,€27K,77,77
+1067,194958,Aaron Mooy,30,Australia,Shanghai Port FC,175,68,€10M,€25K,77,77
+1068,194932,Andros Townsend,29,England,Everton,175,73,€10.5M,€74K,77,77
+1069,194845,Wahbi Khazri,30,Tunisia,AS Saint-Étienne,176,82,€10.5M,€35K,77,77
+1070,194229,Hugo Mallo Novegil,30,Spain,RC Celta de Vigo,173,69,€9M,€22K,77,77
+1071,193601,Germán Pezzella,30,Argentina,Real Betis Balompié,186,81,€8.5M,€22K,77,77
+1072,193408,Haris Seferović,29,Switzerland,SL Benfica,189,85,€10.5M,€16K,77,77
+1073,193361,Roberto Soriano,30,Italy,Bologna,182,76,€10M,€33K,77,77
+1074,193254,Christopher Trimmel,34,Austria,1. FC Union Berlin,189,82,€3.9M,€29K,77,77
+1075,193171,Jaume Vicent Costa Jordá,33,Spain,RCD Mallorca,171,62,€5.5M,€25K,77,77
+1076,192816,Leandro Cabrera,30,Uruguay,RCD Espanyol de Barcelona,190,82,€8.5M,€19K,77,77
+1077,192123,Chris Wood,29,New Zealand,Newcastle United,191,92,€10.5M,€45K,77,77
+1078,191627,Mats Rits,27,Belgium,Club Brugge KV,178,72,€11M,€24K,77,78
+1079,190765,Pascal Groß,30,Germany,Brighton & Hove Albion,181,78,€10M,€55K,77,77
+1080,190432,Oier Sanjurjo Maté,35,Spain,CA Osasuna,178,72,€3M,€19K,77,77
+1081,190149,Oscar De Marcos Arana,32,Spain,Athletic Club de Bilbao,182,78,€7.5M,€25K,77,77
+1082,189606,Julian Baumgartlinger,33,Austria,Bayer 04 Leverkusen,181,85,€5M,€43K,77,77
+1083,189472,Aridane Hernández Umpiérrez,32,Spain,CA Osasuna,186,77,€7M,€26K,77,77
+1084,188955,Gustavo Bou,31,Argentina,New England Revolution,175,72,€9M,€11K,77,77
+1085,188335,Ante Budimir,29,Croatia,CA Osasuna,190,75,€10.5M,€32K,77,77
+1086,188103,Rubén Rochina Naixes,30,Spain,Granada CF,182,76,€10M,€24K,77,77
+1087,188044,Lan A,31,China PR,,178,64,€0,€0,77,77
+1088,186801,Cheikhou Kouyaté,31,Senegal,Crystal Palace,189,83,€7.5M,€48K,77,77
+1089,186627,Mario Balotelli,30,Italy,Adana Demirspor,190,94,€10.5M,€22K,77,77
+1090,186561,Aaron Ramsey,30,Wales,Rangers FC,183,76,€10M,€65K,77,77
+1091,185239,Ömer Toprak,31,Turkey,SV Werder Bremen,186,83,€7M,€13K,77,77
+1092,185195,Odion Ighalo,32,Nigeria,Al Hilal,183,73,€8.5M,€42K,77,77
+1093,185020,José María Callejón Bueno,34,Spain,Fiorentina,178,73,€4.9M,€53K,77,77
+1094,183394,Moussa Sissoko,31,France,Watford,187,91,€7.5M,€48K,77,77
+1095,183353,Víctor David Díaz Miguel,33,Spain,Granada CF,184,72,€5.5M,€22K,77,77
+1096,181820,Stevan Jovetić,31,Montenegro,Hertha BSC,183,79,€9M,€47K,77,77
+1097,180808,Ondřej Kúdela,34,Czech Republic,SK Slavia Praha,182,78,€3.4M,€1K,77,77
+1098,178415,Ruud Vormer,33,Netherlands,Club Brugge KV,178,79,€6.5M,€26K,77,77
+1099,178250,Papakouli Diop,35,Senegal,UD Ibiza,179,77,€3M,€6K,77,77
+1100,176600,Kévin Gameiro,34,France,RC Strasbourg Alsace,172,70,€5M,€27K,77,77
+1101,173030,Óscar Trejo,33,Argentina,Rayo Vallecano,180,79,€6.5M,€22K,77,77
+1102,172879,Sokratis Papastathopoulos,33,Greece,Olympiacos CFP,186,82,€5M,€1K,77,77
+1103,163155,Ben Foster,38,England,Watford,193,90,€1.2M,€25K,77,77
+1104,159261,Fabio Quagliarella,38,Italy,U.C. Sampdoria,180,79,€3.6M,€18K,77,77
+1105,159145,Bafétimbi Gomis,35,France,Galatasaray SK,186,86,€4.5M,€44K,77,77
+1106,158963,Lucas Biglia,35,Argentina,Fatih Karagümrük S.K.,178,63,€3M,€11K,77,77
+1107,158121,Benoît Costil,33,France,FC Girondins de Bordeaux,187,82,€3.4M,€20K,77,77
+1108,146530,Daniel Alves da Silva,38,Brazil,FC Barcelona,172,70,€2.3M,€71K,77,77
+1109,263288,Jakub Pešek,28,Czech Republic,AC Sparta Praha,173,66,€7.5M,€1K,76,76
+1110,263286,Aleš Mandous,29,Czech Republic,SK Slavia Praha,188,85,€5M,€850,76,76
+1111,259377,Yeremi Jesús Santos Pino,18,Spain,Villarreal CF,172,60,€16M,€10K,76,87
+1112,256958,Fábio Daniel Ferreira Vieira,21,Portugal,FC Porto,176,63,€17M,€10K,76,86
+1113,256197,Piero Hincapié,19,Ecuador,Bayer 04 Leverkusen,183,66,€15M,€21K,76,84
+1114,253444,Arnaud Kalimuendo,19,France,Racing Club de Lens,175,78,€11.5M,€41K,76,82
+1115,253290,Matías Viña,23,Uruguay,Roma,181,70,€10M,€35K,76,80
+1116,253170,Attila Szalai,23,Hungary,Fenerbahçe SK,192,83,€11M,€34K,76,82
+1117,253157,Hicham Boudaoui,21,Algeria,OGC Nice,175,61,€12M,€23K,76,82
+1118,253002,Giacomo Raspadori,21,Italy,U.S. Sassuolo Calcio,172,69,€17M,€25K,76,85
+1119,252064,Ladislav Krejčí,22,Czech Republic,AC Sparta Praha,191,86,€16M,€900,76,84
+1120,251412,Shon Weissman,25,Israel,Real Valladolid CF,174,79,€10M,€13K,76,79
+1121,251182,Iago Amaral Borduchi,24,Brazil,FC Augsburg,181,67,€9.5M,€19K,76,79
+1122,250723,Kouadio Manu Koné,20,France,Borussia Mönchengladbach,185,80,€16.5M,€20K,76,85
+1123,248550,Daniel Vivian Moreno,21,Spain,Athletic Club de Bilbao,183,83,€14M,€17K,76,83
+1124,247827,Michael Olise,19,France,Crystal Palace,184,68,€16M,€28K,76,86
+1125,247641,Mateus Tetê,21,Brazil,Olympique Lyonnais,175,72,€17M,€900,76,86
+1126,247328,Unai Vencedor Paris,20,Spain,Athletic Club de Bilbao,176,71,€16.5M,€19K,76,84
+1127,247246,Khéphren Thuram,20,France,OGC Nice,192,81,€16.5M,€23K,76,84
+1128,247182,Lucas Silva Melo,21,Brazil,Eintracht Frankfurt,185,81,€10.5M,€18K,76,81
+1129,247181,Gonzalo Plata,20,Ecuador,Real Valladolid CF,178,65,€16.5M,€10K,76,86
+1130,247131,Alfonso Espino,29,Uruguay,Cádiz CF,172,71,€6.5M,€27K,76,76
+1131,246791,Manor Solomon,21,Israel,Shakhtar Donetsk,170,67,€17M,€800,76,86
+1132,246764,Mohamed Camara,21,Mali,FC Red Bull Salzburg,169,65,€16M,€18K,76,84
+1133,246708,Giorgios Masouras,27,Greece,Olympiacos CFP,184,76,€8M,€2K,76,76
+1134,246113,Adrià Giner Pedrosa,23,Spain,RCD Espanyol de Barcelona,176,69,€14.5M,€15K,76,83
+1135,245371,Thiago Almada,20,Argentina,Atlanta United,171,62,€16.5M,€7K,76,86
+1136,245158,Luis Javier Suárez,23,Colombia,Granada CF,185,74,€15M,€22K,76,83
+1137,245155,Mohammed Kudus,20,Ghana,Ajax,177,70,€16.5M,€12K,76,84
+1138,244778,Francisco Mota Castro Trincão,21,Portugal,Wolverhampton Wanderers,183,77,€15M,€84K,76,83
+1139,244380,Vitaliy Mykolenko,22,Ukraine,Everton,180,71,€14.5M,€52K,76,83
+1140,244373,Vitaliy Buyalskyi,28,Ukraine,Dynamo Kyiv,170,61,€7.5M,€1K,76,76
+1141,244257,Jonathan Burkardt,20,Germany,1. FSV Mainz 05,181,79,€16.5M,€20K,76,84
+1142,243627,Yacine Adli,20,France,FC Girondins de Bordeaux,186,78,€15M,€26K,76,83
+1143,243231,Enock Mwepu,23,Zambia,Brighton & Hove Albion,184,76,€12M,€44K,76,82
+1144,242641,Rayan Aït Nouri,20,France,Wolverhampton Wanderers,180,70,€15.5M,€43K,76,86
+1145,242578,Benoît Badiashile,20,France,AS Monaco,194,75,€15.5M,€29K,76,84
+1146,242380,Stephen Antunes Eustáquio,24,Canada,FC Porto,178,66,€11M,€9K,76,82
+1147,242000,Konstantinos Mavropanos,23,Greece,VfB Stuttgart,194,89,€9.5M,€52K,76,80
+1148,241707,Pape Gueye,22,Senegal,Olympique de Marseille,187,79,€11M,€27K,76,82
+1149,241508,Mikkel Damsgaard,20,Denmark,U.C. Sampdoria,180,71,€16.5M,€15K,76,86
+1150,241187,Lutsharel Geertruida,20,Netherlands,Feyenoord,185,73,€15.5M,€8K,76,84
+1151,241167,Youcef Belaïli,29,Algeria,Stade Brestois 29,178,75,€7.5M,€20K,76,76
+1152,240915,Juan Miranda González,21,Spain,Real Betis Balompié,185,79,€16M,€15K,76,84
+1153,240787,Hamed Junior Traorè,21,Côte d'Ivoire,U.S. Sassuolo Calcio,184,77,€17M,€23K,76,85
+1154,240716,Mathías Olivera,23,Uruguay,Getafe CF,184,78,€14.5M,€21K,76,83
+1155,240702,Roman Yaremchuk,25,Ukraine,SL Benfica,191,79,€10M,€14K,76,79
+1156,240458,Ander Guevara Lajo,23,Spain,Real Sociedad,180,73,€12M,€26K,76,82
+1157,240359,Omar Alderete,24,Paraguay,Valencia CF,188,77,€9.5M,€31K,76,80
+1158,239837,Alexis Mac Allister,22,Argentina,Brighton & Hove Albion,174,72,€12M,€44K,76,82
+1159,239817,Boubakary Soumaré,22,France,Leicester City,188,82,€10.5M,€60K,76,81
+1160,239015,Emmanuel Dennis,23,Nigeria,Watford,175,66,€11M,€46K,76,80
+1161,238361,Michael Richard Delgado de Oliveira,25,Brazil,Al Hilal,166,60,€9M,€38K,76,77
+1162,237819,Nicolás Domínguez,23,Argentina,Bologna,179,73,€16.5M,€27K,76,84
+1163,237629,Arne Maier,22,Germany,FC Augsburg,186,79,€12M,€35K,76,82
+1164,236920,Justin Kluivert,22,Netherlands,OGC Nice,172,66,€11.5M,€39K,76,81
+1165,236699,Saša Lukić,24,Serbia,Torino F.C.,183,77,€11.5M,€34K,76,81
+1166,236639,Miguel Ângelo da Silva Rocha,26,Portugal,LOSC Lille,186,83,€9M,€33K,76,77
+1167,236532,Robin Koch,24,Germany,Leeds United,191,83,€10M,€52K,76,81
+1168,236264,Pedro Aquino,26,Peru,Club América,175,74,€9M,€39K,76,79
+1169,236007,Esequiel Barco,22,Argentina,River Plate,167,66,€15M,€8K,76,83
+1170,235945,Marc Roca Junqué,24,Spain,FC Bayern München,184,77,€9.5M,€46K,76,79
+1171,235944,Brais Méndez Portela,24,Spain,RC Celta de Vigo,187,76,€10M,€20K,76,79
+1172,235634,Ghislain Konan,25,Côte d'Ivoire,Stade de Reims,176,71,€9M,€22K,76,79
+1173,235467,Marcelino Moreno,26,Argentina,Atlanta United,168,65,€9M,€9K,76,77
+1174,235424,Diadié Samassékou,25,Mali,TSG Hoffenheim,175,70,€9M,€28K,76,79
+1175,235036,Wout Faes,23,Belgium,Stade de Reims,187,82,€11M,€20K,76,82
+1176,235008,Lucas Robertone,24,Argentina,Unión Deportiva Almería,175,70,€11.5M,€11K,76,81
+1177,234833,Florian Müller,23,Germany,VfB Stuttgart,190,88,€8.5M,€16K,76,80
+1178,234791,Luan Peres Petroni,26,Brazil,Olympique de Marseille,190,79,€8M,€32K,76,77
+1179,234772,Salvador Sánchez Ponce,30,Spain,Cádiz CF,175,64,€7M,€28K,76,76
+1180,234686,Jordan Lotomba,22,Switzerland,OGC Nice,177,71,€10M,€24K,76,80
+1181,234568,Gedson Carvalho Fernandes,22,Portugal,Çaykur Rizespor,181,71,€12M,€12K,76,82
+1182,234505,Evander da Silva Ferreira,23,Brazil,FC Midtjylland,179,76,€11.5M,€24K,76,81
+1183,234226,Bruno Viana Willemen Da Silva,26,Brazil,Wuhan FC,187,79,€8.5M,€14K,76,79
+1184,234171,Roland Sallai,24,Hungary,Sport-Club Freiburg,183,76,€9.5M,€23K,76,78
+1185,234078,Orel Mangala,23,Belgium,VfB Stuttgart,178,82,€11.5M,€23K,76,81
+1186,233959,Sebastián Villa,25,Colombia,Boca Juniors,179,71,€9M,€18K,76,77
+1187,233866,Odsonne Edouard,23,France,Crystal Palace,187,83,€12M,€46K,76,82
+1188,233556,Riccardo Orsolini,24,Italy,Bologna,183,73,€11.5M,€27K,76,81
+1189,233531,Yeferson Soteldo,24,Venezuela,Tigres U.A.N.L.,158,55,€11M,€37K,76,80
+1190,233260,Alexis Vega,23,Mexico,Club Deportivo Guadalajara,173,77,€12M,€42K,76,82
+1191,233084,Nahuel Molina,23,Argentina,Udinese Calcio,175,70,€11M,€14K,76,82
+1192,233029,Rodrigo Aliendro,30,Argentina,Club Atlético Colón,180,70,€7M,€15K,76,76
+1193,232999,Tyler Adams,22,United States,RB Leipzig,175,72,€10.5M,€46K,76,81
+1194,232498,Isaac Palazón Camacho,26,Spain,Rayo Vallecano,169,71,€8M,€20K,76,76
+1195,232144,Felix Uduokhai,23,Germany,FC Augsburg,193,89,€10M,€19K,76,81
+1196,232099,Marko Grujić,25,Serbia,FC Porto,191,84,€10M,€13K,76,79
+1197,231913,Fredrik Aursnes,25,Norway,Feyenoord,179,71,€8.5M,€10K,76,78
+1198,231826,Yann Karamoh,22,France,Fatih Karagümrük S.K.,185,77,€11M,€5K,76,80
+1199,231627,Umar Sadiq,24,Nigeria,Unión Deportiva Almería,192,75,€11.5M,€12K,76,81
+1200,231591,Javier Galán Gil,26,Spain,RC Celta de Vigo,172,70,€8M,€21K,76,77
+1201,231227,Niklas Dorsch,23,Germany,FC Augsburg,178,76,€10.5M,€19K,76,81
+1202,230978,Taiwo Awoniyi,23,Nigeria,1. FC Union Berlin,183,85,€10.5M,€28K,76,79
+1203,230975,Duván Vergara,24,Colombia,CF Monterrey ,175,72,€9.5M,€42K,76,78
+1204,230965,Nahitan Nández,25,Uruguay,Cagliari,172,70,€9M,€29K,76,77
+1205,230918,Trevoh Chalobah,21,England,Chelsea,191,84,€11M,€53K,76,82
+1206,230786,Jose Luís García Vayá,22,Spain,Levante Unión Deportiva,186,73,€12M,€23K,76,82
+1207,230475,Adilson Patrick Edrada Pereira,29,Brazil,Santos,176,72,€7.5M,€27K,76,76
+1208,230463,Simão Alvin Acunha Bardini,33,Brazil,Clube Atlético Mineiro,178,71,€4.7M,€33K,76,76
+1209,230457,Gabriel Jairo Aníbal Rangel,29,Brazil,RB Bragantino,182,77,€6.5M,€17K,76,76
+1210,230453,David Jefferson Seijalbo Vaz,25,Brazil,Clube Atlético Mineiro,176,76,€7.5M,€29K,76,76
+1211,230425,Rubem Thomas Esteiro Branco,33,Brazil,Palmeiras,179,77,€4.7M,€35K,76,76
+1212,230373,Nicolás Evandro Filheiro Stein,25,Brazil,Palmeiras,172,69,€8.5M,€34K,76,76
+1213,230348,Erick Sebastião Laforte Medeiros,29,Brazil,Juventude,178,75,€6.5M,€23K,76,76
+1214,230328,Pierre Tomás Torres De Faria,37,Brazil,Santos,190,82,€825K,€13K,76,76
+1215,230318,Nelson Arturo Reis Lopes,21,Brazil,Ceará Sporting Club,190,88,€8M,€7K,76,79
+1216,230317,Fred Marcos Aníbal Dias,29,Brazil,Club Athletico Paranaense,192,90,€5M,€13K,76,76
+1217,230280,Antonaldo David Machado Chagas,33,Brazil,Clube Atlético Mineiro,188,82,€3.6M,€30K,76,76
+1218,230208,Lúcio Anselmo Corteijo Salazar,33,Brazil,América Futebol Clube,175,71,€3.9M,€16K,76,76
+1219,230189,Silas Enaldo Barros de Almeida,29,Brazil,Ceará Sporting Club,177,76,€6.5M,€14K,76,76
+1220,230021,Joseph Aidoo,25,Ghana,RC Celta de Vigo,184,80,€10M,€20K,76,81
+1221,229980,César Montes,24,Mexico,CF Monterrey ,191,70,€9M,€34K,76,79
+1222,229971,Fabien Centonze,25,France,FC Metz,182,75,€9M,€17K,76,79
+1223,229942,Axel Disasi,23,France,AS Monaco,190,86,€10M,€34K,76,81
+1224,229167,Milot Rashica,25,Kosovo,Norwich City,177,73,€9.5M,€33K,76,78
+1225,229153,Levi García,23,Trinidad and Tobago,AEK Athens,182,78,€11M,€1K,76,80
+1226,228819,Matías Vargas,24,Argentina,Adana Demirspor,168,66,€10M,€17K,76,79
+1227,228747,Oussama Idrissi,25,Morocco,Cádiz CF,175,78,€9M,€26K,76,77
+1228,228708,Lucas Martínez Quarta,25,Argentina,Fiorentina,183,78,€10M,€40K,76,81
+1229,228414,Matheus Fellipe Costa Pereira,25,Brazil,Al Hilal,175,74,€10M,€35K,76,79
+1230,228386,Pape Abou Cissé,25,Senegal,Olympiacos CFP,197,90,€9.5M,€1K,76,80
+1231,227562,Lukáš Haraslín,25,Slovakia,AC Sparta Praha,182,71,€10M,€1K,76,79
+1232,227528,Braian Romero,30,Argentina,River Plate,176,73,€7.5M,€19K,76,76
+1233,227508,Gonzalo Melero Manzanares,27,Spain,Levante Unión Deportiva,183,77,€8M,€26K,76,76
+1234,227476,Francisco Soares dos Santos,30,Brazil,Olympiacos CFP,187,82,€7.5M,€2K,76,76
+1235,226853,Jeremiah St. Juste,24,Netherlands,1. FSV Mainz 05,184,77,€9.5M,€19K,76,80
+1236,226627,Takumi Minamino,26,Japan,Liverpool,174,67,€9M,€88K,76,77
+1237,226377,Gonzalo Martínez,28,Argentina,Al Nassr,172,75,€7.5M,€38K,76,76
+1238,226229,Thilo Kehrer,24,Germany,Paris Saint-Germain,186,76,€9M,€49K,76,79
+1239,226093,Ché Adams,24,Scotland,Southampton,178,70,€11.5M,€46K,76,81
+1240,225782,Ainsley Maitland-Niles,23,England,Roma,177,71,€9M,€52K,76,78
+1241,225309,Nadiem Amiri,24,Germany,Genoa,180,77,€11M,€38K,76,80
+1242,225024,Mason Holgate,24,England,Everton,184,75,€9M,€52K,76,79
+1243,224739,Peter Olayinka,25,Nigeria,SK Slavia Praha,188,77,€9M,€1K,76,77
+1244,224540,Emmanuel Boateng,25,Ghana,Dalian Professional Football Club,175,70,€10M,€17K,76,79
+1245,224520,Ryan Kent,24,England,Rangers FC,172,65,€9.5M,€46K,76,78
+1246,224396,Yeimar Gómez Andrade,29,Colombia,Seattle Sounders FC,187,92,€6.5M,€9K,76,76
+1247,224158,Sofyan Amrabat,24,Morocco,Fiorentina,185,70,€9M,€36K,76,78
+1248,224151,Henry Martín,28,Mexico,Club América,177,83,€7.5M,€48K,76,76
+1249,224019,Pedro Chirivella Burgos,24,Spain,FC Nantes,178,66,€10M,€20K,76,80
+1250,223898,Paul Bernardoni,24,France,AS Saint-Étienne,190,78,€9M,€14K,76,81
+1251,223627,Omar Al Somah,32,Syria,Al Ahli,190,86,€6M,€40K,76,76
+1252,222461,Diogo Filipe Rocha Costa,26,Portugal,Vitória de Guimarães,169,69,€8M,€13K,76,76
+1253,222390,Unai López Cabrera,25,Spain,Rayo Vallecano,170,69,€10M,€19K,76,79
+1254,221909,Jindřich Staněk,25,Czech Republic,FC Viktoria Plzeň,191,93,€7.5M,€800,76,79
+1255,221832,Lucas Olaza,26,Uruguay,Elche CF,175,70,€8M,€11K,76,77
+1256,221714,Alfredo Morelos,25,Colombia,Rangers FC,177,79,€10.5M,€51K,76,80
+1257,221671,Jae Sung Lee,28,Korea Republic,1. FSV Mainz 05,181,74,€7.5M,€25K,76,76
+1258,221634,Luciano Acosta,27,Argentina,FC Cincinnati,161,59,€8M,€9K,76,76
+1259,221174,Mislav Oršić,28,Croatia,Dinamo Zagreb,179,69,€7.5M,€1K,76,76
+1260,221125,Sebastián Driussi,25,Argentina,Austin FC,179,79,€10M,€9K,76,79
+1261,220710,Harry Wilson,24,Wales,Fulham,173,70,€10M,€45K,76,79
+1262,220570,Jan Bednarek,25,Poland,Southampton,189,77,€9.5M,€42K,76,80
+1263,220421,Hassane Kamara,27,Côte d'Ivoire,Watford,168,67,€7M,€44K,76,76
+1264,220334,Óscar Romero,28,Paraguay,Boca Juniors,176,74,€7.5M,€18K,76,76
+1265,220332,Ángel Romero,28,Paraguay,Cruz Azul,176,73,€7.5M,€62K,76,76
+1266,220287,Juan Dinenno,26,Argentina,Club Universidad Nacional,186,83,€9M,€16K,76,77
+1267,220196,David Brooks,23,Wales,AFC Bournemouth,180,62,€12M,€33K,76,82
+1268,219862,Miguel Borja,28,Colombia,Junior FC,183,87,€7.5M,€5K,76,76
+1269,219809,Tiemoué Bakayoko,26,France,AC Milan,189,85,€7M,€74K,76,76
+1270,219792,Baptiste Santamaria,26,France,Stade Rennais FC,183,73,€9M,€41K,76,77
+1271,219466,Birger Meling,26,Norway,Stade Rennais FC,174,64,€8M,€37K,76,77
+1272,219391,Gonzalo Escalante,28,Argentina,Deportivo Alavés,182,76,€6.5M,€47K,76,76
+1273,218868,Alejandro Silva,31,Uruguay,Club Olimpia,178,68,€6M,€1K,76,76
+1274,216793,Jean-David Beauguel,29,France,FC Viktoria Plzeň,196,98,€7.5M,€1K,76,76
+1275,216778,Rúben Afonso Borges Semedo,27,Portugal,FC Porto,189,84,€7.5M,€1K,76,77
+1276,216774,Wesley Hoedt,27,Netherlands,RSC Anderlecht,188,77,€7.5M,€21K,76,77
+1277,216643,Léo Dubois,26,France,Olympique Lyonnais,178,65,€8M,€48K,76,77
+1278,216497,Maximilian Philipp,27,Germany,VfL Wolfsburg,183,79,€8M,€55K,76,76
+1279,216447,Álvaro García Rivera,28,Spain,Rayo Vallecano,167,61,€7.5M,€21K,76,76
+1280,216350,Arijan Ademi,30,North Macedonia,Dinamo Zagreb,185,79,€6.5M,€900,76,76
+1281,216283,Danilo Teodoro Soares,29,Brazil,VfL Bochum 1848,170,72,€6.5M,€23K,76,76
+1282,216065,Marco Sportiello,29,Italy,Atalanta,192,87,€5M,€33K,76,76
+1283,215785,Keita Baldé,26,Senegal,Cagliari,184,77,€9M,€33K,76,77
+1284,215699,Youssouf Sabaly,28,Senegal,Real Betis Balompié,173,67,€7M,€22K,76,76
+1285,215689,Andrea Petagna,26,Italy,Napoli,190,85,€9.5M,€56K,76,78
+1286,215590,Ayoze Pérez Gutiérrez,27,Spain,Leicester City,178,72,€8M,€83K,76,76
+1287,215502,Bartłomiej Drągowski,23,Poland,Fiorentina,188,74,€8M,€28K,76,79
+1288,215441,Serhou Guirassy,25,France,Stade Rennais FC,187,82,€10M,€43K,76,79
+1289,215135,Leonardo Sigali,34,Argentina,Racing Club,181,74,€2.4M,€17K,76,76
+1290,215119,Lucas Romero,27,Argentina,Club Atlético Independiente,167,70,€7M,€14K,76,76
+1291,215061,Darío Benedetto,31,Argentina,Boca Juniors,177,75,€6.5M,€19K,76,76
+1292,215057,Iván Marcone,31,Argentina,Elche CF,182,79,€5M,€18K,76,76
+1293,214491,Luis Quiñones,30,Colombia,Tigres U.A.N.L.,178,66,€7M,€43K,76,76
+1294,214373,Antony Silva,37,Paraguay,Puebla FC,190,92,€825K,€5K,76,76
+1295,214040,Frank Fabra,30,Colombia,Boca Juniors,174,78,€6.5M,€16K,76,76
+1296,214009,Gustavo Cuéllar,28,Colombia,Al Hilal,177,75,€6.5M,€35K,76,76
+1297,213951,Helton Brant Aleixo Leite,30,Brazil,SL Benfica,196,92,€5M,€10K,76,76
+1298,213874,Thiago Henrique Mendes Ribeiro,29,Brazil,Olympique Lyonnais,177,75,€6.5M,€50K,76,76
+1299,213666,Ruben Loftus-Cheek,25,England,Chelsea,191,88,€10M,€78K,76,79
+1300,213655,Alex Iwobi,25,Nigeria,Everton,185,75,€9M,€63K,76,77
+1301,213135,Divock Origi,26,Belgium,Liverpool,189,88,€9M,€88K,76,77
+1302,213013,Frank Acheampong,27,Ghana,Shenzhen FC,170,60,€8M,€14K,76,76
+1303,212883,Daniel Amartey,26,Ghana,Leicester City,186,79,€7.5M,€70K,76,77
+1304,212715,Sebastián Palacios,29,Argentina,Panathinaikos FC,163,69,€7.5M,€1K,76,76
+1305,212678,Ludwig Augustinsson,27,Sweden,Sevilla FC,181,72,€7M,€23K,76,76
+1306,212591,Walker Zimmerman,28,United States,Nashville SC,191,89,€7M,€9K,76,77
+1307,212269,Riechedly Bazoer,24,Netherlands,Vitesse,184,74,€9.5M,€14K,76,80
+1308,212245,Yannick Gerhardt,27,Germany,VfL Wolfsburg,184,81,€8M,€51K,76,76
+1309,212230,Iuri José Picanço Medeiros,26,Portugal,SC Braga,174,64,€8.5M,€16K,76,76
+1310,212212,Dominik Kohr,27,Germany,1. FSV Mainz 05,183,80,€7.5M,€25K,76,77
+1311,212204,Brandon Mechele,28,Belgium,Club Brugge KV,190,79,€7M,€24K,76,77
+1312,212127,Darko Lazović,30,Serbia,Hellas Verona,181,66,€7M,€26K,76,76
+1313,211575,André Filipe Tavares Gomes,27,Portugal,Everton,188,84,€8M,€66K,76,76
+1314,211454,Mohamed Elneny,28,Egypt,Arsenal,179,72,€6.5M,€63K,76,76
+1315,211361,Danilo Cataldi,26,Italy,Lazio,180,70,€8M,€45K,76,77
+1316,211348,Stole Dimitrievski,27,North Macedonia,Rayo Vallecano,188,84,€7.5M,€15K,76,79
+1317,211147,Valentino Lazaro,25,Austria,SL Benfica,180,75,€9M,€71K,76,77
+1318,210896,Morgan Sanson,26,France,Aston Villa,180,73,€9M,€56K,76,77
+1319,210864,Elseid Hysaj,27,Albania,Lazio,182,70,€7M,€45K,76,76
+1320,210648,Ahmed Hegazi,30,Egypt,Al Ittihad,193,88,€6M,€33K,76,76
+1321,210602,Salem Al Dawsari,29,Saudi Arabia,Al Hilal,173,71,€7.5M,€41K,76,76
+1322,210537,Renato Steffen,29,Switzerland,VfL Wolfsburg,170,65,€7.5M,€53K,76,76
+1323,209329,Matheus Dória Macedo,26,Brazil,Santos Laguna,188,82,€8.5M,€20K,76,79
+1324,209288,Florent Mollet,29,France,Montpellier Hérault SC,170,67,€7.5M,€26K,76,76
+1325,208861,Johan Gastien,33,France,Clermont Foot 63,179,69,€3.7M,€18K,76,76
+1326,208498,Munas Dabbur,29,Israel,TSG Hoffenheim,183,78,€7.5M,€36K,76,76
+1327,208001,Paulo Otávio Rosa da Silva,26,Brazil,VfL Wolfsburg,174,68,€7.5M,€47K,76,76
+1328,207939,Guido Pizarro,31,Argentina,Tigres U.A.N.L.,185,78,€5M,€39K,76,76
+1329,207707,Fernando Marçal de Oliveira,32,Brazil,Wolverhampton Wanderers,178,72,€5M,€60K,76,76
+1330,207616,Adam Webster,26,England,Brighton & Hove Albion,191,75,€8.5M,€47K,76,79
+1331,207554,Viktor Claesson,29,Sweden,F.C. København,183,79,€7.5M,€22K,76,76
+1332,207471,Franco Vázquez,32,Argentina,Parma,187,82,€6M,€6K,76,76
+1333,207441,Luciano Vietto,27,Argentina,Al Shabab,173,61,€8M,€36K,76,76
+1334,206652,Sergio Rico González,27,Spain,RCD Mallorca,196,90,€7M,€46K,76,78
+1335,206493,Yunis Abdelhamid,33,Morocco,Stade de Reims,190,83,€3.6M,€23K,76,76
+1336,206254,Miroslav Stevanović,30,Bosnia and Herzegovina,Servette FC,180,72,€7M,€21K,76,76
+1337,206115,Isaac Hayden,26,England,Newcastle United,185,79,€9M,€34K,76,79
+1338,205966,Amin Younes,27,Germany,Ettifaq FC,168,70,€8M,€29K,76,76
+1339,205855,Marko Livaja,27,Croatia,Hajduk Split,182,80,€8M,€1K,76,76
+1340,205083,Fayçal Fajr,32,Morocco,Demir Grup Sivasspor,179,71,€6M,€19K,76,76
+1341,204760,Charlie Taylor,27,England,Burnley,185,70,€7M,€31K,76,76
+1342,204451,Koray Günter,26,Germany,Hellas Verona,184,79,€8M,€24K,76,78
+1343,204308,Hendrik Van Crombrugge,28,Belgium,RSC Anderlecht,188,88,€6.5M,€18K,76,78
+1344,204277,Roque Mesa Quevedo,32,Spain,Real Valladolid CF,172,76,€6M,€12K,76,76
+1345,202935,Álvaro González Soberón,31,Spain,Olympique de Marseille,182,75,€5M,€32K,76,76
+1346,202851,Gregoire Defrel,30,France,U.S. Sassuolo Calcio,180,79,€7.5M,€33K,76,76
+1347,202789,Alexander Schwolow,29,Germany,Hertha BSC,190,84,€6M,€31K,76,78
+1348,202562,Jérôme Roussillon,28,France,VfL Wolfsburg,175,80,€7M,€49K,76,76
+1349,202493,Aleix Vidal Parreu,31,Spain,RCD Espanyol de Barcelona,177,70,€5.5M,€17K,76,76
+1350,202061,Jasmin Kurtić,32,Slovenia,PAOK,186,88,€6M,€1K,76,76
+1351,201508,Gastón Ramírez,30,Uruguay,AC Monza,183,78,€7M,€6K,76,76
+1352,201505,David López Silva,31,Spain,RCD Espanyol de Barcelona,183,81,€5M,€17K,76,76
+1353,201325,Ciprian Tătărușanu,35,Romania,AC Milan,198,90,€825K,€17K,76,76
+1354,201046,Riccardo Saponara,29,Italy,Fiorentina,184,73,€7.5M,€52K,76,76
+1355,200759,Jeffrey Schlupp,28,Ghana,Crystal Palace,178,72,€7.5M,€51K,76,76
+1356,200318,Mark Uth,29,Germany,1. FC Köln,185,72,€7.5M,€28K,76,76
+1357,200110,Marco Bizot,30,Netherlands,Stade Brestois 29,193,88,€5M,€15K,76,76
+1358,199833,Lars Unnerstall,30,Germany,FC Twente,198,103,€5M,€9K,76,76
+1359,199745,Erik Sviatchenko,29,Denmark,FC Midtjylland,184,82,€6.5M,€26K,76,76
+1360,199577,Sergi Gómez Solà,29,Spain,RCD Espanyol de Barcelona,185,76,€6.5M,€18K,76,76
+1361,199189,Ross Barkley,27,England,Chelsea,186,76,€8M,€81K,76,76
+1362,198719,Nathan Redmond,27,England,Southampton,173,69,€8M,€49K,76,76
+1363,198451,Daniel Rodríguez Vázquez,33,Spain,RCD Mallorca,178,71,€4.7M,€25K,76,76
+1364,198368,Tomás Pina Isla,33,Spain,Deportivo Alavés,184,78,€3.7M,€21K,76,76
+1365,198129,Celso Ortiz,32,Paraguay,CF Monterrey ,174,74,€5M,€40K,76,76
+1366,197837,Dedryck Boyata,30,Belgium,Hertha BSC,188,84,€6M,€37K,76,76
+1367,197813,Jonas Martin,31,France,Stade Rennais FC,184,76,€6M,€41K,76,76
+1368,195668,Joel Robles Blázquez,31,Spain,Real Betis Balompié,195,90,€4M,€17K,76,76
+1369,193348,Xherdan Shaqiri,29,Switzerland,Chicago Fire Football Club,169,72,€7.5M,€10K,76,76
+1370,193290,Martin Braithwaite,30,Denmark,FC Barcelona,177,73,€7.5M,€110K,76,76
+1371,193133,Jens Stryger Larsen,30,Denmark,Udinese Calcio,180,82,€6.5M,€16K,76,76
+1372,193116,Maxime Gonalons,32,France,Granada CF,187,76,€5M,€21K,76,76
+1373,192708,Carlos Eduardo de Oliveira Alves,31,Brazil,Al Ahli,184,74,€6M,€36K,76,76
+1374,192641,Kevin Vogt,29,Germany,TSG Hoffenheim,194,87,€6.5M,€31K,76,76
+1375,192342,Edwin Cardona,28,Colombia,Racing Club,183,92,€7.5M,€20K,76,76
+1376,192045,Luis Rodríguez,30,Mexico,Tigres U.A.N.L.,177,76,€6.5M,€39K,76,76
+1377,192041,Néstor Araújo,29,Mexico,RC Celta de Vigo,188,87,€6.5M,€22K,76,76
+1378,191180,Javier Pastore,32,Argentina,Elche CF,187,78,€6M,€20K,76,76
+1379,190577,Sebastián Blanco,33,Argentina,Portland Timbers,170,68,€4.7M,€9K,76,76
+1380,190143,José Ángel Valdés Díaz,31,Spain,CA Osasuna,182,77,€5.5M,€24K,76,76
+1381,189456,Liam Cooper,29,Scotland,Leeds United,187,73,€6.5M,€63K,76,76
+1382,189454,Damián Díaz,35,Ecuador,Barcelona Sporting Club,173,67,€3.1M,€1K,76,76
+1383,189280,Ashley Westwood,31,England,Burnley,175,73,€5M,€31K,76,76
+1384,189251,Sebastian Rudy,31,Germany,TSG Hoffenheim,180,74,€6M,€32K,76,76
+1385,189165,Jonjo Shelvey,29,England,Newcastle United,184,80,€7.5M,€39K,76,76
+1386,189068,Bas Dost,32,Netherlands,Club Brugge KV,196,83,€6M,€27K,76,76
+1387,189060,Aleksandar Dragović,30,Austria,,186,84,€0,€0,76,76
+1388,188081,Alex Teixeira dos Santos,31,Brazil,Beşiktaş JK,173,68,€6M,€40K,76,76
+1389,187800,Mauricio Isla,33,Chile,Universidad Católica,176,75,€3.9M,€12K,76,76
+1390,186537,Cristhian Stuani,34,Uruguay,Girona FC,186,76,€3.6M,€14K,76,76
+1391,186197,Gaël Kakuta,30,Congo DR,Racing Club de Lens,173,72,€7M,€28K,76,76
+1392,186190,Patrick van Aanholt,30,Netherlands,Galatasaray SK,176,67,€6.5M,€45K,76,76
+1393,186156,Luke Ayling,29,England,Leeds United,185,72,€6.5M,€63K,76,76
+1394,186098,Rodolfo Cota,33,Mexico,Club León,183,86,€2.4M,€18K,76,76
+1395,185221,Luiz Gustavo Dias,33,Brazil,Fenerbahçe SK,187,78,€3.7M,€40K,76,76
+1396,184703,Luis Montes,35,Mexico,Club León,166,68,€3M,€18K,76,76
+1397,184431,Sebastian Giovinco,34,Italy,U.C. Sampdoria,163,61,€3.5M,€20K,76,76
+1398,184190,Romain Thomas,33,France,Angers SCO,193,84,€3.6M,€21K,76,76
+1399,183285,Mamadou Sakho,31,France,Montpellier Hérault SC,187,83,€5M,€23K,76,76
+1400,183130,Marc Albrighton,31,England,Leicester City,175,74,€6M,€76K,76,76
+1401,183108,Nordin Amrabat,34,Morocco,AEK Athens,179,77,€3.5M,€1K,76,76
+1402,182945,Max-Alain Gradel,33,Côte d'Ivoire,Demir Grup Sivasspor,175,70,€4.7M,€19K,76,76
+1403,180826,Luiz Adriano Souza da Silva,34,Brazil,Antalyaspor,184,80,€3.6M,€20K,76,76
+1404,179605,Adel Taarabt,32,Morocco,SL Benfica,180,76,€6M,€14K,76,76
+1405,178091,Stefano Okaka,31,Italy,İstanbul Başakşehir FK,186,90,€6.5M,€38K,76,76
+1406,178088,Juan Manuel Mata García,33,Spain,Manchester United,170,63,€4.7M,€87K,76,76
+1407,178007,Miguel Luís Pinto Veloso,35,Portugal,Hellas Verona,180,79,€3M,€20K,76,76
+1408,177633,Ángel Luís Rodríguez Díaz,34,Spain,RCD Mallorca,172,68,€3.6M,€27K,76,76
+1409,176930,Marcelo Díaz,34,Chile,Club Libertad,166,67,€2.6M,€1K,76,76
+1410,176526,Leonardo Burián,37,Uruguay,Club Atlético Colón,188,81,€825K,€7K,76,76
+1411,175932,Ritchie De Laet,32,Belgium,Royal Antwerp FC,186,76,€5M,€20K,76,76
+1412,175379,Pedro León Sánchez Gil,34,Spain,CF Fuenlabrada,183,73,€3.5M,€9K,76,76
+1413,175254,Felipe Caicedo,32,Ecuador,Inter,183,82,€6M,€19K,76,76
+1414,173306,Cristian Ansaldi,34,Argentina,Torino F.C.,181,76,€2.8M,€36K,76,76
+1415,170597,Tim Krul,33,Netherlands,Norwich City,188,74,€2.4M,€25K,76,76
+1416,170320,Lorenzo De Silvestri,33,Italy,Bologna,186,84,€3.9M,€28K,76,76
+1417,167959,Marcelo Grohe,34,Brazil,Al Ittihad,188,81,€1.3M,€27K,76,76
+1418,167664,Gonzalo Higuaín,33,Argentina,Inter Miami CF,186,89,€4.8M,€10K,76,76
+1419,165109,Ștefan Radu,34,Romania,Lazio,183,79,€2.4M,€45K,76,76
+1420,164878,Lior Refaelov,35,Israel,RSC Anderlecht,175,70,€3.1M,€17K,76,76
+1421,162328,Remko Pasveer,37,Netherlands,Ajax,188,88,€825K,€8K,76,76
+1422,161938,Mauro Boselli,36,Argentina,Estudiantes de La Plata,185,75,€2.6M,€12K,76,76
+1423,156412,José de Jesús Corona,40,Mexico,Cruz Azul,184,84,€825K,€24K,76,76
+1424,152916,Rubens Sambueza,37,Argentina,Club Atlético de San Luis,180,76,€2.4M,€13K,76,76
+1425,150724,Joe Hart,34,England,Celtic,196,91,€1.3M,€36K,76,76
+1426,142902,Andriy Pyatov,37,Ukraine,Shakhtar Donetsk,190,90,€825K,€500,76,76
+1427,20775,Ricardo Andrade Quaresma Bernardo,37,Portugal,Vitória de Guimarães,175,68,€2.4M,€10K,76,76
+1428,262138,Castello Lukeba,18,France,Olympique Lyonnais,184,73,€11M,€13K,75,86
+1429,261204,Myrto Uzuni,26,Albania,Granada CF,178,64,€6.5M,€22K,75,76
+1430,260801,Kiyan Prince,30,England,Queens Park Rangers,188,86,€5.5M,€20K,75,75
+1431,260314,Taras Kacharaba,26,Ukraine,SK Slavia Praha,189,79,€6M,€900,75,76
+1432,258208,Ondřej Lingr,22,Czech Republic,SK Slavia Praha,175,70,€8.5M,€900,75,80
+1433,257771,Josip Juranović,25,Croatia,Celtic,173,68,€7M,€40K,75,78
+1434,257290,João Mário Neto Lopes,21,Portugal,FC Porto,178,66,€12M,€9K,75,84
+1435,256854,Warmed Omari,21,France,Stade Rennais FC,185,78,€10.5M,€25K,75,82
+1436,256268,Armando Broja,19,Albania,Southampton,191,75,€12M,€51K,75,85
+1437,256035,Kamaldeen Sulemana,19,Ghana,Stade Rennais FC,174,69,€12M,€22K,75,85
+1438,255654,Pierre Kalulu,21,France,AC Milan,179,69,€12M,€22K,75,83
+1439,255472,Pedro Victor Delmino da Silva,23,Brazil,Shakhtar Donetsk,171,65,€9M,€900,75,81
+1440,255069,Nicolás González Iglesias,19,Spain,FC Barcelona,188,86,€12M,€55K,75,85
+1441,254909,Oscar Dorley,22,Liberia,SK Slavia Praha,174,66,€8.5M,€800,75,81
+1442,254566,Patrick Wimmer,20,Austria,DSC Arminia Bielefeld,182,77,€12.5M,€17K,75,85
+1443,254548,Melvin Bard,20,France,OGC Nice,173,65,€10.5M,€19K,75,82
+1444,254470,Luke Thomas,20,England,Leicester City,177,68,€10.5M,€48K,75,82
+1445,252935,Leonardo Fernández,22,Uruguay,Deportivo Toluca,166,66,€12.5M,€18K,75,83
+1446,252931,Luka Ivanušec,22,Croatia,Dinamo Zagreb,175,76,€11.5M,€800,75,82
+1447,252339,Tiago Emanuel Embaló Djaló,21,Portugal,LOSC Lille,190,82,€10.5M,€20K,75,82
+1448,252238,Alan Velasco,18,Argentina,FC Dallas,167,63,€12M,€3K,75,85
+1449,252143,Daniel Santos Bragança,22,Portugal,Sporting CP,178,71,€12.5M,€11K,75,84
+1450,251892,Norberto Gomes Betuncal,23,Portugal,Udinese Calcio,194,88,€9M,€9K,75,81
+1451,251528,Zaidu Sanusi,24,Nigeria,FC Porto,182,74,€7.5M,€10K,75,79
+1452,251353,Kodjo Fo-Doh Laba,29,Togo,Al Ain FC,183,82,€5.5M,€1K,75,75
+1453,251221,Lukáš Kalvach,25,Czech Republic,FC Viktoria Plzeň,183,77,€6.5M,€950,75,77
+1454,251217,Jean Lucas de Souza Oliveira,23,Brazil,AS Monaco,181,78,€8.5M,€36K,75,80
+1455,248872,Richard Sánchez,25,Paraguay,Club América,170,70,€7.5M,€39K,75,78
+1456,248484,Nathan Collins,20,Republic of Ireland,Burnley,193,81,€10.5M,€21K,75,82
+1457,248148,Martín Zubimendi Ibáñez,22,Spain,Real Sociedad,181,74,€12.5M,€24K,75,84
+1458,247881,Juan Escobar,25,Paraguay,Cruz Azul,177,76,€7M,€45K,75,78
+1459,247832,Thierry Rendall Correia,22,Portugal,Valencia CF,176,69,€8.5M,€23K,75,81
+1460,247500,Edgar González Estrada,24,Spain,Real Betis Balompié,193,78,€8M,€17K,75,80
+1461,247495,Jon Moncayola Tollar,23,Spain,CA Osasuna,189,86,€11M,€22K,75,82
+1462,247450,Agustín Palavecino,24,Argentina,River Plate,179,74,€7.5M,€14K,75,78
+1463,247028,Alex Král,23,Czech Republic,West Ham United,186,76,€8M,€43K,75,80
+1464,246914,Robert Rojas,25,Paraguay,River Plate,176,75,€7M,€14K,75,78
+1465,246875,Odilon Kossounou,20,Côte d'Ivoire,Bayer 04 Leverkusen,191,79,€11.5M,€27K,75,84
+1466,246836,Amos Pieper,23,Germany,DSC Arminia Bielefeld,191,84,€7M,€18K,75,79
+1467,246748,Aihen Muñoz Capellán,23,Spain,Real Sociedad,175,68,€10.5M,€22K,75,82
+1468,246420,Jérémy Doku,19,Belgium,Stade Rennais FC,171,60,€12M,€25K,75,85
+1469,246352,Hugo Guillamón Sammartín,21,Spain,Valencia CF,178,62,€12M,€20K,75,83
+1470,246098,Vítor Tormena de Farias,25,Brazil,SC Braga,192,84,€6.5M,€12K,75,78
+1471,245940,Silas Katompa Mvumpa,22,Congo DR,VfB Stuttgart,189,79,€11.5M,€22K,75,82
+1472,245741,Jesper Lindstrøm,21,Denmark,Eintracht Frankfurt,182,66,€12.5M,€19K,75,84
+1473,245275,Toma Bašić,24,Croatia,Lazio,190,82,€8.5M,€41K,75,80
+1474,245211,Jordan Teze,21,Netherlands,PSV,183,68,€8.5M,€11K,75,81
+1475,244960,Bruno Xavier Almeida Costa,24,Portugal,FC Porto,174,65,€8M,€11K,75,79
+1476,244788,Pavel Bucha,23,Czech Republic,FC Viktoria Plzeň,177,73,€8M,€950,75,79
+1477,244675,Oihan Sancet Tirapu,21,Spain,Athletic Club de Bilbao,188,72,€12.5M,€20K,75,85
+1478,244467,Ondřej Kolář,26,Czech Republic,SK Slavia Praha,193,81,€5.5M,€750,75,77
+1479,244176,Deniz Undav,24,Germany,Royale Union Saint-Gilloise,178,86,€8M,€46K,75,78
+1480,243976,Alejandro Catena Marugán,26,Spain,Rayo Vallecano,194,82,€6.5M,€18K,75,78
+1481,243656,Nemanja Radonjić,25,Serbia,SL Benfica,185,76,€6.5M,€32K,75,76
+1482,243032,Hugo Duro Perales,21,Spain,Valencia CF,180,76,€12.5M,€21K,75,83
+1483,243014,Bryan Mbeumo,21,France,Brentford,171,75,€9M,€35K,75,81
+1484,243007,Lukáš Masopust,28,Czech Republic,SK Slavia Praha,179,76,€5.5M,€1K,75,75
+1485,242916,Yukinari Sugawara,21,Japan,AZ Alkmaar,178,68,€12M,€7K,75,83
+1486,242835,Leonardo Balerdi,22,Argentina,Olympique de Marseille,187,76,€10.5M,€26K,75,82
+1487,242663,Sebastiaan Bornauw,22,Belgium,VfL Wolfsburg,191,83,€8M,€38K,75,81
+1488,242619,Cheick Doucouré,21,Mali,Racing Club de Lens,180,73,€8M,€20K,75,78
+1489,242434,Curtis Jones,20,England,Liverpool,185,75,€12.5M,€57K,75,86
+1490,242418,Tariq Lamptey,20,England,Brighton & Hove Albion,163,62,€12M,€32K,75,84
+1491,242118,Sebastián Córdova,24,Mexico,Tigres U.A.N.L.,174,66,€8.5M,€35K,75,80
+1492,241990,Omar Fernández,28,Colombia,Club León,166,65,€5.5M,€24K,75,75
+1493,241928,Albert Sambi Lokonga,21,Belgium,Arsenal,183,73,€12.5M,€47K,75,83
+1494,241907,Diego Rossi,23,Uruguay,Fenerbahçe SK,170,66,€9M,€40K,75,81
+1495,241867,Aitor Ruibal García,25,Spain,Real Betis Balompié,176,75,€6.5M,€21K,75,76
+1496,241856,Manuel Morlanes Ariño,22,Spain,RCD Espanyol de Barcelona,178,75,€12M,€22K,75,84
+1497,241827,Martín Aguirregabiria,25,Spain,Deportivo Alavés,178,69,€7M,€20K,75,78
+1498,241821,Mohamed Bayo,23,Guinea,Clermont Foot 63,188,76,€8.5M,€18K,75,80
+1499,241569,David Martínez,23,Paraguay,River Plate,182,76,€7.5M,€13K,75,80
+1500,241184,Héctor Junior Firpo Adamés,24,Spain,Leeds United,184,78,€7M,€49K,75,78
+1501,240953,Nahuel Tenaglia,25,Argentina,Deportivo Alavés,181,70,€7M,€13K,75,78
+1502,240947,Tyrick Mitchell,21,England,Crystal Palace,180,70,€11M,€30K,75,82
+1503,240754,Youcef Atal,25,Algeria,OGC Nice,175,66,€7M,€25K,75,78
+1504,240744,Martín Ojeda,22,Argentina,Godoy Cruz,179,78,€9M,€10K,75,81
+1505,240654,Carles Pérez Sayol,23,Spain,Roma,173,75,€7.5M,€41K,75,78
+1506,240289,Fernando Calero Villa,25,Spain,RCD Espanyol de Barcelona,183,71,€6.5M,€16K,75,78
+1507,240091,Guglielmo Vicario,24,Italy,Empoli,188,76,€7M,€18K,75,81
+1508,239956,Myron Boadu,20,Netherlands,AS Monaco,183,67,€12.5M,€34K,75,83
+1509,239807,Davide Frattesi,21,Italy,U.S. Sassuolo Calcio,184,74,€12.5M,€22K,75,84
+1510,239712,Masaya Okugawa,25,Japan,DSC Arminia Bielefeld,177,62,€7M,€22K,75,77
+1511,239575,Gerzino Nyamsi,24,France,RC Strasbourg Alsace,195,94,€7M,€18K,75,79
+1512,239368,Mitchel Bakker,21,Netherlands,Bayer 04 Leverkusen,185,85,€8.5M,€27K,75,81
+1513,239360,Pascal Struijk,21,Netherlands,Leeds United,190,79,€10.5M,€41K,75,82
+1514,239335,Óscar Rodríguez Arnaiz,23,Spain,Getafe CF,174,68,€12.5M,€21K,75,84
+1515,238858,Bruno Vinícius Souza Ramos,24,Brazil,Sporting CP,175,73,€7.5M,€12K,75,78
+1516,238857,Wilson Miguéis Manafá Jancó,26,Portugal,FC Porto,177,69,€5.5M,€12K,75,75
+1517,238717,Ethan Pinnock,28,Jamaica,Brentford,194,79,€5.5M,€40K,75,76
+1518,238581,Ruben Vargas,22,Switzerland,FC Augsburg,179,68,€12.5M,€20K,75,83
+1519,238370,Marin Pongračić,23,Croatia,Borussia Dortmund,193,97,€7M,€38K,75,79
+1520,238305,Ignacio Vidal Miralles,26,Spain,CA Osasuna,180,75,€6M,€23K,75,76
+1521,238227,Krépin Diatta,22,Senegal,AS Monaco,175,69,€11.5M,€36K,75,82
+1522,238068,Marco Richter,23,Germany,Hertha BSC,176,74,€8M,€33K,75,79
+1523,237985,Kevin Danso,22,Austria,Racing Club de Lens,190,85,€8M,€21K,75,80
+1524,237960,Mama Samba Baldé,25,Guinea Bissau,ESTAC Troyes,176,69,€6.5M,€18K,75,76
+1525,237712,Valentin Castellanos,22,Argentina,New York City FC,178,74,€9M,€9K,75,81
+1526,237681,Takefusa Kubo,20,Japan,RCD Mallorca,173,67,€13.5M,€77K,75,88
+1527,237646,Daniel Muñoz,25,Colombia,KRC Genk,180,73,€7M,€14K,75,79
+1528,237520,Mady Camara,24,Guinea,Olympiacos CFP,182,75,€8.5M,€1K,75,80
+1529,237496,Djordje Mihailovic,22,United States,Club de Foot Montréal,178,69,€9M,€9K,75,81
+1530,237329,Joe Willock,21,England,Newcastle United,179,71,€12.5M,€26K,75,84
+1531,237248,Germán Berterame,22,Argentina,Club Atlético de San Luis,178,72,€11.5M,€16K,75,82
+1532,237043,Roberto Alvarado,22,Mexico,Club Deportivo Guadalajara,176,70,€9M,€36K,75,81
+1533,236898,Michel Aebischer,24,Switzerland,Bologna,183,74,€7.5M,€15K,75,78
+1534,236804,Facundo Medina,22,Argentina,Racing Club de Lens,184,77,€7.5M,€21K,75,79
+1535,236636,Anthony Caci,24,France,RC Strasbourg Alsace,186,74,€8.5M,€18K,75,81
+1536,236461,Jean-Philippe Mateta,24,France,Crystal Palace,192,88,€8M,€44K,75,79
+1537,236298,Eduard Atuesta,24,Colombia,,180,71,€0,€0,75,82
+1538,236295,Aarón Martín Caricol,24,Spain,1. FSV Mainz 05,178,70,€7M,€18K,75,78
+1539,236245,Alberth Elis,25,Honduras,FC Girondins de Bordeaux,183,77,€7.5M,€16K,75,78
+1540,236221,Darko Brašanac,29,Serbia,CA Osasuna,178,73,€5.5M,€26K,75,75
+1541,236073,Alam Cristian Lindeiro Couto,25,Brazil,Atlético Clube Goianiense,181,70,€5.5M,€12K,75,75
+1542,236033,Daniel Cárdenas Líndez,24,Spain,Levante Unión Deportiva,186,80,€7M,€15K,75,81
+1543,235996,Nicolas Moumi Ngamaleu,26,Cameroon,BSC Young Boys,181,74,€6M,€17K,75,75
+1544,235883,Ryan Sessegnon,21,England,Tottenham Hotspur,178,70,€12M,€44K,75,83
+1545,235875,Pol Mikel Lirola Kosok,23,Spain,Olympique de Marseille,183,70,€8.5M,€26K,75,81
+1546,235663,Guus Til,23,Netherlands,Feyenoord,186,78,€8M,€10K,75,79
+1547,235658,Victor Nelsson,22,Denmark,Galatasaray SK,185,78,€10.5M,€37K,75,82
+1548,235526,Dennis Geiger,23,Germany,TSG Hoffenheim,173,67,€8.5M,€27K,75,80
+1549,235456,Jean-Ricner Bellegarde,23,France,RC Strasbourg Alsace,172,70,€8.5M,€19K,75,80
+1550,235454,Malang Sarr,22,France,Chelsea,182,75,€7.5M,€61K,75,79
+1551,235389,Carlos Rodríguez,24,Mexico,Cruz Azul,171,64,€8.5M,€45K,75,80
+1552,235317,Jhon Mosquera,31,Colombia,FC Viktoria Plzeň,185,72,€4.7M,€1K,75,75
+1553,235210,Pedro Filipe Barbosa Moreira,28,Portugal,Gil Vicente FC,170,65,€5.5M,€11K,75,75
+1554,235042,Dimitri Liénard,33,France,RC Strasbourg Alsace,181,77,€2.9M,€20K,75,75
+1555,234913,Christian Fassnacht,27,Switzerland,BSC Young Boys,185,77,€6M,€17K,75,75
+1556,234826,Antonio Martínez López,24,Spain,FC Porto,187,84,€8.5M,€12K,75,80
+1557,234824,Yoane Wissa,24,Congo DR,Brentford,176,74,€7.5M,€40K,75,78
+1558,234789,Yan Brice Eteki,23,Cameroon,Granada CF,182,76,€12M,€17K,75,83
+1559,234178,Luis Abram,25,Peru,Cruz Azul,181,78,€7.5M,€19K,75,80
+1560,234112,Domilson Cordeiro dos Santos,22,Brazil,Shakhtar Donetsk,166,68,€12M,€800,75,84
+1561,234102,Ionuț Andrei Radu,24,Romania,Inter,188,78,€6M,€43K,75,78
+1562,233848,Jens Petter Hauge,21,Norway,Eintracht Frankfurt,183,75,€11.5M,€25K,75,82
+1563,233795,Ben Brereton Díaz,22,Chile,Blackburn Rovers,188,75,€11.5M,€38K,75,82
+1564,233493,Jorge Sánchez,23,Mexico,Club América,175,71,€8M,€32K,75,80
+1565,232670,Fernando Zampedri,33,Argentina,Universidad Católica,184,84,€3.6M,€14K,75,75
+1566,232097,Amine Harit,24,Morocco,Olympique de Marseille,180,67,€7.5M,€11K,75,78
+1567,231777,Abdülkadir Ömür,22,Turkey,Trabzonspor,168,70,€11.5M,€22K,75,82
+1568,231390,Diogo António Cupido Gonçalves,24,Portugal,SL Benfica,178,68,€7.5M,€11K,75,78
+1569,231280,Iván Alejo Peralta,26,Spain,Cádiz CF,184,76,€6M,€27K,75,75
+1570,231089,Ibrahima Sissoko,23,France,RC Strasbourg Alsace,193,90,€8M,€19K,75,79
+1571,230829,Alan Mozo,24,Mexico,Club Universidad Nacional,175,75,€7.5M,€11K,75,79
+1572,230528,Rafael Jorgino Cachoira Rebelo,21,Brazil,RB Bragantino,188,84,€6M,€11K,75,75
+1573,230524,Estevão Daniel Formoso Serpa,29,Brazil,Clube Atlético Mineiro,178,72,€5.5M,€35K,75,75
+1574,230502,Dênis Rubens Stein Rebelo,37,Brazil,Ceará Sporting Club,180,71,€1.9M,€12K,75,75
+1575,230427,Elias Thiago Petri Taffarel,25,Brazil,Palmeiras,172,71,€6M,€32K,75,75
+1576,230423,Pascoal Simão Muscato Vieira,29,Brazil,Santos,177,84,€4.8M,€24K,75,75
+1577,230401,Duirval Hélton Diniz Cabral,25,Brazil,Club Athletico Paranaense,187,82,€5.5M,€13K,75,75
+1578,230388,Davi Alexandre Parrela Ferreira,21,Brazil,Atlético Clube Goianiense,191,88,€6M,€9K,75,75
+1579,230355,Rubens Jairo Freitosa Costa,37,Brazil,Club Athletico Paranaense,174,75,€1.8M,€11K,75,75
+1580,230354,Jesus Fabrício Andrade Simões,29,Brazil,Cuiabá,177,73,€4.9M,€16K,75,75
+1581,230341,Joshua Eduardo Sá Madeira,25,Brazil,Santos,182,81,€5.5M,€22K,75,75
+1582,230336,Daniel Clayton Fachini Lobato,33,Brazil,Flamengo,169,68,€2.8M,€30K,75,75
+1583,230323,Kaíque Osvaldo Castro Rodrigues,25,Brazil,Fluminense,190,88,€4.6M,€16K,75,75
+1584,230295,Cristian Also Laranjeiro Sá,29,Brazil,Club Athletico Paranaense,185,85,€4.7M,€15K,75,75
+1585,230252,Jorgino Silas Ruiz Prestes,29,Brazil,Ceará Sporting Club,178,75,€4.8M,€13K,75,75
+1586,230250,Emilio Alex Piodão Esser,29,Brazil,Bahia,177,78,€4.8M,€13K,75,75
+1587,230244,Leôncio Roger Vimieiro Madeira,25,Brazil,São Paulo,168,66,€5.5M,€29K,75,75
+1588,230224,Julio Leonardo Dourado de Freitas,21,Brazil,Bahia,192,91,€6M,€9K,75,75
+1589,230219,Estevão Danilo Candeira Inácio,25,Brazil,Flamengo,176,73,€5.5M,€29K,75,75
+1590,230213,Kaíqundo Calado Dimas,25,Brazil,Atlético Clube Goianiense,184,77,€5.5M,€12K,75,75
+1591,230202,Jailson Michel Caeiro Meireles,29,Brazil,Ceará Sporting Club,177,75,€4.9M,€13K,75,75
+1592,230195,Alexandre Jonas Santos Fernandes,29,Brazil,Club Athletico Paranaense,177,74,€3.8M,€12K,75,75
+1593,230186,Enaldo Diogo Barbosa Prazeres,37,Brazil,Sport Club Corinthians Paulista,177,73,€1.2M,€18K,75,75
+1594,230165,Simão Alvin Donatinho Garcia,25,Brazil,Sport Club Corinthians Paulista,188,82,€4.6M,€19K,75,75
+1595,230020,Pierre Lees-Melou,28,France,Norwich City,186,70,€5.5M,€34K,75,75
+1596,230005,Tom Davies,23,England,Everton,180,70,€7.5M,€55K,75,78
+1597,229788,Rubén Alcaraz Jiménez,30,Spain,Cádiz CF,180,82,€5.5M,€12K,75,75
+1598,229764,Iñigo Córdoba Kerejeta,24,Spain,Go Ahead Eagles,180,76,€7.5M,€21K,75,78
+1599,229758,Rade Krunić,27,Bosnia and Herzegovina,AC Milan,184,74,€6M,€33K,75,75
+1600,229749,Alexander Barboza,26,Argentina,Club Libertad,193,92,€6.5M,€1K,75,78
+1601,229628,Rafael Jiménez Jarque,27,Spain,Cádiz CF,186,84,€6M,€25K,75,77
+1602,229593,Marko Pjaca,26,Croatia,Torino F.C.,186,83,€6.5M,€63K,75,76
+1603,229517,Antonio Villa Suárez,26,Spain,Real Valladolid CF,173,63,€6M,€12K,75,75
+1604,229476,Waldemar Anton,24,Germany,VfB Stuttgart,189,84,€7M,€20K,75,78
+1605,229469,Jean Meneses,28,Chile,Club León,163,65,€5.5M,€24K,75,75
+1606,229034,Víctor Guzmán,26,Mexico,Pachuca,175,79,€6.5M,€18K,75,76
+1607,228946,Mattias Svanberg,22,Sweden,Bologna,185,77,€8.5M,€25K,75,80
+1608,228151,Josh Cullen,25,Republic of Ireland,RSC Anderlecht,175,70,€6.5M,€19K,75,78
+1609,228092,Sander Berge,23,Norway,Sheffield United,195,96,€8M,€22K,75,81
+1610,227591,Alexis Canelo,29,Argentina,Deportivo Toluca,178,80,€5.5M,€22K,75,75
+1611,227234,Lucas Tousart,24,France,Hertha BSC,185,83,€8M,€30K,75,80
+1612,227232,Florian Sotoca,30,France,Racing Club de Lens,187,77,€5.5M,€29K,75,75
+1613,226807,Cristian Roldan,26,United States,Seattle Sounders FC,173,75,€6M,€9K,75,75
+1614,226591,Harold Preciado,27,Colombia,Santos Laguna,182,77,€6M,€23K,75,75
+1615,226536,Omar Colley,28,Gambia,U.C. Sampdoria,191,87,€5.5M,€18K,75,76
+1616,226379,Marcos Díaz,35,Argentina,Club Atlético Huracán,187,87,€625K,€7K,75,75
+1617,226376,Alejandro Romero Gamarra,26,Paraguay,Al Taawoun,171,68,€6.5M,€24K,75,76
+1618,226168,Maximilian Eggestein,24,Germany,Sport-Club Freiburg,181,75,€6.5M,€20K,75,77
+1619,226078,Mahmoud Hassan,26,Egypt,İstanbul Başakşehir FK,180,71,€6M,€53K,75,75
+1620,190059,Steven Zuber,29,Switzerland,AEK Athens,182,74,€5.5M,€1K,75,75
+1621,219244,David von Ballmoos,26,Switzerland,BSC Young Boys,192,90,€6M,€12K,75,79
+1622,199792,Anders Christiansen,31,Denmark,Malmö FF,175,68,€4.6M,€9K,75,75
+1623,161648,Hatem Ben Arfa,34,France,LOSC Lille,180,78,€2.7M,€34K,75,75
+1624,186992,Jesús Dueñas,32,Mexico,Tigres U.A.N.L.,179,75,€3.9M,€37K,75,75
+1625,216433,Anwar El Ghazi,26,Netherlands,Everton,188,90,€6M,€53K,75,75
+1626,215410,Brendan Chardonnet,26,France,Stade Brestois 29,181,74,€6.5M,€17K,75,78
+1627,209523,Derlis González,27,Paraguay,Club Olimpia,175,75,€6M,€1K,75,75
+1628,214132,Yimmi Chará,30,Colombia,Portland Timbers,165,68,€5.5M,€9K,75,75
+1629,225908,Reece Oxford,22,England,FC Augsburg,193,86,€8M,€18K,75,81
+1630,215157,Federico Lértora,30,Argentina,Club Atlético Colón,185,79,€4.7M,€13K,75,75
+1631,198006,Jens Toornstra,32,Netherlands,Feyenoord,178,74,€4.4M,€11K,75,75
+1632,209782,Sam Larsson,28,Sweden,Dalian Professional Football Club,180,70,€5.5M,€16K,75,75
+1633,205431,Niclas Füllkrug,28,Germany,SV Werder Bremen,189,83,€6M,€15K,75,75
+1634,213367,Laurent Abergel,28,France,FC Lorient,170,65,€4.9M,€18K,75,75
+1635,208504,Juan Cazares,29,Ecuador,Club Atlético Independiente,171,70,€5.5M,€15K,75,75
+1636,173432,Héctor Moreno,33,Mexico,CF Monterrey ,186,75,€2.7M,€38K,75,75
+1637,207993,Sead Kolašinac,28,Bosnia and Herzegovina,Olympique de Marseille,183,82,€5M,€32K,75,75
+1638,225147,Connor Roberts,25,Wales,Burnley,175,76,€7M,€28K,75,78
+1639,177019,Fabian Lustenberger,33,Switzerland,BSC Young Boys,182,73,€2.7M,€15K,75,75
+1640,197756,Jordan Ayew,29,Ghana,Crystal Palace,182,81,€5.5M,€52K,75,75
+1641,200316,Timo Horn,28,Germany,1. FC Köln,192,90,€4.8M,€20K,75,77
+1642,208509,Thomas Foket,26,Belgium,Stade de Reims,177,67,€6M,€22K,75,76
+1643,213629,Erick Pulgar,27,Chile,Galatasaray SK,187,74,€6M,€40K,75,76
+1644,225149,Jean Butez,26,France,Royal Antwerp FC,190,70,€5.5M,€15K,75,78
+1645,193152,Iago Herrerín Buisán,33,Spain,Al Raed,187,89,€1.8M,€15K,75,75
+1646,205953,João Paulo Mior,30,Brazil,Seattle Sounders FC,171,71,€5.5M,€9K,75,75
+1647,201858,Nicola Sansone,29,Italy,Bologna,173,63,€5.5M,€30K,75,75
+1648,205186,Paulo Gazzaniga,29,Argentina,Fulham,196,90,€3.8M,€38K,75,75
+1649,170370,Jonathan dos Santos,31,Mexico,Club América,172,74,€3.9M,€37K,75,75
+1650,195202,Tom Cairney,30,Scotland,Fulham,186,84,€5.5M,€49K,75,75
+1651,183427,Fabian Delph,31,England,Everton,174,78,€3.9M,€58K,75,75
+1652,206469,Taxiarchis Fountas,25,Greece,D.C. United,170,65,€7M,€9K,75,77
+1653,225926,Pere Milla Peña,28,Spain,Elche CF,184,72,€6M,€22K,75,75
+1654,220295,Enner Valencia,31,Ecuador,Fenerbahçe SK,177,74,€4.8M,€45K,75,75
+1655,204936,John Egan,28,Republic of Ireland,Sheffield United,185,75,€5.5M,€26K,75,76
+1656,199561,Manuel Agudo Durán,34,Spain,RC Celta de Vigo,175,73,€2.6M,€22K,75,75
+1657,209289,Kévin Manuel Rodrigues,27,Portugal,Rayo Vallecano,170,70,€6M,€28K,75,75
+1658,223113,Krzysztof Piątek,26,Poland,Fiorentina,183,77,€7M,€42K,75,77
+1659,225161,Jesús Vallejo Lázaro,24,Spain,Real Madrid CF,184,79,€7M,€82K,75,79
+1660,213899,Éder Balanta,28,Colombia,Club Brugge KV,181,84,€4.9M,€22K,75,75
+1661,189324,Alex McCarthy,31,England,Southampton,193,79,€3M,€34K,75,75
+1662,204688,Stefan Schwab,30,Austria,PAOK,183,77,€5.5M,€1K,75,75
+1663,211856,Kevin Akpoguma,26,Nigeria,TSG Hoffenheim,192,85,€6M,€28K,75,77
+1664,205201,Okay Yokuşlu,27,Turkey,Getafe CF,191,79,€6M,€20K,75,76
+1665,206225,Denis Cheryshev,30,Russia,Valencia CF,179,74,€5.5M,€30K,75,75
+1666,221841,Adam Armstrong,24,England,Southampton,172,69,€8.5M,€44K,75,80
+1667,216466,Wendell Nascimento Borges,27,Brazil,FC Porto,176,72,€5.5M,€12K,75,75
+1668,217235,Zainadine Chavango Júnior,33,Mozambique,Clube Sport Marítimo,178,70,€2.7M,€10K,75,75
+1669,193683,Xavier Chavalerin,30,France,ESTAC Troyes,178,66,€4.7M,€17K,75,75
+1670,219797,Roger Martínez,27,Colombia,Club América,180,89,€6M,€44K,75,75
+1671,213654,Glen Kamara,25,Finland,Rangers FC,183,73,€7.5M,€44K,75,78
+1672,199575,Jordi Masip López,32,Spain,Real Valladolid CF,180,76,€2.8M,€9K,75,75
+1673,222104,Tosin Adarabioyo,23,England,Fulham,196,78,€11.5M,€38K,75,83
+1674,173208,Domenico Criscito,34,Italy,Toronto FC,183,75,€1.8M,€8K,75,75
+1675,214169,William Tesillo,31,Colombia,Club León,184,62,€3.8M,€21K,75,75
+1676,215449,Robert Skov,25,Denmark,TSG Hoffenheim,185,81,€7.5M,€29K,75,78
+1677,192665,Andreas Luthe,34,Germany,1. FC Union Berlin,195,85,€950K,€21K,75,75
+1678,194201,Pontus Jansson,30,Sweden,Brentford,194,86,€4.6M,€38K,75,75
+1679,190362,Teemu Pukki,31,Finland,Norwich City,180,80,€4.8M,€35K,75,75
+1680,190875,Juraj Kucka,34,Slovakia,Watford,186,84,€2.6M,€5K,75,75
+1681,192667,Allan-Roméo Nyom,33,Cameroon,CD Leganés,189,80,€3.5M,€13K,75,75
+1682,199580,Connor Goldson,28,England,Rangers FC,191,85,€5.5M,€44K,75,76
+1683,213404,Paweł Dawidowicz,26,Poland,Hellas Verona,189,80,€6.5M,€23K,75,78
+1684,213917,Fábio Rafael Rodrigues Cardoso,27,Portugal,FC Porto,187,81,€6M,€12K,75,77
+1685,182941,Pablo Aguilar,34,Paraguay,Club Libertad,178,74,€1.8M,€1K,75,75
+1686,188829,Nicolas Nkoulou,31,Cameroon,Watford,184,78,€3.8M,€42K,75,75
+1687,201118,Cédric Ricardo Alves Soares,29,Portugal,Arsenal,172,67,€4.9M,€60K,75,75
+1688,221342,Pablo Maffeo Becerra,23,Spain,RCD Mallorca,172,70,€10.5M,€20K,75,82
+1689,225439,Rolando Mandragora,24,Italy,Torino F.C.,183,75,€9M,€51K,75,81
+1690,225951,Denis Bouanga,26,Gabon,AS Saint-Étienne,180,71,€6M,€29K,75,75
+1691,225696,Murilo de Souza Costa,26,Brazil,Gil Vicente FC,177,68,€6M,€11K,75,75
+1692,215202,Lucas Janson,26,Argentina,Vélez Sarsfield,171,67,€6M,€16K,75,75
+1693,183714,Simon Terodde,33,Germany,FC Schalke 04,192,83,€3.6M,€14K,75,75
+1694,205989,Calum Chambers,26,England,Aston Villa,182,77,€6M,€49K,75,76
+1695,205990,Harrison Reed,26,England,Fulham,175,72,€6M,€45K,75,77
+1696,197031,Marvin Ducksch,27,Germany,SV Werder Bremen,188,79,€6M,€14K,75,75
+1697,224423,Maximilian Wittek,25,Germany,Vitesse,173,70,€6.5M,€15K,75,77
+1698,213928,Eduard Sobol,26,Ukraine,Club Brugge KV,186,76,€6M,€21K,75,76
+1699,194728,Ishak Belfodil,29,Algeria,Hertha BSC,192,86,€5.5M,€43K,75,75
+1700,204713,Joel Campbell,29,Costa Rica,CF Monterrey ,178,78,€5.5M,€26K,75,75
+1701,212138,Przemysław Frankowski,26,Poland,Racing Club de Lens,175,70,€6M,€24K,75,76
+1702,172203,Fraser Forster,33,England,Southampton,201,93,€1.8M,€34K,75,75
+1703,192427,Uílson de Souza Paula Júnior,32,Brazil,İstanbul Başakşehir FK,172,67,€3.9M,€30K,75,75
+1704,168621,José Carlos Gonçalves Rodrigues,32,Greece,F.C. København,182,67,€3.7M,€19K,75,75
+1705,177326,Mathieu Valbuena,36,France,Olympiacos CFP,167,58,€1.8M,€1K,75,75
+1706,204977,Iván Piris,32,Paraguay,Club Libertad,173,75,€3.9M,€1K,75,75
+1707,223154,Ozan Tufan,26,Turkey,Fenerbahçe SK,179,80,€6.5M,€41K,75,76
+1708,206003,Yvon Mvogo,27,Switzerland,PSV,189,93,€5.5M,€41K,75,78
+1709,172723,Asmir Begović,34,Bosnia and Herzegovina,Everton,199,101,€950K,€47K,75,75
+1710,206516,Will Hughes,26,England,Crystal Palace,185,74,€6.5M,€46K,75,76
+1711,194996,Borja González Tomás,28,Spain,Real Oviedo,188,82,€6M,€12K,75,75
+1712,198581,Óscar Murillo,33,Colombia,Pachuca,184,84,€2.7M,€16K,75,75
+1713,220085,Luca Waldschmidt,25,Germany,VfL Wolfsburg,181,74,€8.5M,€51K,75,80
+1714,220854,Érick Gutiérrez,26,Mexico,PSV,178,68,€7M,€17K,75,77
+1715,224438,Adam Buksa,24,Poland,,191,77,€0,€0,75,77
+1716,205495,Anthony Lozano,28,Honduras,Cádiz CF,185,74,€6M,€30K,75,75
+1717,223671,Stefan Posch,24,Austria,TSG Hoffenheim,189,82,€7M,€24K,75,79
+1718,186551,Fernando Navarro,32,Mexico,Pachuca,165,63,€3.9M,€16K,75,75
+1719,214968,Federico Mancuello,32,Argentina,Puebla FC,178,70,€4.4M,€9K,75,75
+1720,219576,Rodrigo Battaglia,29,Argentina,RCD Mallorca,187,79,€5.5M,€14K,75,75
+1721,210617,Samuel Castillejo Azuaga,26,Spain,AC Milan,182,67,€6M,€36K,75,75
+1722,214971,Francisco Pizzini,27,Argentina,Defensa y Justicia,178,75,€6M,€15K,75,75
+1723,153275,Jean-Louis Leca,35,France,Racing Club de Lens,180,75,€625K,€13K,75,75
+1724,215228,Cristian Lema,31,Argentina,Newell's Old Boys,192,93,€3.8M,€14K,75,75
+1725,158144,Salvador Sevilla López,37,Spain,RCD Mallorca,178,71,€1.1M,€16K,75,75
+1726,163264,Tom Heaton,35,England,Manchester United,188,85,€625K,€40K,75,75
+1727,219585,Martin Valjent,25,Slovakia,RCD Mallorca,187,83,€7.5M,€21K,75,80
+1728,204226,Darío Lezcano,31,Paraguay,Fútbol Club Juárez,178,80,€4.8M,€13K,75,75
+1729,222404,Mathias Normann,25,Norway,Norwich City,179,75,€6.5M,€28K,75,78
+1730,171972,James McArthur,33,Scotland,Crystal Palace,178,66,€3.5M,€46K,75,75
+1731,193476,Rémy Cabella,31,France,Montpellier Hérault SC,172,66,€4.7M,€24K,75,75
+1732,207557,Robin Olsen,31,Sweden,Aston Villa,196,86,€3M,€31K,75,75
+1733,225733,Cesar Fernando Silva Melo,31,Brazil,Daegu FC,177,74,€4.8M,€10K,75,75
+1734,210374,Juan Pablo Vigón,29,Mexico,Tigres U.A.N.L.,168,67,€5.5M,€42K,75,75
+1735,221639,Mariano Díaz Mejía,27,Dominican Republic,Real Madrid CF,180,76,€6M,€115K,75,75
+1736,205257,Naïm Sliti,28,Tunisia,Ettifaq FC,173,78,€5.5M,€29K,75,75
+1737,186569,Sven Ulreich,32,Germany,FC Bayern München,192,87,€2.8M,€41K,75,75
+1738,201931,Gabriel Vasconcelos F.,28,Brazil,Lecce,193,90,€4.5M,€4K,75,76
+1739,210635,Kortney Hause,25,England,Aston Villa,191,77,€6M,€46K,75,77
+1740,190156,Rubén Salvador Pérez del Mármol,32,Spain,Panathinaikos FC,178,72,€3.7M,€850,75,75
+1741,219087,Sebastián Vegas,24,Chile,CF Monterrey ,180,75,€10.5M,€33K,75,82
+1742,198352,Stefan Bell,29,Germany,1. FSV Mainz 05,192,88,€4.7M,€22K,75,75
+1743,210384,Ridgeciano Haps,28,Suriname,Venezia FC,175,66,€5M,€19K,75,75
+1744,199633,Matthew Lowton,32,England,Burnley,181,78,€3.9M,€30K,75,75
+1745,173521,Iván Marcano Sierra,34,Spain,FC Porto,189,77,€1.8M,€12K,75,75
+1746,212947,Jimmy Cabot,27,France,Angers SCO,164,64,€6M,€22K,75,75
+1747,212692,Marcos Paulo Mesquita Lopes,25,Portugal,Olympiacos CFP,174,68,€6.5M,€1K,75,76
+1748,225748,Todd Cantwell,23,England,AFC Bournemouth,177,70,€8.5M,€31K,75,80
+1749,189908,Łukasz Skorupski,30,Poland,Bologna,187,84,€3.7M,€22K,75,75
+1750,210136,Tomasz Kędziora,27,Poland,Lech Poznań,183,77,€6M,€900,75,76
+1751,202201,Jeffrey Gouweleeuw,29,Netherlands,FC Augsburg,188,83,€4.7M,€22K,75,75
+1752,199386,Bryan Linssen,30,Netherlands,Urawa Red Diamonds,170,64,€5.5M,€14K,75,75
+1753,197083,Daniel Caligiuri,33,Italy,FC Augsburg,182,80,€3.5M,€23K,75,75
+1754,224987,Ivan Provedel,27,Italy,Spezia,192,84,€5M,€13K,75,77
+1755,223197,Enes Ünal,24,Turkey,Getafe CF,187,78,€8.5M,€24K,75,80
+1756,223710,Vedat Muriqi,27,Kosovo,RCD Mallorca,194,86,€6M,€51K,75,75
+1757,195038,Florian Kainz,28,Austria,1. FC Köln,176,71,€5.5M,€27K,75,75
+1758,203487,Jamaal Lascelles,27,England,Newcastle United,188,83,€5.5M,€33K,75,76
+1759,222943,Jonathan Rodríguez Menéndez,29,Spain,Real Sporting de Gijón,179,71,€5.5M,€49K,75,75
+1760,182495,Martín Cáceres,34,Uruguay,Levante Unión Deportiva,181,78,€1.8M,€23K,75,75
+1761,193247,Heinz Lindner,30,Austria,FC Basel 1893,188,82,€3.7M,€11K,75,75
+1762,206304,Luka Milivojević,30,Serbia,Crystal Palace,186,80,€4.7M,€42K,75,75
+1763,188388,Ryad Boudebouz,31,Algeria,AS Saint-Étienne,177,74,€4.7M,€29K,75,75
+1764,189156,Daniel Filipe Martins Carriço,32,Portugal,Unión Deportiva Almería,183,84,€3.6M,€11K,75,75
+1765,220901,David Raya Martin,25,Spain,Brentford,183,75,€6M,€29K,75,78
+1766,223717,Dorukhan Toköz,25,Turkey,Trabzonspor,180,75,€7.5M,€24K,75,78
+1767,194022,André Gomes Magalhães Almeida,30,Portugal,SL Benfica,186,80,€4.8M,€12K,75,75
+1768,208615,Christopher Jullien,28,France,Celtic,196,88,€4.8M,€44K,75,75
+1769,213991,Jefferson Lerma,26,Colombia,AFC Bournemouth,179,70,€6M,€30K,75,77
+1770,222951,Marek Rodák,24,Slovakia,Fulham,194,81,€7M,€30K,75,80
+1771,220905,Jean-Eudes Aholou,27,Côte d'Ivoire,RC Strasbourg Alsace,186,71,€6M,€38K,75,76
+1772,169706,Jack Cork,32,England,Burnley,184,75,€3.7M,€30K,75,75
+1773,194794,Andriy Yarmolenko,31,Ukraine,West Ham United,190,83,€4.7M,€55K,75,75
+1774,186347,Maciej Rybus,31,Poland,,173,75,€0,€0,75,75
+1775,208620,Omar Mascarell González,28,Spain,Elche CF,181,76,€4.9M,€18K,75,75
+1776,185068,Johnny Russell,31,Scotland,Sporting Kansas City,178,76,€4.7M,€10K,75,75
+1777,201454,Faouzi Ghoulam,30,Algeria,Napoli,184,80,€4.8M,€45K,75,75
+1778,221422,Sverrir Ingi Ingason,27,Iceland,PAOK,188,83,€5M,€1K,75,75
+1779,224494,Rico Henry,23,England,Brentford,170,66,€8M,€33K,75,80
+1780,186351,Leroy Fer,31,Netherlands,Aytemiz Alanyaspor,188,78,€3.9M,€14K,75,75
+1781,178160,Thomas Mangani,34,France,Angers SCO,183,79,€1.9M,€20K,75,75
+1782,212977,Niklas Stark,26,Germany,Hertha BSC,190,88,€6M,€35K,75,77
+1783,220659,Josh Brownhill,25,England,Burnley,180,69,€7.5M,€31K,75,78
+1784,225523,Iñigo Lekue Martínez,28,Spain,Athletic Club de Bilbao,180,70,€5M,€23K,75,75
+1785,222709,Petros Matheus dos Santos Araujo,32,Brazil,Al Fateh,181,77,€4.4M,€28K,75,75
+1786,199158,Sergio Álvarez Díaz,29,Spain,SD Eibar,183,74,€4.8M,€11K,75,75
+1787,189433,Benjamin Hübner,31,Germany,TSG Hoffenheim,193,86,€3.8M,€28K,75,75
+1788,211706,Pere Pons Riera,28,Spain,Deportivo Alavés,177,70,€5.5M,€23K,75,75
+1789,213242,Adrien Tameze,27,France,Hellas Verona,180,78,€6M,€23K,75,76
+1790,204539,Luis Advíncula,31,Peru,Boca Juniors,180,80,€4.1M,€15K,75,75
+1791,206075,Sam Johnstone,28,England,West Bromwich Albion,193,85,€4.8M,€31K,75,77
+1792,224251,Robin Zentner,26,Germany,1. FSV Mainz 05,194,96,€5.5M,€17K,75,77
+1793,198653,Martín Silva,38,Uruguay,Club Libertad,187,88,€625K,€600,75,75
+1794,226045,Jesús Gallardo,26,Mexico,CF Monterrey ,176,73,€6M,€38K,75,76
+1795,200446,Camilo da Silva Sanvezzo,32,Brazil,Deportivo Toluca,170,73,€4.6M,€23K,75,75
+1796,224510,Walter Bou,27,Argentina,Defensa y Justicia,174,74,€6M,€17K,75,75
+1797,198143,Samuel Sáiz Alonso,30,Spain,Girona FC,174,68,€5.5M,€14K,75,75
+1798,184575,Romain Alessandrini,32,France,Shenzhen FC,173,70,€4.6M,€14K,75,75
+1799,198145,Sergio Araujo,29,Argentina,AEK Athens,180,76,€4.2M,€1K,74,74
+1800,215553,José Henrique da Silva Dourado,31,Brazil,Henan Songshan Longmen FC,186,80,€3.6M,€15K,74,74
+1801,239361,Dani de Wit,23,Netherlands,AZ Alkmaar,183,76,€6.5M,€9K,74,79
+1802,256769,Adrien Truffert,19,France,Stade Rennais FC,173,63,€8.5M,€17K,74,83
+1803,230147,Falaye Sacko,26,Mali,AS Saint-Étienne,179,68,€4.5M,€9K,74,75
+1804,201988,Federico Fernández,32,Argentina,Newcastle United,190,83,€2.7M,€30K,74,74
+1805,140293,Antonio Mirante,37,Italy,AC Milan,193,79,€475K,€15K,74,74
+1806,206085,Jacob Murphy,26,England,Newcastle United,179,74,€4.6M,€33K,74,74
+1807,209669,Dimitrios Siovas,32,Greece,Fortuna Sittard,191,83,€2.7M,€11K,74,74
+1808,232709,Damian Batallini,25,Argentina,Club Atlético Independiente,176,77,€5.5M,€13K,74,77
+1809,235781,Santiago Comesaña Veiga,24,Spain,Rayo Vallecano,184,75,€6M,€14K,74,80
+1810,241925,Chris Führich,23,Germany,VfB Stuttgart,178,69,€6M,€21K,74,78
+1811,210438,Farid Boulaya,28,Algeria,FC Metz,179,70,€4.2M,€18K,74,74
+1812,233478,Miha Zajc,27,Slovenia,Fenerbahçe SK,178,72,€4.8M,€38K,74,75
+1813,190982,Alberto Perea Correoso,30,Spain,Cádiz CF,177,74,€4.1M,€25K,74,74
+1814,224263,Jonjoe Kenny,24,England,Everton,176,67,€4.8M,€46K,74,75
+1815,167431,Gonzalo Castro,34,Germany,DSC Arminia Bielefeld,172,72,€2M,€22K,74,74
+1816,215048,Javier Burrai,30,Argentina,Barcelona Sporting Club,189,82,€2.8M,€900,74,74
+1817,226568,Ianis Hagi,22,Romania,Rangers FC,182,72,€7M,€41K,74,80
+1818,256008,Felipe Rodrigues da Silva,20,Brazil,SL Benfica,190,88,€9.5M,€8K,74,86
+1819,208137,Lucas Torró Marset,26,Spain,CA Osasuna,190,77,€5M,€21K,74,77
+1820,241673,Borna Barišić,28,Croatia,Rangers FC,186,80,€3.8M,€41K,74,74
+1821,214026,Johan Mojica,28,Colombia,Elche CF,185,73,€3.8M,€17K,74,74
+1822,222475,Morten Thorsby,25,Norway,U.C. Sampdoria,189,79,€5.5M,€17K,74,77
+1823,223243,Emanuel Aguilera,32,Argentina,Club Atlas,187,93,€2.7M,€12K,74,74
+1824,233483,Tarik Tissoudali,28,Morocco,KAA Gent,182,74,€4.3M,€22K,74,74
+1825,246284,Óscar Gil Regaño,23,Spain,RCD Espanyol de Barcelona,173,70,€8M,€13K,74,81
+1826,188942,Victor Wanyama,30,Kenya,Club de Foot Montréal,188,79,€3.5M,€8K,74,74
+1827,199439,Michael Gregoritsch,27,Austria,FC Augsburg,193,91,€4.6M,€23K,74,74
+1828,223248,Juan Martín Lucero,29,Argentina,Colo-Colo,182,75,€4.2M,€10K,74,74
+1829,143121,José Sosa,36,Argentina,Fenerbahçe SK,179,72,€1.3M,€28K,74,74
+1830,221201,Tim Leibold,27,Germany,Hamburger SV,174,72,€4.1M,€13K,74,74
+1831,230417,Rodrigo Éder Serpa Conceição,21,Brazil,Grêmio,179,76,€4.4M,€16K,74,74
+1832,236817,Habib Maïga,25,Côte d'Ivoire,FC Metz,181,80,€5M,€15K,74,77
+1833,237841,Michael Murillo,25,Panama,RSC Anderlecht,183,75,€4.9M,€17K,74,76
+1834,235026,Omar Richards,23,England,FC Bayern München,174,70,€6M,€40K,74,79
+1835,222227,Patrick Berg,23,Norway,Racing Club de Lens,178,76,€6M,€22K,74,78
+1836,210964,Federico Ceccherini,29,Italy,Hellas Verona,187,75,€3.5M,€22K,74,74
+1837,212244,Christopher Lenz,26,Germany,Eintracht Frankfurt,181,81,€4.5M,€22K,74,75
+1838,240916,Dejan Ljubicic,23,Austria,1. FC Köln,187,74,€6.5M,€21K,74,79
+1839,258580,Kerem Aktürkoğlu,22,Turkey,Galatasaray SK,173,71,€9.5M,€38K,74,82
+1840,207894,Tobias Strobl,31,Germany,FC Augsburg,188,77,€3M,€20K,74,74
+1841,209430,Renaud Ripart,28,France,ESTAC Troyes,181,73,€4.3M,€19K,74,74
+1842,230422,Murilo Kaíque Sanches Cardoso,33,Brazil,América Futebol Clube,176,76,€2.6M,€16K,74,74
+1843,236822,Gabriel Gudmundsson,22,Sweden,LOSC Lille,181,72,€9M,€23K,74,82
+1844,241686,Manuel Vallejo Galván,24,Spain,Deportivo Alavés,167,72,€6.5M,€27K,74,79
+1845,188182,Leon Balogun,33,Nigeria,Rangers FC,190,88,€2M,€39K,74,74
+1846,254487,Matheus Henrique de Souza,23,Brazil,U.S. Sassuolo Calcio,175,71,€6M,€24K,74,78
+1847,206104,Serdar Dursun,29,Turkey,Fenerbahçe SK,190,80,€4.2M,€43K,74,74
+1848,186392,Joel Ward,31,England,Crystal Palace,188,83,€3.1M,€39K,74,74
+1849,196889,Simone Verdi,28,Italy,US Salernitana 1919,174,72,€4.3M,€39K,74,74
+1850,205850,Leonardo Pavoletti,32,Italy,Cagliari,188,85,€3.4M,€29K,74,74
+1851,215322,Jonathan Silva,27,Argentina,Getafe CF,179,72,€4.4M,€21K,74,75
+1852,225562,Martín Merquelanz,26,Spain,Rayo Vallecano,176,72,€5M,€26K,74,75
+1853,228635,Borja Mayoral Moya,24,Spain,Getafe CF,182,74,€6.5M,€90K,74,79
+1854,229659,Bryan Heynen,24,Belgium,KRC Genk,183,73,€6.5M,€13K,74,79
+1855,210972,Javier Manquillo Gaitán,27,Spain,Newcastle United,178,76,€4.1M,€30K,74,74
+1856,228124,Matej Jonjić,30,Croatia,Cerezo Osaka,187,83,€3.5M,€8K,74,74
+1857,228892,Ignacio Rivero,29,Uruguay,Cruz Azul,166,60,€4.1M,€50K,74,74
+1858,183580,Nils Petersen,32,Germany,Sport-Club Freiburg,188,82,€3.4M,€26K,74,74
+1859,230173,Nilson Leôncio Alfaro Soares,37,Brazil,Atlético Clube Goianiense,190,89,€475K,€6K,74,74
+1860,238621,Rodrigo Nascimento França,25,Brazil,Udinese Calcio,191,79,€5M,€14K,74,77
+1861,246045,Pedro De la Vega,20,Argentina,Club Atlético Lanús,177,71,€9.5M,€13K,74,85
+1862,229406,João Pedro Barradas Novais,27,Portugal,Aytemiz Alanyaspor,183,77,€4.5M,€14K,74,74
+1863,184606,Fábio José Ferreira Pacheco,33,Portugal,Moreirense FC,180,72,€2.1M,€12K,74,74
+1864,211999,Rani Khedira,27,Germany,1. FC Union Berlin,188,84,€4.3M,€24K,74,75
+1865,256287,Facundo Farías,18,Argentina,Club Atlético Colón,171,69,€9M,€6K,74,84
+1866,213536,Maxime Crépeau,27,Canada,Los Angeles FC,180,88,€3.9M,€6K,74,76
+1867,226592,Jakub Jankto,25,Czech Republic,Getafe CF,180,74,€5M,€22K,74,75
+1868,239136,Nicolas Cozza,22,France,Montpellier Hérault SC,178,72,€8M,€18K,74,81
+1869,219681,Jordan Amavi,27,France,OGC Nice,176,70,€4.1M,€28K,74,74
+1870,173857,Mariano Andújar,37,Argentina,Estudiantes de La Plata,194,86,€475K,€6K,74,74
+1871,206114,Kristoffer Olsson,26,Sweden,RSC Anderlecht,181,69,€5M,€20K,74,76
+1872,207650,Emil Krafth,26,Sweden,Newcastle United,184,83,€4.5M,€30K,74,75
+1873,210722,Júlio Carolino Tavares,32,Cape Verde Islands,Al Faisaly,188,82,€3.4M,€16K,74,74
+1874,232226,Denys Boyko,33,Ukraine,Dynamo Kyiv,197,85,€1.4M,€700,74,74
+1875,245538,Kyogo Furuhashi,26,Japan,Celtic,170,63,€4.7M,€47K,74,74
+1876,186146,Danny Welbeck,30,England,Brighton & Hove Albion,185,73,€4.1M,€49K,74,74
+1877,189218,Ryan Jack,29,Scotland,Rangers FC,182,72,€4.1M,€45K,74,74
+1878,229155,Thomas Ouwejan,24,Netherlands,FC Schalke 04,183,76,€5.5M,€8K,74,77
+1879,191011,Luigi Sepe,30,Italy,US Salernitana 1919,185,75,€2.8M,€4K,74,74
+1880,198949,Kévin Malcuit,29,France,Napoli,178,77,€3.7M,€44K,74,74
+1881,230437,Elias Thiago Fontoira Marques,25,Brazil,Internacional,186,74,€4.1M,€20K,74,74
+1882,243237,Luca Pellegrini,22,Italy,Juventus,178,72,€6.5M,€42K,74,80
+1883,224294,Lewis Cook,24,England,AFC Bournemouth,175,71,€6M,€26K,74,78
+1884,254247,Mostafa Mohamed,23,Egypt,Galatasaray SK,185,78,€8.5M,€42K,74,81
+1885,220715,Ezequiel Ponce,24,Argentina,Elche CF,180,80,€6.5M,€17K,74,79
+1886,214572,Juan Angulo,32,Colombia,Club Deportes Tolima,178,78,€2.9M,€2K,74,74
+1887,226604,Diego Valoyes,24,Colombia,Club Atlético Talleres,181,76,€6M,€12K,74,77
+1888,228908,Jason Berthomier,31,France,Clermont Foot 63,177,74,€3.5M,€17K,74,74
+1889,204077,M'Baye Niang,26,Senegal,FC Girondins de Bordeaux,188,83,€5M,€24K,74,75
+1890,235565,Dylan Bronn,26,Tunisia,FC Metz,185,77,€4.9M,€16K,74,77
+1891,230191,Enzo Wellington Marteiro Santoso,29,Brazil,Flamengo,191,80,€2.9M,€24K,74,74
+1892,200752,Juan Guilherme Nunes Jesus,30,Brazil,Napoli,185,83,€3.5M,€42K,74,74
+1893,205360,Kemar Roofe,28,Jamaica,Rangers FC,178,65,€4.3M,€48K,74,74
+1894,217648,Genki Haraguchi,30,Japan,1. FC Union Berlin,179,68,€4.1M,€26K,74,74
+1895,193584,Guido Burgstaller,32,Austria,FC St. Pauli,187,80,€3.4M,€19K,74,74
+1896,230449,Diego Hugo Ramos Calado,29,Brazil,Flamengo,185,80,€4.2M,€35K,74,74
+1897,184881,Sofiane Feghouli,31,Algeria,Galatasaray SK,176,75,€3.5M,€44K,74,74
+1898,257073,Tiago B. de Melo Tomás,19,Portugal,VfB Stuttgart,180,73,€9M,€8K,74,82
+1899,204850,Tokmac Chol Nguen,27,Norway,Ferencvárosi TC,174,60,€4.5M,€1K,74,74
+1900,205362,Matija Nastasić,28,Serbia,Fiorentina,188,83,€3.6M,€39K,74,74
+1901,211506,John Swift,26,England,Reading,182,73,€5.5M,€26K,74,77
+1902,222514,Freddie Woodman,24,England,AFC Bournemouth,188,83,€5M,€20K,74,79
+1903,210739,Casper Nielsen,27,Denmark,Royale Union Saint-Gilloise,182,76,€4.5M,€15K,74,74
+1904,222515,Zinedine Ferhat,28,Algeria,Nîmes Olympique,183,70,€4.2M,€8K,74,74
+1905,244787,Milan Havel,26,Czech Republic,FC Viktoria Plzeň,183,77,€4.2M,€950,74,74
+1906,215604,Cédric Brunner,27,Switzerland,DSC Arminia Bielefeld,180,75,€4.1M,€20K,74,74
+1907,225844,Daniele Verde,25,Italy,Spezia,168,64,€5.5M,€17K,74,77
+1908,232244,Santiago Ascacíbar,24,Argentina,Hertha BSC,168,70,€6M,€28K,74,79
+1909,201269,Frederik Rønnow,28,Denmark,1. FC Union Berlin,190,80,€3M,€20K,74,74
+1910,205365,Jan Kopic,31,Czech Republic,FC Viktoria Plzeň,179,81,€3.5M,€1K,74,74
+1911,179765,Emiliano Vecchio,32,Argentina,Rosario Central,178,80,€3.3M,€16K,74,74
+1912,251445,Samuel Dias Lino,21,Brazil,Gil Vicente FC,178,66,€9.5M,€8K,74,82
+1913,213814,Federico Di Francesco,27,Italy,Empoli,171,75,€4.6M,€42K,74,74
+1914,230198,Júlio César Pires Feitosa,21,Brazil,Bahia,180,82,€5M,€9K,74,76
+1915,225591,Leonardo Suárez,25,Argentina,Santos Laguna,163,63,€5M,€19K,74,75
+1916,230199,Vinicius Lúcio Cardenha Caeiro,29,Brazil,Fluminense,179,73,€3.7M,€20K,74,74
+1917,230967,Brian Lozano,27,Uruguay,Santos Laguna,167,67,€4.5M,€19K,74,74
+1918,244791,Patrik Hrošovský,29,Slovakia,KRC Genk,172,67,€4.1M,€16K,74,74
+1919,236600,Japhet Tanganga,22,England,Tottenham Hotspur,180,73,€9M,€49K,74,82
+1920,180281,Luiz Fernando Pereira da Silva,35,Brazil,Chongqing Liangjiang Athletic,173,74,€1.7M,€7K,74,74
+1921,193849,Conor Hourihane,30,Republic of Ireland,Sheffield United,180,62,€4M,€49K,74,74
+1922,180283,Sung Yueng Ki,32,Korea Republic,FC Seoul,189,75,€3.3M,€6K,74,74
+1923,214076,Nicolás Vikonis,37,Uruguay,Mazatlán Futbol Club,184,88,€475K,€6K,74,74
+1924,216380,Daley Sinkgraven,25,Netherlands,Bayer 04 Leverkusen,179,67,€4.6M,€34K,74,75
+1925,242236,Francisco Reis Ferreira,24,Portugal,Hajduk Split,191,78,€6M,€800,74,80
+1926,203581,Iván Balliu,29,Albania,Rayo Vallecano,174,65,€3.7M,€17K,74,74
+1927,211005,Hyeon Soo Jang,29,Korea Republic,Al Hilal,183,83,€3.5M,€31K,74,74
+1928,212541,Leonel Vangioni,34,Argentina,Newell's Old Boys,181,68,€1.5M,€13K,74,74
+1929,231485,Axel Tuanzebe,23,England,Napoli,185,75,€5.5M,€60K,74,78
+1930,241470,Alejandro Centelles Plaza,21,Spain,Unión Deportiva Almería,185,73,€9M,€7K,74,83
+1931,212287,Andreas Maxsø,27,Denmark,Brøndby IF,191,87,€4.5M,€13K,74,76
+1932,227647,Maximilian Mittelstädt,24,Germany,Hertha BSC,180,71,€5.5M,€28K,74,78
+1933,228415,Leonardo Godoy,26,Argentina,Estudiantes de La Plata,173,70,€4.5M,€11K,74,75
+1934,169792,Jay Rodriguez,31,England,Burnley,185,84,€3.6M,€33K,74,74
+1935,216385,Richard Ortiz,31,Paraguay,Club Olimpia,174,75,€3M,€1K,74,74
+1936,230465,Allan Norberto Bardini Paneira,29,Brazil,Ceará Sporting Club,175,72,€4.1M,€14K,74,74
+1937,227394,Carlos González,28,Paraguay,Tigres U.A.N.L.,183,75,€4.3M,€42K,74,74
+1938,235842,Andrea Pinamonti,22,Italy,Empoli,188,72,€7M,€63K,74,80
+1939,207683,Sokratis Dioudis,28,Greece,Panathinaikos FC,189,75,€3.3M,€650,74,75
+1940,215107,Héctor Villalba,26,Paraguay,Club Libertad,178,76,€4.6M,€1K,74,74
+1941,215363,Lorenzo Montipò,25,Italy,Hellas Verona,191,82,€4.6M,€3K,74,78
+1942,231235,Kelvin Amian,23,France,Spezia,180,78,€5.5M,€13K,74,78
+1943,193091,Bram Nuytinck,31,Netherlands,Udinese Calcio,190,82,€2.9M,€14K,74,74
+1944,229188,Vangelis Pavlidis,22,Greece,AZ Alkmaar,185,82,€8.5M,€10K,74,81
+1945,230468,José Emerson Mirazar Coelho,25,Brazil,Grêmio,180,74,€4.7M,€24K,74,74
+1946,243780,Kang In Lee,20,Korea Republic,RCD Mallorca,173,68,€9.5M,€16K,74,82
+1947,199493,Diego Mariño Villar,31,Spain,Real Sporting de Gijón,187,77,€2.2M,€8K,74,74
+1948,219717,Yony González,26,Colombia,Deportivo Cali,184,84,€4.7M,€3K,74,74
+1949,230469,Ailton Sérgio Guevara Muscato,29,Brazil,Cuiabá,177,71,€4.1M,€16K,74,74
+1950,205895,Alexander Ring,30,Finland,Austin FC,175,73,€3.5M,€8K,74,74
+1951,193352,Ricardo Rodríguez,28,Switzerland,Torino F.C.,182,77,€3.6M,€33K,74,74
+1952,214601,Stefan Medina,29,Colombia,CF Monterrey ,180,72,€3.7M,€37K,74,74
+1953,221001,Ulrik Saltnes,28,Norway,FK Bodø/Glimt,187,78,€4.2M,€6K,74,74
+1954,230217,Maurício Wilson Borghes Caeiro,29,Brazil,São Paulo,172,71,€3.7M,€30K,74,74
+1955,234569,Florentino Morris Luís,21,Portugal,Getafe CF,184,74,€9M,€8K,74,83
+1956,253257,Sebastián Cáceres,21,Uruguay,Club América,180,77,€8M,€25K,74,81
+1957,192073,Andrea Bertolacci,30,Italy,Yukatel Kayserispor,179,72,€4M,€14K,74,74
+1958,234570,João Pedro Neves Filipe,22,Portugal,Celtic,175,67,€9.5M,€12K,74,82
+1959,237386,Kiernan Dewsbury-Hall,22,England,Leicester City,177,70,€6.5M,€59K,74,79
+1960,234827,Jacob Rasmussen,24,Denmark,Vitesse,190,81,€6M,€32K,74,79
+1961,182859,Walter Gargano,36,Uruguay,Club Atlético Peñarol,167,73,€825K,€750,74,74
+1962,204876,Carlos Clerc Martínez,29,Spain,Levante Unión Deportiva,182,69,€3.7M,€22K,74,74
+1963,212300,Jack O'Connell,27,England,Sheffield United,191,85,€4.5M,€23K,74,76
+1964,236108,Estevão Danilo Baldeiro Lopes,25,Brazil,Flamengo,186,85,€4.1M,€27K,74,74
+1965,213581,Martín Nervo,30,Argentina,Club Atlas,183,81,€3.5M,€12K,74,74
+1966,206414,Sergiy Kryvtsov,30,Ukraine,Shakhtar Donetsk,186,83,€3.5M,€850,74,74
+1967,215886,Damir Kreilach,32,Croatia,Real Salt Lake,186,78,€3.4M,€9K,74,74
+1968,246350,Enzo Le Fée,21,France,FC Lorient,170,58,€9.5M,€13K,74,82
+1969,185422,Joshua King,29,Norway,Watford,184,82,€4.2M,€48K,74,74
+1970,234575,Diogo Filipe Pinto Leite,22,Portugal,SC Braga,188,83,€9M,€9K,74,82
+1971,152912,José Sand,40,Argentina,Club Atlético Lanús,182,79,€0,€12K,74,74
+1972,219728,Edgar Antonio Méndez Ortega,31,Spain,Deportivo Alavés,187,78,€3.5M,€21K,74,74
+1973,236112,Douglas Arthur Armeira Bahia,29,Brazil,Palmeiras,174,74,€3.7M,€30K,74,74
+1974,236368,Giulio Maggiore,23,Italy,Spezia,184,69,€5.5M,€14K,74,77
+1975,240976,Marcelo Saracchi,23,Uruguay,Levante Unión Deportiva,172,68,€6M,€18K,74,79
+1976,190544,Adem Ljajić,29,Serbia,Beşiktaş JK,182,80,€4.1M,€37K,74,74
+1977,230227,Caio Rodrigo Nunes Anjos,21,Brazil,Fortaleza,185,85,€4.4M,€9K,74,74
+1978,234579,Julian Quiñones,24,Colombia,Club Atlas,177,78,€6M,€12K,74,78
+1979,257876,Nicolas Seiwald,20,Austria,FC Red Bull Salzburg,179,70,€9M,€18K,74,83
+1980,195412,Moisés Lima Magalhães,33,Brazil,Shandong Taishan,184,76,€2.1M,€16K,74,74
+1981,163925,Alessandro Diamanti,38,Italy,Western United FC,180,75,€1.4M,€3K,74,74
+1982,230229,Otávio Alberto Cairinho Monteiro,29,Brazil,Palmeiras,179,80,€3.5M,€30K,74,74
+1983,173909,Kevin-Prince Boateng,34,Ghana,Hertha BSC,186,77,€2M,€35K,74,74
+1984,230230,Eltildo Lucas Correia Pitta,29,Brazil,Clube Atlético Mineiro,188,78,€3.5M,€28K,74,74
+1985,246870,Enzo Díaz,25,Argentina,Club Atlético Talleres,175,74,€5M,€12K,74,77
+1986,258390,Ivo Grbić,25,Croatia,LOSC Lille,195,93,€4.6M,€27K,74,78
+1987,199767,Marco van Ginkel,28,Netherlands,PSV,186,82,€4.2M,€16K,74,74
+1988,180823,Radim Řezník,32,Czech Republic,FC Viktoria Plzeň,183,79,€2.9M,€950,74,74
+1989,185431,Nikola Kalinić,33,Croatia,Hajduk Split,187,79,€2.7M,€1K,74,74
+1990,203864,Bruno Zuculini,28,Argentina,River Plate,182,77,€3.7M,€15K,74,74
+1991,221016,Nikola Vukčević,29,Montenegro,Levante Unión Deportiva,184,76,€4.1M,€24K,74,74
+1992,239704,Kai Wagner,24,Germany,Philadelphia Union,182,78,€6M,€6K,74,79
+1993,241496,Timothy Weah,21,United States,LOSC Lille,185,66,€8.5M,€21K,74,81
+1994,253272,Kevin Dawson,29,Uruguay,Club Atlético Peñarol,179,81,€2.9M,€900,74,74
+1995,204121,Jakub Brabec,28,Czech Republic,,186,77,€0,€0,74,74
+1996,241497,Colin Dagba,22,France,Paris Saint-Germain,170,62,€5.5M,€43K,74,77
+1997,235866,Christian Kouamé,23,Côte d'Ivoire,RSC Anderlecht,185,70,€6.5M,€39K,74,79
+1998,229723,Mathias Jensen,25,Denmark,Brentford,180,68,€5.5M,€37K,74,77
+1999,224348,Lucas Hoyos,32,Argentina,Vélez Sarsfield,183,76,€2.1M,€10K,74,74
+2000,239452,Ibrahima Diallo,22,France,Southampton,179,68,€9M,€34K,74,82
+2001,183900,Diego Perotti,32,Argentina,US Salernitana 1919,179,70,€3.3M,€35K,74,74
+2002,213597,Diego Valdés,27,Chile,Club América,179,75,€4.5M,€37K,74,74
+2003,230237,Robson Tony Denho Serra,29,Brazil,Atlético Clube Goianiense,181,78,€3.6M,€12K,74,74
+2004,185181,Yoel Rodríguez Oterino,32,Spain,SD Eibar,186,78,€2.1M,€8K,74,74
+2005,245598,Iddrisu Baba,25,Ghana,RCD Mallorca,185,73,€5.5M,€19K,74,79
+2006,257118,Ilan Kebbal,22,Algeria,Stade de Reims,169,60,€7M,€21K,74,80
+2007,192350,Javier Aquino,31,Mexico,Tigres U.A.N.L.,168,64,€3.1M,€34K,74,74
+2008,259166,Etienne Green,20,England,AS Saint-Étienne,192,78,€8M,€13K,74,82
+2009,230239,Claudiano G. Sobrino Guevara,25,Brazil,Palmeiras,177,72,€4.1M,€27K,74,74
+2010,240223,Mihailo Ristić,25,Serbia,Montpellier Hérault SC,180,79,€5M,€19K,74,77
+2011,203872,Gabriel Hauche,34,Argentina,Racing Club,168,71,€2M,€18K,74,74
+2012,230240,Ramón Samuel da Almeyda Aníbal,25,Brazil,Cuiabá,178,80,€4.2M,€14K,74,74
+2013,230497,Erick Ronaldo Gameira Carvalho,29,Brazil,Club Athletico Paranaense,180,76,€4.2M,€16K,74,74
+2014,239970,Paulo Henrique Sampaio Filho,20,Brazil,Bayer 04 Leverkusen,177,77,€8.5M,€29K,74,81
+2015,231524,Tomás Pochettino,25,Argentina,River Plate,180,72,€5M,€8K,74,75
+2016,170084,Wayne Hennessey,34,Wales,Burnley,198,90,€725K,€22K,74,74
+2017,263781,Vanderson de Oliveira Campos,20,Brazil,AS Monaco,180,74,€9M,€25K,74,83
+2018,230245,Douglas Arthur Carvalheira Peixoto,33,Brazil,Flamengo,174,74,€2.2M,€28K,74,74
+2019,183141,Oier Olazábal Paredes,31,Spain,RCD Espanyol de Barcelona,190,86,€2.2M,€12K,74,74
+2020,232294,Ryota Morioka,30,Japan,Royal Charleroi S.C.,180,79,€4M,€14K,74,74
+2021,215399,Rúben Miguel Nunes Vezo,27,Portugal,Levante Unión Deportiva,183,80,€4.5M,€21K,74,76
+2022,224103,Erick Aguirre,24,Mexico,CF Monterrey ,174,67,€6M,€30K,74,79
+2023,229991,Francisco José Villalba Rodrigo,23,Spain,Real Sporting de Gijón,172,63,€8.5M,€18K,74,81
+2024,252008,Israel Reyes,21,Mexico,Puebla FC,179,73,€8M,€6K,74,81
+2025,190824,Omar Elabdellaoui,29,Norway,Galatasaray SK,179,74,€3.7M,€42K,74,74
+2026,210281,Cristian Pellerano,39,Argentina,Independiente del Valle,184,79,€825K,€650,74,74
+2027,241769,Daniel Akpeyi,35,Nigeria,Kaizer Chiefs,189,86,€475K,€500,74,74
+2028,216682,Deon Hotto,30,Namibia,Orlando Pirates,170,65,€4.1M,€1K,74,74
+2029,219754,Bruno Miguel Semedo Varela,26,Portugal,Vitória de Guimarães,191,88,€4M,€8K,74,76
+2030,231786,Andraž Šporar,27,Slovenia,Middlesbrough,186,82,€4.6M,€13K,74,74
+2031,242794,Imrân Louza,22,Morocco,Watford,178,65,€6.5M,€37K,74,80
+2032,230507,Nicholas Júlio Aldair Leal,29,Brazil,Fluminense,187,81,€4.2M,€23K,74,74
+2033,213868,Jean-Charles Castelletto,26,Cameroon,FC Nantes,185,76,€4.6M,€20K,74,76
+2034,223596,Smail Prevljak,26,Bosnia and Herzegovina,KAS Eupen,187,80,€5M,€13K,74,75
+2035,169324,Andreas Ulmer,35,Austria,FC Red Bull Salzburg,175,73,€1.3M,€16K,74,74
+2036,188268,Lautaro Acosta,33,Argentina,Club Atlético Lanús,169,67,€2.6M,€16K,74,74
+2037,253293,Brian Ocampo,22,Uruguay,Club Nacional de Football,175,74,€9.5M,€1K,74,83
+2038,225646,Camilo Mayada,30,Uruguay,Club Libertad,175,72,€3.6M,€1K,74,74
+2039,180334,Marcelo Antônio Guedes Filho,34,Brazil,FC Girondins de Bordeaux,191,85,€1.4M,€20K,74,74
+2040,192622,Shane Duffy,29,Republic of Ireland,Brighton & Hove Albion,193,76,€3.5M,€43K,74,74
+2041,259694,Óscar Mingueza García,22,Spain,FC Barcelona,184,74,€9M,€70K,74,82
+2042,221551,Emanuel Mammana,25,Argentina,River Plate,183,72,€5M,€13K,74,77
+2043,225647,Martín Campaña,32,Uruguay,Al Batin,186,70,€2.1M,€12K,74,74
+2044,230255,Edvaldo Flávio Rebelo de Freit,29,Brazil,Fortaleza,183,71,€3.6M,€12K,74,74
+2045,172143,Lasse Schøne,35,Denmark,N.E.C. Nijmegen,178,78,€1.7M,€9K,74,74
+2046,241775,Jawad El Yamiq,29,Morocco,Real Valladolid CF,193,80,€3.5M,€11K,74,74
+2047,207984,Alfonso González,26,Mexico,CF Monterrey ,170,79,€4.9M,€39K,74,75
+2048,198513,Cláudio Pires de Morais Ramos,29,Portugal,FC Porto,183,78,€3.2M,€9K,74,75
+2049,214129,Stiven Barreiro,27,Colombia,Club León,189,78,€4.2M,€20K,74,75
+2050,236657,Filip Ugrinic,22,Switzerland,FC Luzern,184,84,€9.5M,€13K,74,83
+2051,210802,Joakim Nilsson,27,Sweden,DSC Arminia Bielefeld,185,78,€4.2M,€20K,74,75
+2052,241522,Jonas Wind,22,Denmark,VfL Wolfsburg,190,82,€7M,€43K,74,80

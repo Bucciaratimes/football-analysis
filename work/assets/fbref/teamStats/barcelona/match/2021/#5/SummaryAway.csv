@@ -1,0 +1,16 @@
+,Player,#,Nation,Pos,Age,Min,Gls_Performance,Ast_Performance,PK_Performance,PKatt_Performance,Sh_Performance,SoT_Performance,CrdY_Performance,CrdR_Performance,Touches_Performance,Press_Performance,Tkl_Performance,Int_Performance,Blocks_Performance,xG_Expected,npxG_Expected,xA_Expected,SCA_SCA,GCA_SCA,Cmp_Passes,Att_Passes,Cmp%_Passes,Prog_Passes,Carries_Carries,Prog_Carries,Succ_Dribbles,Att_Dribbles
+0,Karim Benzema,9.0,fr  FRA,FW,32-310,90,0,1,0,0,3,1,0,0,48,12,1,0,1,0.5,0.5,0.6,2,1,36,39,92.3,3,24,9,0,0
+1,Vinicius Júnior,20.0,br  BRA,LW,20-104,90,0,0,0,0,2,1,0,0,66,30,2,0,3,0.2,0.2,0.1,5,1,38,47,80.9,2,53,5,2,4
+2,Marco Asensio,11.0,es  ESP,RW,24-277,80,0,0,0,0,0,0,0,0,40,16,2,0,2,0.0,0.0,0.0,0,0,26,34,76.5,2,28,6,1,1
+3,Rodrygo,25.0,br  BRA,RW,19-289,10,0,1,0,0,0,0,0,0,12,6,0,1,1,0.0,0.0,0.5,1,1,7,8,87.5,1,8,1,0,0
+4,Toni Kroos,8.0,de  GER,CM,30-294,90,0,0,0,0,2,2,0,0,92,33,5,1,2,0.3,0.3,0.7,7,0,66,77,85.7,6,53,7,3,3
+5,Federico Valverde,15.0,uy  URU,CM,22-094,68,1,0,0,0,1,1,0,0,44,22,5,2,0,0.4,0.4,0.0,1,0,29,35,82.9,0,33,6,1,2
+6,Luka Modrić,10.0,hr  CRO,CM,35-045,22,1,0,0,0,1,1,0,0,16,4,2,0,0,0.5,0.5,0.0,3,1,10,12,83.3,1,12,2,1,1
+7,Casemiro,14.0,br  BRA,DM,28-244,90,0,0,0,0,1,0,1,0,67,21,3,1,3,0.0,0.0,0.1,1,0,50,55,90.9,2,42,2,1,1
+8,Ferland Mendy,23.0,fr  FRA,LB,25-138,90,0,0,0,0,0,0,0,0,61,12,1,1,0,0.0,0.0,0.0,0,0,47,55,85.5,3,43,4,0,0
+9,Sergio Ramos,4.0,es  ESP,CB,34-208,90,1,0,1,1,3,2,0,0,71,15,1,1,2,1.2,0.4,0.0,2,1,55,58,94.8,5,40,2,0,0
+10,Raphaël Varane,5.0,fr  FRA,CB,27-182,90,0,0,0,0,2,0,0,0,73,7,0,2,3,0.4,0.4,0.0,0,0,54,59,91.5,2,47,2,0,0
+11,Nacho,6.0,es  ESP,RB,30-280,42,0,0,0,0,0,0,1,0,38,10,0,1,4,0.0,0.0,0.0,1,1,30,34,88.2,2,30,3,3,3
+12,Lucas Vázquez,17.0,es  ESP,RB,29-115,48,0,0,0,0,0,0,0,0,42,10,3,1,3,0.0,0.0,0.4,5,0,27,33,81.8,2,28,2,1,2
+13,Thibaut Courtois,1.0,be  BEL,GK,28-166,90,0,0,0,0,0,0,0,0,35,0,0,0,0,0.0,0.0,0.0,0,0,26,31,83.9,0,16,0,0,0
+14,14 Players,,,,,990,3,2,1,1,15,8,2,0,705,198,25,11,24,3.4,2.6,2.3,28,6,501,577,86.8,31,457,51,13,17

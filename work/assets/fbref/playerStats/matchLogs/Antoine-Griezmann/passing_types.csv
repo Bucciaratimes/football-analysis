@@ -1,0 +1,73 @@
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Att,Live_Pass Types,Dead_Pass Types,FK_Pass Types,TB_Pass Types,Press_Pass Types,Sw_Pass Types,Crs_Pass Types,CK_Pass Types,In_Corner Kicks,Out_Corner Kicks,Str_Corner Kicks,Ground_Height,Low_Height,High_Height,Left_Body Parts,Right_Body Parts,Head_Body Parts,TI_Body Parts,Other_Body Parts,Cmp_Outcomes,Off_Outcomes,Out_Outcomes,Int_Outcomes,Blocks_Outcomes,Match Report
+0,2020-09-05,Sat,UEFA Nations League,League A,Away,W 1–0,fr  France,se  Sweden,Y,AM,90,,,,,,,,4,,,,,,,,,,,,,,,,,,Match Report
+1,2020-09-08,Tue,UEFA Nations League,League A,Home,W 4–2,fr  France,hr  Croatia,Y,AM,76,,,,,,,,6,,,,,,,,,,,,,,,,,,Match Report
+2,2020-09-27,Sun,La Liga,Matchweek 3,Home,W 4–0,Barcelona,Villarreal,Y,RW,77,28,28,0,0,0,4,0,0,0,0,0,0,23,4,1,22,3,1,0,1,22,0,0,0,0,Match Report
+3,2020-10-01,Thu,La Liga,Matchweek 4,Away,W 3–0,Barcelona,Celta Vigo,Y,RW,44,21,20,1,1,0,5,0,0,0,0,0,0,20,0,1,19,2,0,0,0,19,0,0,0,1,Match Report
+4,2020-10-04,Sun,La Liga,Matchweek 5,Home,D 1–1,Barcelona,Sevilla,Y,RW,60,16,16,0,0,0,3,0,0,0,0,0,0,15,1,0,14,2,0,0,0,16,0,0,0,0,Match Report
+5,2020-10-07,Wed,Friendlies (M),Friendlies (M),Home,W 7–1,fr  France,ua  Ukraine,N,,32,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+6,2020-10-11,Sun,UEFA Nations League,League A,Home,D 0–0,fr  France,pt  Portugal,Y,FW,90,,,,,,,,3,,,,,,,,,,,,,,,,,,Match Report
+7,2020-10-14,Wed,UEFA Nations League,League A,Away,W 2–1,fr  France,hr  Croatia,Y,AM,82,,,,,,,,7,,,,,,,,,,,,,,,,,,Match Report
+8,2020-10-17,Sat,La Liga,Matchweek 6,Away,L 0–1,Barcelona,Getafe,Y,FW,79,33,31,2,0,0,6,0,0,0,0,0,0,26,5,2,24,5,4,0,0,26,0,0,0,3,Match Report
+9,2020-10-20,Tue,Champions Lg,Group stage,Home,W 5–1,es  Barcelona,hu  Ferencváros,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+10,2020-10-24,Sat,La Liga,Matchweek 7,Home,L 1–3,Barcelona,Real Madrid,N,"FW,CM",10,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,Match Report
+11,2020-10-28,Wed,Champions Lg,Group stage,Away,W 2–0,es  Barcelona,it  Juventus,Y,FW,88,47,46,1,0,0,6,1,0,0,0,0,0,40,3,4,43,3,0,0,0,37,0,0,1,2,Match Report
+12,2020-10-31,Sat,La Liga,Matchweek 8,Away,D 1–1,Barcelona,Alavés,Y,FW,90,37,35,2,0,0,5,0,0,1,0,0,0,31,5,1,30,4,3,0,0,32,0,0,0,1,Match Report
+13,2020-11-04,Wed,Champions Lg,Group stage,Home,W 2–1,es  Barcelona,ua  Dynamo Kyiv,Y,FW,59,14,13,1,0,0,1,0,0,0,0,0,0,13,0,1,13,0,0,0,0,12,0,0,0,1,Match Report
+14,2020-11-07,Sat,La Liga,Matchweek 9,Home,W 5–2,Barcelona,Betis,Y,FW,77,33,32,1,0,1,6,0,1,0,0,0,0,28,1,4,27,4,2,0,0,30,0,0,0,0,Match Report
+15,2020-11-11,Wed,Friendlies (M),Friendlies (M),Home,L 0–2,fr  France,fi  Finland,N,,34,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+16,2020-11-14,Sat,UEFA Nations League,League A,Away,W 1–0,fr  France,pt  Portugal,Y,FW,90,,,,,,,,5,,,,,,,,,,,,,,,,,,Match Report
+17,2020-11-17,Tue,UEFA Nations League,League A,Home,W 4–2,fr  France,se  Sweden,Y,FW,90,,,,,,,,5,,,,,,,,,,,,,,,,,,Match Report
+18,2020-11-21,Sat,La Liga,Matchweek 10,Away,L 0–1,Barcelona,Atlético Madrid,Y,FW,82,23,22,1,0,0,1,1,0,0,0,0,0,17,1,5,18,1,4,0,0,21,0,0,0,0,Match Report
+19,2020-11-24,Tue,Champions Lg,Group stage,Away,W 4–0,es  Barcelona,ua  Dynamo Kyiv,N,CM,26,19,18,1,0,0,1,0,0,1,0,0,0,17,1,1,17,1,0,0,1,18,0,0,1,0,Match Report
+20,2020-11-29,Sun,La Liga,Matchweek 11,Home,W 4–0,Barcelona,Osasuna,Y,"LW,AM",90,74,73,1,0,0,1,2,2,0,0,0,0,67,5,2,65,6,1,1,0,68,0,0,0,0,Match Report
+21,2020-12-02,Wed,Champions Lg,Group stage,Away,W 3–0,es  Barcelona,hu  Ferencváros,Y,AM,64,53,53,0,0,1,3,1,0,0,0,0,0,45,5,3,44,9,0,0,0,50,0,0,0,1,Match Report
+22,2020-12-05,Sat,La Liga,Matchweek 12,Away,L 1–2,Barcelona,Cádiz,Y,AM,90,50,48,2,0,0,10,0,2,0,0,0,0,40,6,4,39,9,0,1,0,42,1,0,2,3,Match Report
+23,2020-12-08,Tue,Champions Lg,Group stage,Home,L 0–3,es  Barcelona,it  Juventus,Y,"RW,FW",90,40,37,3,0,0,5,1,0,0,0,0,0,34,3,3,36,2,1,0,1,36,0,0,0,1,Match Report
+24,2020-12-13,Sun,La Liga,Matchweek 13,Home,W 1–0,Barcelona,Levante,Y,"RW,AM",88,72,65,7,1,1,6,2,5,4,0,0,1,50,9,13,56,9,4,2,0,62,0,0,1,2,Match Report
+25,2020-12-16,Wed,La Liga,Matchweek 19,Home,W 2–1,Barcelona,Real Sociedad,Y,RW,65,32,32,0,0,0,12,1,2,0,0,0,0,25,6,1,29,2,0,0,0,26,0,0,1,0,Match Report
+26,2020-12-19,Sat,La Liga,Matchweek 14,Home,D 2–2,Barcelona,Valencia,Y,"RM,AM",72,44,44,0,0,0,3,4,1,0,0,0,0,38,2,4,37,6,1,0,0,38,0,1,0,1,Match Report
+27,2020-12-22,Tue,La Liga,Matchweek 15,Away,W 3–0,Barcelona,Valladolid,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+28,2020-12-29,Tue,La Liga,Matchweek 16,Home,D 1–1,Barcelona,Eibar,Y,AM,65,30,29,1,0,0,1,0,0,0,0,0,0,24,5,1,25,2,2,0,1,26,0,0,1,2,Match Report
+29,2021-01-03,Sun,La Liga,Matchweek 17,Away,W 1–0,Barcelona,Huesca,N,FW,10,2,2,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,1,1,0,0,0,0,Match Report
+30,2021-01-06,Wed,La Liga,Matchweek 2,Away,W 3–2,Barcelona,Athletic Club,Y,LW,90,41,39,2,1,1,5,1,0,0,0,0,0,35,4,2,22,17,1,0,0,35,0,1,0,2,Match Report
+31,2021-01-09,Sat,La Liga,Matchweek 18,Away,W 4–0,Barcelona,Granada,Y,LW,90,54,51,3,1,0,4,3,0,1,0,0,0,44,5,5,44,8,1,1,0,50,0,0,1,0,Match Report
+32,2021-01-13,Wed,Supercopa de España,Semi-finals,Away,D 1  (3)  –1  (2),Barcelona,Real Sociedad,Y,FW,120,,,,,,,,1,,,,,,,,,,,,,,,,,,Match Report
+33,2021-01-17,Sun,Supercopa de España,Final,Home,L 2–3,Barcelona,Athletic Club,Y,FW,120,,,,,,,,0,,,,,,,,,,,,,,,,,,Match Report
+34,2021-01-21,Thu,Copa del Rey,Round of 32,Away,W 2–0,Barcelona,Cornellà,Y,FW,100,,,,,,,,5,,,,,,,,,,,,,,,,,,Match Report
+35,2021-01-24,Sun,La Liga,Matchweek 20,Away,W 2–0,Barcelona,Elche,Y,FW,90,38,35,3,2,0,6,0,3,0,0,0,0,31,3,4,35,2,1,0,0,29,0,1,3,1,Match Report
+36,2021-01-27,Wed,Copa del Rey,Round of 16,Away,W 2–1,Barcelona,Rayo Vallecano,Y,FW,84,,,,,,,,1,,,,,,,,,,,,,,,,,,Match Report
+37,2021-01-31,Sun,La Liga,Matchweek 21,Home,W 2–1,Barcelona,Athletic Club,Y,LW,83,26,25,1,0,0,4,0,0,0,0,0,0,17,4,5,13,7,3,1,1,21,0,0,1,1,Match Report
+38,2021-02-03,Wed,Copa del Rey,Quarter-finals,Away,W 5–3,Barcelona,Granada,Y,FW,120,,,,,,,,1,,,,,,,,,,,,,,,,,,Match Report
+39,2021-02-07,Sun,La Liga,Matchweek 22,Away,W 3–2,Barcelona,Betis,Y,FW,90,44,41,3,0,0,9,0,1,0,0,0,0,35,7,2,39,5,0,0,0,42,0,0,0,1,Match Report
+40,2021-02-10,Wed,Copa del Rey,Semi-finals,Away,L 0–2,Barcelona,Sevilla,Y,FW,90,,,,,,,,0,,,,,,,,,,,,,,,,,,Match Report
+41,2021-02-13,Sat,La Liga,Matchweek 23,Home,W 5–1,Barcelona,Alavés,Y,LW,80,45,45,0,0,1,11,1,1,0,0,0,0,39,3,3,33,10,1,0,0,43,0,0,0,1,Match Report
+42,2021-02-16,Tue,Champions Lg,Round of 16,Home,L 1–4,es  Barcelona,fr  Paris S-G,Y,"LW,FW",84,25,24,1,0,0,5,0,0,0,0,0,0,19,5,1,20,4,0,1,0,21,0,0,2,0,Match Report
+43,2021-02-21,Sun,La Liga,Matchweek 24,Home,D 1–1,Barcelona,Cádiz,Y,"LW,RW",64,26,25,1,0,0,1,0,1,0,0,0,0,21,3,2,22,1,0,1,1,20,1,0,0,0,Match Report
+44,2021-02-24,Wed,La Liga,Matchweek 1,Home,W 3–0,Barcelona,Elche,N,FW,15,8,8,0,0,0,1,0,1,0,0,0,0,6,1,1,5,3,0,0,0,7,0,0,0,0,Match Report
+45,2021-02-27,Sat,La Liga,Matchweek 25,Away,W 2–0,Barcelona,Sevilla,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+46,2021-03-03,Wed,Copa del Rey,Semi-finals,Home,W 3–0,Barcelona,Sevilla,N,,58,,,,,,,,1,,,,,,,,,,,,,,,,,,Match Report
+47,2021-03-06,Sat,La Liga,Matchweek 26,Away,W 2–0,Barcelona,Osasuna,Y,"FW,LW",66,33,33,0,0,0,1,0,0,0,0,0,0,26,5,2,26,4,0,0,2,30,0,0,0,1,Match Report
+48,2021-03-10,Wed,Champions Lg,Round of 16,Away,D 1–1,es  Barcelona,fr  Paris S-G,Y,AM,90,65,64,1,1,0,8,2,2,0,0,0,0,48,8,9,52,13,0,0,0,53,0,1,3,3,Match Report
+49,2021-03-15,Mon,La Liga,Matchweek 27,Home,W 4–1,Barcelona,Huesca,Y,AM,68,55,54,1,0,0,21,2,2,1,0,0,1,49,3,3,48,6,1,0,0,52,0,0,0,0,Match Report
+50,2021-03-21,Sun,La Liga,Matchweek 28,Away,W 6–1,Barcelona,Real Sociedad,Y,AM,84,59,58,1,1,0,8,0,1,0,0,0,0,45,7,7,51,8,0,0,0,53,0,0,2,1,Match Report
+51,2021-03-24,Wed,WCQ — UEFA (M),First round,Home,D 1–1,fr  France,ua  Ukraine,Y,FW,90,,,,,,,,9,,,,,,,,,,,,,,,,,,Match Report
+52,2021-03-28,Sun,WCQ — UEFA (M),First round,Away,W 2–0,fr  France,kz  Kazakhstan,Y,AM,58,,,,,,,,1,,,,,,,,,,,,,,,,,,Match Report
+53,2021-03-31,Wed,WCQ — UEFA (M),First round,Away,W 1–0,fr  France,ba  Bosnia and Herzegovina,Y,CM,90,,,,,,,,11,,,,,,,,,,,,,,,,,,Match Report
+54,2021-04-05,Mon,La Liga,Matchweek 29,Home,W 1–0,Barcelona,Valladolid,Y,"AM,LM",62,52,51,1,0,1,11,0,2,0,0,0,0,46,3,3,47,3,1,1,0,47,0,0,2,1,Match Report
+55,2021-04-10,Sat,La Liga,Matchweek 30,Away,L 1–2,Barcelona,Real Madrid,N,"FW,CM",45,19,19,0,0,0,4,0,0,0,0,0,0,15,2,2,15,2,1,0,1,16,0,0,1,0,Match Report
+56,2021-04-17,Sat,Copa del Rey,Final,Neutral,W 4–0,Barcelona,Athletic Club,Y,FW,87,,,,,,,,1,,,,,,,,,,,,,,,,,,Match Report
+57,2021-04-22,Thu,La Liga,Matchweek 31,Home,W 5–2,Barcelona,Getafe,Y,FW,90,33,32,1,0,0,7,0,0,0,0,0,0,28,4,1,26,5,1,0,0,30,0,0,0,1,Match Report
+58,2021-04-25,Sun,La Liga,Matchweek 32,Away,W 2–1,Barcelona,Villarreal,Y,FW,79,21,21,0,0,0,0,0,0,0,0,0,0,15,5,1,20,1,0,0,0,17,0,0,0,1,Match Report
+59,2021-04-29,Thu,La Liga,Matchweek 33,Home,L 1–2,Barcelona,Granada,Y,"FW,LM",90,66,64,2,0,1,17,1,1,2,0,1,0,53,10,3,51,14,1,0,0,58,0,0,3,0,Match Report
+60,2021-05-02,Sun,La Liga,Matchweek 34,Away,W 3–2,Barcelona,Valencia,Y,FW,90,50,49,1,0,0,6,1,2,1,0,0,0,42,4,4,37,8,1,0,4,46,0,0,1,0,Match Report
+61,2021-05-08,Sat,La Liga,Matchweek 35,Home,D 0–0,Barcelona,Atlético Madrid,Y,"FW,LW",90,36,32,4,2,0,14,1,0,1,0,1,0,31,2,3,31,5,0,0,0,31,0,0,4,0,Match Report
+62,2021-05-11,Tue,La Liga,Matchweek 36,Away,D 3–3,Barcelona,Levante,Y,FW,80,44,44,0,0,0,10,1,1,0,0,0,0,36,3,5,34,7,1,0,2,38,0,0,1,2,Match Report
+63,2021-05-16,Sun,La Liga,Matchweek 37,Home,L 1–2,Barcelona,Celta Vigo,Y,FW,69,36,34,2,0,0,8,1,0,1,0,0,0,31,2,3,27,8,0,1,0,33,0,0,0,2,Match Report
+64,2021-05-22,Sat,La Liga,Matchweek 38,Away,W 1–0,Barcelona,Eibar,Y,"LW,RW",90,64,62,2,1,0,5,3,3,1,1,0,0,45,8,11,48,14,1,0,1,48,1,2,3,1,Match Report
+65,2021-06-02,Wed,Friendlies (M),Friendlies (M),Home,W 3–0,fr  France,wls  Wales,Y,FW,83,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+66,2021-06-08,Tue,Friendlies (M),Friendlies (M),Home,W 3–0,fr  France,bg  Bulgaria,Y,AM,64,,,,,,,,,,,,,,,,,,,,,,,,,,Match Report
+67,2021-06-15,Tue,UEFA Euro,Group stage,Neutral,W 1–0,fr  France,de  Germany,Y,RW,90,35,32,3,0,0,3,2,0,3,2,1,0,23,6,6,27,6,1,0,0,29,0,0,2,0,Match Report
+68,2021-06-19,Sat,UEFA Euro,Group stage,Neutral,D 1–1,fr  France,hu  Hungary,Y,"RW,AM",90,59,50,9,3,1,9,7,2,3,1,2,0,38,6,15,53,1,2,3,0,48,0,1,3,0,Match Report
+69,2021-06-23,Wed,UEFA Euro,Group stage,Neutral,D 2–2,fr  France,pt  Portugal,Y,AM,86,36,34,2,2,1,6,1,0,0,0,0,0,29,3,4,28,7,0,0,0,32,0,1,0,1,Match Report
+70,2021-06-28,Mon,UEFA Euro,Round of 16,Neutral,D 3  (4)  –3  (5),fr  France,ch  Switzerland,Y,"AM,RM",87,59,53,6,1,0,15,2,3,5,3,2,0,42,5,12,47,11,0,0,1,43,0,1,4,3,Match Report
+71,,,,,,42-14-12,,,60/68,,5206,1798,1724,74,17,9,278,43,100,25,7,7,2,1444,183,171,1460,251,41,13,18,1555,3,9,43,41,

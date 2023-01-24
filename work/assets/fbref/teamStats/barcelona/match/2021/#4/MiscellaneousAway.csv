@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,CrdY_Performance,CrdR_Performance,2CrdY_Performance,Fls_Performance,Fld_Performance,Off_Performance,Crs_Performance,Int_Performance,TklW_Performance,PKwon_Performance,PKcon_Performance,OG_Performance,Recov_Performance,Won_Aerial Duels,Lost_Aerial Duels,Won%_Aerial Duels
+0,Antoine Griezmann,7.0,fr  FRA,FW,29-210,79,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,
+1,Francisco Trincão,17.0,pt  POR,RW,20-293,11,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+2,Ousmane Dembélé,11.0,fr  FRA,LW,23-155,61,0,0,0,1,2,0,1,0,0,0,0,0,3,1,0,100.0
+3,Ansu Fati,22.0,es  ESP,LW,17-352,29,0,0,0,0,2,2,0,0,0,0,0,0,4,0,1,0.0
+4,Lionel Messi,10.0,ar  ARG,"RW,AM",33-115,90,0,0,0,0,3,0,1,0,0,0,0,0,4,1,0,100.0
+5,Pedri,16.0,es  ESP,AM,17-327,61,0,0,0,0,2,0,0,0,0,0,0,0,4,0,0,
+6,Philippe Coutinho,14.0,br  BRA,"AM,DM",28-127,29,0,0,0,0,1,0,0,0,0,0,0,0,4,0,0,
+7,Frenkie de Jong,21.0,nl  NED,DM,23-158,79,0,0,0,3,4,0,0,1,0,0,1,0,11,2,1,66.7
+8,Martin Braithwaite,9.0,dk  DEN,FW,29-134,11,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0.0
+9,Sergio Busquets,5.0,es  ESP,DM,32-093,90,0,0,0,1,4,0,0,0,2,0,0,0,10,2,0,100.0
+10,Sergiño Dest,2.0,us  USA,LB,19-349,90,1,0,0,3,1,0,1,0,2,0,0,0,12,0,0,
+11,Clément Lenglet,15.0,fr  FRA,CB,25-122,90,0,0,0,1,1,1,0,1,2,0,0,0,16,3,3,50.0
+12,Gerard Piqué,3.0,es  ESP,CB,33-258,90,1,0,0,1,0,0,0,1,0,0,0,0,19,4,1,80.0
+13,Sergi Roberto,20.0,es  ESP,RB,28-253,86,1,0,0,0,1,0,0,0,0,0,0,0,8,1,2,33.3
+14,Riqui Puig,12.0,es  ESP,RB,21-065,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,
+15,Neto,13.0,br  BRA,GK,31-090,90,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,
+16,16 Players,,,,,990,3,0,0,11,23,3,4,3,6,0,1,0,102,14,9,60.9

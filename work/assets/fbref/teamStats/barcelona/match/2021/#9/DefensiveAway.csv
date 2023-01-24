@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,Ante Budimir,17.0,hr  CRO,FW,29-130,73,2,2,0,1,1,0,0,,0,15,4,26.7,1,6,8,1,0,0,1,0,2,1,0
+1,Enric Gallego,19.0,es  ESP,FW,34-078,17,0,0,0,0,0,0,1,0.0,1,2,0,0.0,1,1,0,0,0,0,0,0,0,0,0
+2,Rubén García,14.0,es  ESP,FW,27-138,73,1,0,0,1,0,0,1,0.0,1,10,2,20.0,0,5,5,1,0,0,1,0,1,1,0
+3,Kike Barja,11.0,es  ESP,FW,23-242,17,0,0,0,0,0,0,0,,0,2,1,50.0,0,1,1,0,0,0,0,0,0,0,0
+4,Jony,7.0,es  ESP,LM,29-143,22,0,0,0,0,0,0,0,,0,2,0,0.0,1,0,1,0,0,0,0,0,0,0,0
+5,Juan Cruz Armada,3.0,es  ESP,LM,28-124,68,1,1,1,0,0,1,1,100.0,0,3,2,66.7,1,2,0,0,0,0,0,0,1,2,0
+6,Iñigo Pérez,21.0,es  ESP,CM,32-316,62,2,2,0,2,0,0,0,,0,8,3,37.5,3,4,1,1,0,0,1,1,3,0,0
+7,Roberto Torres,10.0,es  ESP,CM,31-267,28,0,0,0,0,0,0,0,,0,1,1,100.0,1,0,0,1,0,0,1,0,0,0,0
+8,Oier Sanjurjo,6.0,es  ESP,CM,34-188,63,2,1,0,0,2,0,2,0.0,2,13,4,30.8,3,8,2,0,0,0,0,1,3,0,0
+9,Darko Brašanac,8.0,rs  SRB,CM,28-291,27,0,0,0,0,0,0,1,0.0,1,5,1,20.0,1,3,1,0,0,0,0,0,0,1,0
+10,Jon Moncayola,27.0,es  ESP,RM,22-200,90,0,0,0,0,0,0,0,,0,15,6,40.0,4,7,4,1,0,0,1,0,0,1,0
+11,Facundo Roncaglia,12.0,ar  ARG,LB,33-293,90,2,0,2,0,0,0,2,0.0,2,23,2,8.7,12,9,2,1,1,0,0,1,3,2,0
+12,Raúl Navas,22.0,es  ESP,CB,32-202,90,3,2,3,0,0,1,3,33.3,2,16,9,56.3,8,7,1,2,1,0,1,3,6,7,0
+13,Unai García,4.0,es  ESP,CB,28-300,90,0,0,0,0,0,0,1,0.0,1,3,1,33.3,2,1,0,2,1,0,1,0,0,5,0
+14,Nacho Vidal,2.0,es  ESP,RB,25-310,90,3,1,3,0,0,2,2,100.0,0,6,0,0.0,3,0,3,1,0,0,1,1,4,1,0
+15,Sergio Herrera,1.0,es  ESP,GK,27-177,90,0,0,0,0,0,0,1,0.0,1,1,0,0.0,1,0,0,0,0,0,0,0,0,0,0
+16,16 Players,,,,,990,16,9,9,4,3,4,15,26.7,11,125,36,28.8,42,54,29,11,3,0,8,7,23,21,0

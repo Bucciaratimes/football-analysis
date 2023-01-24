@@ -1,0 +1,17 @@
+,Player,#,Nation,Pos,Age,Min,CrdY_Performance,CrdR_Performance,2CrdY_Performance,Fls_Performance,Fld_Performance,Off_Performance,Crs_Performance,Int_Performance,TklW_Performance,PKwon_Performance,PKcon_Performance,OG_Performance,Recov_Performance,Won_Aerial Duels,Lost_Aerial Duels,Won%_Aerial Duels
+0,Antoine Griezmann,7.0,fr  FRA,"FW,LW",30-048,90,0,0,0,1,2,2,0,0,2,0,0,0,2,0,1,0.0
+1,Lionel Messi,10.0,ar  ARG,FW,33-318,90,0,0,0,0,9,0,3,0,2,0,0,0,5,0,1,0.0
+2,Pedri,16.0,es  ESP,CM,18-164,74,0,0,0,2,3,0,1,2,0,0,0,0,4,1,0,100.0
+3,Sergi Roberto,20.0,es  ESP,CM,29-090,16,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,
+4,Frenkie de Jong,21.0,nl  NED,CM,23-361,90,0,0,0,2,3,0,0,1,1,0,0,0,1,0,0,
+5,Sergio Busquets,5.0,es  ESP,DM,32-296,31,0,0,0,0,2,0,0,0,0,0,0,0,3,0,0,
+6,Ilaix,27.0,es  ESP,DM,18-109,59,1,0,0,4,1,0,0,0,0,0,0,0,6,2,0,100.0
+7,Jordi Alba,18.0,es  ESP,"WB,LB",32-048,90,1,0,0,0,0,0,4,3,1,0,0,0,5,0,1,0.0
+8,Sergiño Dest,2.0,us  USA,WB,20-186,74,0,0,0,0,4,0,2,1,2,0,0,0,7,0,1,0.0
+9,Ousmane Dembélé,11.0,fr  FRA,RW,23-358,16,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,100.0
+10,Clément Lenglet,15.0,fr  FRA,CB,25-325,90,0,0,0,4,2,0,0,2,0,0,0,0,6,1,0,100.0
+11,Gerard Piqué,3.0,es  ESP,CB,34-095,90,1,0,0,3,1,0,0,2,1,0,0,0,4,3,3,50.0
+12,Óscar Mingueza,28.0,es  ESP,CB,21-360,45,0,0,0,1,1,0,0,1,2,0,0,0,2,0,1,0.0
+13,Ronald Araújo,4.0,uy  URU,"CB,RB",22-062,45,0,0,0,0,2,1,0,0,4,0,0,0,1,0,1,0.0
+14,Marc-André ter Stegen,1.0,de  GER,GK,29-008,90,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,
+15,15 Players,,,,,990,3,0,0,17,31,3,11,12,15,0,0,0,53,8,9,47.1

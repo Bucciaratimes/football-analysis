@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,CrdY_Performance,CrdR_Performance,2CrdY_Performance,Fls_Performance,Fld_Performance,Off_Performance,Crs_Performance,Int_Performance,TklW_Performance,PKwon_Performance,PKcon_Performance,OG_Performance,Recov_Performance,Won_Aerial Duels,Lost_Aerial Duels,Won%_Aerial Duels
+0,Ángel Rodríguez,9.0,es  ESP,FW,33-361,62,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,28.6
+1,Enes Ünal,10.0,tr  TUR,FW,23-347,28,0,0,0,1,1,0,0,0,0,1,0,0,1,2,5,28.6
+2,Takefusa Kubo,5.0,jp  JPN,LW,19-322,90,0,0,0,3,1,1,0,3,1,0,0,0,5,0,1,0.0
+3,Iglesias,29.0,es  ESP,RW,22-293,90,0,0,0,2,3,0,2,1,2,0,0,0,5,0,1,0.0
+4,Nemanja Maksimović,20.0,rs  SRB,CM,26-086,45,0,0,0,0,0,0,0,0,1,0,0,0,1,4,0,100.0
+5,Mauro Arambarri,18.0,uy  URU,CM,25-204,45,0,0,0,3,0,0,0,2,0,0,0,0,1,0,0,
+6,Carles Aleñá,11.0,es  ESP,CM,23-107,45,0,0,0,0,0,0,0,1,0,0,0,0,3,1,1,50.0
+7,Sabit Abdulai,35.0,gh  GHA,CM,21-346,45,0,0,0,0,0,0,1,1,0,0,0,0,3,0,0,
+8,Chema,6.0,es  ESP,DM,29-050,75,0,0,0,1,0,0,0,2,1,0,0,0,6,0,3,0.0
+9,José Antonio Miranda,32.0,gq  EQG,DM,22-274,15,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,100.0
+10,Marc Cucurella,15.0,es  ESP,LB,22-274,45,0,0,0,1,0,0,2,1,0,0,0,0,2,0,0,
+11,Emmanuel Amankwaa Akurugu,40.0,gh  GHA,LB,19-153,45,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,100.0
+12,Sofian Chakla,21.0,ma  MAR,CB,27-232,90,0,0,0,1,0,0,0,3,2,0,1,1,9,1,2,33.3
+13,Djené,2.0,tg  TOG,CB,29-112,90,0,0,0,0,0,0,0,1,0,0,0,0,7,1,1,50.0
+14,Damián Suárez,22.0,uy  URU,RB,32-360,90,0,0,0,3,3,0,2,6,0,0,0,0,9,0,2,0.0
+15,David Soria,13.0,es  ESP,GK,28-018,90,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,
+16,16 Players,,,,,990,0,0,0,16,8,1,7,21,7,1,1,1,60,14,21,40.0

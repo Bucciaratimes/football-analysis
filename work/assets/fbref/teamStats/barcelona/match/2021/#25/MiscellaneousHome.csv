@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,CrdY_Performance,CrdR_Performance,2CrdY_Performance,Fls_Performance,Fld_Performance,Off_Performance,Crs_Performance,Int_Performance,TklW_Performance,PKwon_Performance,PKcon_Performance,OG_Performance,Recov_Performance,Won_Aerial Duels,Lost_Aerial Duels,Won%_Aerial Duels
+0,Luuk de Jong,9.0,nl  NED,FW,30-184,62,0,0,0,3,1,1,0,0,0,0,0,0,3,1,6,14.3
+1,Óliver Torres,21.0,es  ESP,FW,26-109,28,0,0,0,1,0,0,0,1,1,0,0,0,2,0,0,
+2,Munir El Haddadi,11.0,es  ESP,LW,25-179,45,0,0,0,1,0,0,0,0,1,0,0,0,2,0,0,
+3,Youssef En-Nesyri,15.0,ma  MAR,RW,23-271,45,0,0,0,2,0,1,0,0,0,0,0,0,1,0,1,0.0
+4,Papu Gómez,24.0,ar  ARG,RW,33-012,45,0,0,0,0,0,0,1,2,0,0,0,0,3,0,1,0.0
+5,Suso,7.0,es  ESP,LW,27-100,45,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,
+6,Ivan Rakitić,10.0,hr  CRO,AM,32-354,62,0,0,0,2,3,0,0,0,1,0,0,0,8,0,0,
+7,Óscar Rodríguez Arnaiz,14.0,es  ESP,AM,22-244,28,0,0,0,1,0,0,1,1,1,0,0,0,5,0,1,0.0
+8,Fernando,25.0,br  BRA,DM,33-217,90,1,0,0,4,1,0,0,2,1,0,0,0,15,3,1,75.0
+9,Joan Jordán,8.0,es  ESP,DM,26-236,90,1,0,0,4,2,0,0,1,0,0,0,0,10,1,0,100.0
+10,Sergio Escudero,18.0,es  ESP,LB,31-178,90,1,0,0,2,0,0,0,1,2,0,0,0,4,1,0,100.0
+11,Diego Carlos,20.0,br  BRA,CB,27-349,45,1,0,0,2,0,0,0,2,0,0,0,0,4,0,0,
+12,Karim Rekik,4.0,nl  NED,CB,26-087,45,1,0,0,2,0,0,1,1,0,0,0,0,1,1,0,100.0
+13,Jules Koundé,12.0,fr  FRA,CB,22-107,90,0,0,0,1,2,0,0,2,1,0,0,0,6,2,1,66.7
+14,Jesús Navas,16.0,es  ESP,RB,35-098,90,0,0,0,1,1,0,2,2,0,0,0,0,6,1,0,100.0
+15,Yassine Bounou,13.0,ma  MAR,GK,29-328,90,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,
+16,16 Players,,,,,990,5,0,0,26,10,2,6,15,8,0,0,0,74,10,11,47.6

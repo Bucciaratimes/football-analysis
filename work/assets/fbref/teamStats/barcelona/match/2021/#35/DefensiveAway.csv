@@ -1,0 +1,16 @@
+,Player,#,Nation,Pos,Age,Min,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,Luis Suárez,9.0,uy  URU,FW,34-104,90,1,1,0,0,1,0,0,,0,13,2,15.4,1,8,4,0,0,0,0,0,1,0,0
+1,Thomas Lemar,11.0,fr  FRA,LW,25-177,12,0,0,0,0,0,0,1,0.0,1,4,0,0.0,1,3,0,0,0,0,0,0,0,0,0
+2,Saúl Ñíguez,8.0,es  ESP,LW,26-168,54,0,0,0,0,0,0,1,0.0,1,10,2,20.0,4,6,0,0,0,0,0,0,0,3,0
+3,João Félix,7.0,pt  POR,LW,21-179,24,2,1,0,2,0,2,2,100.0,0,3,1,33.3,0,2,1,0,0,0,0,1,3,0,0
+4,Ángel Correa,10.0,ar  ARG,RW,26-060,72,2,1,1,1,0,1,3,33.3,2,26,8,30.8,9,10,7,0,0,0,0,0,2,0,0
+5,Geoffrey Kondogbia,4.0,cf  CTA,RW,28-082,18,0,0,0,0,0,0,0,,0,5,1,20.0,4,1,0,0,0,0,0,0,0,0,0
+6,Koke,6.0,es  ESP,DM,29-120,90,3,2,2,0,1,0,2,0.0,2,29,5,17.2,9,18,2,0,0,0,0,3,6,0,0
+7,Marcos Llorente,14.0,es  ESP,DM,26-098,90,3,2,1,2,0,1,2,50.0,1,18,7,38.9,4,13,1,0,0,0,0,1,4,1,0
+8,Yannick Carrasco,21.0,be  BEL,WB,27-246,90,3,1,2,1,0,2,3,66.7,1,20,5,25.0,10,3,7,3,0,0,3,3,6,0,0
+9,Kieran Trippier,23.0,eng  ENG,WB,30-231,90,2,0,0,1,1,0,1,0.0,1,13,2,15.4,3,6,4,2,0,0,2,0,2,0,0
+10,Mario Hermoso,22.0,es  ESP,CB,25-324,90,4,2,0,3,1,3,4,75.0,1,17,2,11.8,8,8,1,1,1,0,0,2,6,0,0
+11,Felipe,18.0,br  BRA,CB,31-357,90,2,1,2,0,0,1,1,100.0,0,9,2,22.2,8,1,0,0,0,0,0,2,4,3,0
+12,Stefan Savić,15.0,me  MNE,CB,30-120,90,1,1,1,0,0,1,1,100.0,0,9,2,22.2,8,1,0,3,1,0,2,6,7,1,0
+13,Jan Oblak,13.0,si  SVN,GK,28-121,90,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+14,14 Players,,,,,990,23,12,9,10,4,11,21,52.4,10,176,39,22.2,69,80,27,9,2,0,7,18,41,8,0

@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,Att,Live_Pass Types,Dead_Pass Types,FK_Pass Types,TB_Pass Types,Press_Pass Types,Sw_Pass Types,Crs_Pass Types,CK_Pass Types,In_Corner Kicks,Out_Corner Kicks,Str_Corner Kicks,Ground_Height,Low_Height,High_Height,Left_Body Parts,Right_Body Parts,Head_Body Parts,TI_Body Parts,Other_Body Parts,Cmp_Outcomes,Off_Outcomes,Out_Outcomes,Int_Outcomes,Blocks_Outcomes
+0,Antoine Griezmann,7.0,fr  FRA,FW,29-224,90,37,35,2,0,0,5,0,0,1,0,0,0,31,5,1,30,4,3,0,0,32,0,0,0,1
+1,Ansu Fati,22.0,es  ESP,LW,18-000,77,41,39,2,0,1,7,0,0,2,1,0,0,35,3,3,2,37,0,0,2,37,0,0,0,1
+2,Martin Braithwaite,9.0,dk  DEN,LW,29-148,13,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0
+3,Ousmane Dembélé,11.0,fr  FRA,RW,23-169,45,23,23,0,0,0,5,0,2,0,0,0,0,21,2,0,14,9,0,0,0,18,0,0,0,0
+4,Francisco Trincão,17.0,pt  POR,RW,20-307,45,43,41,2,0,0,6,0,1,2,0,0,0,36,3,4,37,4,2,0,0,34,1,1,1,4
+5,Lionel Messi,10.0,ar  ARG,AM,33-129,90,70,62,8,4,0,22,0,3,3,0,0,0,56,8,6,62,6,0,0,1,55,0,1,3,3
+6,Frenkie de Jong,21.0,nl  NED,"DM,CB",23-172,90,103,100,3,2,0,16,0,0,0,0,0,0,88,7,8,4,93,3,1,0,97,1,0,0,1
+7,Sergio Busquets,5.0,es  ESP,DM,32-107,45,49,47,2,2,0,10,1,0,0,0,0,0,43,3,3,8,39,1,0,1,44,0,1,0,0
+8,Miralem Pjanić,8.0,ba  BIH,DM,30-212,45,89,84,5,2,1,9,0,0,3,0,0,0,76,5,8,9,79,1,0,0,79,0,1,0,3
+9,Jordi Alba,18.0,es  ESP,LB,31-224,68,56,46,10,0,0,9,0,0,0,0,0,0,38,12,6,37,7,2,10,0,49,0,2,0,1
+10,Sergiño Dest,2.0,us  USA,LB,19-363,22,26,24,2,0,0,2,0,2,0,0,0,0,20,2,4,5,18,1,2,0,23,0,0,0,0
+11,Clément Lenglet,15.0,fr  FRA,CB,25-136,45,57,54,3,3,1,3,3,0,0,0,0,0,51,2,4,52,3,2,0,0,53,0,1,2,0
+12,Pedri,16.0,es  ESP,DM,17-341,45,51,48,3,0,0,4,1,0,3,0,0,0,41,5,5,8,43,0,0,0,38,0,1,3,1
+13,Gerard Piqué,3.0,es  ESP,CB,33-272,90,103,100,3,0,0,7,0,0,0,0,0,0,90,9,4,7,88,2,2,1,100,0,0,0,0
+14,Sergi Roberto,20.0,es  ESP,RB,28-267,90,107,98,9,0,0,12,1,0,0,0,0,0,87,13,7,11,86,1,9,0,100,1,1,1,1
+15,Neto,13.0,br  BRA,GK,31-104,90,24,23,1,1,0,7,0,0,0,0,0,0,23,1,0,2,17,0,0,5,24,0,0,0,0
+16,16 Players,,,,,990,880,825,55,14,3,125,6,8,14,1,0,0,737,80,63,288,534,18,24,10,784,3,9,10,16

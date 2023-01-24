@@ -1,0 +1,15 @@
+,Season,Age,Squad,Country,Comp,LgRank,90s,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,2015-2016,16,Milan,it  ITA,1.  Serie A,7th,29.2,,,,,,,,,,,,,,,,,,,,,,,
+1,2016-2017,17,Milan,it  ITA,1.  Serie A,6th,38.0,,0,,,,,,,,,,,,,,,,,,2,,,
+2,2017-2018,18,Milan,it  ITA,1.  Serie A,6th,38.0,1,0,1,0,0,1,1,100.0,0,1,0,0.0,1,0,0,0,0,0,0,0,1,1,3
+3,2018-2019,19,Milan,it  ITA,1.  Serie A,5th,34.4,0,0,0,0,0,0,1,0.0,1,4,0,0.0,4,0,0,0,0,0,0,0,0,0,1
+4,2019-2020,20,Milan,it  ITA,1.  Serie A,6th,35.6,0,0,0,0,0,0,2,0.0,2,6,2,33.3,6,0,0,0,0,0,0,0,0,1,4
+5,2020-2021,21,Milan,it  ITA,1.  Serie A,2nd,37.0,0,0,0,0,0,0,1,0.0,1,0,0,,0,0,0,0,0,0,0,0,0,1,1
+6,2021-2022,22,Paris S-G,fr  FRA,1.  Ligue 1,1st,7.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+7,8 Seasons,8 Seasons,2 Clubs,,2 Leagues,,219.1,1,0,1,0,0,1,5,20.0,4,11,2,18.2,11,0,0,0,0,0,0,2,1,3,9
+8,,,,Country,Comp,LgRank,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Past,Press,Succ,%,Def 3rd,Mid 3rd,Att 3rd,Blocks,Sh,ShSv,Pass,Int,Tkl+Int,Clr,Err
+9,Milan (7 Seasons),Milan (7 Seasons),Milan (7 Seasons),,1 League,,212.1,1,0,1,0,0,1,5,20.0,4,11,2,18.2,11,0,0,0,0,0,0,2,1,3,9
+10,Paris S-G (1 Season),Paris S-G (1 Season),Paris S-G (1 Season),,1 League,,7.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,Serie A (7 Seasons),Serie A (7 Seasons),Serie A (7 Seasons),,,,212.1,1,0,1,0,0,1,5,20.0,4,11,2,18.2,11,0,0,0,0,0,0,2,1,3,9
+13,Ligue 1 (1 Season),Ligue 1 (1 Season),Ligue 1 (1 Season),,,,7.0,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0

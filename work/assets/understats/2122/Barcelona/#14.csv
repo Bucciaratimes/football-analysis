@@ -1,0 +1,27 @@
+,minute,team,player,x,y,xG,result,shotType,assist
+0,5,Villarreal,Arnaut Danjuma Groeneveld,0.865999984741211,0.615999984741211,0.07312710583209991,BlockedShot,RightFoot,None
+1,5,Villarreal,Moi Gómez,0.88,0.6559999847412109,0.05916207283735275,BlockedShot,RightFoot,None
+2,24,Villarreal,Manu Trigueros,0.9130000305175782,0.35700000762939454,0.034251291304826736,BlockedShot,RightFoot,None
+3,26,Villarreal,Yeremi Pino,0.9219999694824219,0.43599998474121093,0.037077948451042175,MissedShots,Head,Pau Torres
+4,32,Villarreal,Pau Torres,0.92,0.46,0.3014802038669586,MissedShots,Head,Daniel Parejo
+5,38,Villarreal,Arnaut Danjuma Groeneveld,0.919000015258789,0.6530000305175782,0.28340038657188416,SavedShot,LeftFoot,Pau Torres
+6,42,Villarreal,Alfonso,0.8969999694824219,0.6880000305175781,0.04995252192020416,MissedShots,LeftFoot,Daniel Parejo
+7,59,Villarreal,Arnaut Danjuma Groeneveld,0.8080000305175781,0.645,0.0401020385324955,MissedShots,RightFoot,Daniel Parejo
+8,62,Villarreal,Moi Gómez,0.8090000152587891,0.4370000076293945,0.050010599195957184,MissedShots,LeftFoot,Yeremi Pino
+9,73,Villarreal,Manu Trigueros,0.8530000305175781,0.4420000076293945,0.07939928770065308,MissedShots,RightFoot,Samuel Chukwueze
+10,75,Villarreal,Samuel Chukwueze,0.8540000152587891,0.5259999847412109,0.36915674805641174,Goal,LeftFoot,Arnaut Danjuma Groeneveld
+11,81,Villarreal,Estupiñán,0.8859999847412109,0.6859999847412109,0.05207879841327667,BlockedShot,LeftFoot,Manu Trigueros
+12,81,Villarreal,Manu Trigueros,0.850999984741211,0.38799999237060545,0.06633545458316803,MissedShots,RightFoot,Daniel Parejo
+13,83,Villarreal,Arnaut Danjuma Groeneveld,0.8819999694824219,0.6309999847412109,0.06423291563987732,MissedShots,RightFoot,Etienne Capoue
+14,3,Barcelona,Abdessamad Ezzalzouli,0.9,0.4929999923706055,0.07402291893959045,SavedShot,Head,Memphis Depay
+15,7,Barcelona,Memphis Depay,0.7669999694824219,0.5129999923706055,0.028234532102942467,MissedShots,LeftFoot,Frenkie de Jong
+16,8,Barcelona,Gavi,0.9119999694824219,0.6270000076293946,0.08474601805210114,MissedShots,LeftFoot,None
+17,18,Barcelona,Memphis Depay,0.8719999694824219,0.5270000076293946,0.38142645359039307,MissedShots,RightFoot,Frenkie de Jong
+18,47,Barcelona,Jordi Alba,0.9019999694824219,0.73,0.020415369421243668,MissedShots,LeftFoot,Abdessamad Ezzalzouli
+19,47,Barcelona,Memphis Depay,0.9569999694824218,0.519000015258789,0.6191230416297913,SavedShot,RightFoot,Jordi Alba
+20,47,Barcelona,Frenkie de Jong,0.9630000305175781,0.475,0.6335445642471313,Goal,LeftFoot,None
+21,55,Barcelona,Memphis Depay,0.8109999847412109,0.35400001525878905,0.03960976377129555,SavedShot,RightFoot,Frenkie de Jong
+22,62,Barcelona,Jordi Alba,0.7819999694824219,0.7290000152587891,0.015410341322422028,MissedShots,LeftFoot,None
+23,87,Barcelona,Memphis Depay,0.9740000152587891,0.610999984741211,0.6053709387779236,Goal,RightFoot,None
+24,93,Barcelona,Philippe Coutinho,0.885,0.5,0.7432776093482971,Goal,RightFoot,None
+25,95,Barcelona,Philippe Coutinho,0.9159999847412109,0.5170000076293946,0.1273128241300583,MissedShots,RightFoot,Memphis Depay

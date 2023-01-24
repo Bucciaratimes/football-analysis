@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,Sergi Enrich,9.0,es  ESP,FW,31-085,76,4,2,0,0,4,2,3,66.7,1,24,3,12.5,2,4,18,2,0,0,2,1,5,0,0
+1,Quique,7.0,es  ESP,FW,31-006,14,0,0,0,0,0,0,0,,0,1,0,0.0,0,1,0,0,0,0,0,0,0,0,0
+2,Kike,17.0,es  ESP,FW,31-178,90,0,0,0,0,0,0,0,,0,25,9,36.0,1,5,19,2,1,0,1,0,0,1,0
+3,Takashi Inui,14.0,jp  JPN,LM,32-354,90,0,0,0,0,0,0,1,0.0,1,15,4,26.7,2,4,9,1,0,0,1,3,3,0,0
+4,Bryan,25.0,es  ESP,RM,20-100,45,0,0,0,0,0,0,0,,0,4,1,25.0,1,1,2,0,0,0,0,0,0,0,0
+5,Pedro León,21.0,es  ESP,RM,34-179,45,0,0,0,0,0,0,1,0.0,1,8,4,50.0,1,3,4,3,0,0,3,1,1,1,0
+6,Papakouli Diop,8.0,sn  SEN,DM,35-064,61,1,1,0,1,0,0,2,0.0,2,9,2,22.2,3,6,0,3,0,0,3,2,3,1,0
+7,Sergio Álvarez,6.0,es  ESP,DM,29-119,29,0,0,0,0,0,0,0,,0,7,0,0.0,1,4,2,0,0,0,0,1,1,1,0
+8,Miguel Atienza,33.0,es  ESP,DM,21-360,90,2,1,1,1,0,0,4,0.0,4,19,3,15.8,6,10,3,0,0,0,0,4,6,0,0
+9,Rafa Soares,11.0,pt  POR,LB,26-013,90,0,0,0,0,0,0,0,,0,6,0,0.0,3,1,2,2,0,0,2,1,1,4,0
+10,Anaitz Arbilla,23.0,es  ESP,CB,34-007,90,0,0,0,0,0,0,0,,0,3,0,0.0,1,2,0,0,0,0,0,3,3,2,0
+11,Paulo Oliveira,4.0,pt  POR,CB,29-134,75,1,0,1,0,0,1,1,100.0,0,4,2,50.0,3,0,1,3,2,0,1,4,5,4,0
+12,Pedro Bigas,3.0,es  ESP,CB,30-249,15,0,0,0,0,0,0,0,,0,1,0,0.0,1,0,0,0,0,0,0,0,0,1,0
+13,Rober Correa,20.0,es  ESP,RB,28-244,75,2,2,0,1,1,1,1,100.0,0,8,3,37.5,2,5,1,0,0,0,0,3,5,2,0
+14,Alejandro Pozo Pozo,22.0,es  ESP,RB,22-089,15,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+15,Yoel,13.0,es  ESP,GK,32-267,90,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+16,16 Players,,,,,990,10,6,2,3,5,4,13,30.8,9,134,31,23.1,27,46,61,16,3,0,13,23,33,17,0

@@ -1,0 +1,17 @@
+,Player,#,Nation,Pos,Age,Min,Gls_Performance,Ast_Performance,PK_Performance,PKatt_Performance,Sh_Performance,SoT_Performance,CrdY_Performance,CrdR_Performance,Touches_Performance,Press_Performance,Tkl_Performance,Int_Performance,Blocks_Performance,xG_Expected,npxG_Expected,xA_Expected,SCA_SCA,GCA_SCA,Cmp_Passes,Att_Passes,Cmp%_Passes,Prog_Passes,Carries_Carries,Prog_Carries,Succ_Dribbles,Att_Dribbles
+0,Antoine Griezmann,7.0,fr  FRA,FW,29-245,82,0,0,0,0,2,1,0,0,31,9,0,0,0,0.2,0.2,0.0,2,0,21,23,91.3,0,20,0,1,2
+1,Francisco Trincão,17.0,pt  POR,"RM,FW",20-328,8,0,0,0,0,1,0,0,0,3,2,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,2,1,0,0
+2,Pedri,16.0,es  ESP,LW,17-362,56,0,0,0,0,1,0,0,0,30,19,0,1,0,0.0,0.0,0.0,0,0,19,22,86.4,0,26,4,0,2
+3,Philippe Coutinho,14.0,br  BRA,"LW,CM",28-162,34,0,0,0,0,0,0,0,0,23,3,0,1,0,0.0,0.0,0.0,0,0,12,20,60.0,1,18,2,1,1
+4,Ousmane Dembélé,11.0,fr  FRA,"RW,LM",23-190,90,0,0,0,0,1,0,0,0,64,24,1,2,3,0.1,0.1,0.2,4,0,39,47,83.0,1,46,11,4,6
+5,Lionel Messi,10.0,ar  ARG,"AM,CM",33-150,90,0,0,0,0,3,1,0,0,65,8,0,0,0,0.5,0.5,0.4,8,0,40,56,71.4,7,57,14,5,8
+6,Frenkie de Jong,21.0,nl  NED,"DM,CB",23-193,90,0,0,0,0,0,0,0,0,87,26,6,2,2,0.0,0.0,0.0,1,0,71,77,92.2,2,69,10,0,0
+7,Miralem Pjanić,8.0,ba  BIH,DM,30-233,82,0,0,0,0,1,0,0,0,80,21,2,0,3,0.0,0.0,0.1,1,0,63,72,87.5,5,50,2,0,0
+8,Martin Braithwaite,9.0,dk  DEN,"FW,DM",29-169,8,0,0,0,0,1,0,0,0,2,3,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,1,0,0
+9,Jordi Alba,18.0,es  ESP,LB,31-245,90,0,0,0,0,0,0,0,0,92,9,1,0,2,0.0,0.0,0.4,4,0,77,86,89.5,5,56,6,0,1
+10,Clément Lenglet,15.0,fr  FRA,CB,25-157,90,0,0,0,0,2,2,0,0,80,20,3,3,2,0.3,0.3,0.0,1,0,60,65,92.3,2,51,7,0,0
+11,Gerard Piqué,3.0,es  ESP,CB,33-293,61,0,0,0,0,0,0,0,0,66,6,2,1,0,0.0,0.0,0.0,0,0,57,60,95.0,1,38,2,0,0
+12,Sergiño Dest,2.0,us  USA,RB,20-018,29,0,0,0,0,0,0,0,0,19,10,0,0,0,0.0,0.0,0.0,0,0,16,17,94.1,1,15,3,0,0
+13,Sergi Roberto,20.0,es  ESP,"RB,DM",28-288,90,0,0,0,0,1,0,0,0,93,12,2,3,3,0.0,0.0,0.0,1,0,74,81,91.4,6,64,13,0,0
+14,Marc-André ter Stegen,1.0,de  GER,GK,28-205,90,0,0,0,0,0,0,0,0,25,1,0,0,0,0.0,0.0,0.0,0,0,21,22,95.5,1,10,0,0,0
+15,15 Players,,,,,990,0,0,0,0,13,4,0,0,760,173,17,13,15,1.2,1.2,1.1,23,0,572,651,87.9,32,524,76,11,20

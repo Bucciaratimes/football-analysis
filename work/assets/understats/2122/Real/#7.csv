@@ -1,0 +1,22 @@
+,minute,team,player,x,y,xG,result,shotType,assist
+0,6,Real Madrid,Luka Modric,0.8090000152587891,0.6459999847412109,0.0351395420730114,BlockedShot,RightFoot,Vinícius Júnior
+1,11,Real Madrid,Karim Benzema,0.8780000305175781,0.2560000038146973,0.02841992862522602,BlockedShot,LeftFoot,Federico Valverde
+2,20,Real Madrid,Karim Benzema,0.705,0.6359999847412109,0.01619539223611355,MissedShots,RightFoot,Vinícius Júnior
+3,22,Real Madrid,Eder Militão,0.9269999694824219,0.47,0.05759566277265549,MissedShots,Head,Marco Asensio
+4,34,Real Madrid,Marco Asensio,0.7980000305175782,0.34,0.027283623814582825,BlockedShot,LeftFoot,Federico Valverde
+5,41,Real Madrid,Marco Asensio,0.7219999694824218,0.5509999847412109,0.021720856428146362,BlockedShot,LeftFoot,Casemiro
+6,43,Real Madrid,Federico Valverde,0.7319999694824219,0.425,0.01535725686699152,MissedShots,RightFoot,None
+7,49,Real Madrid,Eder Militão,0.9409999847412109,0.500999984741211,0.5103468298912048,MissedShots,Head,Marco Asensio
+8,62,Real Madrid,Casemiro,0.6909999847412109,0.6509999847412109,0.013307584449648857,BlockedShot,RightFoot,Nacho
+9,63,Real Madrid,Karim Benzema,0.919000015258789,0.735999984741211,0.040208231657743454,SavedShot,LeftFoot,Eduardo Camavinga
+10,73,Real Madrid,Vinícius Júnior,0.7709999847412109,0.5329999923706055,0.05204419046640396,MissedShots,RightFoot,None
+11,81,Real Madrid,Isco,0.9130000305175782,0.5420000076293945,0.058118801563978195,BlockedShot,Head,Eden Hazard
+12,81,Real Madrid,Vinícius Júnior,0.95,0.5259999847412109,0.593816876411438,SavedShot,OtherBodyPart,Isco
+13,81,Real Madrid,Vinícius Júnior,0.9630000305175781,0.669000015258789,0.061012882739305496,BlockedShot,RightFoot,None
+14,92,Real Madrid,Vinícius Júnior,0.8540000152587891,0.685,0.042025357484817505,MissedShots,RightFoot,Eden Hazard
+15,12,Villarreal,Arnaut Danjuma Groeneveld,0.875999984741211,0.7140000152587891,0.03211236372590065,SavedShot,RightFoot,Alberto Moreno
+16,19,Villarreal,Paco Alcácer,0.7719999694824219,0.3820000076293945,0.026468954980373383,MissedShots,RightFoot,Juan Foyth
+17,37,Villarreal,Arnaut Danjuma Groeneveld,0.9390000152587891,0.6309999847412109,0.07523398846387863,MissedShots,LeftFoot,Paco Alcácer
+18,54,Villarreal,Arnaut Danjuma Groeneveld,0.8119999694824219,0.5990000152587891,0.042810600250959396,SavedShot,RightFoot,Juan Foyth
+19,56,Villarreal,Paco Alcácer,0.960999984741211,0.40599998474121096,0.4112846553325653,MissedShots,RightFoot,Juan Foyth
+20,89,Villarreal,Pau Torres,0.9459999847412109,0.534000015258789,0.07849021255970001,MissedShots,Head,Daniel Parejo

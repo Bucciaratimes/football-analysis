@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,Portu,7.0,es  ESP,"FW,RW",29-086,65,0,0,0,0,0,0,0,,0,26,3,11.5,1,8,17,1,0,0,1,1,1,0,0
+1,Julen Lobete,35.0,es  ESP,RW,20-331,25,0,0,0,0,0,0,0,,0,6,2,33.3,2,3,1,1,0,0,1,0,0,0,0
+2,Mikel Oyarzabal,10.0,es  ESP,"LW,AM",24-116,90,1,1,1,0,0,0,0,,0,6,2,33.3,2,3,1,1,0,0,1,2,3,0,0
+3,Adnan Januzaj,11.0,be  BEL,RW,26-191,45,1,1,1,0,0,0,1,0.0,1,2,2,100.0,1,1,0,0,0,0,0,1,2,1,0
+4,Ander Barrenetxea,22.0,es  ESP,"LW,RW",19-231,45,1,1,0,1,0,1,1,100.0,0,7,1,14.3,0,3,4,0,0,0,0,2,3,0,0
+5,David Silva,21.0,es  ESP,AM,35-219,45,1,1,1,0,0,0,0,,0,7,1,14.3,3,2,2,0,0,0,0,0,1,0,0
+6,Jon Bautista,25.0,es  ESP,"FW,AM",26-043,45,3,0,0,2,1,0,1,0.0,1,16,2,12.5,0,6,10,1,0,0,1,1,4,1,0
+7,Martín Zubimendi,3.0,es  ESP,DM,22-194,90,3,1,1,1,1,0,0,,0,15,4,26.7,5,8,2,1,0,0,1,0,3,1,0
+8,Mikel Merino,8.0,es  ESP,DM,25-054,90,2,1,1,1,0,0,4,0.0,4,18,3,16.7,3,13,2,1,0,0,1,1,3,0,0
+9,Aihen Muñoz,12.0,es  ESP,LB,23-364,90,4,2,1,2,1,1,1,100.0,0,11,3,27.3,1,7,3,1,0,0,1,3,7,4,0
+10,Robin Le Normand,24.0,fr  FRA,CB,24-277,90,0,0,0,0,0,0,1,0.0,1,14,5,35.7,4,10,0,0,0,0,0,4,4,7,0
+11,Aritz Elustondo,6.0,es  ESP,CB,27-140,80,1,1,1,0,0,0,0,,0,8,3,37.5,4,3,1,1,1,0,0,1,2,4,0
+12,Jon Pacheco,26.0,es  ESP,CB,20-219,10,0,0,0,0,0,0,0,,0,1,0,0.0,1,0,0,0,0,0,0,0,0,0,0
+13,Joseba Zaldúa,2.0,es  ESP,RB,29-052,65,3,2,3,0,0,2,3,66.7,1,2,0,0.0,0,0,2,3,0,0,3,1,4,2,0
+14,Andoni Gorosabel,18.0,es  ESP,RB,25-011,25,1,1,1,0,0,0,0,,0,4,1,25.0,4,0,0,1,0,0,1,0,1,1,0
+15,Álex Remiro,1.0,es  ESP,GK,26-144,90,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+16,16 Players,,,,,990,21,12,11,7,3,4,12,33.3,8,143,32,22.4,31,67,45,12,1,0,11,17,38,21,0

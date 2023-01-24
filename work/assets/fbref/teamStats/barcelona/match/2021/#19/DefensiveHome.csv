@@ -1,0 +1,16 @@
+,Player,#,Nation,Pos,Age,Min,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,Lucas Boyé,9.0,ar  ARG,FW,24-331,90,0,0,0,0,0,0,3,0.0,3,18,2,11.1,3,10,5,1,0,0,1,3,3,0,0
+1,Emiliano Rigoni,22.0,ar  ARG,LM,27-355,74,2,1,1,1,0,1,3,33.3,2,10,2,20.0,6,3,1,4,0,0,4,0,2,0,0
+2,Luismi,15.0,es  ESP,CM,28-264,16,0,0,0,0,0,0,0,,0,5,0,0.0,3,2,0,0,0,0,0,0,0,0,0
+3,Víctor Rodríguez,8.0,es  ESP,CM,31-185,81,0,0,0,0,0,0,2,0.0,2,16,3,18.8,5,9,2,1,0,0,1,3,3,2,0
+4,Nino,7.0,es  ESP,CM,40-228,9,0,0,0,0,0,0,0,,0,1,0,0.0,0,0,1,0,0,0,0,0,0,0,0
+5,Raúl Guti,14.0,es  ESP,CM,24-025,73,1,1,1,0,0,0,0,,0,5,0,0.0,2,3,0,0,0,0,0,1,2,2,0
+6,Tete Morente,11.0,es  ESP,LM,24-051,17,1,0,1,0,0,0,0,,0,5,1,20.0,3,1,1,1,0,0,1,0,1,2,0
+7,Josan,17.0,es  ESP,RM,31-052,90,0,0,0,0,0,0,0,,0,9,0,0.0,3,6,0,3,1,0,2,0,0,2,0
+8,Iván Marcone,4.0,ar  ARG,DM,30-235,90,0,0,0,0,0,0,2,0.0,2,15,3,20.0,12,3,0,2,0,0,2,0,0,1,0
+9,Johan Mojica,25.0,co  COL,LB,28-156,90,4,2,3,1,0,1,2,50.0,1,14,7,50.0,10,4,0,1,0,0,1,2,6,2,0
+10,Diego González,2.0,es  ESP,CB,25-362,90,0,0,0,0,0,0,0,,0,8,2,25.0,6,2,0,3,1,0,2,1,1,4,1
+11,Gonzalo Verdú,5.0,es  ESP,CB,32-095,90,2,2,2,0,0,0,1,0.0,1,8,3,37.5,6,2,0,1,0,0,1,2,4,1,0
+12,Antonio Barragán,19.0,es  ESP,RB,33-226,90,2,0,2,0,0,1,2,50.0,1,14,3,21.4,11,2,1,2,0,0,2,2,4,2,0
+13,Édgar Badía,13.0,es  ESP,GK,28-347,90,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+14,14 Players,,,,,990,12,6,10,2,0,3,15,20.0,12,128,26,20.3,70,47,11,19,2,0,17,14,26,18,1

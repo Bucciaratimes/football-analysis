@@ -1,0 +1,19 @@
+,Season,Age,Squad,Country,Comp,LgRank,90s,Cmp_Total,Att_Total,Cmp%_Total,TotDist_Total,PrgDist_Total,Cmp_Short,Att_Short,Cmp%_Short,Cmp_Medium,Att_Medium,Cmp%_Medium,Cmp_Long,Att_Long,Cmp%_Long,Ast,xA,A-xA,KP,1/3,PPA,CrsPA,Prog
+0,2010-2011,18,M'Gladbach,de  GER,1.  Bundesliga,16th,6.0,,,,,,,,,,,,,,,0,,,,,,,
+1,2011-2012,19,M'Gladbach,de  GER,1.  Bundesliga,4th,34.0,,,,,,,,,,,,,,,0,,,,,,,
+2,2012-2013,20,M'Gladbach,de  GER,1.  Bundesliga,8th,33.8,,,,,,,,,,,,,,,0,,,,,,,
+3,2013-2014,21,M'Gladbach,de  GER,1.  Bundesliga,6th,34.0,,,,,,,,,,,,,,,0,,,,,,,
+4,2015-2016,23,Barcelona,es  ESP,1.  La Liga,1st,6.0,,,,,,,,,,,,,,,0,,,,,,,
+5,2016-2017,24,Barcelona,es  ESP,1.  La Liga,2nd,36.0,,,,,,,,,,,,,,,0,,,,,,,
+6,2017-2018,25,Barcelona,es  ESP,1.  La Liga,1st,37.0,821,1015,80.9,22005,12230,120,123,97.6,451,459,98.3,249,431,57.8,0,0.0,0.0,0,1,0,0,0
+7,2018-2019,26,Barcelona,es  ESP,1.  La Liga,1st,35.0,911,1060,85.9,24793,14973,141,142,99.3,471,475,99.2,295,439,67.2,0,0.0,0.0,1,5,0,0,0
+8,2019-2020,27,Barcelona,es  ESP,1.  La Liga,2nd,36.0,1250,1419,88.1,32389,19742,256,256,100.0,590,598,98.7,393,553,71.1,2,0.7,+1.3,2,8,2,0,1
+9,2020-2021,28,Barcelona,es  ESP,1.  La Liga,3rd,31.0,921,1035,89.0,24254,14417,171,171,100.0,452,458,98.7,294,402,73.1,0,0.0,0.0,0,2,0,0,1
+10,2021-2022,29,Barcelona,es  ESP,1.  La Liga,7th,12.0,392,453,86.5,10259,5966,62,64,96.9,217,219,99.1,112,169,66.3,0,0.0,0.0,0,1,0,0,2
+11,12 Seasons,12 Seasons,2 Clubs,,2 Leagues,,300.9,4295,4982,86.2,113700,67328,750,756,99.2,2181,2209,98.7,1343,1994,67.4,2,0.7,+1.3,3,17,2,0,4
+12,,,,Country,Comp,LgRank,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xA,A-xA,KP,1/3,PPA,CrsPA,Prog
+13,Barcelona (8 Seasons),Barcelona (8 Seasons),Barcelona (8 Seasons),,1 League,,193.0,4295,4982,86.2,113700,67328,750,756,99.2,2181,2209,98.7,1343,1994,67.4,2,0.7,+1.3,3,17,2,0,4
+14,M'Gladbach (4 Seasons),M'Gladbach (4 Seasons),M'Gladbach (4 Seasons),,1 League,,107.8,,,,,,,,,,,,,,,0,,,,,,,
+15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,La Liga (8 Seasons),La Liga (8 Seasons),La Liga (8 Seasons),,,,193.0,4295,4982,86.2,113700,67328,750,756,99.2,2181,2209,98.7,1343,1994,67.4,2,0.7,+1.3,3,17,2,0,4
+17,Bundesliga (4 Seasons),Bundesliga (4 Seasons),Bundesliga (4 Seasons),,,,107.8,,,,,,,,,,,,,,,0,,,,,,,

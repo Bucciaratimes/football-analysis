@@ -1,0 +1,17 @@
+,Player,#,Nation,Pos,Age,Min,Att,Live_Pass Types,Dead_Pass Types,FK_Pass Types,TB_Pass Types,Press_Pass Types,Sw_Pass Types,Crs_Pass Types,CK_Pass Types,In_Corner Kicks,Out_Corner Kicks,Str_Corner Kicks,Ground_Height,Low_Height,High_Height,Left_Body Parts,Right_Body Parts,Head_Body Parts,TI_Body Parts,Other_Body Parts,Cmp_Outcomes,Off_Outcomes,Out_Outcomes,Int_Outcomes,Blocks_Outcomes
+0,João Félix,7.0,pt  POR,FW,21-011,83,46,46,0,0,0,16,0,0,0,0,0,0,36,6,4,3,40,2,0,0,42,0,0,2,0
+1,Thomas Lemar,11.0,fr  FRA,FW,25-009,7,8,5,3,0,0,1,1,0,1,1,0,0,4,3,1,5,1,0,2,0,7,0,0,0,0
+2,Ángel Correa,10.0,ar  ARG,FW,25-257,83,31,29,2,0,1,7,0,1,1,0,1,0,21,5,5,8,22,1,0,0,26,0,0,1,2
+3,Geoffrey Kondogbia,4.0,cf  CTA,CM,27-280,7,6,6,0,0,0,2,0,0,0,0,0,0,5,1,0,3,3,0,0,0,5,0,0,0,0
+4,Saúl Ñíguez,8.0,es  ESP,CM,26-000,90,56,56,0,0,0,8,1,1,0,0,0,0,43,6,7,37,15,2,0,1,51,0,0,2,1
+5,Marcos Llorente,14.0,es  ESP,CM,25-296,72,31,31,0,0,0,5,0,2,0,0,0,0,26,4,1,3,26,2,0,0,25,0,0,0,3
+6,Diego Costa,19.0,es  ESP,"CM,FW",32-045,18,20,20,0,0,0,6,0,0,0,0,0,0,15,2,3,1,16,1,0,0,15,0,0,0,2
+7,Koke,6.0,es  ESP,DM,28-318,90,78,68,10,5,0,10,3,1,5,1,3,0,59,8,11,6,71,0,0,1,67,2,0,0,1
+8,Yannick Carrasco,21.0,be  BEL,WB,27-078,89,43,41,2,1,0,5,1,2,1,1,0,0,35,3,5,3,40,0,0,0,36,0,1,3,0
+9,Felipe,18.0,br  BRA,WB,31-189,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+10,Kieran Trippier,23.0,eng  ENG,WB,30-063,90,68,61,7,0,0,8,2,4,0,0,0,0,41,15,12,3,52,2,7,1,58,0,0,0,0
+11,Mario Hermoso,22.0,es  ESP,CB,25-156,90,67,57,10,0,0,13,1,0,0,0,0,0,33,13,21,43,8,3,10,1,51,0,1,3,3
+12,José María Giménez,2.0,uy  URU,CB,25-306,90,35,35,0,0,0,2,3,0,0,0,0,0,27,2,6,7,27,1,0,0,32,0,1,0,0
+13,Stefan Savić,15.0,me  MNE,CB,29-318,90,52,52,0,0,0,4,1,0,0,0,0,0,39,4,9,4,45,2,0,0,48,0,0,0,0
+14,Jan Oblak,13.0,si  SVN,GK,27-319,90,28,18,10,2,0,3,1,0,0,0,0,0,3,0,25,1,23,0,0,0,14,0,2,1,0
+15,15 Players,,,,,990,570,526,44,8,1,90,14,11,8,3,4,0,388,72,110,127,390,16,19,4,477,2,5,12,12

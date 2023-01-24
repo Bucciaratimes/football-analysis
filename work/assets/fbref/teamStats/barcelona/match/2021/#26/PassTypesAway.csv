@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,Att,Live_Pass Types,Dead_Pass Types,FK_Pass Types,TB_Pass Types,Press_Pass Types,Sw_Pass Types,Crs_Pass Types,CK_Pass Types,In_Corner Kicks,Out_Corner Kicks,Str_Corner Kicks,Ground_Height,Low_Height,High_Height,Left_Body Parts,Right_Body Parts,Head_Body Parts,TI_Body Parts,Other_Body Parts,Cmp_Outcomes,Off_Outcomes,Out_Outcomes,Int_Outcomes,Blocks_Outcomes
+0,Antoine Griezmann,7.0,fr  FRA,"FW,LW",29-350,66,33,33,0,0,0,1,0,0,0,0,0,0,26,5,2,26,4,0,0,2,30,0,0,0,1
+1,Martin Braithwaite,9.0,dk  DEN,LW,29-274,24,7,7,0,0,0,2,0,0,0,0,0,0,6,0,1,0,6,1,0,0,5,0,0,1,0
+2,Lionel Messi,10.0,ar  ARG,FW,33-255,90,76,73,3,1,3,10,2,2,1,1,0,0,55,11,10,66,9,1,0,0,63,1,1,2,0
+3,Pedri,16.0,es  ESP,CM,18-101,86,88,85,3,1,1,11,3,0,2,0,0,0,71,9,8,13,74,1,0,0,77,1,1,0,1
+4,Riqui Puig,12.0,es  ESP,CM,21-205,4,5,5,0,0,0,2,0,0,0,0,0,0,3,1,1,0,4,1,0,0,4,0,0,0,0
+5,Frenkie de Jong,21.0,nl  NED,CM,23-298,90,69,69,0,0,0,11,0,0,0,0,0,0,56,9,4,3,64,2,0,0,63,0,2,0,0
+6,Sergio Busquets,5.0,es  ESP,DM,32-233,66,70,69,1,0,0,9,1,0,0,0,0,0,49,11,10,14,51,2,1,1,60,0,2,4,1
+7,Ilaix Moriba,27.0,es  ESP,DM,18-046,24,16,16,0,0,1,2,0,0,0,0,0,0,14,0,2,2,13,1,0,0,15,0,0,0,0
+8,Jordi Alba,18.0,es  ESP,"WB,LB",31-350,86,70,67,3,0,0,4,1,4,0,0,0,0,51,8,11,59,8,0,3,0,58,1,0,3,1
+9,Junior Firpo,24.0,es  ESP,LB,24-196,4,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0
+10,Sergiño Dest,2.0,us  USA,"WB,RB",20-123,90,61,49,12,1,0,6,0,2,0,0,0,0,44,13,4,9,40,1,11,0,54,0,2,0,1
+11,Samuel Umtiti,23.0,fr  FRA,CB,27-112,45,50,50,0,0,0,3,0,0,0,0,0,0,44,2,4,41,7,0,0,1,49,0,1,0,0
+12,Ousmane Dembélé,11.0,fr  FRA,RW,23-295,45,24,23,1,0,1,5,1,2,1,0,0,0,18,3,3,11,12,0,0,0,21,0,1,0,0
+13,Clément Lenglet,15.0,fr  FRA,CB,25-262,90,78,78,0,0,0,7,0,0,0,0,0,0,64,5,9,67,8,1,0,0,71,0,1,1,0
+14,Óscar Mingueza,28.0,es  ESP,CB,21-297,90,76,75,1,1,0,10,0,0,0,0,0,0,63,7,6,5,66,2,0,0,70,0,1,1,3
+15,Marc-André ter Stegen,1.0,de  GER,GK,28-310,90,35,28,7,0,0,3,0,0,0,0,0,0,31,0,4,6,25,0,0,4,33,0,0,0,0
+16,16 Players,,,,,990,759,728,31,4,6,86,8,10,4,1,0,0,596,84,79,323,391,13,15,8,674,3,12,12,8

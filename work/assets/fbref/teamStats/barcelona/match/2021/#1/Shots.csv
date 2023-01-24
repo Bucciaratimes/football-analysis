@@ -1,0 +1,12 @@
+,Minute,Player,Squad,Outcome,Distance,Body Part,Notes,Player_SCA 1,Event_SCA 1,Player_SCA 2,Event_SCA 2
+0,17,Sergi Roberto,Barcelona,Off Target,13.0,Left Foot,Half volley,,,,
+1,26,Jordi Alba,Barcelona,Saved,7.0,Left Foot,,Sergi Roberto,Pass (Live),Philippe Coutinho,Pass (Live)
+2,35,Lionel Messi  (pen),Barcelona,Goal,12.0,Left Foot,,Ansu Fati,Fouled,Frenkie de Jong,Pass (Live)
+3,39,Francis Coquelin,Villarreal,Blocked,17.0,Right Foot,,Daniel Parejo,Pass (Dead),Francis Coquelin,Pass (Live)
+4,45,Gerard Moreno,Villarreal,Blocked,16.0,Left Foot,,Francis Coquelin,Pass (Live),,
+5,,,,,,,,,,,
+6,56,Antoine Griezmann,Barcelona,Blocked,14.0,Left Foot,Half volley,Jordi Alba,Pass (Live),Lionel Messi,Pass (Live)
+7,58,Vicente Iborra,Villarreal,Off Target,10.0,Head,,Moi Gómez,Pass (Live),Daniel Parejo,Pass (Live)
+8,81,Mario Gaspar,Villarreal,Off Target,20.0,Right Foot,,Pervis Estupiñán,Pass (Live),Moi Gómez,Pass (Live)
+9,89,Takefusa Kubo,Villarreal,Saved,18.0,Left Foot,,Mario Gaspar,Pass (Live),Mario Gaspar,Tackle
+10,90+1,Miralem Pjanić,Barcelona,Off Target,27.0,Right Foot,Free kick,Ousmane Dembélé,Fouled,,

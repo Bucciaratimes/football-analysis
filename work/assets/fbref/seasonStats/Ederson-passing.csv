@@ -1,0 +1,19 @@
+,Season,Age,Squad,Country,Comp,LgRank,MP_Playing Time,Starts_Playing Time,Min_Playing Time,90s_Playing Time,Gls_Performance,Ast_Performance,G-PK_Performance,PK_Performance,PKatt_Performance,CrdY_Performance,CrdR_Performance,Gls_Per 90 Minutes,Ast_Per 90 Minutes,G+A_Per 90 Minutes,G-PK_Per 90 Minutes,G+A-PK_Per 90 Minutes,xG_Expected,npxG_Expected,xA_Expected,npxG+xA_Expected,xG_Per 90 Minutes,xA_Per 90 Minutes,xG+xA_Per 90 Minutes,npxG_Per 90 Minutes,npxG+xA_Per 90 Minutes
+0,2012-2013,18,Rio Ave,pt  POR,1.  Primeira Liga,6th,2,2,180,2.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,,,,,,,,,
+1,2013-2014,19,Rio Ave,pt  POR,1.  Primeira Liga,11th,18,17,1596,17.7,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,,,,,,,,,
+2,2014-2015,20,Rio Ave,pt  POR,1.  Primeira Liga,10th,17,17,1530,17.0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,,,,,,,,,
+3,2015-2016,21,Benfica,pt  POR,1.  Primeira Liga,1st,10,10,890,9.9,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,,,,,,,,,
+4,2016-2017,22,Benfica,pt  POR,1.  Primeira Liga,1st,27,27,2381,26.5,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,,,,,,,,,
+5,2017-2018,23,Manchester City,eng  ENG,1.  Premier League,1st,36,36,3194,35.5,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.1,0.1,0.00,0.00,0.00,0.00,0.00
+6,2018-2019,24,Manchester City,eng  ENG,1.  Premier League,1st,38,38,3420,38.0,0,1,0,0,0,2,0,0.00,0.03,0.03,0.00,0.03,0.0,0.0,0.3,0.3,0.00,0.01,0.01,0.00,0.01
+7,2019-2020,25,Manchester City,eng  ENG,1.  Premier League,2nd,35,35,3071,34.1,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.1,0.1,0.00,0.00,0.00,0.00,0.00
+8,2020-2021,26,Manchester City,eng  ENG,1.  Premier League,1st,36,36,3240,36.0,0,1,0,0,0,3,0,0.00,0.03,0.03,0.00,0.03,0.0,0.0,0.4,0.4,0.00,0.01,0.01,0.00,0.01
+9,2021-2022,27,Manchester City,eng  ENG,1.  Premier League,2nd,13,13,1170,13.0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,0.0,0.0,0.0,0.0,0.00,0.00,0.00,0.00,0.00
+10,10 Seasons,10 Seasons,3 Clubs,,2 Leagues,,232,231,20672,229.7,0,2,0,0,0,25,2,0.00,0.01,0.01,0.00,0.01,0.0,0.0,0.8,0.8,0.00,0.01,0.01,0.00,0.01
+11,,,,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,xG,npxG,xA,npxG+xA,xG,xA,xG+xA,npxG,npxG+xA
+12,Manchester City (5 Seasons),Manchester City (5 Seasons),Manchester City (5 Seasons),,1 League,,158,158,14095,156.6,0,2,0,0,0,11,1,0.00,0.01,0.01,0.00,0.01,0.0,0.0,0.8,0.8,0.00,0.01,0.01,0.00,0.01
+13,Rio Ave (3 Seasons),Rio Ave (3 Seasons),Rio Ave (3 Seasons),,1 League,,37,36,3306,36.7,0,0,0,0,0,9,0,0.00,0.00,0.00,0.00,0.00,,,,,,,,,
+14,Benfica (2 Seasons),Benfica (2 Seasons),Benfica (2 Seasons),,1 League,,37,37,3271,36.3,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,,,,,,,,,
+15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,Premier League (5 Seasons),Premier League (5 Seasons),Premier League (5 Seasons),,,,158,158,14095,156.6,0,2,0,0,0,11,1,0.00,0.01,0.01,0.00,0.01,0.0,0.0,0.8,0.8,0.00,0.01,0.01,0.00,0.01
+17,Primeira Liga (5 Seasons),Primeira Liga (5 Seasons),Primeira Liga (5 Seasons),,,,74,73,6577,73.1,0,0,0,0,0,14,1,0.00,0.00,0.00,0.00,0.00,,,,,,,,,

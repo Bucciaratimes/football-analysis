@@ -1,0 +1,17 @@
+,Player,#,Nation,Pos,Age,Min,Gls_Performance,Ast_Performance,PK_Performance,PKatt_Performance,Sh_Performance,SoT_Performance,CrdY_Performance,CrdR_Performance,Touches_Performance,Press_Performance,Tkl_Performance,Int_Performance,Blocks_Performance,xG_Expected,npxG_Expected,xA_Expected,SCA_SCA,GCA_SCA,Cmp_Passes,Att_Passes,Cmp%_Passes,Prog_Passes,Carries_Carries,Prog_Carries,Succ_Dribbles,Att_Dribbles
+0,Lionel Messi,10.0,ar  ARG,FW,33-102,90,0,0,0,0,3,1,0,0,79,4,0,0,1,0.2,0.2,0.3,4,0,58,70,82.9,5,60,14,2,3
+1,Ansu Fati,22.0,es  ESP,LW,17-339,60,0,0,0,0,2,1,0,0,38,13,1,0,1,0.1,0.1,0.3,2,0,25,30,83.3,1,27,11,0,1
+2,Pedri,16.0,es  ESP,LW,17-314,30,0,0,0,0,0,0,0,0,15,8,2,0,1,0.0,0.0,0.0,1,0,8,11,72.7,0,12,3,1,1
+3,Antoine Griezmann,7.0,fr  FRA,RW,29-197,60,0,0,0,0,1,0,0,0,19,5,1,0,0,0.3,0.3,0.0,0,0,16,16,100.0,2,15,3,0,0
+4,Francisco Trincão,17.0,pt  POR,RW,20-280,30,0,0,0,0,1,1,0,0,24,2,1,0,0,0.2,0.2,0.0,1,0,14,17,82.4,2,19,4,0,1
+5,Philippe Coutinho,14.0,br  BRA,AM,28-114,74,1,0,0,0,1,1,0,0,46,10,1,0,1,0.5,0.5,0.0,0,0,36,43,83.7,5,34,7,0,0
+6,Miralem Pjanić,8.0,ba  BIH,AM,30-185,16,0,0,0,0,0,0,1,0,20,4,1,0,0,0.0,0.0,0.0,1,0,15,18,83.3,0,8,1,0,0
+7,Frenkie de Jong,21.0,nl  NED,CM,23-145,90,0,0,0,0,1,0,0,0,64,5,0,0,1,0.4,0.4,0.0,1,0,46,56,82.1,5,54,5,2,2
+8,Sergio Busquets,5.0,es  ESP,CM,32-080,90,0,0,0,0,0,0,0,0,91,14,3,0,0,0.0,0.0,0.5,5,0,73,80,91.3,5,53,3,0,0
+9,Jordi Alba,18.0,es  ESP,LB,31-197,74,0,0,0,0,1,1,0,0,59,9,0,0,3,0.0,0.0,0.0,0,0,45,53,84.9,5,34,2,0,0
+10,Sergiño Dest,2.0,us  USA,LB,19-336,16,0,0,0,0,0,0,0,0,16,1,0,0,0,0.0,0.0,0.0,1,0,13,14,92.9,0,8,1,0,0
+11,Gerard Piqué,3.0,es  ESP,CB,33-245,90,0,0,0,0,0,0,0,0,79,9,0,0,0,0.0,0.0,0.0,0,0,69,74,93.2,2,53,1,0,0
+12,Ronald Araújo,30.0,uy  URU,CB,21-211,90,0,0,0,0,0,0,0,0,67,5,1,0,0,0.0,0.0,0.0,0,0,59,65,90.8,0,55,2,0,0
+13,Sergi Roberto,20.0,es  ESP,RB,28-240,90,0,0,0,0,1,0,0,0,93,7,0,0,2,0.1,0.1,0.0,0,0,75,87,86.2,6,63,5,0,0
+14,Neto,13.0,br  BRA,GK,31-077,90,0,0,0,0,0,0,0,0,48,0,0,0,0,0.0,0.0,0.0,1,0,42,47,89.4,0,28,0,0,0
+15,15 Players,,,,,990,1,0,0,0,11,5,1,0,758,96,11,0,10,1.8,1.8,1.2,17,0,594,681,87.2,38,523,62,5,8

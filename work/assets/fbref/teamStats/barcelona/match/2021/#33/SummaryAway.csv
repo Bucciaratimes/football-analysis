@@ -1,0 +1,17 @@
+,Player,#,Nation,Pos,Age,Min,Gls_Performance,Ast_Performance,PK_Performance,PKatt_Performance,Sh_Performance,SoT_Performance,CrdY_Performance,CrdR_Performance,Touches_Performance,Press_Performance,Tkl_Performance,Int_Performance,Blocks_Performance,xG_Expected,npxG_Expected,xA_Expected,SCA_SCA,GCA_SCA,Cmp_Passes,Att_Passes,Cmp%_Passes,Prog_Passes,Carries_Carries,Prog_Carries,Succ_Dribbles,Att_Dribbles
+0,Roberto Soldado,9.0,es  ESP,FW,35-337,60,0,0,0,0,0,0,1,0,20,16,1,1,0,0.0,0.0,0.0,1,0,10,14,71.4,1,13,1,1,1
+1,Jorge Molina,23.0,es  ESP,FW,39-007,30,1,0,0,0,1,1,0,0,9,7,0,0,0,0.1,0.1,0.0,0,0,4,6,66.7,1,6,0,1,2
+2,Darwin Machís,11.0,ve  VEN,LW,28-081,75,1,0,0,0,1,1,0,0,28,20,3,1,0,0.3,0.3,0.0,0,0,13,18,72.2,2,19,3,2,2
+3,Adrián Marín,18.0,es  ESP,LW,24-110,15,0,1,0,0,0,0,1,0,5,3,0,1,0,0.0,0.0,0.1,2,1,2,2,100.0,0,3,0,0,0
+4,Luis Javier Suárez,7.0,co  COL,RW,23-148,85,0,0,0,0,1,0,0,0,19,26,0,0,0,0.0,0.0,0.0,1,1,7,11,63.6,1,14,3,1,1
+5,Fede Vico,14.0,es  ESP,RW,26-299,5,0,0,0,0,0,0,0,0,2,3,0,1,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0
+6,Yan Brice Eteki,8.0,cm  CMR,CM,23-246,60,0,0,0,0,1,0,0,0,18,36,1,2,1,0.0,0.0,0.0,0,0,11,11,100.0,1,12,0,0,0
+7,Maxime Gonalons,4.0,fr  FRA,CM,32-050,30,0,0,0,0,0,0,0,0,5,10,2,1,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0
+8,Yangel Herrera,21.0,ve  VEN,CM,23-112,90,0,0,0,0,1,0,0,0,31,51,4,1,2,0.1,0.1,0.0,2,0,14,20,70.0,3,13,2,0,0
+9,Quini,17.0,es  ESP,WB,31-217,90,0,0,0,0,0,0,0,0,33,22,1,2,3,0.0,0.0,0.0,0,0,10,20,50.0,3,16,1,0,0
+10,Dimitri Foulquier,2.0,fr  FRA,WB,28-037,90,0,0,0,0,0,0,0,0,34,16,0,2,7,0.0,0.0,0.0,0,0,14,20,70.0,1,19,0,4,4
+11,Nehuén Pérez,3.0,ar  ARG,CB,20-309,90,0,0,0,0,0,0,1,0,20,10,0,2,2,0.0,0.0,0.0,0,0,9,12,75.0,0,6,0,0,0
+12,Germán Sánchez,6.0,es  ESP,CB,34-180,90,0,0,0,0,0,0,1,0,29,9,1,2,1,0.0,0.0,0.0,0,0,13,19,68.4,1,11,0,1,1
+13,Víctor Díaz,16.0,es  ESP,CB,32-321,90,0,0,0,0,0,0,0,0,38,19,3,2,2,0.0,0.0,0.0,0,0,18,24,75.0,1,15,0,0,0
+14,Aarón Escandell,13.0,es  ESP,GK,25-214,90,0,0,0,0,0,0,0,0,30,0,0,0,0,0.0,0.0,0.0,0,0,10,28,35.7,0,13,0,0,0
+15,15 Players,,,,,990,2,1,0,0,5,2,4,0,321,248,16,18,18,0.5,0.5,0.2,6,2,138,209,66.0,15,164,10,10,11

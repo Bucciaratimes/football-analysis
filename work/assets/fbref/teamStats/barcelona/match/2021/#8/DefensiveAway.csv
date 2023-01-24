@@ -1,0 +1,17 @@
+,Player,#,Nation,Pos,Age,Min,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,Antoine Griezmann,7.0,fr  FRA,FW,29-245,82,0,0,0,0,0,0,1,0.0,1,9,3,33.3,0,4,5,0,0,0,0,0,0,1,0
+1,Francisco Trincão,17.0,pt  POR,"RM,FW",20-328,8,0,0,0,0,0,0,0,,0,2,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+2,Pedri,16.0,es  ESP,LW,17-362,56,0,0,0,0,0,0,1,0.0,1,19,5,26.3,7,5,7,0,0,0,0,1,1,0,0
+3,Philippe Coutinho,14.0,br  BRA,"LW,CM",28-162,34,0,0,0,0,0,0,0,,0,3,0,0.0,2,1,0,0,0,0,0,1,1,0,0
+4,Ousmane Dembélé,11.0,fr  FRA,"RW,LM",23-190,90,1,0,1,0,0,0,1,0.0,1,24,7,29.2,5,9,10,3,0,0,3,2,3,1,0
+5,Lionel Messi,10.0,ar  ARG,"AM,CM",33-150,90,0,0,0,0,0,0,0,,0,8,2,25.0,0,8,0,0,0,0,0,0,0,0,0
+6,Frenkie de Jong,21.0,nl  NED,"DM,CB",23-193,90,6,3,4,2,0,0,2,0.0,2,26,6,23.1,13,11,2,2,1,0,1,2,8,1,0
+7,Miralem Pjanić,8.0,ba  BIH,DM,30-233,82,2,2,0,2,0,0,3,0.0,3,21,7,33.3,11,7,3,3,1,0,2,0,2,1,0
+8,Martin Braithwaite,9.0,dk  DEN,"FW,DM",29-169,8,0,0,0,0,0,0,0,,0,3,1,33.3,1,2,0,0,0,0,0,0,0,0,0
+9,Jordi Alba,18.0,es  ESP,LB,31-245,90,1,1,1,0,0,0,0,,0,9,0,0.0,6,3,0,2,0,0,2,0,1,1,0
+10,Clément Lenglet,15.0,fr  FRA,CB,25-157,90,3,1,3,0,0,3,3,100.0,0,20,6,30.0,13,6,1,2,0,0,2,3,6,2,0
+11,Gerard Piqué,3.0,es  ESP,CB,33-293,61,2,2,1,1,0,1,1,100.0,0,6,3,50.0,4,2,0,0,0,0,0,1,3,3,0
+12,Sergiño Dest,2.0,us  USA,RB,20-018,29,0,0,0,0,0,0,1,0.0,1,10,2,20.0,5,3,2,0,0,0,0,0,0,0,0
+13,Sergi Roberto,20.0,es  ESP,"RB,DM",28-288,90,2,1,1,0,1,1,2,50.0,1,12,5,41.7,3,6,3,3,1,0,2,3,5,3,0
+14,Marc-André ter Stegen,1.0,de  GER,GK,28-205,90,0,0,0,0,0,0,1,0.0,1,1,0,0.0,1,0,0,0,0,0,0,0,0,0,0
+15,15 Players,,,,,990,17,10,11,5,1,5,16,31.3,11,173,47,27.2,73,67,33,15,3,0,12,13,30,13,0

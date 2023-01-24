@@ -1,0 +1,20 @@
+,minute,team,player,x,y,xG,result,shotType,assist
+0,12,Metz,Thierry Ambrose,0.845,0.49,0.08918580412864685,SavedShot,RightFoot,Papa Ndiaga Yade
+1,33,Metz,Papa Ndiaga Yade,0.6869999694824219,0.575999984741211,0.009128679521381855,BlockedShot,LeftFoot,None
+2,36,Metz,Pape Sarr,0.7040000152587891,0.6469999694824219,0.011503126472234726,BlockedShot,RightFoot,Papa Ndiaga Yade
+3,37,Metz,Thierry Ambrose,0.8930000305175781,0.3920000076293945,0.07703998684883118,SavedShot,RightFoot,Papa Ndiaga Yade
+4,47,Metz,Thierry Ambrose,0.83,0.28,0.028409529477357864,MissedShots,LeftFoot,Farid Boulaya
+5,54,Metz,Papa Ndiaga Yade,0.7480000305175781,0.715,0.010183866135776043,BlockedShot,RightFoot,Farid Boulaya
+6,58,Metz,Pape Sarr,0.720999984741211,0.5279999923706055,0.017630664631724358,MissedShots,RightFoot,Papa Ndiaga Yade
+7,75,Metz,Pape Sarr,0.365,0.5570000076293945,0.006441787350922823,MissedShots,RightFoot,None
+8,92,Metz,Farid Boulaya,0.7869999694824219,0.6419999694824219,0.0798172727227211,BlockedShot,RightFoot,None
+9,96,Metz,Farid Boulaya,0.885,0.5,0.7600951194763184,Goal,RightFoot,None
+10,53,Marseille,Pol Lirola,0.7680000305175781,0.08899999618530273,0.01004247460514307,MissedShots,RightFoot,None
+11,54,Marseille,Darío Benedetto,0.8569999694824219,0.634000015258789,0.05668939650058746,MissedShots,RightFoot,None
+12,57,Marseille,Arkadiusz Milik,0.7440000152587891,0.48700000762939455,0.063287153840065,SavedShot,LeftFoot,None
+13,67,Marseille,Álvaro González,0.9540000152587891,0.590999984741211,0.07401404529809952,MissedShots,Head,Dimitri Payet
+14,73,Marseille,Boubacar Kamara,0.9309999847412109,0.5370000076293945,0.07769373804330826,MissedShots,Head,Pol Lirola
+15,80,Marseille,Pol Lirola,0.9109999847412109,0.33,0.06606429815292358,MissedShots,RightFoot,Dimitri Payet
+16,82,Marseille,Arkadiusz Milik,0.7609999847412109,0.4640000152587891,0.026936009526252747,BlockedShot,LeftFoot,Luis Henrique
+17,83,Marseille,Álvaro González,0.95,0.610999984741211,0.015393192879855633,MissedShots,Head,Dimitri Payet
+18,103,Marseille,Arkadiusz Milik,0.885,0.5,0.7600951194763184,Goal,LeftFoot,None

@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,CrdY_Performance,CrdR_Performance,2CrdY_Performance,Fls_Performance,Fld_Performance,Off_Performance,Crs_Performance,Int_Performance,TklW_Performance,PKwon_Performance,PKcon_Performance,OG_Performance,Recov_Performance,Won_Aerial Duels,Lost_Aerial Duels,Won%_Aerial Duels
+0,Karim Benzema,9.0,fr  FRA,FW,33-112,71,0,0,0,0,0,0,0,1,0,0,0,0,4,1,2,33.3
+1,Mariano,24.0,do  DOM,FW,27-252,19,0,0,0,1,0,0,0,0,1,0,0,0,0,3,0,100.0
+2,Vinicius Júnior,20.0,br  BRA,LM,20-272,71,0,0,0,1,2,0,2,1,2,0,0,0,5,1,1,50.0
+3,Marcelo,12.0,br  BRA,LM,32-333,19,0,0,0,0,0,0,1,0,0,0,0,0,5,0,0,
+4,Toni Kroos,8.0,de  GER,CM,31-096,71,0,0,0,1,0,0,2,0,3,0,0,0,5,0,0,
+5,Isco,22.0,es  ESP,CM,28-354,19,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,
+6,Luka Modrić,10.0,hr  CRO,CM,35-213,90,0,0,0,3,0,0,0,1,1,0,0,0,11,0,0,
+7,Federico Valverde,15.0,uy  URU,RM,22-262,60,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,50.0
+8,Marco Asensio,11.0,es  ESP,RM,25-079,30,0,0,0,0,1,0,1,3,0,0,0,0,2,0,0,
+9,Casemiro,14.0,br  BRA,DM,29-046,89,2,1,1,3,7,0,0,4,2,0,0,0,7,2,0,100.0
+10,Ferland Mendy,23.0,fr  FRA,LB,25-306,90,0,0,0,1,1,0,0,0,2,0,0,0,3,0,2,0.0
+11,Nacho,6.0,es  ESP,CB,31-082,90,1,0,0,2,0,0,0,1,1,0,0,0,7,0,1,0.0
+12,Éder Militão,3.0,br  BRA,CB,23-082,90,0,0,0,1,0,0,0,2,2,0,0,0,6,1,1,50.0
+13,Lucas Vázquez,17.0,es  ESP,RB,29-283,42,0,0,0,0,1,0,1,0,1,0,0,0,5,0,1,0.0
+14,Álvaro Odriozola,19.0,es  ESP,RB,25-117,48,0,0,0,0,0,0,1,0,0,0,0,0,4,0,0,
+15,Thibaut Courtois,1.0,be  BEL,GK,28-334,90,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,
+16,16 Players,,,,,989,3,1,1,16,12,0,8,16,15,0,0,0,73,9,9,50.0

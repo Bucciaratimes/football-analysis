@@ -1,0 +1,28 @@
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SoTA_Performance,GA_Performance,Saves_Performance,Save%_Performance,CS_Performance,PSxG_Performance,PKatt_Penalty Kicks,PKA_Penalty Kicks,PKsv_Penalty Kicks,PKm_Penalty Kicks,Cmp_Launched,Att_Launched,Cmp%_Launched,Att_Passes,Thr_Passes,Launch%_Passes,AvgLen_Passes,Att_Goal Kicks,Launch%_Goal Kicks,AvgLen_Goal Kicks,Opp_Crosses,Stp_Crosses,Stp%_Crosses,#OPA_Sweeper,AvgDist_Sweeper,Match Report
+0,2021-08-15,Sun,La Liga,Matchweek 1,Away,W 2–1,Atlético Madrid,Celta Vigo,Y,GK,90,1,1,1,100.0,0,1.1,1,1,0,0,7.0,18.0,38.9,27.0,6.0,59.3,49.6,5.0,40.0,31.6,13.0,0.0,0.0,0.0,10.2,Match Report
+1,2021-08-22,Sun,La Liga,Matchweek 2,Home,W 1–0,Atlético Madrid,Elche,Y,GK,90,2,0,2,100.0,1,0.1,0,0,0,0,4.0,7.0,57.1,12.0,4.0,33.3,39.5,10.0,30.0,38.6,6.0,1.0,16.7,0.0,19.7,Match Report
+2,2021-08-29,Sun,La Liga,Matchweek 3,Home,D 2–2,Atlético Madrid,Villarreal,Y,GK,90,2,2,0,0.0,0,1.1,0,0,0,0,2.0,3.0,66.7,12.0,6.0,25.0,30.7,1.0,0.0,10.0,4.0,0.0,0.0,0.0,11.2,Match Report
+3,2021-09-01,Wed,WCQ — UEFA (M),First round,Home,D 1–1,si  Slovenia,sk  Slovakia,Y*,GK,90,2,1,1,50.0,0,,0,0,0,0,,,,,,,,,,,,,,,,Match Report
+4,2021-09-04,Sat,WCQ — UEFA (M),First round,Home,W 1–0,si  Slovenia,mt  Malta,Y*,GK,90,1,0,1,100.0,1,,0,0,0,0,,,,,,,,,,,,,,,,Match Report
+5,2021-09-07,Tue,WCQ — UEFA (M),First round,Away,L 0–3,si  Slovenia,hr  Croatia,Y*,GK,90,10,3,7,70.0,0,,0,0,0,0,,,,,,,,,,,,,,,,Match Report
+6,2021-09-12,Sun,La Liga,Matchweek 4,Away,W 2–1,Atlético Madrid,Espanyol,Y,GK,90,3,1,1,66.7,0,0.9,0,0,0,0,0.0,2.0,0.0,16.0,6.0,12.5,28.9,8.0,0.0,10.9,5.0,2.0,40.0,0.0,16.0,Match Report
+7,2021-09-15,Wed,Champions Lg,Group stage,Home,D 0–0,es  Atlético Madrid,pt  Porto,Y,GK,90,1,0,1,100.0,1,0.5,0,0,0,0,4.0,12.0,33.3,22.0,6.0,31.8,28.2,11.0,45.5,38.5,5.0,0.0,0.0,1.0,14.3,Match Report
+8,2021-09-18,Sat,La Liga,Matchweek 5,Home,D 0–0,Atlético Madrid,Athletic Club,Y*,GK,90,0,0,0,,1,0.0,0,0,0,0,4.0,16.0,25.0,23.0,6.0,47.8,44.5,11.0,45.5,50.8,8.0,0.0,0.0,0.0,22.0,Match Report
+9,2021-09-21,Tue,La Liga,Matchweek 6,Away,W 2–1,Atlético Madrid,Getafe,Y*,GK,90,1,1,1,0.0,0,0.1,0,0,0,0,6.0,12.0,50.0,21.0,6.0,47.6,40.0,3.0,66.7,37.7,8.0,0.0,0.0,1.0,15.0,Match Report
+10,2021-09-25,Sat,La Liga,Matchweek 7,Away,L 0–1,Atlético Madrid,Alavés,Y*,GK,90,1,1,0,0.0,0,0.7,0,0,0,0,5.0,11.0,45.5,21.0,5.0,28.6,31.3,6.0,83.3,53.2,7.0,0.0,0.0,0.0,12.7,Match Report
+11,2021-09-28,Tue,Champions Lg,Group stage,Away,W 2–1,es  Atlético Madrid,it  Milan,Y,GK,90,3,1,2,66.7,0,1.1,0,0,0,0,6.0,11.0,54.5,15.0,6.0,53.3,39.4,7.0,42.9,38.9,4.0,0.0,0.0,0.0,13.4,Match Report
+12,2021-10-02,Sat,La Liga,Matchweek 8,Home,W 2–0,Atlético Madrid,Barcelona,Y,GK,90,2,0,2,100.0,1,0.3,0,0,0,0,6.0,26.0,23.1,26.0,2.0,57.7,47.2,12.0,91.7,64.3,11.0,3.0,27.3,0.0,16.0,Match Report
+13,2021-10-08,Fri,WCQ — UEFA (M),First round,Away,W 4–0,si  Slovenia,mt  Malta,Y*,GK,90,1,0,1,100.0,1,,0,0,0,0,,,,,,,,,,,,,,,,Match Report
+14,2021-10-11,Mon,WCQ — UEFA (M),First round,Home,L 1–2,si  Slovenia,ru  Russia,Y*,GK,90,6,2,4,66.7,0,,0,0,0,0,,,,,,,,,,,,,,,,Match Report
+15,2021-10-19,Tue,Champions Lg,Group stage,Home,L 2–3,es  Atlético Madrid,eng  Liverpool,Y,GK,90,5,3,3,60.0,0,2.3,1,1,0,0,5.0,22.0,22.7,20.0,6.0,60.0,52.0,11.0,90.9,63.0,7.0,0.0,0.0,0.0,16.4,Match Report
+16,2021-10-24,Sun,La Liga,Matchweek 10,Home,D 2–2,Atlético Madrid,Real Sociedad,Y,GK,90,4,2,2,50.0,0,0.5,0,0,0,0,5.0,7.0,71.4,19.0,5.0,36.8,34.8,1.0,0.0,36.0,3.0,0.0,0.0,0.0,15.3,Match Report
+17,2021-10-28,Thu,La Liga,Matchweek 11,Away,D 2–2,Atlético Madrid,Levante,Y,GK,90,1,2,1,100.0,0,1.7,2,2,0,0,6.0,13.0,46.2,21.0,4.0,52.4,42.5,6.0,33.3,30.0,2.0,0.0,0.0,2.0,15.9,Match Report
+18,2021-10-31,Sun,La Liga,Matchweek 12,Home,W 3–0,Atlético Madrid,Betis,Y,GK,90,1,0,1,100.0,1,0.0,0,0,0,0,9.0,16.0,56.3,17.0,4.0,58.8,43.5,9.0,66.7,44.7,5.0,1.0,20.0,0.0,10.8,Match Report
+19,2021-11-03,Wed,Champions Lg,Group stage,Away,L 0–2,es  Atlético Madrid,eng  Liverpool,Y,GK,90,6,2,4,66.7,0,2.6,0,0,0,0,11.0,30.0,36.7,18.0,3.0,88.9,57.2,14.0,100.0,67.8,8.0,1.0,12.5,0.0,14.6,Match Report
+20,2021-11-07,Sun,La Liga,Matchweek 13,Away,D 3–3,Atlético Madrid,Valencia,Y,GK,90,5,3,3,40.0,0,1.6,0,0,0,0,3.0,11.0,27.3,18.0,1.0,44.4,37.3,7.0,42.9,36.6,10.0,0.0,0.0,0.0,5.0,Match Report
+21,2021-11-11,Thu,WCQ — UEFA (M),First round,Away,D 2–2,si  Slovenia,sk  Slovakia,Y*,GK,90,5,2,4,80.0,0,,1,1,0,0,,,,,,,,,,,,,,,,Match Report
+22,2021-11-14,Sun,WCQ — UEFA (M),First round,Home,W 2–1,si  Slovenia,cy  Cyprus,Y*,GK,90,2,1,1,50.0,0,,0,0,0,0,,,,,,,,,,,,,,,,Match Report
+23,2021-11-20,Sat,La Liga,Matchweek 14,Home,W 1–0,Atlético Madrid,Osasuna,Y,GK,90,3,0,3,100.0,1,0.1,0,0,0,0,6.0,10.0,60.0,21.0,5.0,28.6,30.8,9.0,44.4,45.1,8.0,0.0,0.0,1.0,10.7,Match Report
+24,2021-11-24,Wed,Champions Lg,Group stage,Home,L 0–1,es  Atlético Madrid,it  Milan,Y,GK,90,3,1,2,66.7,0,0.8,0,0,0,0,9.0,21.0,42.9,18.0,6.0,61.1,46.7,13.0,76.9,54.8,5.0,0.0,0.0,0.0,12.7,Match Report
+25,2021-11-28,Sun,La Liga,Matchweek 15,Away,W 4–1,Atlético Madrid,Cádiz,Y,GK,90,1,1,0,0.0,0,0.3,0,0,0,0,5.0,8.0,62.5,16.0,7.0,18.8,29.7,8.0,62.5,47.1,17.0,4.0,23.5,0.0,8.7,Match Report
+26,,,,,,12-8-6,,,26/26,,2340,72,30,48,65.3,8,16.0,5,5,0,0,103.0,256.0,40.2,363.0,94.0,45.7,40.2,152.0,59.2,46.8,136.0,12.0,8.8,5.0,13.7,

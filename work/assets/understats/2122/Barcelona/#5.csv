@@ -1,0 +1,20 @@
+,minute,team,player,x,y,xG,result,shotType,assist
+0,45,Cadiz,Álvaro Negredo,0.7930000305175782,0.41200000762939454,0.0356856994330883,SavedShot,LeftFoot,Rubén Sobrino
+1,54,Cadiz,Santiago Arzamendia,0.7909999847412109,0.73,0.022280778735876083,BlockedShot,LeftFoot,Álvaro Negredo
+2,59,Cadiz,Isaac Carcelén,0.7619999694824219,0.3320000076293945,0.014669317752122879,BlockedShot,RightFoot,None
+3,60,Cadiz,Victor Chust,0.9330000305175781,0.3970000076293945,0.06916312128305435,BlockedShot,RightFoot,Salvi Sánchez
+4,74,Cadiz,Rubén Sobrino,0.950999984741211,0.4370000076293945,0.140203058719635,MissedShots,Head,Alfonso Espino
+5,80,Cadiz,Salvi Sánchez,0.9119999694824219,0.3940000152587891,0.3542347550392151,SavedShot,RightFoot,Alfonso Espino
+6,80,Cadiz,Rubén Sobrino,0.9059999847412109,0.4540000152587891,0.4725733697414398,MissedShots,RightFoot,None
+7,81,Cadiz,Jens Jonsson,0.87,0.545,0.024829691275954247,MissedShots,OtherBodyPart,Alberto Perea
+8,93,Cadiz,Salvi Sánchez,0.895,0.41900001525878905,0.1154252290725708,BlockedShot,RightFoot,Rubén Sobrino
+9,93,Cadiz,Anthony Lozano,0.7609999847412109,0.57,0.02555626444518566,MissedShots,RightFoot,Alberto Perea
+10,96,Cadiz,Alberto Perea,0.7419999694824219,0.42700000762939455,0.013009559363126755,MissedShots,LeftFoot,None
+11,96,Cadiz,Victor Chust,0.85,0.5220000076293946,0.0726565569639206,BlockedShot,RightFoot,Alberto Perea
+12,96,Cadiz,Tomás Alarcón,0.8480000305175781,0.6229999923706054,0.04508601501584053,SavedShot,RightFoot,None
+13,2,Barcelona,Sergiño Dest,0.935,0.6930000305175781,0.04878101497888565,MissedShots,LeftFoot,Memphis Depay
+14,7,Barcelona,Gerard Piqué,0.9369999694824219,0.5220000076293946,0.057932280004024506,BlockedShot,Head,Memphis Depay
+15,29,Barcelona,Memphis Depay,0.85,0.7180000305175781,0.02833542972803116,SavedShot,RightFoot,Frenkie de Jong
+16,51,Barcelona,Memphis Depay,0.8090000152587891,0.47,0.053782474249601364,SavedShot,LeftFoot,Óscar Mingueza
+17,90,Barcelona,Philippe Coutinho,0.7330000305175781,0.40700000762939453,0.05605736002326012,MissedShots,RightFoot,None
+18,93,Barcelona,Memphis Depay,0.92,0.3770000076293945,0.11686792969703674,MissedShots,RightFoot,Gerard Piqué

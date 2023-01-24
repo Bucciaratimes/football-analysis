@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,Att,Live_Pass Types,Dead_Pass Types,FK_Pass Types,TB_Pass Types,Press_Pass Types,Sw_Pass Types,Crs_Pass Types,CK_Pass Types,In_Corner Kicks,Out_Corner Kicks,Str_Corner Kicks,Ground_Height,Low_Height,High_Height,Left_Body Parts,Right_Body Parts,Head_Body Parts,TI_Body Parts,Other_Body Parts,Cmp_Outcomes,Off_Outcomes,Out_Outcomes,Int_Outcomes,Blocks_Outcomes
+0,Álvaro Negredo,18.0,es  ESP,FW,35-185,58,14,12,2,0,0,3,0,0,0,0,0,0,8,5,1,6,5,3,0,0,10,0,1,1,0
+1,Anthony Lozano,9.0,hn  HON,FW,27-302,32,5,5,0,0,0,4,0,1,0,0,0,0,4,0,1,0,5,0,0,0,2,0,0,0,1
+2,Jairo Izquierdo,25.0,es  ESP,LM,27-122,58,17,17,0,0,0,8,0,0,0,0,0,0,10,7,0,15,2,0,0,0,8,0,0,3,3
+3,Álex Fernández,8.0,es  ESP,CM,28-129,32,10,9,1,1,0,4,0,0,0,0,0,0,4,3,3,1,8,1,0,0,6,0,0,2,0
+4,Alberto Perea,10.0,es  ESP,CM,30-064,75,16,16,0,0,0,2,2,0,0,0,0,0,12,2,2,2,14,0,0,0,13,0,0,1,1
+5,Jens Jønsson,2.0,dk  DEN,DM,28-042,15,3,3,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2,1,0,0,2,0,0,0,0
+6,Rubén Sobrino,21.0,es  ESP,"CM,LM,FW",28-265,90,16,16,0,0,0,4,0,0,0,0,0,0,11,4,1,3,12,1,0,0,12,0,1,0,0
+7,Salvi,7.0,es  ESP,RM,29-328,61,15,14,1,1,0,4,1,6,0,0,0,0,8,3,4,6,9,0,0,0,6,0,1,0,1
+8,Iván Alejo,14.0,es  ESP,"WB,RM",26-011,29,3,2,1,0,0,0,0,0,0,0,0,0,0,2,1,0,2,0,1,0,1,0,0,1,1
+9,Jon Ander Garrido,5.0,es  ESP,DM,31-135,57,6,5,1,1,0,2,0,0,0,0,0,0,1,3,2,1,2,1,0,0,4,0,0,1,0
+10,José Mari,6.0,es  ESP,"DM,CM",33-077,33,7,7,0,0,0,1,0,0,0,0,0,0,4,2,1,0,5,0,0,1,7,0,0,0,0
+11,Alfonso Espino,22.0,uy  URU,"LB,WB",29-047,90,34,25,9,1,0,4,1,2,0,0,0,0,10,8,16,19,5,0,8,0,19,0,2,1,2
+12,Marcos Mauro López Gutiérrez,4.0,ar  ARG,CB,30-043,90,12,11,1,1,0,1,1,0,0,0,0,0,6,1,5,1,8,3,0,0,9,0,1,0,0
+13,Fali,3.0,es  ESP,CB,27-193,90,12,8,4,4,0,0,0,0,0,0,0,0,4,2,6,3,7,2,0,0,7,0,1,0,0
+14,Isaac Carcelen,20.0,es  ESP,"RB,CB",27-304,90,18,12,6,0,0,2,0,0,0,0,0,0,7,6,5,2,10,0,6,0,12,0,2,0,2
+15,Jeremías Ledesma,1.0,ar  ARG,GK,28-008,90,33,7,26,11,0,0,2,0,0,0,0,0,0,0,33,1,28,0,0,0,10,0,4,0,0
+16,16 Players,,,,,990,221,169,52,20,0,39,7,9,0,0,0,0,90,48,83,60,124,12,15,1,128,0,13,10,11

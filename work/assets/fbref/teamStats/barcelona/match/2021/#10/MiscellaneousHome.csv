@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,CrdY_Performance,CrdR_Performance,2CrdY_Performance,Fls_Performance,Fld_Performance,Off_Performance,Crs_Performance,Int_Performance,TklW_Performance,PKwon_Performance,PKcon_Performance,OG_Performance,Recov_Performance,Won_Aerial Duels,Lost_Aerial Duels,Won%_Aerial Duels
+0,Álvaro Giménez,21.0,es  ESP,FW,29-200,61,0,0,0,1,1,0,1,1,0,0,0,0,2,5,5,50.0
+1,Álvaro Negredo,18.0,es  ESP,FW,35-107,29,0,0,0,0,0,0,0,1,0,0,0,0,2,1,5,16.7
+2,Alberto Perea,10.0,es  ESP,LM,29-352,79,0,0,0,1,2,0,1,1,1,0,0,0,3,0,0,
+3,Bobby Adekanye,32.0,nl  NED,LM,21-295,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+4,Álex Fernández,8.0,es  ESP,CM,28-051,90,0,0,0,0,0,0,1,1,0,0,0,0,13,1,1,50.0
+5,Yann Bodiger,12.0,fr  FRA,CM,25-300,90,0,0,0,0,2,0,0,4,1,0,0,0,6,1,3,25.0
+6,Jairo Izquierdo,25.0,es  ESP,RM,27-044,80,0,0,0,1,1,1,2,2,0,0,0,0,7,1,0,100.0
+7,Iván Alejo,14.0,es  ESP,RM,25-299,10,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,
+8,Jens Jønsson,2.0,dk  DEN,DM,27-330,79,0,0,0,4,0,0,0,4,1,0,0,0,5,0,0,
+9,Augusto Fernández,17.0,ar  ARG,DM,34-239,11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
+10,Alfonso Espino,22.0,uy  URU,LB,28-335,90,0,0,0,0,0,0,0,5,3,0,0,0,4,0,0,
+11,Marcos Mauro López Gutiérrez,4.0,ar  ARG,CB,29-331,30,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,
+12,Pedro Alcalá,19.0,es  ESP,CB,31-261,60,0,0,0,1,0,0,0,0,0,0,0,1,0,1,3,25.0
+13,Fali,3.0,es  ESP,CB,27-115,90,0,0,0,1,0,0,0,0,0,0,0,0,3,2,0,100.0
+14,Isaac Carcelen,20.0,es  ESP,RB,27-226,90,0,0,0,0,1,0,1,0,1,0,0,0,6,2,1,66.7
+15,Jeremías Ledesma,1.0,ar  ARG,GK,27-296,90,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,
+16,16 Players,,,,,990,0,0,0,10,8,1,6,20,8,0,0,1,59,14,18,43.8

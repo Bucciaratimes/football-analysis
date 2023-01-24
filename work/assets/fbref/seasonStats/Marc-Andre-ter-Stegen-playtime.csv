@@ -1,0 +1,19 @@
+,Season,Age,Squad,Country,Comp,LgRank,90s,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,2010-2011,18,M'Gladbach,de  GER,1.  Bundesliga,16th,6.0,,,,,,,,,,,,,,,,,,,,,,,
+1,2011-2012,19,M'Gladbach,de  GER,1.  Bundesliga,4th,34.0,,,,,,,,,,,,,,,,,,,,,,,
+2,2012-2013,20,M'Gladbach,de  GER,1.  Bundesliga,8th,33.8,,,,,,,,,,,,,,,,,,,,,,,
+3,2013-2014,21,M'Gladbach,de  GER,1.  Bundesliga,6th,34.0,,,,,,,,,,,,,,,,,,,,,,,
+4,2015-2016,23,Barcelona,es  ESP,1.  La Liga,1st,6.0,,,,,,,,,,,,,,,,,,,,,,,
+5,2016-2017,24,Barcelona,es  ESP,1.  La Liga,2nd,36.0,,0,,,,,,,,,,,,,,,,,,2,,,
+6,2017-2018,25,Barcelona,es  ESP,1.  La Liga,1st,37.0,0,0,0,0,0,0,3,0.0,3,0,0,,0,0,0,0,0,0,0,0,0,0,1
+7,2018-2019,26,Barcelona,es  ESP,1.  La Liga,1st,35.0,0,0,0,0,0,0,3,0.0,3,3,1,33.3,3,0,0,1,0,0,1,0,0,1,1
+8,2019-2020,27,Barcelona,es  ESP,1.  La Liga,2nd,36.0,1,0,1,0,0,1,2,50.0,1,5,2,40.0,5,0,0,0,0,0,0,0,1,3,2
+9,2020-2021,28,Barcelona,es  ESP,1.  La Liga,3rd,31.0,0,0,0,0,0,0,2,0.0,2,1,0,0.0,1,0,0,0,0,0,0,0,0,3,1
+10,2021-2022,29,Barcelona,es  ESP,1.  La Liga,7th,12.0,0,0,0,0,0,0,1,0.0,1,1,0,0.0,1,0,0,0,0,0,0,0,0,0,1
+11,12 Seasons,12 Seasons,2 Clubs,,2 Leagues,,300.9,1,0,1,0,0,1,11,9.1,10,10,3,30.0,10,0,0,1,0,0,1,2,1,7,6
+12,,,,Country,Comp,LgRank,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Past,Press,Succ,%,Def 3rd,Mid 3rd,Att 3rd,Blocks,Sh,ShSv,Pass,Int,Tkl+Int,Clr,Err
+13,Barcelona (8 Seasons),Barcelona (8 Seasons),Barcelona (8 Seasons),,1 League,,193.0,1,0,1,0,0,1,11,9.1,10,10,3,30.0,10,0,0,1,0,0,1,2,1,7,6
+14,M'Gladbach (4 Seasons),M'Gladbach (4 Seasons),M'Gladbach (4 Seasons),,1 League,,107.8,,,,,,,,,,,,,,,,,,,,,0,,
+15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,La Liga (8 Seasons),La Liga (8 Seasons),La Liga (8 Seasons),,,,193.0,1,0,1,0,0,1,11,9.1,10,10,3,30.0,10,0,0,1,0,0,1,2,1,7,6
+17,Bundesliga (4 Seasons),Bundesliga (4 Seasons),Bundesliga (4 Seasons),,,,107.8,,,,,,,,,,,,,,,,,,,,,0,,

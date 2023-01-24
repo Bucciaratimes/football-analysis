@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,Att,Live_Pass Types,Dead_Pass Types,FK_Pass Types,TB_Pass Types,Press_Pass Types,Sw_Pass Types,Crs_Pass Types,CK_Pass Types,In_Corner Kicks,Out_Corner Kicks,Str_Corner Kicks,Ground_Height,Low_Height,High_Height,Left_Body Parts,Right_Body Parts,Head_Body Parts,TI_Body Parts,Other_Body Parts,Cmp_Outcomes,Off_Outcomes,Out_Outcomes,Int_Outcomes,Blocks_Outcomes
+0,Lionel Messi,10.0,ar  ARG,"FW,LW,AM",33-242,90,97,88,9,3,0,8,0,3,4,1,1,0,86,5,6,86,10,0,1,0,80,1,0,5,2
+1,Antoine Griezmann,7.0,fr  FRA,"LW,RW",29-337,64,26,25,1,0,0,1,0,1,0,0,0,0,21,3,2,22,1,0,1,1,20,1,0,0,0
+2,Martin Braithwaite,9.0,dk  DEN,FW,29-261,26,6,5,1,0,0,2,0,0,0,0,0,0,5,1,0,1,5,0,0,0,6,0,0,0,0
+3,Ousmane Dembélé,11.0,fr  FRA,"RW,LW",23-282,79,87,82,5,0,0,1,3,3,2,1,0,0,78,5,4,47,37,0,3,0,79,0,2,2,1
+4,Riqui Puig,12.0,es  ESP,"CM,LW",21-192,11,22,22,0,0,0,0,0,0,0,0,0,0,19,0,3,0,20,2,0,0,19,1,0,1,0
+5,Pedri,16.0,es  ESP,CM,18-088,73,68,65,3,0,0,8,1,1,2,0,0,0,61,3,4,12,55,0,1,0,60,1,0,3,2
+6,Francisco Trincão,17.0,pt  POR,"RW,CM",21-054,17,7,7,0,0,0,2,0,0,0,0,0,0,7,0,0,7,0,0,0,0,7,0,0,0,0
+7,Frenkie de Jong,21.0,nl  NED,"CM,DM",23-285,90,81,80,1,1,0,6,0,1,0,0,0,0,70,3,8,8,66,5,0,0,75,1,0,1,0
+8,Sergio Busquets,5.0,es  ESP,DM,32-220,64,108,107,1,1,0,4,1,0,0,0,0,0,92,5,11,12,90,5,0,0,99,0,1,3,0
+9,Miralem Pjanić,8.0,ba  BIH,"DM,CM",30-325,26,41,40,1,1,0,2,0,0,0,0,0,0,39,0,2,1,40,0,0,0,38,0,0,1,1
+10,Jordi Alba,18.0,es  ESP,LB,31-337,90,92,80,12,1,0,4,2,3,0,0,0,0,69,14,9,70,10,1,11,0,80,0,1,3,2
+11,Clément Lenglet,15.0,fr  FRA,CB,25-249,90,102,97,5,2,0,5,1,0,0,0,0,0,86,5,11,75,17,3,3,0,94,0,1,1,0
+12,Gerard Piqué,3.0,es  ESP,CB,34-019,90,94,93,1,1,0,6,1,0,0,0,0,0,79,6,9,10,79,1,0,0,86,1,1,2,1
+13,Sergiño Dest,2.0,us  USA,RB,20-110,79,85,76,9,0,0,4,0,3,0,0,0,0,70,8,7,3,71,1,9,0,77,0,1,3,2
+14,Óscar Mingueza,28.0,es  ESP,RB,21-284,11,14,14,0,0,0,2,0,2,0,0,0,0,9,1,4,2,10,2,0,0,11,1,0,0,0
+15,Marc-André ter Stegen,1.0,de  GER,GK,28-297,90,26,20,6,1,0,0,0,0,0,0,0,0,23,2,1,7,13,0,0,6,26,0,0,0,0
+16,16 Players,,,,,990,956,901,55,11,0,55,9,17,8,2,1,0,814,61,81,363,524,20,29,7,857,7,7,25,11

@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,Lionel Messi,10.0,ar  ARG,FW,33-199,64,2,1,0,1,1,0,0,,0,4,1,25.0,0,1,3,1,0,0,1,0,2,0,0
+1,Martin Braithwaite,9.0,dk  DEN,FW,29-218,26,0,0,0,0,0,0,0,,0,1,0,0.0,0,0,1,1,0,0,1,0,0,0,0
+2,Antoine Griezmann,7.0,fr  FRA,LW,29-294,90,1,0,1,0,0,0,1,0.0,1,9,0,0.0,3,4,2,3,1,0,2,1,2,1,0
+3,Ousmane Dembélé,11.0,fr  FRA,RW,23-239,72,2,1,0,2,0,0,0,,0,11,5,45.5,3,5,3,0,0,0,0,0,2,0,0
+4,Riqui Puig,12.0,es  ESP,"CM,RW",21-149,18,0,0,0,0,0,0,0,,0,3,0,0.0,1,1,1,0,0,0,0,0,0,0,0
+5,Pedri,16.0,es  ESP,CM,18-045,72,1,1,0,1,0,0,1,0.0,1,13,6,46.2,2,9,2,3,0,0,3,0,1,0,0
+6,Francisco Trincão,17.0,pt  POR,"RW,CM",21-011,18,0,0,0,0,0,0,0,,0,2,2,100.0,1,0,1,0,0,0,0,0,0,0,0
+7,Frenkie de Jong,21.0,nl  NED,CM,23-242,64,1,1,0,1,0,0,0,,0,4,2,50.0,1,3,0,0,0,0,0,0,1,1,0
+8,Miralem Pjanić,8.0,ba  BIH,CM,30-282,26,1,0,1,0,0,0,0,,0,3,0,0.0,1,1,1,0,0,0,0,0,1,0,0
+9,Sergio Busquets,5.0,es  ESP,DM,32-177,90,1,0,1,0,0,0,3,0.0,3,11,2,18.2,6,4,1,4,0,0,4,1,2,4,0
+10,Jordi Alba,18.0,es  ESP,LB,31-294,90,3,1,1,2,0,3,5,60.0,2,7,1,14.3,6,1,0,1,0,0,1,0,3,3,0
+11,Samuel Umtiti,23.0,fr  FRA,CB,27-056,90,2,1,1,1,0,1,1,100.0,0,6,2,33.3,6,0,0,3,2,0,1,5,7,1,0
+12,Óscar Mingueza,28.0,es  ESP,CB,21-241,90,0,0,0,0,0,0,0,,0,7,1,14.3,4,3,0,1,0,0,1,1,1,3,0
+13,Sergiño Dest,2.0,us  USA,RB,20-067,80,2,2,1,0,1,0,0,,0,8,4,50.0,2,2,4,0,0,0,0,1,3,1,0
+14,Junior Firpo,24.0,es  ESP,RB,24-140,10,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+15,Marc-André ter Stegen,1.0,de  GER,GK,28-254,90,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+16,16 Players,,,,,990,16,8,6,8,2,4,11,36.4,7,89,26,29.2,36,34,19,17,3,0,14,9,25,14,0

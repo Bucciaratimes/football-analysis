@@ -1,0 +1,17 @@
+,Player,#,Nation,Pos,Age,Min,Touches_Touches,Def Pen_Touches,Def 3rd_Touches,Mid 3rd_Touches,Att 3rd_Touches,Att Pen_Touches,Live_Touches,Succ_Dribbles,Att_Dribbles,Succ%_Dribbles,#Pl_Dribbles,Megs_Dribbles,Carries_Carries,TotDist_Carries,PrgDist_Carries,Prog_Carries,1/3_Carries,CPA_Carries,Mis_Carries,Dis_Carries,Targ_Receiving,Rec_Receiving,Rec%_Receiving,Prog_Receiving
+0,Roberto Soldado,9.0,es  ESP,FW,35-337,60,20,0,1,12,8,2,18,1,1,100.0,1,0,13,40,18,1,0,1,3,1,26,14,53.8,5
+1,Jorge Molina,23.0,es  ESP,FW,39-007,30,9,0,1,5,4,2,9,1,2,50.0,1,0,6,13,1,0,0,0,1,0,15,8,53.3,0
+2,Darwin Machís,11.0,ve  VEN,LW,28-081,75,28,1,7,8,17,1,26,2,2,100.0,2,0,19,117,51,3,1,1,4,0,27,15,55.6,3
+3,Adrián Marín,18.0,es  ESP,LW,24-110,15,5,2,2,1,2,0,5,0,0,,0,0,3,31,31,0,0,0,1,0,3,2,66.7,0
+4,Luis Javier Suárez,7.0,co  COL,RW,23-148,85,19,2,7,8,5,0,19,1,1,100.0,1,0,14,98,48,3,0,0,3,0,31,14,45.2,3
+5,Fede Vico,14.0,es  ESP,RW,26-299,5,2,0,0,2,1,0,2,0,0,,0,0,1,0,0,0,0,0,0,1,1,0,0.0,0
+6,Yan Brice Eteki,8.0,cm  CMR,CM,23-246,60,18,1,6,11,1,0,18,0,0,,0,0,12,17,9,0,0,0,1,2,10,10,100.0,1
+7,Maxime Gonalons,4.0,fr  FRA,CM,32-050,30,5,0,1,3,1,0,5,0,0,,0,0,3,23,0,0,0,0,0,0,4,2,50.0,0
+8,Yangel Herrera,21.0,ve  VEN,CM,23-112,90,31,1,12,13,8,1,31,0,0,,0,0,13,41,25,2,1,0,2,0,24,18,75.0,0
+9,Quini,17.0,es  ESP,WB,31-217,90,33,8,15,16,4,1,31,0,0,,0,0,16,108,48,1,1,1,1,1,11,9,81.8,1
+10,Dimitri Foulquier,2.0,fr  FRA,WB,28-037,90,34,6,12,15,8,0,28,4,4,100.0,4,0,19,55,46,0,0,0,1,2,15,12,80.0,1
+11,Nehuén Pérez,3.0,ar  ARG,CB,20-309,90,20,2,13,8,0,0,19,0,0,,0,0,6,45,16,0,0,0,0,0,5,5,100.0,0
+12,Germán Sánchez,6.0,es  ESP,CB,34-180,90,29,8,21,8,1,0,27,1,1,100.0,1,0,11,40,16,0,0,0,0,0,11,11,100.0,1
+13,Víctor Díaz,16.0,es  ESP,CB,32-321,90,38,14,24,14,1,0,35,0,0,,0,0,15,66,27,0,0,0,0,1,11,11,100.0,0
+14,Aarón Escandell,13.0,es  ESP,GK,25-214,90,30,28,30,0,0,0,17,0,0,,0,0,13,78,56,0,0,0,0,0,7,7,100.0,0
+15,15 Players,,,,,990,321,73,152,124,61,7,290,10,11,90.9,10,0,164,772,392,10,3,3,17,8,201,138,68.7,15

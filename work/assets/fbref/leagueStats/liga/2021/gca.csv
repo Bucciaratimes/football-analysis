@@ -1,0 +1,553 @@
+,Player,Nation,Pos,Squad,Age,Born,90s,SCA_SCA,SCA90_SCA,PassLive_SCA Types,PassDead_SCA Types,Drib_SCA Types,Sh_SCA Types,Fld_SCA Types,Def_SCA Types,GCA_GCA,GCA90_GCA,PassLive_GCA Types,PassDead_GCA Types,Drib_GCA Types,Sh_GCA Types,Fld_GCA Types,Def_GCA Types
+0,Sabit Abdulai,gh  GHA,MF,Getafe,21,1999,0.7,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+1,Marcos Acuña,ar  ARG,DF,Sevilla,28,1991,25.9,58,2.24,39,11,5,2,0,1,4,0.15,2,1,0,1,0,0
+2,Bobby Adekanye,nl  NED,"FW,MF",Cádiz,21,1999,0.4,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+3,Martin Agirregabiria,es  ESP,"DF,MF",Alavés,24,1996,17.3,23,1.33,14,7,0,0,1,1,3,0.17,2,1,0,0,0,0
+4,Joseph Aidoo,gh  GHA,DF,Celta Vigo,24,1995,14.3,10,0.70,7,0,1,2,0,0,2,0.14,2,0,0,0,0,0
+5,Carlos Akapo,gq  EQG,DF,Cádiz,27,1993,9.6,5,0.52,4,0,1,0,0,0,0,0.00,0,0,0,0,0,0
+6,Paul Akouokou,ci  CIV,MF,Betis,22,1997,4.2,5,1.19,4,0,0,0,0,1,0,0.00,0,0,0,0,0,0
+7,Jony Álamo,es  ESP,MF,Elche,18,2001,0.8,1,1.23,1,0,0,0,0,0,1,1.23,1,0,0,0,0,0
+8,Jordi Alba,es  ESP,DF,Barcelona,31,1989,33.6,86,2.56,83,1,1,0,0,1,9,0.27,9,0,0,0,0,0
+9,Raúl Albiol,es  ESP,DF,Villarreal,34,1985,34.6,14,0.40,14,0,0,0,0,0,2,0.06,2,0,0,0,0,0
+10,Paco Alcácer,es  ESP,FW,Villarreal,26,1993,17.2,28,1.63,21,1,2,3,1,0,9,0.52,6,0,1,2,0,0
+11,Pedro Alcalá,es  ESP,DF,Cádiz,31,1989,10.1,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+12,Rubén Alcaraz,es  ESP,MF,Valladolid,29,1991,24.1,22,0.91,20,0,0,2,0,0,2,0.08,2,0,0,0,0,0
+13,Iván Alejo,es  ESP,"MF,FW",Cádiz,25,1995,9.2,20,2.18,16,1,1,1,1,0,2,0.22,1,0,0,1,0,0
+14,Alfon,es  ESP,MF,Celta Vigo,21,1999,0.4,1,2.65,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+15,Sergio Álvarez,es  ESP,"MF,DF",Eibar,28,1992,17.4,13,0.75,11,0,0,0,1,1,1,0.06,1,0,0,0,0,0
+16,Yeray Álvarez,es  ESP,DF,Athletic Club,25,1995,21.6,12,0.55,11,0,0,1,0,0,0,0.00,0,0,0,0,0,0
+17,Emmanuel Amankwaa Akurugu,gh  GHA,DF,Getafe,18,2001,0.5,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+18,Jon Ander Garrido,es  ESP,MF,Cádiz,30,1989,8.9,10,1.13,7,1,0,0,1,1,2,0.23,1,0,0,0,1,0
+19,Ángel,es  ESP,GK,Granada,18,2002,1.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+20,Miguel Ángel Rubio,es  ESP,DF,Valladolid,22,1998,1.5,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+21,José Ángel,es  ESP,DF,Eibar,30,1989,10.0,15,1.50,11,3,1,0,0,0,0,0.00,0,0,0,0,0,0
+22,José Antonio Miranda,gq  EQG,"MF,DF",Getafe,22,1998,0.3,1,3.46,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+23,Aritz Arambarri,es  ESP,DF,Real Sociedad,22,1998,0.3,1,3.46,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+24,Mauro Arambarri,uy  URU,MF,Getafe,24,1995,33.1,54,1.63,28,12,3,3,6,2,2,0.06,1,0,0,1,0,0
+25,Néstor Araujo,mx  MEX,DF,Celta Vigo,28,1991,27.0,8,0.30,8,0,0,0,0,0,1,0.04,1,0,0,0,0,0
+26,Ronald Araújo,uy  URU,DF,Barcelona,21,1999,16.8,9,0.54,5,0,1,1,1,1,1,0.06,0,0,0,1,0,0
+27,Anaitz Arbilla,es  ESP,DF,Eibar,33,1987,31.2,30,0.96,17,4,4,2,0,3,3,0.10,1,0,1,1,0,0
+28,Unai Arietaleanizbeaskoa,es  ESP,"FW,MF",Eibar,21,1999,0.5,1,1.91,0,0,0,1,0,0,0,0.00,0,0,0,0,0,0
+29,Sergio Arribas,es  ESP,"FW,DF",Real Madrid,18,2001,1.5,4,2.67,4,0,0,0,0,0,2,1.33,2,0,0,0,0,0
+30,Sergio Asenjo,es  ESP,GK,Villarreal,31,1989,36.0,3,0.08,2,1,0,0,0,0,1,0.03,1,0,0,0,0,0
+31,Marco Asensio,es  ESP,"FW,MF",Real Madrid,24,1996,20.8,71,3.42,46,10,6,4,3,2,8,0.39,5,1,1,1,0,0
+32,Iago Aspas,es  ESP,FW,Celta Vigo,32,1987,31.8,115,3.61,91,3,12,6,3,0,26,0.82,19,1,4,1,1,0
+33,Miguel Atienza,es  ESP,MF,Eibar,21,1999,9.3,7,0.75,5,0,0,1,0,1,0,0.00,0,0,0,0,0,0
+34,Ezequiel Ávila,ar  ARG,"MF,FW",Osasuna,26,1994,2.2,3,1.34,2,0,0,1,0,0,0,0.00,0,0,0,0,0,0
+35,Ramon Azeez,ng  NGA,"MF,DF",Granada,27,1992,1.1,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+36,Carlos Bacca,co  COL,FW,Villarreal,33,1986,8.7,13,1.49,9,0,3,1,0,0,2,0.23,1,0,1,0,0,0
+37,Édgar Badía,es  ESP,GK,Elche,28,1992,30.0,2,0.07,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+38,Alex Baena,es  ESP,MF,Villarreal,19,2001,1.5,3,1.97,3,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+39,Miguel Baeza,es  ESP,"MF,FW",Celta Vigo,20,2000,6.0,14,2.32,8,2,0,2,1,1,0,0.00,0,0,0,0,0,0
+40,Mikel Balenziaga,es  ESP,DF,Athletic Club,32,1988,18.8,13,0.69,10,1,0,0,1,1,2,0.11,2,0,0,0,0,0
+41,Barcia,es  ESP,DF,Granada,19,2000,1.0,1,1.00,0,0,0,0,1,0,0,0.00,0,0,0,0,0,0
+42,Enis Bardhi,mk  MKD,MF,Levante,25,1995,18.7,51,2.73,37,7,5,1,1,0,6,0.32,5,1,0,0,0,0
+43,Kike Barja,es  ESP,"MF,FW",Osasuna,23,1997,15.9,34,2.14,25,1,4,3,1,0,4,0.25,3,0,0,0,1,0
+44,Marc Baró,es  ESP,DF,Cádiz,20,1999,1.0,3,3.00,0,2,1,0,0,0,0,0.00,0,0,0,0,0,0
+45,Antonio Barragán,es  ESP,DF,Elche,33,1987,24.8,22,0.89,15,2,2,1,2,0,7,0.28,3,1,2,0,1,0
+46,Ander Barrenetxea,es  ESP,"MF,FW",Real Sociedad,18,2001,14.5,31,2.13,25,0,2,2,1,1,4,0.28,4,0,0,0,0,0
+47,Marc Bartra,es  ESP,DF,Betis,29,1991,18.8,7,0.37,6,0,0,0,0,1,1,0.05,1,0,0,0,0,0
+48,Álvaro Bastida,es  ESP,MF,Cádiz,16,2004,0.4,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+49,Rodrigo Battaglia,ar  ARG,MF,Alavés,29,1991,27.7,18,0.65,10,0,0,4,2,2,1,0.04,1,0,0,0,0,0
+50,Jon Bautista,es  ESP,"FW,MF",Real Sociedad,25,1995,4.1,9,2.19,7,0,0,2,0,0,1,0.24,1,0,0,0,0,0
+51,Fran Beltrán,es  ESP,MF,Celta Vigo,21,1999,15.5,23,1.48,19,1,2,1,0,0,1,0.06,1,0,0,0,0,0
+52,Sergio Benito,es  ESP,FW,Valladolid,21,1999,0.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+53,Karim Benzema,fr  FRA,FW,Real Madrid,32,1987,32.2,100,3.11,77,0,10,10,2,1,18,0.56,15,0,2,1,0,0
+54,Yuri Berchiche,es  ESP,DF,Athletic Club,30,1990,18.7,42,2.25,35,1,2,0,3,1,6,0.32,5,0,0,0,1,0
+55,Álex Berenguer,es  ESP,"MF,FW",Athletic Club,25,1995,25.3,80,3.16,53,14,5,1,5,2,13,0.51,8,1,1,0,1,2
+56,Pedro Bigas,es  ESP,DF,Eibar,29,1990,17.0,8,0.47,5,1,1,0,0,1,1,0.06,1,0,0,0,0,0
+57,Blanco,es  ESP,"MF,DF",Real Madrid,20,2000,2.4,5,2.05,5,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+58,Alejandro Blanco,es  ESP,MF,Valencia,21,1998,6.4,11,1.71,10,0,1,0,0,0,0,0.00,0,0,0,0,0,0
+59,Rubén Blanco,es  ESP,GK,Celta Vigo,25,1995,18.2,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+60,Alejandro Blesa,es  ESP,MF,Levante,18,2002,0.1,1,8.18,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+61,Yann Bodiger,fr  FRA,MF,Cádiz,25,1995,2.8,6,2.15,2,0,0,0,2,2,0,0.00,0,0,0,0,0,0
+62,Yassine Bounou,ma  MAR,GK,Sevilla,29,1991,33.0,4,0.12,4,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+63,Lucas Boyé,ar  ARG,FW,Elche,24,1996,29.9,39,1.30,24,0,5,2,6,2,4,0.13,3,0,1,0,0,0
+64,Martin Braithwaite,dk  DEN,FW,Barcelona,29,1991,13.1,23,1.76,17,0,1,1,3,1,4,0.31,2,0,0,1,0,1
+65,Darko Brašanac,rs  SRB,MF,Osasuna,28,1992,10.1,17,1.68,15,0,0,1,1,0,1,0.10,1,0,0,0,0,0
+66,Álvaro Bravo,es  ESP,MF,Granada,22,1998,0.2,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+67,Claudio Bravo,cl  CHI,GK,Betis,37,1983,20.0,5,0.25,4,1,0,0,0,0,0,0.00,0,0,0,0,0,0
+68,Yan Brice Eteki,cm  CMR,MF,Granada,22,1997,14.7,4,0.27,2,0,0,0,2,0,0,0.00,0,0,0,0,0,0
+69,Juan Brunet,ar  ARG,MF,Granada,22,1998,0.3,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+70,Ante Budimir,hr  CRO,FW,Osasuna,29,1991,18.1,24,1.33,15,0,2,4,2,1,1,0.06,0,0,0,1,0,0
+71,Esteban Burgos,ar  ARG,DF,Eibar,28,1992,12.3,7,0.57,6,0,0,1,0,0,1,0.08,0,0,0,1,0,0
+72,Burgui,es  ESP,MF,Alavés,26,1993,0.2,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+73,Sergio Busquets,es  ESP,MF,Barcelona,32,1988,28.0,68,2.43,61,2,0,0,3,2,10,0.36,10,0,0,0,0,0
+74,Erick Cabaco,uy  URU,DF,Getafe,25,1995,14.7,6,0.41,4,0,0,0,2,0,0,0.00,0,0,0,0,0,0
+75,Cala,es  ESP,DF,Cádiz,30,1989,25.2,10,0.40,5,0,1,1,2,1,1,0.04,0,0,0,0,1,0
+76,Jonathan Calleri,ar  ARG,FW,Osasuna,26,1993,17.2,24,1.40,17,0,2,3,1,1,6,0.35,4,0,1,1,0,0
+77,Dani Calvo,es  ESP,DF,Elche,26,1994,19.8,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+78,José Campaña,es  ESP,MF,Levante,27,1993,8.3,22,2.65,13,7,1,1,0,0,2,0.24,1,0,1,0,0,0
+79,Sergio Canales,es  ESP,"MF,FW",Betis,29,1991,27.8,107,3.86,80,16,4,5,2,0,13,0.47,9,2,1,1,0,0
+80,Álex Cantero,es  ESP,FW,Levante,20,2000,2.6,,,,,,,,,,,,,,,,
+81,Ander Capa,es  ESP,DF,Athletic Club,28,1992,23.7,36,1.52,30,2,1,2,0,1,3,0.13,2,0,0,1,0,0
+82,Étienne Capoue,fr  FRA,MF,Villarreal,32,1988,13.2,9,0.68,6,0,1,0,1,1,0,0.00,0,0,0,0,0,0
+83,Isaac Carcelen,es  ESP,DF,Cádiz,27,1993,28.7,32,1.12,22,8,0,1,1,0,3,0.10,3,0,0,0,0,0
+84,Cárdenas,es  ESP,GK,Levante,23,1997,8.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+85,Marc Cardona,es  ESP,"FW,MF",Osasuna,25,1995,0.6,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+86,Diego Carlos,br  BRA,DF,Sevilla,27,1993,31.0,15,0.48,12,0,0,3,0,0,1,0.03,0,0,0,1,0,0
+87,Juan Carlos,es  ESP,"MF,FW",Huesca,29,1991,3.2,10,3.09,8,0,0,0,1,1,1,0.31,1,0,0,0,0,0
+88,Yannick Carrasco,be  BEL,"DF,MF",Atlético Madrid,26,1993,24.2,88,3.63,53,14,14,4,3,0,17,0.70,10,4,3,0,0,0
+89,Sergio Carreira,es  ESP,DF,Celta Vigo,19,2000,2.9,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+90,Guido Carrillo,ar  ARG,FW,Elche,29,1991,11.1,17,1.53,16,0,1,0,0,0,3,0.27,3,0,0,0,0,0
+91,Dani Carvajal,es  ESP,DF,Real Madrid,28,1992,10.6,18,1.71,14,0,1,2,0,1,5,0.47,4,0,0,1,0,0
+92,William Carvalho,pt  POR,MF,Betis,28,1992,13.6,20,1.47,16,0,1,2,1,0,2,0.15,1,0,0,1,0,0
+93,Casemiro,br  BRA,MF,Real Madrid,28,1992,32.2,53,1.64,44,1,0,2,3,3,8,0.25,7,0,0,1,0,0
+94,Chema,es  ESP,"DF,MF",Getafe,28,1992,6.2,1,0.16,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+95,Denis Cheryshev,ru  RUS,MF,Valencia,29,1990,12.2,26,2.13,19,1,2,0,2,2,4,0.33,4,0,0,0,0,0
+96,Samuel Chukwueze,ng  NGA,"MF,FW",Villarreal,21,1999,15.2,57,3.76,38,1,8,0,10,0,5,0.33,3,0,1,0,1,0
+97,Víctor Chust,es  ESP,DF,Real Madrid,20,2000,1.1,1,0.95,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+98,Cifu,es  ESP,DF,Elche,29,1990,5.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+99,Alberto Cifuentes,es  ESP,GK,Cádiz,41,1979,2.0,1,0.50,0,1,0,0,0,0,0,0.00,0,0,0,0,0,0
+100,Jasper Cillessen,nl  NED,GK,Valencia,31,1989,10.0,2,0.20,1,1,0,0,0,0,0,0.00,0,0,0,0,0,0
+101,Carlos Clerc,es  ESP,DF,Levante,28,1992,30.9,42,1.36,33,6,0,1,2,0,5,0.16,4,1,0,0,0,0
+102,Coke,es  ESP,DF,Levante,33,1987,9.3,9,0.97,7,0,1,1,0,0,0,0.00,0,0,0,0,0,0
+103,Francis Coquelin,fr  FRA,MF,Villarreal,29,1991,8.2,9,1.10,8,0,0,0,1,0,0,0.00,0,0,0,0,0,0
+104,Ángel Correa,ar  ARG,"FW,MF",Atlético Madrid,25,1995,26.6,80,3.01,56,2,12,5,3,2,16,0.60,11,0,4,0,1,0
+105,Rober Correa,es  ESP,DF,Eibar,27,1992,12.6,17,1.35,12,2,0,0,2,1,2,0.16,1,0,0,0,1,0
+106,Thierry Correia,pt  POR,DF,Valencia,21,1999,23.7,31,1.31,24,0,1,1,2,3,2,0.08,1,0,1,0,0,0
+107,Diego Costa,es  ESP,FW,Atlético Madrid,31,1988,2.3,9,3.89,7,0,0,1,1,0,3,1.30,2,0,0,0,1,0
+108,Jaume Costa,es  ESP,"DF,MF",Villarreal,32,1988,3.9,7,1.79,6,0,0,0,1,0,1,0.26,1,0,0,0,0,0
+109,Thibaut Courtois,be  BEL,GK,Real Madrid,28,1992,38.0,4,0.11,4,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+110,Philippe Coutinho,br  BRA,"MF,FW",Barcelona,28,1992,7.3,24,3.30,18,1,1,1,3,0,4,0.55,4,0,0,0,0,0
+111,Juan Cruz Armada,es  ESP,DF,Osasuna,28,1992,21.8,18,0.83,16,2,0,0,0,0,1,0.05,1,0,0,0,0,0
+112,Sergio Cubero Ezcurra,es  ESP,MF,Eibar,20,1999,0.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+113,Cucho,co  COL,"FW,MF",Getafe,21,1999,16.3,35,2.15,29,0,2,1,3,0,5,0.31,5,0,0,0,0,0
+114,Marc Cucurella,es  ESP,MF,Getafe,22,1998,36.0,80,2.22,63,4,2,0,9,2,5,0.14,3,0,1,0,0,1
+115,Patrick Cutrone,it  ITA,FW,Valencia,22,1998,1.2,2,1.67,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+116,Moussa Dembélé,fr  FRA,"FW,MF",Atlético Madrid,24,1996,1.1,2,1.80,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+117,Ousmane Dembélé,fr  FRA,"FW,DF",Barcelona,23,1997,19.7,82,4.16,55,9,10,6,2,0,9,0.46,6,0,1,2,0,0
+118,Sergiño Dest,us  USA,DF,Barcelona,19,2000,21.2,38,1.79,34,1,2,1,0,0,1,0.05,1,0,0,0,0,0
+119,Deyverson,br  BRA,FW,Alavés,29,1991,9.7,17,1.75,13,0,0,1,3,0,4,0.41,2,0,0,1,1,0
+120,Abdoulay Diaby,ml  MLI,MF,Getafe,29,1991,0.2,2,10.00,1,0,0,1,0,0,1,5.00,0,0,0,1,0,0
+121,Mouctar Diakhaby,fr  FRA,DF,Valencia,23,1996,23.1,5,0.22,5,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+122,Víctor Díaz,es  ESP,DF,Granada,32,1988,9.2,11,1.20,7,3,0,1,0,0,3,0.33,2,0,0,1,0,0
+123,Papakouli Diop,sn  SEN,MF,Eibar,34,1986,25.8,31,1.20,23,2,1,1,2,2,1,0.04,1,0,0,0,0,0
+124,Djené,tg  TOG,DF,Getafe,28,1991,32.7,14,0.43,10,0,1,0,2,1,4,0.12,2,0,1,0,1,0
+125,Marko Dmitrović,rs  SRB,GK,Eibar,28,1992,34.7,7,0.20,6,1,0,0,0,0,0,0.00,0,0,0,0,0,0
+126,Jaume Doménech,es  ESP,GK,Valencia,29,1990,28.0,1,0.04,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+127,Carlos Dominguez,es  ESP,DF,Celta Vigo,19,2001,4.0,1,0.25,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+128,John Donald,es  ESP,DF,Elche,19,2000,0.6,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+129,Cheick Doukouré,ci  CIV,MF,Levante,27,1992,1.1,1,0.89,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+130,Idrissa Doumbia,ci  CIV,MF,Huesca,22,1998,8.7,9,1.04,7,0,0,0,0,2,0,0.00,0,0,0,0,0,0
+131,Domingos Duarte,pt  POR,DF,Granada,25,1995,26.3,11,0.42,9,0,0,2,0,0,0,0.00,0,0,0,0,0,0
+132,Óscar Duarte,cr  CRC,DF,Levante,31,1989,22.9,10,0.44,8,1,0,1,0,0,1,0.04,1,0,0,0,0,0
+133,Rubén Duarte,es  ESP,DF,Alavés,24,1995,28.3,48,1.70,31,15,0,1,1,0,3,0.11,3,0,0,0,0,0
+134,Unai Dufur,es  ESP,DF,Eibar,21,1999,0.7,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+135,Hugo Duro,es  ESP,FW,Real Madrid,20,1999,0.6,1,1.64,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+136,Aritz Elustondo,es  ESP,DF,Real Sociedad,26,1994,20.9,15,0.72,14,0,0,1,0,0,2,0.10,1,0,0,1,0,0
+137,Rodrigo Ely,br  BRA,DF,Alavés,26,1993,5.2,3,0.58,3,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+138,Emerson,br  BRA,DF,Betis,21,1999,33.2,64,1.93,53,6,1,0,3,1,5,0.15,4,0,0,0,1,0
+139,Youssef En-Nesyri,ma  MAR,FW,Sevilla,23,1997,25.7,37,1.44,22,0,4,5,3,3,8,0.31,2,0,2,1,2,1
+140,Sergi Enrich,es  ESP,FW,Eibar,30,1990,15.6,32,2.05,21,0,0,8,1,2,3,0.19,1,0,0,2,0,0
+141,Aarón Escandell,es  ESP,GK,Granada,24,1995,5.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+142,Dani Escriche,es  ESP,"FW,MF",Huesca,22,1998,9.5,23,2.42,17,0,2,0,3,1,3,0.32,2,0,1,0,0,0
+143,Sergio Escudero,es  ESP,DF,Sevilla,30,1989,6.3,11,1.75,10,1,0,0,0,0,0,0.00,0,0,0,0,0,0
+144,Alfonso Espino,uy  URU,DF,Cádiz,28,1992,28.9,22,0.76,16,4,1,0,0,1,5,0.17,4,0,1,0,0,0
+145,Vicente Esquerdo,es  ESP,MF,Valencia,21,1999,2.6,3,1.17,2,0,0,0,0,1,0,0.00,0,0,0,0,0,0
+146,Pervis Estupiñán,ec  ECU,DF,Villarreal,22,1998,13.0,28,2.16,24,0,1,1,2,0,3,0.23,2,0,0,0,1,0
+147,Xabier Etxeita,es  ESP,DF,Getafe,32,1987,9.8,2,0.20,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+148,Edu Expósito,es  ESP,MF,Eibar,23,1996,27.3,84,3.08,48,17,7,3,6,3,5,0.18,4,0,0,1,0,0
+149,Jokin Ezkieta,es  ESP,GK,Athletic Club,23,1996,1.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+150,Fali,es  ESP,"DF,MF",Cádiz,26,1993,29.3,20,0.68,15,0,2,2,1,0,3,0.10,1,0,1,1,0,0
+151,Ansu Fati,es  ESP,FW,Barcelona,17,2002,4.8,19,3.97,12,1,1,0,5,0,2,0.42,0,0,1,0,1,0
+152,Nabil Fekir,fr  FRA,"MF,FW",Betis,27,1993,29.1,138,4.74,78,18,18,7,16,1,17,0.58,9,3,3,0,2,0
+153,Felipe,br  BRA,DF,Atlético Madrid,31,1989,22.9,8,0.35,8,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+154,João Félix,pt  POR,"FW,MF",Atlético Madrid,20,1999,17.5,46,2.63,33,0,5,4,4,0,10,0.57,7,0,1,1,1,0
+155,Aitor Fernández,es  ESP,GK,Levante,29,1991,29.0,1,0.03,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+156,Álex Fernández,es  ESP,MF,Cádiz,27,1992,21.6,40,1.85,19,20,0,0,1,0,4,0.18,3,1,0,0,0,0
+157,Álvaro Fernández,es  ESP,GK,Huesca,22,1998,22.0,3,0.14,3,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+158,Andrés Fernández,es  ESP,GK,Huesca,33,1986,16.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+159,Augusto Fernández,ar  ARG,MF,Cádiz,34,1986,4.1,1,0.24,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+160,Joaquín Fernández,es  ESP,DF,Valladolid,24,1996,23.0,12,0.52,9,0,0,2,1,0,3,0.13,1,0,0,1,1,0
+161,Fernando,br  BRA,MF,Sevilla,33,1987,28.3,36,1.27,33,1,1,0,0,1,10,0.35,9,0,1,0,0,0
+162,David Ferreiro,es  ESP,"MF,FW",Huesca,32,1988,28.1,106,3.78,61,33,5,2,5,0,11,0.39,8,2,0,1,0,0
+163,Facundo Ferreyra,ar  ARG,FW,Celta Vigo,29,1991,3.3,2,0.60,0,0,0,1,1,0,0,0.00,0,0,0,0,0,0
+164,Fidel,es  ESP,"MF,DF",Elche,30,1989,26.6,72,2.70,38,25,4,1,4,0,6,0.23,4,2,0,0,0,0
+165,Junior Firpo,es  ESP,DF,Barcelona,23,1996,3.2,8,2.49,6,0,0,0,1,1,1,0.31,1,0,0,0,0,0
+166,Kingsley Fobi,gh  GHA,DF,Granada,21,1998,0.5,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+167,Ramón Folch,es  ESP,MF,Elche,30,1989,0.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+168,José Fontán,es  ESP,DF,Celta Vigo,20,2000,7.2,4,0.55,4,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+169,Dimitri Foulquier,fr  FRA,DF,Granada,27,1993,29.6,23,0.78,18,2,0,1,2,0,5,0.17,4,0,0,1,0,0
+170,Juan Foyth,ar  ARG,"DF,MF",Villarreal,22,1998,13.0,11,0.85,10,0,0,0,1,0,1,0.08,1,0,0,0,0,0
+171,Jorge de Frutos,es  ESP,"MF,FW",Levante,23,1997,24.3,73,3.01,49,7,4,1,7,5,16,0.66,10,1,1,0,2,2
+172,Ramiro Funes Mori,ar  ARG,DF,Villarreal,29,1991,8.1,3,0.37,3,0,0,0,0,0,1,0.12,1,0,0,0,0,0
+173,Javi Galán,es  ESP,DF,Huesca,25,1994,34.1,69,2.03,51,9,3,0,6,0,7,0.21,4,3,0,0,0,0
+174,Enric Gallego,es  ESP,FW,Osasuna,33,1986,9.0,16,1.79,13,0,0,1,2,0,3,0.33,2,0,0,1,0,0
+175,Kévin Gameiro,fr  FRA,FW,Valencia,33,1987,12.0,14,1.17,10,0,0,2,2,0,2,0.17,2,0,0,0,0,0
+176,Aleix García,es  ESP,MF,Eibar,23,1997,4.9,12,2.47,7,5,0,0,0,0,1,0.21,0,1,0,0,0,0
+177,Borja García,es  ESP,"MF,FW",Huesca,29,1990,12.4,39,3.14,33,0,2,2,2,0,0,0.00,0,0,0,0,0,0
+178,Dani García,es  ESP,MF,Athletic Club,30,1990,21.3,18,0.84,15,1,0,0,0,2,1,0.05,1,0,0,0,0,0
+179,David García,es  ESP,DF,Osasuna,26,1994,35.0,8,0.23,7,0,0,0,0,1,1,0.03,0,0,0,0,0,1
+180,Manu García,es  ESP,MF,Alavés,34,1986,12.5,11,0.88,7,0,0,1,2,1,1,0.08,0,0,0,0,1,0
+181,Rubén García,es  ESP,"MF,FW",Osasuna,27,1993,30.2,79,2.62,48,22,2,0,5,2,9,0.30,6,1,0,0,1,1
+182,Sergi García,es  ESP,MF,Alavés,21,1999,0.2,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+183,Unai García,es  ESP,DF,Osasuna,28,1992,13.8,8,0.58,5,1,0,2,0,0,1,0.07,1,0,0,0,0,0
+184,Mario Gaspar,es  ESP,DF,Villarreal,29,1990,20.6,31,1.51,25,0,1,1,2,2,4,0.19,3,0,0,0,1,0
+185,Paulo Gazzaniga,ar  ARG,GK,Elche,28,1992,8.0,4,0.50,4,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+186,David Gil,es  ESP,GK,Cádiz,26,1994,4.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+187,Álvaro Giménez,es  ESP,"FW,MF",Cádiz,29,1991,4.5,3,0.66,3,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+188,Dani Gómez,es  ESP,FW,Levante,22,1998,18.5,29,1.57,21,0,3,2,3,0,6,0.32,3,0,0,2,1,0
+189,Ibai Gómez,es  ESP,MF,Athletic Club,30,1989,4.7,9,1.91,6,3,0,0,0,0,2,0.42,1,1,0,0,0,0
+190,Maxi Gómez,uy  URU,FW,Valencia,23,1996,29.9,48,1.61,28,0,2,5,12,1,11,0.37,3,0,0,3,5,0
+191,Moi Gómez,es  ESP,"MF,FW",Villarreal,26,1994,28.5,62,2.18,47,6,6,2,1,0,4,0.14,3,1,0,0,0,0
+192,Papu Gómez,ar  ARG,"MF,FW",Sevilla,32,1988,10.2,37,3.64,22,5,4,0,5,1,2,0.20,1,0,0,0,1,0
+193,Sergi Gómez,es  ESP,DF,Sevilla,28,1992,8.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+194,Sergio Gómez,es  ESP,"MF,FW",Huesca,19,2000,8.8,19,2.16,11,6,0,1,1,0,1,0.11,1,0,0,0,0,0
+195,Maxime Gonalons,fr  FRA,MF,Granada,31,1989,16.4,21,1.28,16,0,1,1,2,1,2,0.12,2,0,0,0,0,0
+196,Bruno González,es  ESP,DF,Valladolid,30,1990,25.1,4,0.16,3,0,0,0,1,0,0,0.00,0,0,0,0,0,0
+197,Diego González,es  ESP,DF,Elche,25,1995,14.2,4,0.28,3,0,0,1,0,0,0,0.00,0,0,0,0,0,0
+198,Sergio González,es  ESP,MF,Cádiz,23,1997,1.0,1,1.00,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+199,Urko González,es  ESP,MF,Real Sociedad,19,2001,0.5,1,1.91,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+200,Andoni Gorosabel,es  ESP,DF,Real Sociedad,23,1996,26.5,52,1.96,41,7,0,1,3,0,6,0.23,6,0,0,0,0,0
+201,Antoine Griezmann,fr  FRA,"FW,MF",Barcelona,29,1991,28.9,88,3.04,76,3,3,2,3,1,10,0.35,9,0,0,0,1,0
+202,Andrés Guardado,mx  MEX,MF,Betis,33,1986,14.6,23,1.57,21,0,0,0,1,1,1,0.07,1,0,0,0,0,0
+203,Sergi Guardiola,es  ESP,FW,Valladolid,29,1991,19.9,27,1.35,18,0,3,1,3,2,5,0.25,3,0,1,0,1,0
+204,Nemanja Gudelj,rs  SRB,"MF,DF",Sevilla,28,1991,11.6,7,0.61,6,0,0,0,1,0,0,0.00,0,0,0,0,0,0
+205,Gonçalo Guedes,pt  POR,"MF,FW",Valencia,23,1996,25.4,85,3.34,53,1,12,4,14,1,16,0.63,12,0,1,1,1,1
+206,Ander Guevara,es  ESP,MF,Real Sociedad,23,1997,23.1,28,1.21,26,0,1,1,0,0,3,0.13,2,0,0,1,0,0
+207,John Guidetti,se  SWE,"FW,MF",Alavés,28,1992,2.3,5,2.16,5,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+208,Hugo Guillamón,es  ESP,DF,Valencia,20,2000,22.1,5,0.23,3,0,0,1,0,1,1,0.05,1,0,0,0,0,0
+209,Jon Guridi,es  ESP,MF,Real Sociedad,25,1995,9.2,10,1.08,6,0,0,1,3,0,1,0.11,1,0,0,0,0,0
+210,Raúl Guti,es  ESP,MF,Elche,23,1996,31.8,26,0.82,19,0,2,1,3,1,4,0.13,1,0,0,1,2,0
+211,Marcos Mauro López Gutiérrez,ar  ARG,DF,Cádiz,29,1991,20.3,4,0.20,3,0,0,1,0,0,1,0.05,0,0,0,1,0,0
+212,Miguel Gutiérrez,es  ESP,DF,Real Madrid,19,2001,3.5,7,1.99,4,1,0,0,2,0,1,0.28,1,0,0,0,0,0
+213,Munir El Haddadi,ma  MAR,FW,Sevilla,24,1995,9.4,25,2.66,15,3,3,1,3,0,3,0.32,3,0,0,0,0,0
+214,Eden Hazard,be  BEL,"FW,MF",Real Madrid,29,1991,5.9,19,3.21,12,1,4,0,2,0,3,0.51,2,0,1,0,0,0
+215,Mario Hermoso,es  ESP,DF,Atlético Madrid,25,1995,28.6,25,0.87,24,1,0,0,0,0,3,0.10,3,0,0,0,0,0
+216,Aridane Hernández,gq  EQG,DF,Osasuna,31,1989,22.5,8,0.36,8,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+217,Héctor Herrera,mx  MEX,MF,Atlético Madrid,30,1990,7.6,17,2.24,12,2,1,2,0,0,3,0.40,1,1,0,1,0,0
+218,Sergio Herrera,es  ESP,GK,Osasuna,27,1993,32.9,2,0.06,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+219,Yangel Herrera,ve  VEN,MF,Granada,22,1998,25.7,35,1.36,28,0,0,3,3,1,3,0.12,1,0,0,0,1,1
+220,Pablo Hervías,es  ESP,"DF,MF",Valladolid,27,1993,13.4,47,3.51,32,12,1,1,0,1,8,0.60,5,1,1,1,0,0
+221,Jordan Holsgrove,sco  SCO,MF,Celta Vigo,20,1999,1.6,2,1.24,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+222,Vicente Iborra,es  ESP,MF,Villarreal,32,1988,10.3,10,0.97,9,0,0,0,0,1,1,0.10,1,0,0,0,0,0
+223,Oussama Idrissi,ma  MAR,"FW,MF",Sevilla,24,1996,0.3,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+224,Iglesias,es  ESP,"DF,MF",Getafe,22,1998,6.7,10,1.49,4,2,2,0,1,1,2,0.30,1,0,0,0,0,1
+225,Borja Iglesias,es  ESP,FW,Betis,27,1993,15.7,24,1.53,15,1,0,3,4,1,6,0.38,2,0,0,1,3,0
+226,Ilaix,es  ESP,MF,Barcelona,17,2003,6.0,14,2.32,10,0,2,1,1,0,3,0.50,2,0,1,0,0,0
+227,Asier Illarramendi,es  ESP,MF,Real Sociedad,30,1990,3.7,5,1.34,4,0,0,0,0,1,0,0.00,0,0,0,0,0,0
+228,Pablo Insua,es  ESP,DF,Huesca,26,1993,17.6,8,0.45,8,0,0,0,0,0,1,0.06,1,0,0,0,0,0
+229,Takashi Inui,jp  JPN,"MF,FW",Eibar,32,1988,20.2,41,2.03,23,1,9,7,1,0,0,0.00,0,0,0,0,0,0
+230,Alexander Isak,se  SWE,FW,Real Sociedad,20,1999,26.0,48,1.85,24,1,8,5,9,1,6,0.23,3,0,0,1,2,0
+231,Isco,es  ESP,"MF,FW",Real Madrid,28,1992,10.1,39,3.87,29,5,2,3,0,0,3,0.30,2,1,0,0,0,0
+232,Jairo Izquierdo,es  ESP,"MF,DF",Cádiz,26,1993,14.2,14,0.99,10,2,0,0,1,1,0,0.00,0,0,0,0,0,0
+233,Saidy Janko,ch  SUI,DF,Valladolid,24,1995,13.6,15,1.11,15,0,0,0,0,0,2,0.15,2,0,0,0,0,0
+234,Adnan Januzaj,be  BEL,"FW,MF",Real Sociedad,25,1995,11.3,55,4.88,33,11,5,1,5,0,10,0.89,6,2,0,0,2,0
+235,Jason,es  ESP,"MF,DF",Valencia,26,1994,4.9,10,2.04,9,0,1,0,0,0,1,0.20,1,0,0,0,0,0
+236,Luis Javier Suárez,co  COL,"FW,MF",Granada,22,1997,18.5,42,2.27,22,0,7,4,6,3,8,0.43,3,0,1,2,1,1
+237,Joaquín,es  ESP,"FW,MF",Betis,39,1981,14.3,47,3.28,35,9,1,1,1,0,8,0.56,6,2,0,0,0,0
+238,John Joe,ie  IRL,"MF,DF",Getafe,16,2003,0.7,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+239,Frenkie de Jong,nl  NED,"MF,DF",Barcelona,23,1997,35.0,86,2.45,75,2,2,2,5,0,7,0.20,6,0,0,1,0,0
+240,Luuk de Jong,nl  NED,FW,Sevilla,29,1990,14.1,25,1.77,18,0,1,3,3,0,1,0.07,1,0,0,0,0,0
+241,Jony,es  ESP,"MF,FW",Osasuna,29,1991,9.7,42,4.34,30,4,5,0,2,1,3,0.31,3,0,0,0,0,0
+242,Joan Jordán,es  ESP,MF,Sevilla,26,1994,26.7,73,2.73,58,11,2,1,0,1,8,0.30,7,1,0,0,0,0
+243,Josan,es  ESP,"MF,DF",Elche,30,1989,21.4,30,1.40,19,7,1,0,2,1,3,0.14,2,0,0,0,0,1
+244,Willian José,br  BRA,FW,Real Sociedad,28,1991,7.7,12,1.57,8,0,0,3,1,0,1,0.13,0,0,0,1,0,0
+245,Joselu,es  ESP,FW,Alavés,30,1990,33.6,58,1.73,37,0,5,6,7,3,7,0.21,3,0,1,0,1,2
+246,Josema,es  ESP,DF,Elche,24,1996,21.8,14,0.64,9,4,0,1,0,0,1,0.05,0,1,0,0,0,0
+247,Luka Jović,rs  SRB,"FW,MF",Real Madrid,22,1997,1.7,4,2.42,2,0,0,1,1,0,0,0.00,0,0,0,0,0,0
+248,Juanmi,es  ESP,"FW,MF",Betis,27,1993,6.7,7,1.04,7,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+249,Vinicius Júnior,br  BRA,FW,Real Madrid,20,2000,21.9,70,3.20,51,0,9,4,5,1,9,0.41,4,0,1,2,2,0
+250,Jens Jønsson,dk  DEN,MF,Cádiz,27,1993,29.1,27,0.93,23,0,0,2,2,0,3,0.10,3,0,0,0,0,0
+251,Damian Kądzior,pl  POL,"FW,MF",Eibar,28,1992,2.2,1,0.46,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+252,Lee Kangin,kr  KOR,"FW,MF",Valencia,19,2001,14.0,48,3.42,38,3,5,2,0,0,5,0.36,4,1,0,0,0,0
+253,Stephane Keller,cm  CMR,DF,Alavés,18,2001,0.2,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+254,Kenedy,br  BRA,"FW,MF",Granada,24,1996,16.3,35,2.14,15,6,7,2,3,2,5,0.31,2,1,1,0,0,1
+255,Kike,es  ESP,FW,Eibar,30,1989,34.3,67,1.95,39,0,7,6,14,1,6,0.17,2,0,3,0,0,1
+256,Giorgi Kochorashvili,ge  GEO,MF,Levante,21,1999,0.3,1,3.91,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+257,Koba Koindredi,fr  FRA,MF,Valencia,18,2001,0.2,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+258,Koke,es  ESP,MF,Atlético Madrid,28,1992,33.6,72,2.14,57,11,1,1,0,2,6,0.18,6,0,0,0,0,0
+259,Youssouf Koné,ml  MLI,"DF,FW",Elche,25,1995,0.8,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+260,Jules Koundé,fr  FRA,DF,Sevilla,21,1998,33.1,28,0.85,26,0,1,1,0,0,3,0.09,3,0,0,0,0,0
+261,Toni Kroos,de  GER,MF,Real Madrid,30,1990,23.5,107,4.55,53,44,1,3,3,3,13,0.55,6,4,0,1,0,2
+262,Kuki,es  ESP,MF,Valladolid,22,1998,0.3,2,6.00,1,0,0,0,0,1,2,6.00,1,0,0,0,0,1
+263,Víctor Laguardia,es  ESP,DF,Alavés,30,1989,29.2,12,0.41,9,1,0,1,0,1,2,0.07,2,0,0,0,0,0
+264,Diego Lainez,mx  MEX,FW,Betis,20,2000,9.6,27,2.82,21,2,3,0,1,0,6,0.63,3,1,1,0,1,0
+265,Toni Lato,es  ESP,DF,Valencia,22,1997,8.1,9,1.11,6,2,1,0,0,0,1,0.12,0,0,1,0,0,0
+266,Lauti,uy  URU,"MF,FW",Celta Vigo,19,2001,0.2,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+267,Robin Le Normand,fr  FRA,DF,Real Sociedad,23,1996,30.5,12,0.39,7,1,0,2,2,0,4,0.13,1,0,0,2,1,0
+268,Jeremías Ledesma,ar  ARG,GK,Cádiz,27,1993,32.0,6,0.19,4,2,0,0,0,0,0,0.00,0,0,0,0,0,0
+269,Florian Lejeune,fr  FRA,DF,Alavés,29,1991,33.5,17,0.51,12,2,0,2,0,1,3,0.09,1,0,0,2,0,0
+270,Iñigo Lekue,es  ESP,DF,Athletic Club,27,1993,7.2,14,1.96,10,2,2,0,0,0,0,0.00,0,0,0,0,0,0
+271,Thomas Lemar,fr  FRA,MF,Atlético Madrid,24,1995,15.2,36,2.37,21,12,1,0,2,0,8,0.53,5,2,0,0,1,0
+272,Clément Lenglet,fr  FRA,DF,Barcelona,25,1995,27.5,26,0.95,25,0,0,0,0,1,5,0.18,5,0,0,0,0,0
+273,Pedro León,es  ESP,"MF,FW",Eibar,33,1986,10.4,26,2.50,11,9,3,2,1,0,2,0.19,1,1,0,0,0,0
+274,Sergio León,es  ESP,FW,Levante,31,1989,8.3,17,2.05,9,0,5,1,1,1,2,0.24,2,0,0,0,0,0
+275,Diego Llorente,es  ESP,DF,Real Sociedad,26,1993,1.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+276,Marcos Llorente,es  ESP,"MF,DF",Atlético Madrid,25,1995,32.8,75,2.28,57,1,4,3,7,3,15,0.46,11,0,0,0,2,2
+277,Renan Lodi,br  BRA,DF,Atlético Madrid,22,1998,12.5,28,2.23,16,6,2,1,2,1,4,0.32,4,0,0,0,0,0
+278,Pedro López Muñoz,es  ESP,DF,Huesca,36,1983,11.9,16,1.35,15,1,0,0,0,0,2,0.17,1,1,0,0,0,0
+279,Adrián López,es  ESP,"FW,MF",Osasuna,32,1988,5.3,15,2.81,10,0,2,2,1,0,2,0.37,2,0,0,0,0,0
+280,Javi López,es  ESP,"DF,MF",Alavés,18,2002,2.8,3,1.09,3,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+281,Roberto López,es  ESP,"MF,FW",Real Sociedad,20,2000,5.6,19,3.39,10,5,0,4,0,0,1,0.18,0,1,0,0,0,0
+282,Unai López,es  ESP,MF,Athletic Club,24,1995,15.8,42,2.65,30,8,1,1,1,1,2,0.13,2,0,0,0,0,0
+283,Anthony Lozano,hn  HON,"FW,MF",Cádiz,27,1993,16.9,32,1.89,15,0,5,5,6,1,5,0.30,2,0,1,2,0,0
+284,Jeison Lucumí,co  COL,FW,Elche,25,1995,0.5,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+285,José Luis Gayà,es  ESP,DF,Valencia,25,1995,31.6,64,2.02,59,1,2,1,1,0,12,0.38,11,0,1,0,0,0
+286,José Luis Morales,es  ESP,"FW,MF",Levante,33,1987,27.1,62,2.29,42,9,5,2,3,1,10,0.37,7,0,3,0,0,0
+287,Luisinho,pt  POR,DF,Huesca,35,1985,2.0,2,1.01,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+288,Luismi,es  ESP,"MF,DF",Elche,28,1992,1.9,1,0.54,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+289,Darwin Machís,ve  VEN,"FW,MF",Granada,27,1993,22.5,57,2.53,25,9,8,7,6,2,12,0.53,5,1,3,1,1,1
+290,Pablo Maffeo,es  ESP,DF,Huesca,23,1997,21.8,45,2.06,32,2,7,1,1,2,7,0.32,6,0,0,0,0,1
+291,Abdallahi Mahmoud,mr  MTN,MF,Alavés,20,2000,0.7,1,1.36,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+292,Nemanja Maksimović,rs  SRB,MF,Getafe,25,1995,30.3,40,1.32,34,1,1,1,1,2,1,0.03,0,0,0,1,0,0
+293,Filip Malbašić,rs  SRB,"FW,MF",Cádiz,27,1992,9.6,8,0.84,6,0,1,0,0,1,3,0.31,2,0,1,0,0,0
+294,Hugo Mallo,es  ESP,DF,Celta Vigo,29,1991,28.9,37,1.28,31,1,1,2,2,0,2,0.07,1,0,0,0,1,0
+295,Mickael Malsa,mq  MTQ,MF,Levante,24,1995,26.0,29,1.12,23,0,0,2,1,3,1,0.04,0,0,0,0,0,1
+296,Aïssa Mandi,dz  ALG,DF,Betis,28,1991,26.6,8,0.30,7,0,0,1,0,0,1,0.04,0,0,0,1,0,0
+297,Eliaquim Mangala,fr  FRA,DF,Valencia,29,1991,3.6,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+298,Maranhão,br  BRA,FW,Valladolid,23,1996,13.1,18,1.38,12,0,2,1,3,0,4,0.31,3,0,0,0,1,0
+299,Marcelo,br  BRA,DF,Real Madrid,32,1988,11.7,38,3.26,29,2,5,2,0,0,3,0.26,3,0,0,0,0,0
+300,Iván Marcone,ar  ARG,MF,Elche,30,1990,29.4,23,0.78,21,2,0,0,0,0,2,0.07,2,0,0,0,0,0
+301,Óscar de Marcos,es  ESP,"DF,MF",Athletic Club,31,1989,16.9,20,1.18,20,0,0,0,0,0,4,0.24,4,0,0,0,0,0
+302,José Mari,es  ESP,MF,Cádiz,32,1987,16.1,13,0.81,10,0,1,0,1,1,1,0.06,1,0,0,0,0,0
+303,José María Giménez,uy  URU,DF,Atlético Madrid,25,1995,19.6,6,0.31,6,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+304,Mariano,do  DOM,FW,Real Madrid,26,1993,5.7,9,1.58,4,0,2,3,0,0,1,0.18,1,0,0,0,0,0
+305,Roger Martí,es  ESP,FW,Levante,29,1991,24.4,33,1.35,26,0,2,3,1,1,7,0.29,7,0,0,0,0,0
+306,Aarón Martín,es  ESP,DF,Celta Vigo,23,1997,17.1,13,0.76,10,0,0,1,1,1,3,0.18,3,0,0,0,0,0
+307,Álex Martín,es  ESP,DF,Cádiz,22,1998,1.1,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+308,Iñigo Martínez,es  ESP,DF,Athletic Club,29,1991,28.0,15,0.54,13,0,0,2,0,0,0,0.00,0,0,0,0,0,0
+309,Javi Martínez,es  ESP,"MF,FW",Osasuna,20,1999,5.1,10,1.96,9,0,1,0,0,0,1,0.20,1,0,0,0,0,0
+310,Marvin,es  ESP,"DF,FW",Real Madrid,20,2000,1.5,2,1.35,1,1,0,0,0,0,1,0.68,1,0,0,0,0,0
+311,Jordi Masip,es  ESP,GK,Valladolid,31,1989,25.0,3,0.12,3,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+312,Jaime Mata,es  ESP,FW,Getafe,31,1988,22.6,41,1.81,33,0,1,4,3,0,3,0.13,1,0,1,1,0,0
+313,Borja Mayoral,es  ESP,FW,Real Madrid,23,1997,0.3,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+314,Gonzalo Melero,es  ESP,"MF,FW",Levante,26,1994,20.6,42,2.04,36,1,0,2,2,1,4,0.19,3,0,0,1,0,0
+315,Brais Méndez,es  ESP,"MF,FW",Celta Vigo,23,1997,29.7,57,1.92,42,2,2,4,5,2,15,0.51,8,0,1,3,2,1
+316,Édgar Méndez,es  ESP,"MF,FW",Alavés,30,1990,23.2,36,1.55,25,0,3,1,5,2,2,0.09,1,0,0,0,1,0
+317,Eñaut Mendía,es  ESP,FW,Eibar,21,1999,0.7,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+318,Ferland Mendy,fr  FRA,DF,Real Madrid,25,1995,24.5,46,1.87,43,0,1,0,2,0,1,0.04,1,0,0,0,0,0
+319,Mikel Merino,es  ESP,MF,Real Sociedad,24,1996,23.9,52,2.17,38,1,1,5,3,4,8,0.33,6,0,0,1,0,1
+320,Martín Merquelanz,es  ESP,"FW,MF",Real Sociedad,25,1995,6.1,20,3.28,12,6,0,1,0,1,1,0.16,0,1,0,0,0,0
+321,Roque Mesa,es  ESP,MF,Valladolid,31,1989,19.6,42,2.15,32,4,4,0,2,0,0,0.00,0,0,0,0,0,0
+322,Lionel Messi,ar  ARG,"FW,MF",Barcelona,33,1987,33.6,241,7.17,140,19,39,11,30,2,38,1.13,24,1,8,3,2,0
+323,Omenuke Mfulu,cd  COD,MF,Elche,26,1994,8.8,2,0.23,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+324,Míchel,es  ESP,MF,Valladolid,32,1988,10.5,31,2.95,22,6,0,1,0,2,0,0.00,0,0,0,0,0,0
+325,Éder Militão,br  BRA,DF,Real Madrid,22,1998,12.6,7,0.56,7,0,0,0,0,0,1,0.08,1,0,0,0,0,0
+326,Luis Milla,es  ESP,MF,Granada,25,1994,13.9,31,2.23,21,7,1,1,0,1,4,0.29,3,0,0,0,0,1
+327,Pere Milla,es  ESP,"FW,MF",Elche,27,1992,22.0,39,1.77,20,0,2,7,8,2,8,0.36,5,0,1,1,1,0
+328,Alejandro Millán,es  ESP,FW,Villarreal,20,1999,0.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+329,Santi Mina,es  ESP,FW,Celta Vigo,24,1995,26.8,38,1.42,21,0,3,5,8,1,9,0.34,4,0,0,1,4,0
+330,Óscar Mingueza,es  ESP,DF,Barcelona,21,1999,21.1,20,0.95,17,0,0,1,1,1,5,0.24,5,0,0,0,0,0
+331,Rafa Mir,es  ESP,FW,Huesca,23,1997,32.0,28,0.88,18,1,2,2,2,3,2,0.06,1,0,0,0,1,0
+332,Jorge Miramón,es  ESP,DF,Levante,31,1989,19.2,38,1.97,34,1,1,1,1,0,6,0.31,5,0,0,0,1,0
+333,Juan Miranda,es  ESP,DF,Betis,20,2000,18.4,21,1.14,16,3,0,1,1,0,3,0.16,3,0,0,0,0,0
+334,Luka Modrić,hr  CRO,MF,Real Madrid,34,1985,30.4,95,3.13,74,11,6,1,1,2,7,0.23,6,0,1,0,0,0
+335,Johan Mojica,co  COL,DF,Elche,27,1992,13.4,14,1.05,11,0,1,1,1,0,0,0.00,0,0,0,0,0,0
+336,Guillem Molina,es  ESP,DF,Valencia,20,2000,1.7,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+337,Jorge Molina,es  ESP,"FW,MF",Granada,38,1982,17.9,40,2.23,35,0,1,0,4,0,7,0.39,6,0,1,0,0,0
+338,Victor Mollejo,es  ESP,"MF,DF",Getafe,19,2001,0.8,5,6.25,3,0,0,0,2,0,0,0.00,0,0,0,0,0,0
+339,Jon Moncayola,es  ESP,MF,Osasuna,22,1998,29.6,32,1.08,30,1,0,1,0,0,2,0.07,2,0,0,0,0,0
+340,Nacho Monreal,es  ESP,DF,Real Sociedad,34,1986,23.1,20,0.86,19,0,0,1,0,0,2,0.09,2,0,0,0,0,0
+341,Ángel Montoro,es  ESP,MF,Granada,32,1988,15.1,40,2.64,21,14,0,1,3,1,1,0.07,1,0,0,0,0,0
+342,Martín Montoya,es  ESP,DF,Betis,29,1991,2.7,5,1.88,3,1,0,0,1,0,0,0.00,0,0,0,0,0,0
+343,Emre Mor,tr  TUR,"FW,MF",Celta Vigo,23,1997,5.6,5,0.90,2,1,2,0,0,0,0,0.00,0,0,0,0,0,0
+344,Jon Morcillo,es  ESP,"MF,FW",Athletic Club,21,1998,15.1,42,2.77,28,10,1,0,2,1,4,0.26,3,1,0,0,0,0
+345,Alberto Moreno,es  ESP,DF,Villarreal,28,1992,2.1,5,2.33,1,0,2,2,0,0,0,0.00,0,0,0,0,0,0
+346,Álex Moreno,es  ESP,DF,Betis,27,1993,19.8,31,1.56,25,0,5,0,0,1,4,0.20,3,0,1,0,0,0
+347,Gerard Moreno,es  ESP,"FW,MF",Villarreal,28,1992,29.7,81,2.73,62,0,9,7,2,1,18,0.61,12,0,3,2,0,1
+348,Tete Morente,es  ESP,"MF,FW",Elche,23,1996,22.4,34,1.52,20,3,5,1,5,0,9,0.40,5,1,1,1,1,0
+349,Loren Morón,es  ESP,"FW,MF",Betis,26,1993,11.0,19,1.73,10,0,4,1,3,1,1,0.09,0,0,0,0,1,0
+350,Pedro Mosquera,es  ESP,MF,Huesca,32,1988,22.8,23,1.01,20,1,0,1,1,0,3,0.13,2,0,0,1,0,0
+351,Javi Moyano,es  ESP,DF,Valladolid,34,1986,1.1,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+352,Iker Muniain,es  ESP,"MF,FW",Athletic Club,27,1992,21.6,76,3.52,48,11,5,2,10,0,12,0.56,6,1,1,1,3,0
+353,Aihen Muñoz,es  ESP,DF,Real Sociedad,22,1997,13.4,16,1.19,14,0,0,0,2,0,3,0.22,2,0,0,0,1,0
+354,Joaquín Muñoz,es  ESP,FW,Huesca,21,1999,0.5,2,4.39,1,0,0,1,0,0,0,0.00,0,0,0,0,0,0
+355,Jeison Murillo,co  COL,DF,Celta Vigo,28,1992,30.0,9,0.30,9,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+356,Yunus Musah,us  USA,MF,Valencia,17,2002,17.0,25,1.47,16,1,5,1,1,1,1,0.06,1,0,0,0,0,0
+357,Yoshinori Mutō,jp  JPN,"FW,MF",Eibar,28,1992,12.5,28,2.25,13,0,3,3,6,3,2,0.16,1,0,0,0,1,0
+358,Nano,es  ESP,"FW,MF",Cádiz,25,1995,0.1,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+359,Roberto Navarro,es  ESP,MF,Real Sociedad,18,2002,0.4,1,2.57,0,1,0,0,0,0,0,0.00,0,0,0,0,0,0
+360,Ximo Navarro,es  ESP,DF,Alavés,30,1990,26.4,22,0.83,16,3,1,0,2,0,4,0.15,1,1,1,0,1,0
+361,Jesús Navas,es  ESP,DF,Sevilla,34,1985,31.4,98,3.12,91,2,3,1,1,0,9,0.29,8,0,1,0,0,0
+362,Raúl Navas,es  ESP,DF,Osasuna,32,1988,1.9,2,1.07,1,0,0,0,0,1,0,0.00,0,0,0,0,0,0
+363,Álvaro Negredo,es  ESP,FW,Cádiz,34,1985,24.4,35,1.43,26,1,4,3,0,1,8,0.33,6,0,0,1,0,1
+364,Neto,br  BRA,GK,Barcelona,31,1989,7.0,1,0.14,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+365,Carlos Neva,es  ESP,DF,Granada,24,1996,20.0,15,0.75,10,2,0,2,0,1,2,0.10,1,1,0,0,0,0
+366,Mamor Niang,sn  SEN,"FW,MF",Getafe,18,2002,0.2,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+367,Nieto,es  ESP,"FW,MF",Cádiz,22,1998,0.2,1,6.43,0,0,0,1,0,0,0,0.00,0,0,0,0,0,0
+368,Saúl Ñíguez,es  ESP,"MF,DF",Atlético Madrid,25,1994,22.6,35,1.55,31,0,2,1,1,0,3,0.13,3,0,0,0,0,0
+369,Nino,es  ESP,"FW,MF",Elche,40,1980,3.2,3,0.95,3,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+370,Fernando Niño,es  ESP,FW,Villarreal,19,2000,6.6,8,1.21,6,0,0,1,1,0,1,0.15,1,0,0,0,0,0
+371,Nolito,es  ESP,"MF,FW",Celta Vigo,33,1986,28.9,71,2.46,50,7,2,4,4,4,13,0.45,10,0,0,1,1,1
+372,Unai Núñez,es  ESP,DF,Athletic Club,23,1997,23.4,11,0.47,10,0,0,1,0,0,1,0.04,1,0,0,0,0,0
+373,Kelechi Nwakali,ng  NGA,"MF,FW",Huesca,22,1998,1.6,4,2.55,4,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+374,Allan Nyom,cm  CMR,"MF,DF",Getafe,32,1988,25.8,32,1.24,29,2,1,0,0,0,4,0.15,3,0,1,0,0,0
+375,Jan Oblak,si  SVN,GK,Atlético Madrid,27,1993,38.0,2,0.05,1,1,0,0,0,0,1,0.03,1,0,0,0,0,0
+376,Lucas Ocampos,ar  ARG,FW,Sevilla,26,1994,29.2,79,2.70,48,1,12,6,10,2,9,0.31,5,0,1,1,1,1
+377,Álvaro Odriozola,es  ESP,DF,Real Madrid,24,1995,9.2,18,1.95,16,0,0,0,2,0,1,0.11,1,0,0,0,0,0
+378,Shinji Okazaki,jp  JPN,FW,Huesca,34,1986,12.5,15,1.20,10,0,2,3,0,0,2,0.16,1,0,0,1,0,0
+379,Christian Oliva,uy  URU,MF,Valencia,24,1996,2.2,5,2.27,4,0,1,0,0,0,4,1.82,3,0,1,0,0,0
+380,Kiko Olivas,es  ESP,"DF,MF",Valladolid,31,1988,2.0,2,1.02,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+381,Paulo Oliveira,pt  POR,DF,Eibar,28,1992,29.3,9,0.31,8,0,0,1,0,0,1,0.03,1,0,0,0,0,0
+382,Mathías Olivera,uy  URU,DF,Getafe,22,1997,29.0,40,1.38,29,3,4,2,0,2,0,0.00,0,0,0,0,0,0
+383,Javier Ontiveros,es  ESP,"FW,MF",Huesca,22,1997,10.2,44,4.31,19,6,12,1,6,0,1,0.10,0,0,1,0,0,0
+384,Fabián Orellana,cl  CHI,"MF,FW",Valladolid,34,1986,23.8,69,2.90,41,10,5,4,8,1,4,0.17,4,0,0,0,0,0
+385,Mikel Oyarzabal,es  ESP,"FW,MF",Real Sociedad,23,1997,26.8,101,3.77,52,27,6,8,5,3,19,0.71,12,3,1,3,0,0
+386,Fernando Pacheco,es  ESP,GK,Alavés,28,1992,37.2,3,0.08,1,2,0,0,0,0,0,0.00,0,0,0,0,0,0
+387,Jon Pacheco,es  ESP,DF,Real Sociedad,19,2001,0.4,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+388,Helibelton Palacios,co  COL,DF,Elche,27,1993,8.3,8,0.97,5,1,1,0,1,0,1,0.12,1,0,0,0,0,0
+389,Ante Palaversa,hr  CRO,"MF,FW",Getafe,20,2000,0.1,2,20.00,0,2,0,0,0,0,0,0.00,0,0,0,0,0,0
+390,Daniel Parejo,es  ESP,MF,Villarreal,31,1989,34.6,102,2.95,69,29,1,1,0,2,12,0.35,8,2,1,1,0,0
+391,Thomas Partey,gh  GHA,MF,Atlético Madrid,27,1993,2.2,5,2.25,3,0,2,0,0,0,0,0.00,0,0,0,0,0,0
+392,Gabriel Paulista,br  BRA,DF,Valencia,29,1990,30.2,17,0.56,16,0,0,0,1,0,3,0.10,2,0,0,0,1,0
+393,Alfonso Pedraza,es  ESP,DF,Villarreal,24,1996,23.3,55,2.37,44,0,5,2,3,1,9,0.39,4,0,1,1,3,0
+394,Pedri,es  ESP,MF,Barcelona,17,2002,26.8,79,2.94,64,3,5,2,4,1,8,0.30,4,0,0,1,2,1
+395,Facundo Pellistri,uy  URU,"MF,FW",Alavés,18,2001,6.0,5,0.83,4,0,1,0,0,0,0,0.00,0,0,0,0,0,0
+396,Rubén Peña,es  ESP,DF,Villarreal,29,1991,12.4,16,1.29,13,0,2,0,1,0,4,0.32,2,0,2,0,0,0
+397,Pepe,es  ESP,DF,Granada,20,2000,2.8,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+398,Alberto Perea,es  ESP,MF,Cádiz,29,1990,17.2,45,2.61,25,2,11,4,2,1,8,0.46,7,0,1,0,0,0
+399,Iñigo Pérez,es  ESP,"MF,DF",Osasuna,32,1988,15.0,25,1.67,15,7,1,0,1,1,2,0.13,0,2,0,0,0,0
+400,Juan Pérez,es  ESP,GK,Osasuna,24,1996,3.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+401,Kike Pérez,es  ESP,MF,Valladolid,23,1997,12.9,25,1.94,19,0,2,1,3,0,3,0.23,2,0,0,0,1,0
+402,Lucas Pérez,es  ESP,FW,Alavés,31,1988,19.5,88,4.50,37,37,5,4,5,0,10,0.51,4,5,0,0,1,0
+403,Luis Pérez,es  ESP,DF,Valladolid,25,1995,14.4,11,0.76,9,1,0,0,1,0,0,0.00,0,0,0,0,0,0
+404,Nehuén Pérez,ar  ARG,DF,Granada,20,2000,8.2,1,0.12,0,0,0,1,0,0,0,0.00,0,0,0,0,0,0
+405,Pablo Piatti,ar  ARG,"MF,FW",Elche,31,1989,4.0,5,1.25,5,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+406,Cristiano Piccini,it  ITA,DF,Valencia,27,1992,0.7,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+407,Tomás Pina Isla,es  ESP,MF,Alavés,32,1987,28.6,20,0.70,17,0,1,1,0,1,0,0.00,0,0,0,0,0,0
+408,Yeremi Pino,es  ESP,"FW,MF",Villarreal,17,2002,8.9,23,2.60,14,0,4,0,5,0,2,0.23,1,0,1,0,0,0
+409,Gerard Piqué,es  ESP,DF,Barcelona,33,1987,16.5,5,0.30,5,0,0,0,0,0,1,0.06,1,0,0,0,0,0
+410,Miralem Pjanić,ba  BIH,MF,Barcelona,30,1990,7.0,32,4.59,29,2,0,1,0,0,0,0.00,0,0,0,0,0,0
+411,Óscar Plano,es  ESP,"MF,FW",Valladolid,29,1991,28.0,48,1.72,34,1,1,2,10,0,6,0.21,4,1,1,0,0,0
+412,Dani Plomer,es  ESP,FW,Granada,21,1998,0.5,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+413,Jorge Pombo,es  ESP,"FW,MF",Cádiz,26,1994,5.8,14,2.41,9,0,1,2,1,1,1,0.17,1,0,0,0,0,0
+414,Pere Pons,es  ESP,MF,Alavés,27,1993,13.2,24,1.82,18,0,0,1,4,1,1,0.08,1,0,0,0,0,0
+415,Francisco Portillo,es  ESP,"MF,FW",Getafe,30,1990,4.6,11,2.37,10,0,0,0,1,0,1,0.22,1,0,0,0,0,0
+416,Portu,es  ESP,"FW,MF",Real Sociedad,28,1992,24.3,50,2.06,39,2,3,3,2,1,8,0.33,5,0,1,0,1,1
+417,Sergio Postigo,es  ESP,DF,Levante,31,1988,18.0,10,0.55,9,0,0,0,0,1,0,0.00,0,0,0,0,0,0
+418,Darío Poveda,es  ESP,FW,Getafe,23,1997,0.1,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+419,Alejandro Pozo Pozo,es  ESP,"DF,MF",Eibar,21,1999,24.3,30,1.23,21,1,3,1,2,2,4,0.16,3,0,0,0,0,1
+420,Antonio Puertas,es  ESP,"FW,MF",Granada,28,1992,24.1,39,1.62,29,1,4,0,4,1,7,0.29,6,0,1,0,0,0
+421,Riqui Puig,es  ESP,MF,Barcelona,20,1999,3.2,12,3.70,12,0,0,0,0,0,2,0.62,2,0,0,0,0,0
+422,Jorge Pulido,es  ESP,DF,Huesca,29,1991,32.1,19,0.59,14,1,1,2,0,1,2,0.06,2,0,0,0,0,0
+423,Domingos Quina,pt  POR,MF,Granada,20,1999,3.8,11,2.90,7,0,1,0,2,1,0,0.00,0,0,0,0,0,0
+424,Quini,es  ESP,DF,Granada,30,1989,13.2,15,1.13,14,0,0,0,0,1,1,0.08,1,0,0,0,0,0
+425,Quique,es  ESP,"FW,MF",Eibar,30,1990,1.9,1,0.54,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+426,Dani Raba,es  ESP,MF,Villarreal,24,1995,1.7,8,4.80,7,0,1,0,0,0,1,0.60,1,0,0,0,0,0
+427,Uroš Račić,rs  SRB,MF,Valencia,22,1998,24.3,35,1.44,25,1,2,5,2,0,5,0.21,5,0,0,0,0,0
+428,Nemanja Radoja,rs  SRB,MF,Levante,27,1993,12.5,8,0.64,8,0,0,0,0,0,3,0.24,3,0,0,0,0,0
+429,Ivan Rakitić,hr  CRO,MF,Sevilla,32,1988,24.8,54,2.18,45,4,0,1,2,2,3,0.12,3,0,0,0,0,0
+430,Jonás Ramalho,es  ESP,DF,Osasuna,27,1993,3.4,1,0.30,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+431,Sandro Ramírez,es  ESP,"FW,MF",Huesca,25,1995,14.3,28,1.96,17,0,2,4,4,1,4,0.28,3,0,0,0,0,1
+432,Sergio Ramos,es  ESP,DF,Real Madrid,34,1986,14.2,9,0.64,6,0,0,2,1,0,1,0.07,0,0,0,0,1,0
+433,Recio,es  ESP,MF,Eibar,29,1991,8.2,28,3.43,13,11,0,3,0,1,0,0.00,0,0,0,0,0,0
+434,Francisco Reis Ferreira,pt  POR,DF,Valencia,23,1997,2.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+435,Karim Rekik,nl  NED,DF,Sevilla,25,1994,7.3,8,1.10,7,1,0,0,0,0,1,0.14,1,0,0,0,0,0
+436,Álex Remiro,es  ESP,GK,Real Sociedad,25,1995,38.0,3,0.08,3,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+437,Oriol Rey,es  ESP,MF,Valladolid,22,1998,0.2,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+438,Ricard,es  ESP,DF,Atlético Madrid,20,2000,0.3,2,6.00,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+439,Mikel Rico,es  ESP,MF,Huesca,35,1984,24.3,46,1.90,38,2,1,1,3,1,7,0.29,7,0,0,0,0,0
+440,Emiliano Rigoni,ar  ARG,"MF,FW",Elche,27,1993,12.7,18,1.42,10,5,0,2,0,1,2,0.16,1,0,0,1,0,0
+441,Luis Rioja,es  ESP,MF,Alavés,26,1993,23.2,51,2.20,37,2,5,2,3,2,10,0.43,4,1,2,0,1,2
+442,Rober,es  ESP,"DF,MF",Levante,25,1995,15.8,7,0.44,7,0,0,0,0,0,1,0.06,1,0,0,0,0,0
+443,Roberto,es  ESP,GK,Valladolid,34,1986,13.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+444,Sergi Roberto,es  ESP,DF,Barcelona,28,1992,10.5,18,1.71,17,0,0,0,0,1,2,0.19,2,0,0,0,0,0
+445,Joel Robles,es  ESP,GK,Betis,30,1990,18.0,2,0.11,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+446,Rubén Rochina,es  ESP,MF,Levante,29,1991,15.6,46,2.95,30,4,2,0,6,4,3,0.19,2,0,0,0,0,1
+447,Rodrigo,es  ESP,"FW,MF",Betis,20,2000,6.0,14,2.35,11,2,0,0,1,0,1,0.17,1,0,0,0,0,0
+448,Kévin Rodrigues,pt  POR,"DF,MF",Eibar,26,1994,12.2,21,1.73,15,4,1,0,1,0,1,0.08,1,0,0,0,0,0
+449,Óscar Rodríguez Arnaiz,es  ESP,"MF,FW",Sevilla,22,1998,5.7,21,3.70,12,5,1,1,1,1,1,0.18,1,0,0,0,0,0
+450,Ángel Rodríguez,es  ESP,"FW,MF",Getafe,33,1987,15.3,25,1.64,16,0,0,4,5,0,3,0.20,1,0,0,1,1,0
+451,Guido Rodríguez,ar  ARG,MF,Betis,26,1994,31.8,38,1.19,28,0,4,2,2,2,1,0.03,0,0,0,1,0,0
+452,Miguel Rodríguez,es  ESP,"FW,MF",Celta Vigo,17,2003,0.3,3,9.00,2,0,0,0,0,1,0,0.00,0,0,0,0,0,0
+453,Víctor Rodríguez,es  ESP,MF,Elche,31,1989,4.7,8,1.69,6,2,0,0,0,0,0,0.00,0,0,0,0,0,0
+454,Rodrygo,br  BRA,FW,Real Madrid,19,2001,10.9,40,3.66,30,0,5,1,3,1,9,0.82,7,0,2,0,0,0
+455,Facundo Roncaglia,ar  ARG,DF,Osasuna,33,1987,13.7,14,1.02,11,1,1,1,0,0,2,0.15,1,0,0,1,0,0
+456,Rubén,es  ESP,"GK,MF",Osasuna,36,1984,2.1,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+457,Waldo Rubio,es  ESP,FW,Valladolid,24,1995,4.2,6,1.44,4,0,0,1,0,1,1,0.24,1,0,0,0,0,0
+458,Aitor Ruibal,es  ESP,"FW,MF",Betis,24,1996,17.7,54,3.05,38,0,9,3,2,2,3,0.17,3,0,0,0,0,0
+459,Isma Ruiz,es  ESP,MF,Granada,19,2001,0.7,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+460,Víctor Ruiz,es  ESP,DF,Betis,31,1989,24.0,5,0.21,5,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+461,Gerónimo Rulli,ar  ARG,GK,Villarreal,28,1992,2.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+462,Modibo Sagnan,ml  MLI,DF,Real Sociedad,21,1999,6.9,4,0.58,3,0,0,1,0,0,0,0.00,0,0,0,0,0,0
+463,Borja Sainz,es  ESP,"MF,FW",Alavés,19,2001,5.0,5,0.99,3,0,1,1,0,0,0,0.00,0,0,0,0,0,0
+464,Salvi,es  ESP,"MF,FW",Cádiz,29,1991,21.5,29,1.35,18,7,1,0,3,0,1,0.05,1,0,0,0,0,0
+465,Fede San Emeterio,es  ESP,MF,Valladolid,23,1997,16.2,9,0.55,8,0,0,0,1,0,0,0.00,0,0,0,0,0,0
+466,Antonio Sanabria,py  PAR,FW,Betis,24,1996,10.4,16,1.55,14,0,0,2,0,0,3,0.29,3,0,0,0,0,0
+467,Oihan Sancet,es  ESP,"FW,MF",Athletic Club,20,2000,11.5,25,2.17,20,0,1,0,2,2,4,0.35,4,0,0,0,0,0
+468,Juan Sánchez Miño,ar  ARG,"DF,MF",Elche,30,1990,5.5,2,0.36,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+469,Germán Sánchez,es  ESP,DF,Granada,33,1986,29.3,5,0.17,3,0,0,1,1,0,1,0.03,1,0,0,0,0,0
+470,Javi Sánchez,es  ESP,DF,Valladolid,23,1997,10.2,5,0.49,4,0,0,0,0,1,0,0.00,0,0,0,0,0,0
+471,Oier Sanjurjo,es  ESP,MF,Osasuna,34,1986,23.2,27,1.17,21,0,0,0,2,4,4,0.17,3,0,0,0,0,1
+472,Ivan Šaponjić,rs  SRB,FW,Cádiz,22,1997,4.3,6,1.39,3,0,0,1,2,0,0,0.00,0,0,0,0,0,0
+473,Stefan Savić,me  MNE,DF,Atlético Madrid,29,1991,32.8,13,0.40,12,0,0,1,0,0,3,0.09,2,0,0,1,0,0
+474,Jaime Seoane,es  ESP,MF,Huesca,23,1997,22.9,29,1.26,23,1,1,1,2,1,1,0.04,1,0,0,0,0,0
+475,Edgar Sevikyan,ru  RUS,MF,Levante,18,2001,0.1,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+476,Sidnei,br  BRA,DF,Betis,30,1989,7.7,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+477,David Silva,es  ESP,MF,Real Sociedad,34,1986,15.5,64,4.12,48,5,6,3,2,0,12,0.77,10,0,2,0,0,0
+478,Gastón Silva,uy  URU,DF,Huesca,26,1994,6.7,6,0.90,5,0,0,0,1,0,0,0.00,0,0,0,0,0,0
+479,Rui Silva,pt  POR,GK,Granada,26,1994,32.0,5,0.16,4,1,0,0,0,0,0,0.00,0,0,0,0,0,0
+480,Unai Simón,es  ESP,GK,Athletic Club,23,1997,37.0,4,0.11,4,0,0,0,0,0,1,0.03,1,0,0,0,0,0
+481,Dimitris Siovas,gr  GRE,DF,Huesca,31,1988,34.1,17,0.50,12,0,0,4,1,0,1,0.03,0,0,0,1,0,0
+482,Antonio Sivera,es  ESP,GK,Alavés,23,1996,0.8,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+483,Rafa Soares,pt  POR,DF,Eibar,25,1995,12.6,20,1.59,16,4,0,0,0,0,2,0.16,2,0,0,0,0,0
+484,Augusto Solari,ar  ARG,MF,Celta Vigo,28,1992,5.4,13,2.41,12,1,0,0,0,0,2,0.37,2,0,0,0,0,0
+485,Roberto Soldado,es  ESP,FW,Granada,35,1985,16.0,21,1.31,13,0,0,4,3,1,2,0.13,0,0,0,1,1,0
+486,Carlos Soler,es  ESP,MF,Valencia,23,1997,30.4,74,2.44,31,33,4,2,4,0,13,0.43,3,7,1,1,1,0
+487,Son,es  ESP,DF,Levante,26,1994,12.3,34,2.77,27,4,1,0,2,0,1,0.08,0,1,0,0,0,0
+488,David Soria,es  ESP,GK,Getafe,27,1993,28.0,6,0.21,5,1,0,0,0,0,1,0.04,1,0,0,0,0,0
+489,Alberto Soro,es  ESP,"FW,MF",Granada,21,1999,4.4,9,2.06,7,0,1,1,0,0,2,0.46,2,0,0,0,0,0
+490,Hugo Sotelo,es  ESP,MF,Celta Vigo,16,2003,0.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+491,Damián Suárez,uy  URU,DF,Getafe,32,1988,27.0,36,1.33,21,8,1,1,4,1,2,0.07,1,0,1,0,0,0
+492,Denis Suárez,es  ESP,MF,Celta Vigo,26,1994,31.7,78,2.46,48,22,2,2,3,1,15,0.47,11,4,0,0,0,0
+493,Luis Suárez,uy  URU,FW,Atlético Madrid,33,1987,27.9,66,2.37,41,2,4,10,8,1,10,0.36,4,0,1,1,3,1
+494,Suso,es  ESP,FW,Sevilla,26,1993,24.6,100,4.07,77,5,11,2,3,2,12,0.49,10,1,0,1,0,0
+495,Tachi,es  ESP,DF,Alavés,22,1997,9.4,5,0.53,1,1,0,0,2,1,1,0.11,0,0,0,0,1,0
+496,Renato Tapia,pe  PER,MF,Celta Vigo,25,1995,30.0,26,0.87,22,0,0,1,2,1,3,0.10,3,0,0,0,0,0
+497,Tomás Tavares,pt  POR,"MF,DF",Alavés,19,2001,0.7,2,2.77,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+498,Álvaro Tejero,es  ESP,DF,Eibar,24,1996,1.2,4,3.27,4,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+499,Cristian Tello,es  ESP,"FW,MF",Betis,28,1991,14.3,38,2.67,27,2,3,4,1,1,5,0.35,4,1,0,0,0,0
+500,Marc-André ter Stegen,de  GER,GK,Barcelona,28,1992,31.0,5,0.16,3,1,0,1,0,0,0,0.00,0,0,0,0,0,0
+501,David Timor,es  ESP,"MF,DF",Getafe,30,1989,15.5,19,1.23,9,9,0,0,0,1,0,0.00,0,0,0,0,0,0
+502,Toño,es  ESP,DF,Levante,30,1989,8.1,11,1.36,11,0,0,0,0,0,2,0.25,2,0,0,0,0,0
+503,Lucas Torreira,uy  URU,"MF,FW",Atlético Madrid,24,1996,5.8,12,2.08,8,1,0,0,2,1,1,0.17,1,0,0,0,0,0
+504,Óliver Torres,es  ESP,"MF,FW",Sevilla,25,1994,15.6,52,3.34,39,6,5,0,0,2,6,0.39,4,0,2,0,0,0
+505,Pau Torres,es  ESP,DF,Villarreal,23,1997,33.0,15,0.45,14,0,0,1,0,0,3,0.09,2,0,0,1,0,0
+506,Roberto Torres,es  ESP,"MF,FW",Osasuna,31,1989,21.0,47,2.23,25,12,3,6,1,0,3,0.14,2,0,0,0,1,0
+507,Lucas Torró,es  ESP,MF,Osasuna,26,1994,17.2,24,1.40,15,0,2,3,2,2,4,0.23,3,0,0,1,0,0
+508,Manu Trigueros,es  ESP,MF,Villarreal,28,1991,28.1,67,2.39,64,0,0,0,2,1,11,0.39,10,0,0,0,1,0
+509,Francisco Trincão,pt  POR,"FW,MF",Barcelona,20,1999,7.8,21,2.68,15,0,3,1,2,0,3,0.38,3,0,0,0,0,0
+510,Kieran Trippier,eng  ENG,DF,Atlético Madrid,29,1990,27.5,75,2.73,53,19,0,0,2,1,10,0.36,9,0,0,0,1,0
+511,Samuel Umtiti,fr  FRA,DF,Barcelona,26,1993,7.2,6,0.84,6,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+512,Enes Ünal,tr  TUR,FW,Getafe,23,1997,14.6,27,1.84,20,0,1,3,3,0,3,0.20,2,0,0,0,1,0
+513,Tomáš Vaclík,cz  CZE,GK,Sevilla,31,1989,5.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+514,Eugeni Valderrama,es  ESP,"FW,MF",Huesca,26,1994,1.3,4,3.13,2,2,0,0,0,0,0,0.00,0,0,0,0,0,0
+515,Jesús Vallejo,es  ESP,DF,Granada,23,1997,15.0,5,0.33,4,1,0,0,0,0,1,0.07,1,0,0,0,0,0
+516,Manu Vallejo,es  ESP,FW,Valencia,23,1997,10.6,18,1.71,12,0,3,0,3,0,1,0.09,1,0,0,0,0,0
+517,Federico Valverde,uy  URU,MF,Real Madrid,22,1998,14.8,50,3.38,40,0,1,5,1,3,5,0.34,5,0,0,0,0,0
+518,Raphaël Varane,fr  FRA,DF,Real Madrid,27,1993,30.2,16,0.53,15,0,0,1,0,0,0,0.00,0,0,0,0,0,0
+519,Denis Vavro,sk  SVK,DF,Huesca,24,1996,6.8,7,1.03,6,0,0,0,0,1,0,0.00,0,0,0,0,0,0
+520,Franco Vázquez,ar  ARG,"FW,MF",Sevilla,31,1989,1.8,5,2.74,5,0,0,0,0,0,1,0.55,1,0,0,0,0,0
+521,Kevin Vázquez,es  ESP,DF,Celta Vigo,27,1993,6.2,5,0.80,5,0,0,0,0,0,1,0.16,1,0,0,0,0,0
+522,Lucas Vázquez,es  ESP,"DF,FW",Real Madrid,29,1991,20.5,73,3.56,65,0,3,0,4,1,10,0.49,9,0,0,0,1,0
+523,Koke Vegas,es  ESP,GK,Levante,24,1995,1.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+524,Gabriel Veiga,es  ESP,"MF,DF",Celta Vigo,18,2002,1.3,3,2.29,2,0,0,0,1,0,0,0.00,0,0,0,0,0,0
+525,Unai Vencedor Paris,es  ESP,MF,Athletic Club,19,2000,18.9,23,1.22,18,2,1,1,1,0,1,0.05,0,1,0,0,0,0
+526,Gonzalo Verdú,es  ESP,DF,Elche,31,1988,32.7,13,0.40,10,1,0,2,0,0,2,0.06,2,0,0,0,0,0
+527,Mikel Vesga,es  ESP,MF,Athletic Club,27,1993,19.1,35,1.83,29,2,1,2,0,1,3,0.16,2,0,0,1,0,0
+528,Rúben Vezo,pt  POR,DF,Levante,26,1994,25.7,13,0.51,12,0,0,0,1,0,1,0.04,1,0,0,0,0,0
+529,Iñigo Vicente,es  ESP,"FW,MF",Athletic Club,22,1998,0.6,8,13.85,6,1,1,0,0,0,0,0.00,0,0,0,0,0,0
+530,Fede Vico,es  ESP,"MF,FW",Granada,26,1994,8.5,16,1.88,11,1,3,1,0,0,0,0.00,0,0,0,0,0,0
+531,Aleix Vidal,es  ESP,DF,Sevilla,30,1989,6.6,13,1.97,12,1,0,0,0,0,3,0.45,2,1,0,0,0,0
+532,Nacho Vidal,es  ESP,DF,Osasuna,25,1995,26.1,30,1.15,20,3,0,1,5,1,2,0.08,0,1,0,1,0,0
+533,Toni Villa,es  ESP,"MF,FW",Valladolid,25,1995,10.8,40,3.72,25,0,6,0,9,0,3,0.28,1,0,1,0,1,0
+534,Asier Villalibre,es  ESP,FW,Athletic Club,22,1997,17.7,33,1.87,25,0,0,4,4,0,3,0.17,2,0,0,1,0,0
+535,Iván Villar,es  ESP,GK,Celta Vigo,23,1997,19.8,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+536,Vitolo,es  ESP,"MF,FW",Atlético Madrid,30,1989,3.3,7,2.11,6,0,0,0,1,0,2,0.60,1,0,0,0,1,0
+537,Šime Vrsaljko,hr  CRO,DF,Atlético Madrid,28,1992,5.8,3,0.52,3,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+538,Nikola Vukčević,me  MNE,MF,Levante,28,1991,9.0,5,0.56,5,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+539,Daniel Wass,dk  DEN,"MF,DF",Valencia,31,1989,33.1,66,1.99,56,5,1,0,3,1,2,0.06,2,0,0,0,0,0
+540,Shon Weissman,il  ISR,FW,Valladolid,24,1996,23.7,32,1.35,24,0,1,4,2,1,3,0.13,1,0,0,1,1,0
+541,Iñaki Williams,es  ESP,FW,Athletic Club,26,1994,26.5,62,2.34,43,1,11,2,5,0,10,0.38,9,0,1,0,0,0
+542,Nico Williams,es  ESP,MF,Athletic Club,18,2002,0.6,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+543,Jawad El Yamiq,ma  MAR,DF,Valladolid,28,1992,15.3,10,0.65,7,0,2,0,0,1,0,0.00,0,0,0,0,0,0
+544,Rubén Yáñez,es  ESP,GK,Getafe,26,1993,10.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+545,Yoel,es  ESP,GK,Eibar,31,1988,3.3,1,0.30,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+546,Okay Yokuşlu,tr  TUR,MF,Celta Vigo,26,1994,5.1,7,1.36,6,0,0,0,0,1,0,0.00,0,0,0,0,0,0
+547,Joseba Zaldúa,es  ESP,DF,Real Sociedad,28,1992,7.1,10,1.41,9,1,0,0,0,0,0,0.00,0,0,0,0,0,0
+548,Oier Zarraga,es  ESP,MF,Athletic Club,21,1999,1.1,3,2.70,3,0,0,0,0,0,1,0.90,1,0,0,0,0,0
+549,Igor Zubeldia,es  ESP,DF,Real Sociedad,23,1997,21.8,10,0.46,10,0,0,0,0,0,2,0.09,2,0,0,0,0,0
+550,Martín Zubimendi,es  ESP,MF,Real Sociedad,21,1999,20.9,25,1.20,19,0,1,1,4,0,3,0.14,3,0,0,0,0,0
+551,Martin Ødegaard,no  NOR,"MF,FW",Real Madrid,21,1998,2.6,6,2.31,5,1,0,0,0,0,0,0.00,0,0,0,0,0,0

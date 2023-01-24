@@ -1,0 +1,16 @@
+,Player,#,Nation,Pos,Age,Min,Touches_Touches,Def Pen_Touches,Def 3rd_Touches,Mid 3rd_Touches,Att 3rd_Touches,Att Pen_Touches,Live_Touches,Succ_Dribbles,Att_Dribbles,Succ%_Dribbles,#Pl_Dribbles,Megs_Dribbles,Carries_Carries,TotDist_Carries,PrgDist_Carries,Prog_Carries,1/3_Carries,CPA_Carries,Mis_Carries,Dis_Carries,Targ_Receiving,Rec_Receiving,Rec%_Receiving,Prog_Receiving
+0,Gonçalo Guedes,7.0,pt  POR,"FW,LM",24-154,90,49,0,3,31,19,2,45,1,2,50.0,1,0,37,248,164,10,2,0,1,2,59,38,64.4,5
+1,Maxi Gómez,22.0,uy  URU,FW,24-261,90,14,0,1,6,9,2,14,0,0,,0,0,7,73,48,0,1,0,2,2,26,12,46.2,2
+2,Uroš Račić,19.0,rs  SRB,CM,23-046,78,20,1,9,8,4,1,20,0,0,,0,0,15,65,29,0,0,0,1,0,13,10,76.9,1
+3,Christian Oliva,10.0,uy  URU,DM,24-335,12,11,1,2,6,3,0,11,0,0,,0,0,8,43,12,0,0,0,0,0,6,6,100.0,0
+4,Carlos Soler,8.0,es  ESP,"CM,RM",24-120,90,49,3,15,24,15,0,45,0,0,,0,0,31,228,122,4,4,0,0,2,36,31,86.1,0
+5,Daniel Wass,18.0,dk  DEN,DM,31-336,90,51,5,21,30,4,1,51,0,0,,0,0,32,192,67,3,0,1,0,1,38,35,92.1,0
+6,José Luis Gayà,14.0,es  ESP,"WB,LB",25-342,90,30,2,8,12,11,2,27,0,0,,0,0,18,134,94,3,1,2,0,0,24,19,79.2,8
+7,Thierry Correia,2.0,pt  POR,"WB,RB",22-054,90,51,2,25,12,17,3,47,0,1,0.0,0,0,27,107,64,2,2,1,0,0,33,29,87.9,4
+8,Toni Lato,3.0,es  ESP,CB,23-162,63,37,4,26,14,1,0,37,0,0,,0,0,22,142,76,0,0,0,0,0,26,25,96.2,1
+9,Mouctar Diakhaby,12.0,fr  FRA,CB,24-134,27,13,3,5,8,0,0,13,0,0,,0,0,9,28,18,0,0,0,1,0,7,5,71.4,0
+10,Hugo Guillamón,15.0,es  ESP,CB,21-091,78,51,12,33,19,1,0,49,0,0,,0,0,31,221,118,3,0,0,1,0,32,32,100.0,0
+11,Kévin Gameiro,9.0,fr  FRA,FW,33-358,12,8,0,1,5,2,0,8,0,0,,0,0,6,32,5,0,0,0,0,0,10,8,80.0,3
+12,Gabriel Paulista,5.0,br  BRA,CB,30-157,90,53,11,30,23,2,1,50,0,0,,0,0,35,207,140,0,0,0,0,0,35,34,97.1,0
+13,Jasper Cillessen,13.0,nl  NED,GK,32-010,90,35,30,35,1,0,0,22,0,0,,0,0,18,89,63,0,0,0,0,0,18,17,94.4,0
+14,14 Players,,,,,990,472,74,214,199,88,12,439,1,3,33.3,1,0,296,1809,1020,25,10,4,6,7,363,301,82.9,24

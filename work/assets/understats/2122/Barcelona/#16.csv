@@ -1,0 +1,19 @@
+,minute,team,player,x,y,xG,result,shotType,assist
+0,1,Osasuna,Jon Moncayola,0.7980000305175782,0.57,0.01696990430355072,SavedShot,RightFoot,None
+1,13,Osasuna,David García,0.875,0.48,0.055712684988975525,Goal,Head,Jon Moncayola
+2,31,Osasuna,Kike Barja,0.8780000305175781,0.625999984741211,0.06976795941591263,BlockedShot,RightFoot,Jon Moncayola
+3,48,Osasuna,Rubén García,0.91,0.4279999923706055,0.08480878174304962,BlockedShot,RightFoot,Lucas Torró
+4,66,Osasuna,Unai García,0.884000015258789,0.4159999847412109,0.04220337048172951,BlockedShot,Head,Jon Moncayola
+5,85,Osasuna,Darko Brasanac,0.750999984741211,0.5659999847412109,0.011178115382790565,BlockedShot,RightFoot,None
+6,85,Osasuna,David García,0.874000015258789,0.6129999923706054,0.06769111007452011,BlockedShot,RightFoot,None
+7,85,Osasuna,Ezequiel Ávila,0.8040000152587891,0.4879999923706055,0.020050249993801117,Goal,RightFoot,None
+8,11,Barcelona,Abdessamad Ezzalzouli,0.8,0.745,0.01511328760534525,BlockedShot,RightFoot,Sergio Busquets
+9,11,Barcelona,Nico González,0.9069999694824219,0.47,0.45393624901771545,Goal,RightFoot,Gavi
+10,21,Barcelona,Nico González,0.745999984741211,0.3220000076293945,0.014361527748405933,MissedShots,RightFoot,None
+11,23,Barcelona,Abdessamad Ezzalzouli,0.8090000152587891,0.5509999847412109,0.04507555440068245,MissedShots,RightFoot,Frenkie de Jong
+12,48,Barcelona,Abdessamad Ezzalzouli,0.9459999847412109,0.5320000076293945,0.6238148808479309,Goal,RightFoot,None
+13,53,Barcelona,Ousmane Dembélé,0.8069999694824219,0.27,0.022811386734247208,MissedShots,LeftFoot,Sergio Busquets
+14,57,Barcelona,Ousmane Dembélé,0.8119999694824219,0.3220000076293945,0.035742513835430145,MissedShots,LeftFoot,Nico González
+15,71,Barcelona,Ousmane Dembélé,0.750999984741211,0.4540000152587891,0.029862042516469955,MissedShots,LeftFoot,Luuk de Jong
+16,77,Barcelona,Gavi,0.91,0.7469999694824219,0.047990839928388596,MissedShots,RightFoot,Luuk de Jong
+17,95,Barcelona,Philippe Coutinho,0.9219999694824219,0.509000015258789,0.10068941116333008,MissedShots,RightFoot,Ferrán Jutglà

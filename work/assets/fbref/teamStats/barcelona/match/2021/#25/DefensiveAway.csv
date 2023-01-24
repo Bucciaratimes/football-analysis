@@ -1,0 +1,17 @@
+,Player,#,Nation,Pos,Age,Min,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,Ousmane Dembélé,11.0,fr  FRA,FW,23-288,81,2,2,0,1,1,0,1,0.0,1,13,4,30.8,1,4,8,0,0,0,0,0,2,0,0
+1,Martin Braithwaite,9.0,dk  DEN,FW,29-267,9,1,1,0,0,1,0,0,,0,1,0,0.0,0,0,1,0,0,0,0,0,1,0,0
+2,Lionel Messi,10.0,ar  ARG,FW,33-248,90,1,1,0,1,0,0,2,0.0,2,14,5,35.7,0,9,5,0,0,0,0,1,2,0,0
+3,Pedri,16.0,es  ESP,CM,18-094,70,0,0,0,0,0,0,1,0.0,1,20,3,15.0,2,12,6,1,0,0,1,2,2,0,0
+4,Ilaix Moriba,27.0,es  ESP,CM,18-039,20,2,1,0,0,2,1,1,100.0,0,3,2,66.7,0,0,3,1,0,0,1,0,2,1,0
+5,Frenkie de Jong,21.0,nl  NED,CM,23-291,90,0,0,0,0,0,0,1,0.0,1,6,3,50.0,2,3,1,0,0,0,0,1,1,0,0
+6,Sergio Busquets,5.0,es  ESP,DM,32-226,90,2,1,2,0,0,2,2,100.0,0,19,6,31.6,5,13,1,0,0,0,0,1,3,1,0
+7,Jordi Alba,18.0,es  ESP,WB,31-343,90,3,3,2,0,1,0,2,0.0,2,14,2,14.3,6,5,3,0,0,0,0,4,7,3,0
+8,Sergiño Dest,2.0,us  USA,WB,20-116,90,1,1,0,0,1,0,1,0.0,1,14,5,35.7,4,7,3,1,0,0,1,1,2,2,0
+9,Clément Lenglet,15.0,fr  FRA,CB,25-255,90,3,1,2,1,0,0,0,,0,10,2,20.0,7,2,1,1,1,0,0,2,5,5,0
+10,Gerard Piqué,3.0,es  ESP,CB,34-025,66,1,1,0,1,0,0,0,,0,3,1,33.3,0,3,0,0,0,0,0,0,1,8,0
+11,Ronald Araújo,4.0,uy  URU,CB,21-357,15,0,0,0,0,0,0,0,,0,1,0,0.0,1,0,0,0,0,0,0,0,0,3,0
+12,Samuel Umtiti,23.0,fr  FRA,CB,27-105,9,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+13,Óscar Mingueza,28.0,es  ESP,CB,21-290,90,6,4,1,3,2,1,2,50.0,1,12,8,66.7,6,3,3,2,0,0,2,0,6,0,0
+14,Marc-André ter Stegen,1.0,de  GER,GK,28-303,90,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+15,15 Players,,,,,990,22,16,7,7,8,4,13,30.8,9,130,41,31.5,34,61,35,6,1,0,5,12,34,23,0

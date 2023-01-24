@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,Álvaro Negredo,18.0,es  ESP,FW,35-185,58,0,0,0,0,0,0,0,,0,1,0,0.0,0,0,1,0,0,0,0,0,0,1,0
+1,Anthony Lozano,9.0,hn  HON,FW,27-302,32,0,0,0,0,0,0,0,,0,8,1,12.5,1,3,4,0,0,0,0,0,0,0,0
+2,Jairo Izquierdo,25.0,es  ESP,LM,27-122,58,0,0,0,0,0,0,3,0.0,3,5,3,60.0,2,0,3,0,0,0,0,2,2,1,0
+3,Álex Fernández,8.0,es  ESP,CM,28-129,32,1,1,1,0,0,1,1,100.0,0,7,2,28.6,4,3,0,1,0,0,1,1,2,0,0
+4,Alberto Perea,10.0,es  ESP,CM,30-064,75,2,2,1,1,0,0,1,0.0,1,11,3,27.3,6,4,1,0,0,0,0,6,8,1,0
+5,Jens Jønsson,2.0,dk  DEN,DM,28-042,15,0,0,0,0,0,0,0,,0,1,0,0.0,1,0,0,0,0,0,0,2,2,0,0
+6,Rubén Sobrino,21.0,es  ESP,"CM,LM,FW",28-265,90,3,1,2,1,0,1,1,100.0,0,23,7,30.4,20,3,0,3,0,0,3,1,4,0,0
+7,Salvi,7.0,es  ESP,RM,29-328,61,0,0,0,0,0,0,1,0.0,1,8,1,12.5,6,2,0,1,0,0,1,2,2,2,0
+8,Iván Alejo,14.0,es  ESP,"WB,RM",26-011,29,0,0,0,0,0,0,1,0.0,1,6,0,0.0,5,0,1,1,0,0,1,0,0,0,0
+9,Jon Ander Garrido,5.0,es  ESP,DM,31-135,57,2,0,1,0,1,1,3,33.3,2,6,1,16.7,4,2,0,1,0,0,1,0,2,2,0
+10,José Mari,6.0,es  ESP,"DM,CM",33-077,33,1,0,0,1,0,0,0,,0,7,2,28.6,4,3,0,0,0,0,0,2,3,0,0
+11,Alfonso Espino,22.0,uy  URU,"LB,WB",29-047,90,5,2,4,1,0,4,8,50.0,4,25,7,28.0,14,8,3,4,1,0,3,2,7,2,0
+12,Marcos Mauro López Gutiérrez,4.0,ar  ARG,CB,30-043,90,0,0,0,0,0,0,1,0.0,1,7,1,14.3,6,1,0,2,2,0,0,1,1,3,0
+13,Fali,3.0,es  ESP,CB,27-193,90,1,0,1,0,0,0,1,0.0,1,3,1,33.3,3,0,0,1,0,0,1,2,3,6,0
+14,Isaac Carcelen,20.0,es  ESP,"RB,CB",27-304,90,1,1,1,0,0,0,0,,0,6,1,16.7,3,2,1,1,1,0,0,4,5,5,0
+15,Jeremías Ledesma,1.0,ar  ARG,GK,28-008,90,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+16,16 Players,,,,,990,16,7,11,4,1,7,21,33.3,14,124,30,24.2,79,31,14,15,4,0,11,25,41,23,0

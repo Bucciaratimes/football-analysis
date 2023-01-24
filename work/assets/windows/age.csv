@@ -1,0 +1,457 @@
+﻿team,name,nation,position,age,play,start,mplay,goal,assist,PK,PKatt,CrdY,CrdR,perG,perA,G+A,G-PK,G+A-PK,xG,npxG,xA,xG,xA,xG+xA,npxG,npxG+xA,
+barca,Marc-André ter Stegen\Marc-Andre-ter-Stegen,de GER,GK,27,42,42,3780,0,2,0,0,1,0,0,0.05,0.05,0,0.05,0,0,0.7,0,0.02,0.02,0,0.02,Matches
+barca,Gerard Piqué\Gerard-Pique,es ESP,DF,32,41,41,3620,1,0,0,0,19,0,0.02,0,0.02,0.02,0.02,2.4,2.4,0.8,0.07,0.02,0.09,0.07,0.09,Matches
+barca,Lionel Messi\Lionel-Messi,ar ARG,FW,32,39,37,3362,27,23,5,5,7,0,0.72,0.62,1.34,0.59,1.2,20.8,17,16.8,0.63,0.5,1.13,0.51,1.02,Matches
+barca,Antoine Griezmann\Antoine-Griezmann,fr FRA,FW,28,45,39,3314,15,4,0,0,4,0,0.41,0.11,0.52,0.41,0.52,9.3,9.3,3.9,0.28,0.12,0.4,0.28,0.4,Matches
+barca,Clément Lenglet\Clement-Lenglet,fr FRA,DF,24,35,34,3040,3,1,0,0,11,2,0.09,0.03,0.12,0.09,0.12,1.1,1.1,0.6,0.04,0.02,0.05,0.04,0.05,Matches
+barca,Sergio Busquets\Sergio-Busquets,es ESP,MF,31,39,36,3028,2,2,0,0,12,0,0.06,0.06,0.12,0.06,0.12,1.2,1.2,2.6,0.04,0.09,0.13,0.04,0.13,Matches
+barca,Frenkie de Jong\Frenkie-de-Jong,nl NED,MF,22,38,34,2996,2,3,0,0,4,1,0.06,0.09,0.15,0.06,0.15,1.1,1.1,2.4,0.04,0.08,0.12,0.04,0.12,Matches
+barca,Nélson Semedo\Nelson-Semedo,pt POR,DF,25,37,30,2628,0,4,0,0,4,0,0,0.14,0.14,0,0.14,0.7,0.7,2.3,0.03,0.09,0.12,0.03,0.12,Matches
+barca,Sergi Roberto\Sergi-Roberto,es ESP,DF,27,34,29,2615,1,2,0,0,9,0,0.03,0.07,0.1,0.03,0.1,1.1,1.1,2,0.04,0.08,0.12,0.04,0.12,Matches
+barca,Jordi Alba\Jordi-Alba,es ESP,DF,30,31,29,2444,2,4,0,0,8,0,0.07,0.15,0.22,0.07,0.22,1,1,3.6,0.04,0.16,0.2,0.04,0.2,Matches
+barca,Luis Suárez\Luis-Suarez,uy URU,FW,32,31,26,2309,18,11,1,1,5,0,0.7,0.43,1.13,0.66,1.09,14.1,13.5,4.6,0.59,0.19,0.79,0.57,0.76,Matches
+barca,Arturo Vidal\Arturo-Vidal,cl CHI,MFFW,32,39,19,1951,7,3,0,0,8,1,0.32,0.14,0.46,0.32,0.46,3.8,3.8,3.7,0.19,0.19,0.38,0.19,0.38,Matches
+barca,Ivan Rakitić\Ivan-Rakitic,hr CRO,MF,31,39,20,1927,1,4,0,0,5,0,0.05,0.19,0.23,0.05,0.23,2.3,2.3,1.4,0.13,0.08,0.21,0.13,0.21,Matches
+barca,Arthur Melo\Arthur-Melo,br BRA,MF,22,28,17,1541,4,4,0,0,2,0,0.23,0.23,0.47,0.23,0.47,1.4,1.4,1.8,0.09,0.11,0.19,0.09,0.19,Matches
+barca,Samuel Umtiti\Samuel-Umtiti,fr FRA,DF,25,18,14,1320,0,0,0,0,6,0,0,0,0,0,0,0.2,0.2,0.1,0.02,0,0.02,0.02,0.02,Matches
+barca,Junior Firpo\Junior-Firpo,es ESP,DF,22,20,14,1306,1,1,0,0,5,0,0.07,0.07,0.14,0.07,0.14,0.6,0.6,0.5,0.05,0.04,0.09,0.05,0.09,Matches
+barca,Ansu Fati\Ansu-Fati,es ESP,FW,16,30,13,1193,7,1,0,0,3,1,0.53,0.08,0.6,0.53,0.6,3.6,3.6,2.2,0.34,0.21,0.55,0.34,0.55,Matches
+barca,Carles Pérez\Carles-Perez,es ESP,FW,21,12,7,618,2,2,0,0,0,0,0.29,0.29,0.58,0.29,0.58,1.5,1.5,0.4,0.24,0.06,0.29,0.24,0.29,Matches
+barca,Ousmane Dembélé\Ousmane-Dembele,fr FRA,FW,22,9,5,493,1,0,0,0,2,1,0.18,0,0.18,0.18,0.18,1.3,1.3,1.6,0.23,0.29,0.52,0.23,0.52,Matches
+barca,Neto\Neto,br BRA,GK,30,4,4,360,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+barca,Riqui Puig\Riqui-Puig,es ESP,FW,19,9,3,356,0,0,0,0,1,0,0,0,0,0,0,0.6,0.6,0.5,0.19,0.14,0.33,0.19,0.33,Matches
+barca,Martin Braithwaite\Martin-Braithwaite,dk DEN,FWMF,28,9,3,336,1,0,0,0,1,0,0.27,0,0.27,0.27,0.27,2.5,2.5,0,0.68,0.01,0.69,0.68,0.69,Matches
+barca,Carles Aleñá\Carles-Alena,es ESP,MF,21,5,3,262,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.01,0.07,0.09,0.01,0.09,Matches
+barca,Rafinha\Rafinha,br BRA,FWMF,26,3,2,186,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,0.4,0.23,0.17,0.4,0.23,0.4,Matches
+barca,Moussa Wagué\Moussa-Wague,sn SEN,DF,20,3,2,181,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.03,0.02,0.05,0.03,0.05,Matches
+barca,Jean-Clair Todibo\Jean-Clair-Todibo,fr FRA,DF,19,3,2,167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.01,0,0.01,0.01,0.01,Matches
+barca,Ronald Araújo\Ronald-Araujo,uy URU,DF,20,4,1,114,0,0,0,0,0,1,0,0,0,0,0,0.3,0.3,0,0.21,0,0.21,0.21,0.21,Matches
+barca,Álex Collado\Alex-Collado,es ESP,DF,20,1,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+real,Casemiro\Casemiro,br BRA,MF,27,41,41,3658,5,4,0,0,14,0,0.12,0.1,0.22,0.12,0.22,4.1,4.1,0.7,0.11,0.02,0.13,0.11,0.13,Matches
+real,Sergio Ramos\Sergio-Ramos,es ESP,DF,33,41,41,3600,12,0,7,7,10,1,0.3,0,0.3,0.12,0.12,11.6,6.3,0.2,0.32,0.01,0.33,0.17,0.18,Matches
+real,Karim Benzema\Karim-Benzema,fr FRA,FW,31,43,40,3556,22,10,3,3,0,0,0.56,0.25,0.81,0.48,0.73,20.1,17.8,10,0.54,0.27,0.8,0.48,0.74,Matches
+real,Thibaut Courtois\Thibaut-Courtois,be BEL,GK,27,39,39,3495,0,0,0,0,1,0,0,0,0,0,0,0.1,0.1,0,0,0,0,0,0,Matches
+real,Dani Carvajal\Dani-Carvajal,es ESP,DF,27,39,39,3495,1,7,0,0,12,0,0.03,0.18,0.21,0.03,0.21,2.5,2.5,5.7,0.07,0.17,0.24,0.07,0.24,Matches
+real,Raphaël Varane\Raphael-Varane,fr FRA,DF,26,39,39,3482,4,1,0,0,3,0,0.1,0.03,0.13,0.1,0.13,1.4,1.4,0.4,0.04,0.01,0.05,0.04,0.05,Matches
+real,Toni Kroos\Toni-Kroos,de GER,MF,29,40,37,3180,6,8,0,0,3,0,0.17,0.23,0.4,0.17,0.4,3.5,3.5,5.5,0.11,0.18,0.29,0.11,0.29,Matches
+real,Federico Valverde\Federico-Valverde,uy URU,MF,21,39,28,2526,2,5,0,0,4,1,0.07,0.18,0.25,0.07,0.25,1.9,1.9,4,0.08,0.18,0.26,0.08,0.26,Matches
+real,Luka Modrić\Luka-Modric,hr CRO,MF,33,36,24,2303,5,5,0,0,9,1,0.2,0.2,0.39,0.2,0.39,2.2,2.2,2.7,0.1,0.12,0.22,0.1,0.22,Matches
+real,Ferland Mendy\Ferland-Mendy,fr FRA,DF,24,27,20,1958,0,3,0,0,8,1,0,0.14,0.14,0,0.14,0.6,0.6,2.2,0.03,0.11,0.14,0.03,0.14,Matches
+real,Marcelo\Marcelo,br BRA,DF,31,23,21,1852,2,5,0,0,3,0,0.1,0.24,0.34,0.1,0.34,0.7,0.7,3.3,0.04,0.19,0.23,0.04,0.23,Matches
+real,Vinicius Júnior\Vinicius-Junior,br BRA,FW,19,35,16,1688,5,3,0,0,6,0,0.27,0.16,0.43,0.27,0.43,4.8,4.8,3.5,0.31,0.22,0.53,0.31,0.53,Matches
+real,Isco\Isco,es ESP,MFFW,27,26,18,1443,3,0,0,0,1,0,0.19,0,0.19,0.19,0.19,2.9,2.9,1.5,0.2,0.11,0.31,0.2,0.31,Matches
+real,Eden Hazard\Eden-Hazard,be BEL,FW,28,19,18,1379,1,4,0,0,1,0,0.07,0.26,0.33,0.07,0.33,3.8,3.8,3.4,0.25,0.22,0.47,0.25,0.47,Matches
+real,Gareth Bale\Gareth-Bale,wal WAL,FW,30,20,14,1257,3,2,0,0,4,1,0.21,0.14,0.36,0.21,0.36,4.1,4.1,1.4,0.3,0.1,0.41,0.3,0.41,Matches
+real,Éder Militão\Eder-Militao,br BRA,DF,21,17,12,1202,0,0,0,0,4,0,0,0,0,0,0,0.1,0.1,0,0.01,0,0.01,0.01,0.01,Matches
+real,Rodrygo\Rodrygo,br BRA,FW,18,22,13,1196,7,2,0,0,0,0,0.53,0.15,0.68,0.53,0.68,3.6,3.6,1.8,0.29,0.14,0.43,0.29,0.43,Matches
+real,Lucas Vázquez\Lucas-Vazquez,es ESP,FWMF,28,19,8,845,3,1,0,0,1,0,0.32,0.11,0.43,0.32,0.43,1.3,1.3,1.8,0.15,0.21,0.37,0.15,0.37,Matches
+real,Luka Jović\Luka-Jovic,rs SRB,FW,21,25,8,780,2,2,0,0,2,0,0.23,0.23,0.46,0.23,0.46,2.7,2.7,0.7,0.47,0.12,0.58,0.47,0.58,Matches
+real,James Rodríguez\James-Rodriguez,co COL,MF,28,14,9,728,1,2,0,0,1,0,0.12,0.25,0.37,0.12,0.37,1.1,1.1,1.8,0.19,0.33,0.52,0.19,0.52,Matches
+real,Alphonse Areola\Alphonse-Areola,fr FRA,GK,26,8,7,675,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+real,Nacho\Nacho,es ESP,DF,29,9,7,642,2,0,0,0,3,0,0.28,0,0.28,0.28,0.28,0.3,0.3,0.3,0.06,0.05,0.12,0.06,0.12,Matches
+real,Álvaro Odriozola\Alvaro-Odriozola,es ESP,DF,23,5,5,433,0,2,0,0,3,1,0,0.42,0.42,0,0.42,0.2,0.2,0.7,0.03,0.14,0.17,0.03,0.17,Matches
+real,Brahim Díaz\Brahim-Diaz,es ESP,FW,19,8,1,183,1,1,0,0,0,0,0.49,0.49,0.98,0.49,0.98,0.1,0.1,0,0.1,0,0.1,0.1,0.1,Matches
+real,Marco Asensio\Marco-Asensio,es ESP,FW,23,5,1,151,1,1,0,0,0,0,0.6,0.6,1.19,0.6,1.19,0.3,0.3,0.8,0.16,0.5,0.66,0.16,0.66,Matches
+real,Mariano\Mariano,do DOM,FW,25,7,0,91,1,0,0,0,1,0,0.99,0,0.99,0.99,0.99,0.7,0.7,0,1.48,0.08,1.56,1.48,1.56,Matches
+atletico,Jan Oblak\Jan-Oblak,si SVN,GK,26,45,45,4085,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+atletico,Saúl Ñíguez\Saul-Niguez,es ESP,MFDF,24,44,44,4032,7,0,2,2,12,0,0.16,0,0.16,0.11,0.11,5.4,3.9,1.9,0.13,0.05,0.18,0.09,0.14,Matches
+atletico,Thomas Partey\Thomas-Partey,gh GHA,MF,26,43,37,3401,3,1,0,0,15,0,0.08,0.03,0.11,0.08,0.11,2.4,2.4,2.1,0.07,0.06,0.13,0.07,0.13,Matches
+atletico,Koke\Koke,es ESP,MF,27,38,35,3161,4,6,0,0,6,0,0.11,0.17,0.28,0.11,0.28,1.9,1.7,6.6,0.05,0.19,0.24,0.05,0.24,Matches
+atletico,Renan Lodi\Renan-Lodi,br BRA,DF,21,40,36,3039,1,3,0,0,7,1,0.03,0.09,0.12,0.03,0.12,1.1,1.1,2.1,0.03,0.06,0.1,0.03,0.1,Matches
+atletico,Felipe\Felipe,br BRA,DF,30,32,31,2882,2,0,0,0,10,0,0.06,0,0.06,0.06,0.06,1.6,1.6,0.1,0.05,0,0.06,0.05,0.06,Matches
+atletico,Álvaro Morata\Alvaro-Morata,es ESP,FW,26,40,30,2642,16,3,3,4,8,1,0.55,0.1,0.65,0.44,0.55,15.5,13.2,3.7,0.57,0.14,0.71,0.49,0.63,Matches
+atletico,Ángel Correa\Angel-Correa,ar ARG,MFFW,24,41,28,2638,7,7,0,0,8,0,0.24,0.24,0.48,0.24,0.48,7.4,7.4,4.3,0.29,0.16,0.45,0.29,0.45,Matches
+atletico,Kieran Trippier\Kieran-Trippier,eng ENG,DF,28,30,28,2521,0,5,0,1,2,0,0,0.18,0.18,0,0.18,1,0.2,4.1,0.04,0.16,0.2,0.01,0.17,Matches
+atletico,João Félix\Joao-Felix,pt POR,FWMF,19,34,28,2412,8,3,1,1,6,0,0.3,0.11,0.41,0.26,0.37,10.1,9.3,3.5,0.43,0.15,0.58,0.4,0.55,Matches
+atletico,Stefan Savić\Stefan-Savic,me MNE,DF,28,25,24,2213,1,0,0,0,7,0,0.04,0,0.04,0.04,0.04,0.7,0.7,0.1,0.03,0.01,0.04,0.03,0.04,Matches
+atletico,José María Giménez\Jose-Maria-Gimenez,uy URU,DF,24,24,22,1958,0,1,0,0,2,0,0,0.05,0.05,0,0.05,1.1,1.1,0.6,0.05,0.03,0.08,0.05,0.08,Matches
+atletico,Mario Hermoso\Mario-Hermoso,es ESP,DF,24,22,18,1634,0,0,0,0,4,0,0,0,0,0,0,0.6,0.6,0.1,0.04,0.01,0.04,0.04,0.04,Matches
+atletico,Diego Costa\Diego-Costa,es ESP,FW,30,26,17,1561,4,5,2,3,6,0,0.23,0.29,0.52,0.12,0.4,6.7,4.4,2.9,0.39,0.17,0.55,0.26,0.42,Matches
+atletico,Marcos Llorente\Marcos-Llorente,es ESP,MF,24,32,15,1483,4,4,0,0,6,0,0.24,0.24,0.49,0.24,0.49,1.7,1.7,2.6,0.12,0.18,0.3,0.12,0.3,Matches
+atletico,Vitolo\Vitolo,es ESP,FWMF,29,32,12,1389,3,1,0,0,3,0,0.19,0.06,0.26,0.19,0.26,2.5,2.5,1.3,0.18,0.09,0.28,0.18,0.28,Matches
+atletico,Héctor Herrera\Hector-Herrera,mx MEX,MF,29,27,16,1378,1,2,0,0,2,0,0.07,0.13,0.2,0.07,0.2,0.9,0.9,2,0.07,0.15,0.21,0.07,0.21,Matches
+atletico,Santiago Arias\Santiago-Arias,co COL,DF,27,16,13,1257,0,1,0,0,1,0,0,0.07,0.07,0,0.07,0.4,0.4,0.9,0.03,0.07,0.1,0.03,0.1,Matches
+atletico,Thomas Lemar\Thomas-Lemar,fr FRA,MF,23,28,12,1149,0,0,0,0,2,0,0,0,0,0,0,0.7,0.7,0.9,0.05,0.07,0.12,0.05,0.12,Matches
+atletico,Yannick Carrasco\Yannick-Carrasco,be BEL,FWMF,25,12,5,484,1,0,0,0,2,0,0.19,0,0.19,0.19,0.19,1.6,1.6,0.5,0.29,0.09,0.38,0.29,0.38,Matches
+atletico,Šime Vrsaljko\Sime-Vrsaljko,hr CRO,DF,27,7,5,482,0,1,0,0,3,0,0,0.19,0.19,0,0.19,0,0,0.3,0,0.06,0.06,0,0.06,Matches
+atletico,Manuel Sánchez\Manuel-Sanchez,es ESP,DF,18,5,4,355,0,0,0,0,1,0,0,0,0,0,0,0,0,0.4,0,0.14,0.14,0,0.14,Matches
+atletico,Antonio Adán\Antonio-Adan,es ESP,GK,32,2,1,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+atletico,Ivan Šaponjić\Ivan-Saponjic,rs SRB,FW,21,3,0,67,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0,2.89,0,2.89,2.89,2.89,Matches
+atletico,Sergio Camello\Sergio-Camello,es ESP,FW,18,3,0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+atletico,Rodrigo Riquelme\Rodrigo-Riquelme,es ESP,MF,19,2,0,32,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.79,0,0.79,0.79,0.79,Matches
+atletico,Darío Poveda\Dario-Poveda,es ESP,FW,22,1,0,8,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,1.66,0,1.66,1.66,1.66,Matches
+atletico,Germán Valera\German-Valera,es ESP,FW,17,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0,1.53,1.53,0,1.53,Matches
+atletico,Óscar Clemente\Oscar-Clemente,es ESP,MF,20,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+atletico,Toni Moya\Toni-Moya,es ESP,MF,21,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+man city,Raheem Sterling\Raheem-Sterling,eng ENG,FW,24,45,38,3464,24,4,0,1,6,0,0.62,0.1,0.73,0.62,0.73,16.8,15.9,8.8,0.55,0.29,0.83,0.52,0.8,Matches
+man city,Kevin De Bruyne\Kevin-De-Bruyne,be BEL,MF,28,42,38,3298,13,21,4,4,5,0,0.35,0.57,0.93,0.25,0.82,8.8,6.6,17.1,0.28,0.54,0.82,0.21,0.75,Matches
+man city,Rodri\Rodri,es ESP,MF,23,45,38,3280,4,1,0,0,12,0,0.11,0.03,0.14,0.11,0.14,1.2,1.2,1.5,0.04,0.05,0.09,0.04,0.09,Matches
+man city,Ederson\Ederson,br BRA,GK,25,37,37,3206,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+man city,İlkay Gündoğan\Ilkay-Gundogan,de GER,MF,28,45,34,3197,5,5,2,3,7,0,0.14,0.14,0.28,0.08,0.23,6.3,4.8,3.5,0.23,0.13,0.36,0.17,0.3,Matches
+man city,Bernardo Silva\Bernardo-Silva,pt POR,FWMF,24,47,34,3077,7,10,0,0,6,0,0.2,0.29,0.5,0.2,0.5,5.9,5.9,5.3,0.24,0.22,0.46,0.24,0.46,Matches
+man city,Fernandinho\Fernandinho,br BRA,DF,34,35,32,2931,0,1,0,0,12,2,0,0.03,0.03,0,0.03,1.1,1.1,0.6,0.03,0.02,0.05,0.03,0.05,Matches
+man city,Kyle Walker\Kyle-Walker,eng ENG,DF,29,35,33,2891,1,4,0,0,6,0,0.03,0.12,0.16,0.03,0.16,0.8,0.8,1.5,0.03,0.06,0.09,0.03,0.09,Matches
+man city,Riyad Mahrez\Riyad-Mahrez,dz ALG,FWMF,28,44,33,2874,12,12,1,1,1,0,0.38,0.38,0.75,0.34,0.72,7.7,6.9,10.4,0.31,0.42,0.73,0.28,0.7,Matches
+man city,Nicolás Otamendi\Nicolas-Otamendi,ar ARG,DF,31,37,30,2823,3,0,0,0,5,0,0.1,0,0.1,0.1,0.1,2.6,2.6,0.2,0.11,0.01,0.12,0.11,0.12,Matches
+man city,Gabriel Jesus\Gabriel-Jesus,br BRA,FWMF,22,46,27,2722,19,8,0,2,3,0,0.63,0.26,0.89,0.63,0.89,18.7,17.2,3.5,0.82,0.15,0.97,0.75,0.9,Matches
+man city,David Silva\David-Silva,es ESP,MF,33,34,28,2289,5,10,0,0,0,0,0.2,0.39,0.59,0.2,0.59,5.8,5.8,4.3,0.32,0.24,0.56,0.32,0.56,Matches
+man city,Benjamin Mendy\Benjamin-Mendy,fr FRA,DF,25,27,24,2092,0,4,0,0,6,0,0,0.17,0.17,0,0.17,0.3,0.3,2.3,0.01,0.12,0.13,0.01,0.13,Matches
+man city,Sergio Agüero\Sergio-Aguero,ar ARG,FW,31,32,25,2085,23,3,3,4,1,0,0.99,0.13,1.12,0.86,0.99,16.9,13.8,2.6,0.92,0.14,1.06,0.76,0.9,Matches
+man city,João Cancelo\Joao-Cancelo,pt POR,DF,25,29,21,2004,1,1,0,0,4,0,0.04,0.04,0.09,0.04,0.09,0.4,0.4,1.5,0.03,0.1,0.13,0.03,0.13,Matches
+man city,Oleksandr Zinchenko\Oleksandr-Zinchenko,ua UKR,DFMF,22,22,18,1713,1,0,0,0,2,1,0.05,0,0.05,0.05,0.05,0.4,0.4,1.5,0.03,0.11,0.14,0.03,0.14,Matches
+man city,Claudio Bravo\Claudio-Bravo,cl CHI,GK,36,17,15,1492,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+man city,John Stones\John-Stones,eng ENG,DF,25,21,15,1466,0,1,0,0,0,0,0,0.06,0.06,0,0.06,0.8,0.8,0.1,0.08,0.01,0.08,0.08,0.08,Matches
+man city,Phil Foden\Phil-Foden,eng ENG,MF,19,32,14,1440,7,9,0,0,2,1,0.44,0.56,1,0.44,1,2.5,2.5,3,0.3,0.35,0.64,0.3,0.64,Matches
+man city,Eric García\Eric-Garcia,es ESP,DF,18,14,10,992,0,1,0,0,0,0,0,0.09,0.09,0,0.09,0,0,0,0,0,0,0,0,Matches
+man city,Aymeric Laporte\Aymeric-Laporte,fr FRA,DF,25,14,13,966,0,0,0,0,1,0,0,0,0,0,0,0.2,0.2,0.1,0.02,0.01,0.03,0.02,0.03,Matches
+man city,Angeliño\Angelino,es ESP,DF,22,12,10,891,0,2,0,0,1,0,0,0.2,0.2,0,0.2,0.3,0.3,1.3,0.04,0.23,0.28,0.04,0.28,Matches
+man city,Taylor Harwood-Bellis\Taylor-Harwood-Bellis,eng ENG,DF,17,4,3,279,1,0,0,0,0,0,0.32,0,0.32,0.32,0.32,0,0,0,0,0,0,0,0,Matches
+man city,Thomas Doyle\Thomas-Doyle,eng ENG,MF,17,3,1,120,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,Matches
+man city,Adrian Bernabe\Adrian-Bernabe,es ESP,MF,18,3,0,47,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,Matches
+man city,Leroy Sané\Leroy-Sane,de GER,FW,23,2,1,24,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.75,0,0.75,0.75,0.75,Matches
+man united,Harry Maguire\Harry-Maguire,eng ENG,DF,26,46,46,4120,3,2,0,0,5,0,0.07,0.04,0.11,0.07,0.11,2.4,2.4,0.5,0.06,0.01,0.08,0.06,0.08,Matches
+man united,Victor Lindelöf\Victor-Lindelof,se SWE,DF,25,39,39,3427,1,1,0,0,5,0,0.03,0.03,0.05,0.03,0.05,0.4,0.4,0.4,0.01,0.01,0.03,0.01,0.03,Matches
+man united,Aaron Wan-Bissaka\Aaron-Wan-Bissaka,eng ENG,DF,21,38,38,3409,0,4,0,0,6,0,0,0.11,0.11,0,0.11,0.4,0.4,3,0.01,0.09,0.1,0.01,0.1,Matches
+man united,Fred\Fred,br BRA,MF,26,42,35,3252,2,4,0,0,11,0,0.06,0.11,0.17,0.06,0.17,2.9,2.9,3.5,0.1,0.12,0.23,0.1,0.23,Matches
+man united,David de Gea\David-de-Gea,es ESP,GK,28,36,36,3240,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+man united,Daniel James\Daniel-James,wal WAL,FW,21,41,33,2867,4,6,0,0,4,0,0.13,0.19,0.31,0.13,0.31,3.9,3.9,4.3,0.14,0.16,0.3,0.14,0.3,Matches
+man united,Anthony Martial\Anthony-Martial,fr FRA,FW,23,39,34,2853,20,6,1,2,1,0,0.63,0.19,0.82,0.6,0.79,11.7,10.2,3.3,0.43,0.12,0.55,0.37,0.49,Matches
+man united,Marcus Rashford\Marcus-Rashford,eng ENG,FW,21,36,31,2740,20,8,7,9,2,0,0.66,0.26,0.92,0.43,0.69,18.1,12,4.4,0.67,0.17,0.84,0.45,0.61,Matches
+man united,Luke Shaw\Luke-Shaw,eng ENG,DF,24,31,27,2357,1,2,0,0,9,0,0.04,0.08,0.11,0.04,0.11,0.7,0.7,1.5,0.03,0.07,0.1,0.03,0.1,Matches
+man united,Andreas Pereira\Andreas-Pereira,br BRA,FWMF,23,39,25,2271,2,4,0,0,4,0,0.08,0.16,0.24,0.08,0.24,2.5,2.5,4,0.13,0.21,0.35,0.13,0.35,Matches
+man united,Scott McTominay\Scott-McTominay,sco SCO,MF,22,31,26,2263,5,1,0,0,3,0,0.2,0.04,0.24,0.2,0.24,2,2,1.2,0.09,0.05,0.14,0.09,0.14,Matches
+man united,Nemanja Matić\Nemanja-Matic,rs SRB,MF,30,27,23,2056,1,3,0,0,3,1,0.04,0.13,0.18,0.04,0.18,0.2,0.2,1.1,0.01,0.06,0.08,0.01,0.08,Matches
+man united,Mason Greenwood\Mason-Greenwood,eng ENG,FW,17,41,19,2029,15,3,1,1,0,0,0.67,0.13,0.8,0.62,0.75,4.3,4.3,1.2,0.28,0.08,0.35,0.28,0.35,Matches
+man united,Brandon Williams\Brandon-Williams,eng ENG,DF,18,28,19,1885,1,0,0,0,8,0,0.05,0,0.05,0.05,0.05,0.7,0.7,0.5,0.05,0.04,0.09,0.05,0.09,Matches
+man united,Juan Mata\Juan-Mata,es ESP,MFFW,31,34,20,1852,3,5,1,1,1,0,0.15,0.24,0.39,0.1,0.34,3.3,2.5,3.9,0.21,0.25,0.46,0.16,0.42,Matches
+man united,Jesse Lingard\Jesse-Lingard,eng ENG,MFFW,26,36,19,1782,2,2,0,0,5,0,0.1,0.1,0.2,0.1,0.2,3.1,3.1,1.8,0.23,0.13,0.36,0.23,0.36,Matches
+man united,Sergio Romero\Sergio-Romero,ar ARG,GK,32,15,15,1410,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+man united,Ashley Young\Ashley-Young,eng ENG,DF,34,18,14,1316,1,1,0,0,8,0,0.07,0.07,0.14,0.07,0.14,0.2,0.2,1.5,0.02,0.12,0.14,0.02,0.14,Matches
+man united,Bruno Fernandes\Bruno-Fernandes,pt POR,MF,24,14,13,1105,7,6,3,3,2,0,0.57,0.49,1.06,0.33,0.81,4.9,2.6,2.5,0.48,0.24,0.72,0.26,0.5,Matches
+man united,Paul Pogba\Paul-Pogba,fr FRA,MF,26,13,9,945,0,3,0,1,0,0,0,0.29,0.29,0,0.29,1.9,1.1,2.1,0.22,0.24,0.45,0.13,0.37,Matches
+man united,Marcos Rojo\Marcos-Rojo,ar ARG,DF,29,9,7,679,0,0,0,0,1,0,0,0,0,0,0,0.2,0.2,0.3,0.03,0.06,0.09,0.03,0.09,Matches
+man united,Axel Tuanzebe\Axel-Tuanzebe,eng ENG,DF,21,10,7,643,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+man united,Diogo Dalot\Diogo-Dalot,pt POR,DF,20,11,7,578,1,0,0,0,1,0,0.16,0,0.16,0.16,0.16,0.4,0.4,0.2,0.1,0.06,0.16,0.1,0.16,Matches
+man united,Phil Jones\Phil-Jones,eng ENG,DF,27,8,7,563,1,0,0,0,2,0,0.16,0,0.16,0.16,0.16,0.2,0.2,0,0.06,0.01,0.06,0.06,0.06,Matches
+man united,Eric Bailly\Eric-Bailly,ci CIV,DF,25,8,5,515,0,0,0,0,1,0,0,0,0,0,0,0.1,0.1,0,0.04,0,0.04,0.04,0.04,Matches
+man united,Odion Ighalo\Odion-Ighalo,ng NGA,FW,30,13,4,490,5,1,0,0,0,0,0.92,0.18,1.1,0.92,1.1,3.2,3.2,0.6,1.03,0.19,1.22,1.03,1.22,Matches
+man united,Tahith Chong\Tahith-Chong,nl NED,FW,19,11,4,450,0,2,0,0,0,0,0,0.4,0.4,0,0.4,0.8,0.8,0.2,0.28,0.07,0.36,0.28,0.36,Matches
+man united,James Garner\James-Garner,eng ENG,MF,18,6,3,317,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0,0.05,0,0.05,0.05,0.05,Matches
+man united,Angel Gomes\Angel-Gomes,eng ENG,FWMF,18,6,3,293,0,0,0,0,0,0,0,0,0,0,0,0.4,0.4,0.7,0.13,0.23,0.36,0.13,0.36,Matches
+man united,Ethan Laird\Ethan-Laird,eng ENG,DF,18,2,1,113,0,0,0,0,1,0,0,0,0,0,0,0,0,0.1,0,0.04,0.04,0,0.04,Matches
+man united,Lee Grant\Lee-Grant,eng ENG,GK,36,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+man united,Di'Shon Bernard\DiShon-Bernard,eng ENG,DF,18,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+man united,Dylan Levitt\Dylan-Levitt,wal WAL,MF,18,1,1,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0.1,0.03,0.07,0.1,0.03,0.1,Matches
+man united,D'Mani Bughail-Mellor\DMani-Bughail-Mellor,eng ENG,FW,18,1,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+man united,Largie Ramazani\Largie-Ramazani,be BEL,MF,18,1,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+man united,Ethan Galbraith\Ethan-Galbraith,nir NIR,FW,18,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+liverpool,Virgil van Dijk\Virgil-van-Dijk,nl NED,DF,28,45,45,4140,4,2,0,0,1,0,0.09,0.04,0.13,0.09,0.13,2.7,2.7,1.5,0.07,0.04,0.1,0.07,0.1,Matches
+liverpool,Andrew Robertson\Andrew-Robertson,sco SCO,DF,25,43,40,3700,2,9,0,0,4,0,0.05,0.22,0.27,0.05,0.27,2.4,2.4,6.1,0.07,0.16,0.23,0.07,0.23,Matches
+liverpool,Trent Alexander-Arnold\Trent-Alexander-Arnold,eng ENG,DF,20,43,40,3646,3,13,0,0,6,0,0.07,0.32,0.39,0.07,0.39,2.8,2.8,10.5,0.07,0.27,0.35,0.07,0.35,Matches
+liverpool,Mohamed Salah\Mohamed-Salah,eg EGY,FW,27,42,40,3592,23,11,3,3,1,0,0.58,0.28,0.85,0.5,0.78,20.8,18.6,7.8,0.58,0.22,0.8,0.52,0.73,Matches
+liverpool,Roberto Firmino\Roberto-Firmino,br BRA,FWMF,27,46,39,3532,9,11,0,0,0,0,0.23,0.28,0.51,0.23,0.51,14.6,14.6,7.3,0.4,0.2,0.6,0.4,0.6,Matches
+liverpool,Georginio Wijnaldum\Georginio-Wijnaldum,nl NED,MF,28,43,37,3347,5,0,0,0,0,0,0.13,0,0.13,0.13,0.13,3.3,3.3,1.9,0.1,0.05,0.15,0.1,0.15,Matches
+liverpool,Sadio Mané\Sadio-Mane,sn SEN,FW,27,41,37,3277,20,9,0,0,6,0,0.55,0.25,0.8,0.55,0.8,14.9,14.9,7.6,0.44,0.22,0.66,0.44,0.66,Matches
+liverpool,Jordan Henderson\Jordan-Henderson,eng ENG,MF,29,38,34,2947,4,5,0,0,3,0,0.12,0.15,0.27,0.12,0.27,1.5,1.5,3.4,0.05,0.11,0.16,0.05,0.16,Matches
+liverpool,Joe Gomez\Joe-Gomez,eng ENG,DF,22,37,29,2786,0,0,0,0,7,0,0,0,0,0,0,0,0,0.3,0,0.01,0.01,0,0.01,Matches
+liverpool,Alisson\Alisson,br BRA,GK,26,31,31,2753,0,1,0,0,0,1,0,0.03,0.03,0,0.03,0,0,0.4,0,0.01,0.01,0,0.01,Matches
+liverpool,Fabinho\Fabinho,br BRA,MF,25,36,29,2658,2,3,0,0,8,0,0.07,0.1,0.17,0.07,0.17,0.5,0.5,2,0.02,0.08,0.1,0.02,0.1,Matches
+liverpool,Alex Oxlade-Chamberlain\Alex-Oxlade-Chamberlain,eng ENG,MFFW,25,37,21,1910,7,1,0,0,1,0,0.33,0.05,0.38,0.33,0.38,3.2,3.2,1.4,0.18,0.08,0.26,0.18,0.26,Matches
+liverpool,Adrián\Adrian,es ESP,GK,32,18,16,1565,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+liverpool,James Milner\James-Milner,eng ENG,MFDF,33,33,16,1541,4,4,3,3,6,0,0.23,0.23,0.47,0.06,0.29,2.3,0.7,1,0.17,0.08,0.24,0.05,0.13,Matches
+liverpool,Divock Origi\Divock-Origi,be BEL,FW,24,37,12,1297,5,2,0,0,1,0,0.35,0.14,0.49,0.35,0.49,2.4,2.4,0.3,0.26,0.03,0.29,0.26,0.29,Matches
+liverpool,Dejan Lovren\Dejan-Lovren,hr CRO,DF,30,15,14,1189,1,1,0,0,1,0,0.08,0.08,0.15,0.08,0.15,0.4,0.4,0.7,0.04,0.06,0.1,0.04,0.1,Matches
+liverpool,Joël Matip\Joel-Matip,cm CMR,DF,27,13,11,1045,2,0,0,0,0,0,0.17,0,0.17,0.17,0.17,0.4,0.4,0,0.04,0,0.04,0.04,0.04,Matches
+liverpool,Naby Keïta\Naby-Keita,gn GUI,MFFW,24,21,12,1034,2,3,0,0,1,0,0.17,0.26,0.44,0.17,0.44,2.3,2.3,2.2,0.25,0.25,0.5,0.25,0.5,Matches
+liverpool,Adam Lallana\Adam-Lallana,eng ENG,FWMF,31,20,7,803,1,2,0,0,2,0,0.11,0.22,0.34,0.11,0.34,1.1,1.1,0.6,0.25,0.14,0.39,0.25,0.39,Matches
+liverpool,Neco Williams\Neco-Williams,wal WAL,DF,18,9,6,558,0,1,0,0,2,0,0,0.16,0.16,0,0.16,0.1,0.1,0.1,0.26,0.18,0.44,0.26,0.44,Matches
+liverpool,Harvey Elliot\Harvey-Elliot,eng ENG,MF,16,8,6,545,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+liverpool,Curtis Jones\Curtis-Jones,eng ENG,MF,18,9,5,522,3,1,0,0,0,0,0.52,0.17,0.69,0.52,0.69,0.4,0.4,0,1.32,0,1.32,1.32,1.32,Matches
+liverpool,Pedro Chirivella\Pedro-Chirivella,es ESP,MF,22,6,4,428,0,1,0,0,0,0,0,0.21,0.21,0,0.21,,,,,,,,,Matches
+liverpool,Takumi Minamino\Takumi-Minamino,jp JPN,MF,24,11,4,403,0,0,0,0,0,0,0,0,0,0,0,0.9,0.9,0,0.5,0,0.5,0.5,0.5,Matches
+liverpool,Caoimhin Kelleher\Caoimhin-Kelleher,ie IRL,GK,20,4,4,390,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,Matches
+liverpool,Sepp van den Berg\Sepp-van-den-Berg,nl NED,DF,17,4,3,301,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,Matches
+liverpool,Ki-Jana Hoever\Ki-Jana-Hoever,nl NED,DF,17,3,3,260,1,0,0,0,0,0,0.35,0,0.35,0.35,0.35,,,,,,,,,Matches
+liverpool,Xherdan Shaqiri\Xherdan-Shaqiri,ch SUI,MF,27,8,2,223,1,0,0,0,0,0,0.4,0,0.4,0.4,0.4,0.5,0.5,0.2,0.23,0.08,0.31,0.23,0.31,Matches
+liverpool,Rhian Brewster\Rhian-Brewster,eng ENG,FW,19,3,2,222,0,0,0,0,1,0,0,0,0,0,0,,,,,,,,,Matches
+liverpool,Yasser Larouci\Yasser-Larouci,fr FRA,DF,18,2,1,172,0,0,0,0,1,0,0,0,0,0,0,,,,,,,,,Matches
+liverpool,Leighton Clarkson\Leighton-Clarkson,eng ENG,MF,17,2,1,103,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,Matches
+liverpool,Herbie Kane\Herbie-Kane,eng ENG,MF,20,2,1,99,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,Matches
+liverpool,Morgan Boyes\Morgan-Boyes,wal WAL,DF,18,2,1,91,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,Matches
+liverpool,Jake Cain\Jake-Cain,eng ENG,MF,17,1,1,90,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,Matches
+liverpool,Nathaniel Phillips\Nathaniel-Phillips,eng ENG,DF,22,1,1,90,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,Matches
+liverpool,Adam Lewis\Adam-Lewis,eng ENG,DF,19,1,1,90,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,Matches
+liverpool,Thomas Hill\Thomas-Hill,eng ENG,FW,16,1,1,90,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,Matches
+liverpool,Tony Gallacher\Tony-Gallacher,sco SCO,DF,20,1,1,90,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,Matches
+liverpool,Liam Millar\Liam-Millar,ca CAN,FW,19,1,1,81,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,Matches
+liverpool,Isaac Christie-Davies\Isaac-Christie-Davies,wal WAL,MF,21,1,1,76,0,0,0,0,1,0,0,0,0,0,0,,,,,,,,,Matches
+liverpool,Luis Longstaff\Luis-Longstaff,eng ENG,FW,18,1,1,64,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,Matches
+liverpool,Jack Bearne\Jack-Bearne,eng ENG,MF,17,1,0,26,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,Matches
+liverpool,James Norris\James-Norris,eng ENG,DF,16,1,0,9,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,Matches
+liverpool,Joe Hardy\Joe-Hardy,eng ENG,FW,20,1,0,9,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,Matches
+liverpool,Elijah Dixon-Bonner\Elijah-Dixon-Bonner,eng ENG,MF,18,1,0,1,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,Matches
+tottenham,Toby Alderweireld\Toby-Alderweireld,be BEL,DF,30,37,37,3317,1,2,0,0,6,0,0.03,0.05,0.08,0.03,0.08,0.8,0.8,1,0.02,0.03,0.05,0.02,0.05,Matches
+tottenham,Serge Aurier\Serge-Aurier,ci CIV,DF,26,37,35,3090,2,8,0,0,3,1,0.06,0.23,0.29,0.06,0.29,0.7,0.7,4.3,0.02,0.14,0.17,0.02,0.17,Matches
+tottenham,Davinson Sánchez\Davinson-Sanchez,co COL,DF,23,35,33,3031,0,0,0,0,5,0,0,0,0,0,0,1.1,1.1,0.1,0.04,0,0.04,0.04,0.04,Matches
+tottenham,Lucas Moura\Lucas-Moura,br BRA,FWMF,26,42,32,2842,7,3,0,0,2,0,0.22,0.1,0.32,0.22,0.32,6.2,6.2,2.4,0.24,0.09,0.33,0.24,0.33,Matches
+tottenham,Son Heung-min\Son-Heung-min,kr KOR,FW,27,36,31,2805,16,11,1,2,0,2,0.51,0.35,0.87,0.48,0.83,11,10.2,7.2,0.41,0.26,0.67,0.37,0.64,Matches
+tottenham,Dele Alli\Dele-Alli,eng ENG,MFFW,23,37,32,2780,9,6,1,1,4,0,0.29,0.19,0.49,0.26,0.45,8.2,7.5,3.4,0.32,0.13,0.45,0.29,0.42,Matches
+tottenham,Harry Winks\Harry-Winks,eng ENG,MF,23,36,31,2617,0,0,0,0,10,0,0,0,0,0,0,0.5,0.5,1.2,0.02,0.05,0.07,0.02,0.07,Matches
+tottenham,Harry Kane\Harry-Kane,eng ENG,FW,26,29,29,2588,19,2,4,4,4,0,0.66,0.07,0.73,0.52,0.59,13.5,10.5,2.4,0.47,0.09,0.56,0.36,0.45,Matches
+tottenham,Moussa Sissoko\Moussa-Sissoko,fr FRA,MFFW,29,30,27,2448,2,2,0,0,7,0,0.07,0.07,0.15,0.07,0.15,2.3,2.3,1.3,0.09,0.05,0.13,0.09,0.13,Matches
+tottenham,Paulo Gazzaniga\Paulo-Gazzaniga,ar ARG,GK,27,25,24,2273,0,0,0,0,1,0,0,0,0,0,0,0,0,0.4,0,0.02,0.02,0,0.02,Matches
+tottenham,Jan Vertonghen\Jan-Vertonghen,be BEL,DF,32,28,25,2159,2,1,0,0,2,0,0.08,0.04,0.13,0.08,0.13,0.4,0.4,0.9,0.02,0.04,0.07,0.02,0.07,Matches
+tottenham,Eric Dier\Eric-Dier,eng ENG,DFMF,25,29,23,2072,0,2,0,0,5,0,0,0.09,0.09,0,0.09,1.5,1.5,0.1,0.09,0.01,0.09,0.09,0.09,Matches
+tottenham,Hugo Lloris\Hugo-Lloris,fr FRA,GK,32,22,22,1897,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+tottenham,Giovani Lo Celso\Giovani-Lo-Celso,ar ARG,MFFW,23,32,17,1833,2,1,0,0,7,0,0.1,0.05,0.15,0.1,0.15,1.7,1.7,2.3,0.1,0.14,0.24,0.1,0.24,Matches
+tottenham,Christian Eriksen\Christian-Eriksen,dk DEN,MF,27,28,14,1630,3,3,0,0,5,0,0.17,0.17,0.33,0.17,0.33,2.6,2.6,3.6,0.17,0.24,0.4,0.17,0.4,Matches
+tottenham,Érik Lamela\Erik-Lamela,ar ARG,MFFW,27,31,14,1567,4,4,0,0,5,0,0.23,0.23,0.46,0.23,0.46,3.8,3.8,1.8,0.26,0.12,0.38,0.26,0.38,Matches
+tottenham,Tanguy Ndombele\Tanguy-Ndombele,fr FRA,MF,22,28,17,1403,2,4,0,0,3,0,0.13,0.26,0.38,0.13,0.38,0.8,0.8,2.1,0.05,0.15,0.2,0.05,0.2,Matches
+tottenham,Ben Davies\Ben-Davies,wal WAL,DF,26,17,15,1371,0,1,0,0,5,0,0,0.07,0.07,0,0.07,0.2,0.2,1.1,0.01,0.08,0.09,0.01,0.09,Matches
+tottenham,Danny Rose\Danny-Rose,eng ENG,DF,29,16,14,1253,0,1,0,0,5,0,0,0.07,0.07,0,0.07,0.1,0.1,1.5,0.01,0.11,0.12,0.01,0.12,Matches
+tottenham,Japhet Tanganga\Japhet-Tanganga,eng ENG,DF,20,11,11,950,0,0,0,0,2,0,0,0,0,0,0,0.1,0.1,0,0.01,0,0.01,0.01,0.01,Matches
+tottenham,Ryan Sessegnon\Ryan-Sessegnon,eng ENG,FWDF,19,12,9,772,1,1,0,0,1,0,0.12,0.12,0.23,0.12,0.23,0.5,0.5,0.4,0.08,0.07,0.15,0.08,0.15,Matches
+tottenham,Steven Bergwijn\Steven-Bergwijn,nl NED,MFFW,21,11,9,714,3,0,0,0,1,0,0.38,0,0.38,0.38,0.38,1.5,1.5,0.7,0.2,0.1,0.29,0.2,0.29,Matches
+tottenham,Kyle Walker-Peters\Kyle-Walker-Peters,eng ENG,DF,22,5,5,451,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.01,0.03,0.03,0.01,0.03,Matches
+tottenham,Gedson Fernandes\Gedson-Fernandes,pt POR,MF,20,10,2,298,0,0,0,0,1,0,0,0,0,0,0,0.1,0.1,0.1,0.1,0.09,0.19,0.1,0.19,Matches
+tottenham,Oliver Skipp\Oliver-Skipp,eng ENG,MFFW,18,8,3,286,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+tottenham,Juan Foyth\Juan-Foyth,ar ARG,DF,21,7,3,266,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.01,0.01,0,0.01,Matches
+tottenham,Victor Wanyama\Victor-Wanyama,ke KEN,MF,28,4,1,155,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+tottenham,Michel Vorm\Michel-Vorm,nl NED,GK,35,1,1,120,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,Matches
+tottenham,Troy Parrott\Troy-Parrott,ie IRL,FW,17,4,1,97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+tottenham,Georges-Kévin N'Koudou\Georges-Kevin-NKoudou,fr FRA,FW,24,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.59,0,0.59,0.59,0.59,Matches
+tottenham,Malachi Fagan-Walcott\Malachi-Fagan-Walcott,eng ENG,DF,17,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+arsenal,Pierre-Emerick Aubameyang\Pierre-Emerick-Aubameyang,ga GAB,FW,30,38,36,3241,23,2,1,1,3,1,0.64,0.06,0.69,0.61,0.67,17.2,16.5,3.6,0.48,0.1,0.58,0.46,0.56,Matches
+arsenal,David Luiz\David-Luiz,br BRA,DF,32,37,36,3133,2,1,0,0,5,2,0.06,0.03,0.09,0.06,0.09,2.1,2.1,1,0.07,0.03,0.1,0.07,0.1,Matches
+arsenal,Granit Xhaka\Granit-Xhaka,ch SUI,MFDF,26,35,34,2935,1,1,0,0,11,0,0.03,0.03,0.06,0.03,0.06,1.2,1.2,2,0.04,0.07,0.11,0.04,0.11,Matches
+arsenal,Bernd Leno\Bernd-Leno,de GER,GK,27,32,32,2859,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+arsenal,Bukayo Saka\Bukayo-Saka,eng ENG,DFFW,17,35,27,2570,4,11,0,0,6,0,0.14,0.39,0.53,0.14,0.53,2.1,2.1,6.5,0.09,0.27,0.36,0.09,0.36,Matches
+arsenal,Mattéo Guendouzi\Matteo-Guendouzi,fr FRA,MF,20,34,24,2413,0,2,0,0,8,0,0,0.07,0.07,0,0.07,0.6,0.6,1.1,0.03,0.05,0.07,0.03,0.07,Matches
+arsenal,Sokratis Papastathopoulos\Sokratis-Papastathopoulos,gr GRE,DF,31,28,26,2322,3,0,0,0,6,0,0.12,0,0.12,0.12,0.12,1.3,1.3,0.2,0.06,0.01,0.07,0.06,0.07,Matches
+arsenal,Nicolas Pépé\Nicolas-Pepe,ci CIV,FWDF,24,36,24,2293,8,8,2,2,3,0,0.31,0.31,0.63,0.24,0.55,5.1,4.3,4.7,0.22,0.21,0.43,0.19,0.4,Matches
+arsenal,Alexandre Lacazette\Alexandre-Lacazette,fr FRA,FW,28,33,24,2121,10,3,0,0,7,0,0.42,0.13,0.55,0.42,0.55,9.8,9.8,2.9,0.45,0.13,0.58,0.45,0.58,Matches
+arsenal,Shkodran Mustafi\Shkodran-Mustafi,de GER,DF,27,25,23,2105,1,1,0,0,6,0,0.04,0.04,0.09,0.04,0.09,1.3,1.3,0.6,0.07,0.03,0.1,0.07,0.1,Matches
+arsenal,Lucas Torreira\Lucas-Torreira,uy URU,MF,23,35,21,1915,2,1,0,0,5,0,0.09,0.05,0.14,0.09,0.14,2.4,2.4,1.3,0.13,0.07,0.19,0.13,0.19,Matches
+arsenal,Dani Ceballos\Dani-Ceballos,es ESP,MF,22,31,18,1908,2,2,0,0,0,0,0.09,0.09,0.19,0.09,0.19,1.2,1.2,2.1,0.06,0.11,0.17,0.06,0.17,Matches
+arsenal,Sead Kolašinac\Sead-Kolasinac,ba BIH,DF,26,26,21,1829,0,2,0,0,6,0,0,0.1,0.1,0,0.1,0.7,0.7,1,0.04,0.06,0.1,0.04,0.1,Matches
+arsenal,Mesut Özil\Mesut-Ozil,de GER,MFFW,30,23,22,1799,1,3,0,0,1,0,0.05,0.15,0.2,0.05,0.2,1.5,1.5,2.5,0.09,0.14,0.23,0.09,0.23,Matches
+arsenal,Ainsley Maitland-Niles\Ainsley-Maitland-Niles,eng ENG,DFFW,21,28,20,1782,1,2,0,0,6,1,0.05,0.1,0.15,0.05,0.15,0.3,0.3,1.5,0.02,0.09,0.11,0.02,0.11,Matches
+arsenal,Joe Willock\Joe-Willock,eng ENG,MF,19,39,19,1771,5,1,0,0,3,0,0.25,0.05,0.3,0.25,0.3,3.7,3.7,1.4,0.25,0.09,0.35,0.25,0.35,Matches
+arsenal,Héctor Bellerín\Hector-Bellerin,es ESP,DF,24,20,17,1562,1,1,0,0,3,0,0.06,0.06,0.12,0.06,0.12,0.4,0.4,1,0.03,0.07,0.09,0.03,0.09,Matches
+arsenal,Emiliano Martínez\Emiliano-Martinez,ar ARG,GK,26,17,16,1521,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+arsenal,Martinelli\Martinelli,br BRA,FW,18,26,15,1501,10,4,0,0,2,0,0.6,0.24,0.84,0.6,0.84,4.7,4.7,2.1,0.39,0.18,0.57,0.39,0.57,Matches
+arsenal,Calum Chambers\Calum-Chambers,eng ENG,DF,24,18,16,1385,1,4,0,0,6,0,0.06,0.26,0.32,0.06,0.32,0.8,0.8,1,0.06,0.07,0.13,0.06,0.13,Matches
+arsenal,Kieran Tierney\Kieran-Tierney,sco SCO,DF,22,18,15,1259,0,2,0,0,2,0,0,0.14,0.14,0,0.14,0.1,0.1,1.8,0.01,0.16,0.16,0.01,0.16,Matches
+arsenal,Reiss Nelson\Reiss-Nelson,eng ENG,FW,19,19,11,961,2,3,0,0,2,0,0.19,0.28,0.47,0.19,0.47,1.1,1.1,1.5,0.14,0.19,0.33,0.14,0.33,Matches
+arsenal,Rob Holding\Rob-Holding,eng ENG,DF,23,13,9,947,1,0,0,0,1,0,0.1,0,0.1,0.1,0.1,0.3,0.3,0,0.05,0,0.05,0.05,0.05,Matches
+arsenal,Eddie Nketiah\Eddie-Nketiah,eng ENG,FW,20,14,8,713,4,0,0,0,0,1,0.5,0,0.5,0.5,0.5,3.1,3.1,0.4,0.54,0.07,0.61,0.54,0.61,Matches
+arsenal,Emile Smith-Rowe\Emile-Smith-Rowe,eng ENG,FWMF,19,6,5,374,0,0,0,0,0,0,0,0,0,0,0,1,1,0.1,0.27,0.03,0.3,0.27,0.3,Matches
+arsenal,Nacho Monreal\Nacho-Monreal,es ESP,DF,33,3,3,270,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.3,0.03,0.08,0.11,0.03,0.11,Matches
+arsenal,Pablo Marí\Pablo-Mari,es ESP,DF,25,3,3,203,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+arsenal,Henrikh Mkhitaryan\Henrikh-Mkhitaryan,am ARM,FW,30,3,1,112,0,0,0,0,1,0,0,0,0,0,0,0.2,0.2,0.2,0.18,0.18,0.36,0.18,0.36,Matches
+arsenal,Konstantinos Mavropanos\Konstantinos-Mavropanos,gr GRE,DF,21,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+arsenal,Cédric Soares\Cedric-Soares,pt POR,DF,27,2,1,89,1,0,0,0,0,0,1.01,0,1.01,1.01,1.01,0,0,0,0.03,0,0.03,0.03,0.03,Matches
+chelsea,César Azpilicueta\Cesar-Azpilicueta,es ESP,DF,29,43,42,3826,4,6,0,0,3,0,0.09,0.14,0.24,0.09,0.24,3.8,3.8,6.3,0.1,0.16,0.26,0.1,0.26,Matches
+chelsea,Kepa Arrizabalaga\Kepa-Arrizabalaga,es ESP,GK,24,38,38,3450,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+chelsea,Mason Mount\Mason-Mount,eng ENG,MFFW,20,47,36,3291,6,4,0,0,3,0,0.16,0.11,0.27,0.16,0.27,7.2,7.2,4,0.21,0.12,0.33,0.21,0.33,Matches
+chelsea,Kurt Zouma\Kurt-Zouma,fr FRA,DF,24,36,33,3076,1,1,0,0,8,0,0.03,0.03,0.06,0.03,0.06,1,1,0.9,0.04,0.03,0.07,0.04,0.07,Matches
+chelsea,Willian\Willian,br BRA,FW,30,43,34,3040,11,9,4,4,4,0,0.33,0.27,0.59,0.21,0.47,7.7,4.7,8.2,0.24,0.26,0.5,0.15,0.4,Matches
+chelsea,Jorginho\Jorginho,it ITA,MF,27,38,33,2973,7,2,6,6,13,0,0.21,0.06,0.27,0.03,0.09,5.2,1.4,2.7,0.18,0.09,0.27,0.05,0.14,Matches
+chelsea,Mateo Kovačić\Mateo-Kovacic,hr CRO,MF,25,41,31,2763,2,3,0,0,9,0,0.07,0.1,0.16,0.07,0.16,1.7,1.7,3.1,0.07,0.12,0.19,0.07,0.19,Matches
+chelsea,Tammy Abraham\Tammy-Abraham,eng ENG,FW,21,40,31,2711,16,4,0,0,2,0,0.53,0.13,0.66,0.53,0.66,17.9,17.9,3,0.63,0.1,0.73,0.63,0.73,Matches
+chelsea,N'Golo Kanté\NGolo-Kante,fr FRA,MF,28,27,25,2212,3,0,0,0,5,0,0.12,0,0.12,0.12,0.12,1.9,1.9,2.9,0.08,0.13,0.22,0.08,0.22,Matches
+chelsea,Andreas Christensen\Andreas-Christensen,dk DEN,DF,23,25,25,2150,0,0,0,0,5,0,0,0,0,0,0,0.8,0.8,1.1,0.04,0.05,0.08,0.04,0.08,Matches
+chelsea,Christian Pulisic\Christian-Pulisic,us USA,FW,20,29,23,2037,9,5,0,0,0,0,0.4,0.22,0.62,0.4,0.62,8.4,8.4,4.1,0.44,0.21,0.65,0.44,0.65,Matches
+chelsea,Fikayo Tomori\Fikayo-Tomori,eng ENG,DF,21,22,21,1867,2,1,0,0,4,0,0.1,0.05,0.14,0.1,0.14,1,1,0.6,0.05,0.03,0.08,0.05,0.08,Matches
+chelsea,Marcos Alonso\Marcos-Alonso,es ESP,DF,28,23,21,1861,4,2,0,0,4,1,0.19,0.1,0.29,0.19,0.29,2.4,2.4,2,0.14,0.12,0.26,0.14,0.26,Matches
+chelsea,Reece James\Reece-James,eng ENG,DF,19,30,20,1858,2,3,0,0,3,0,0.1,0.15,0.24,0.1,0.24,0.8,0.8,3,0.05,0.17,0.22,0.05,0.22,Matches
+chelsea,Antonio Rüdiger\Antonio-Rudiger,de GER,DF,26,20,20,1755,2,0,0,0,3,0,0.1,0,0.1,0.1,0.1,0.4,0.4,0.3,0.03,0.02,0.04,0.03,0.04,Matches
+chelsea,Ross Barkley\Ross-Barkley,eng ENG,FWMF,25,26,17,1495,5,5,0,1,0,0,0.3,0.3,0.6,0.3,0.6,3,2.2,2.5,0.25,0.21,0.46,0.18,0.4,Matches
+chelsea,Emerson Palmieri\Emerson-Palmieri,it ITA,DF,24,19,17,1430,0,1,0,0,3,0,0,0.06,0.06,0,0.06,1,1,1.6,0.08,0.13,0.21,0.08,0.21,Matches
+chelsea,Callum Hudson-Odoi\Callum-Hudson-Odoi,eng ENG,FW,18,26,12,1302,3,5,0,0,1,0,0.21,0.35,0.55,0.21,0.55,2.3,2.3,2.7,0.21,0.25,0.47,0.21,0.47,Matches
+chelsea,Pedro\Pedro,es ESP,FWDF,32,20,13,1228,2,3,1,1,1,0,0.15,0.22,0.37,0.07,0.29,2.7,2.7,0.8,0.32,0.1,0.42,0.32,0.42,Matches
+chelsea,Olivier Giroud\Olivier-Giroud,fr FRA,FW,32,18,12,988,6,0,0,0,1,0,0.55,0,0.55,0.55,0.55,3.6,3.6,0.9,0.39,0.1,0.49,0.39,0.49,Matches
+chelsea,Willy Caballero\Willy-Caballero,ar ARG,GK,37,10,10,900,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+chelsea,Michy Batshuayi\Michy-Batshuayi,be BEL,FW,25,24,5,674,6,2,0,0,1,0,0.8,0.27,1.07,0.8,1.07,3.8,3.8,0.3,1.05,0.08,1.13,1.05,1.13,Matches
+chelsea,Billy Gilmour\Billy-Gilmour,sco SCO,MF,18,11,6,511,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.2,0.03,0.08,0.11,0.03,0.11,Matches
+chelsea,Marc Guéhi\Marc-Guehi,eng ENG,DF,19,2,2,180,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,Matches
+chelsea,Ruben Loftus-Cheek\Ruben-Loftus-Cheek,eng ENG,MFFW,23,5,1,142,0,1,0,0,0,0,0,0.63,0.63,0,0.63,0.5,0.5,0.3,0.35,0.22,0.57,0.35,0.57,Matches
+chelsea,Tariq Lamptey\Tariq-Lamptey,eng ENG,DF,18,3,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0.38,0.38,0,0.38,Matches
+chelsea,Faustino Anjorin\Faustino-Anjorin,eng ENG,FW,17,2,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0.1,0.1,0.1,Matches
+chelsea,Ian Maatsen\Ian-Maatsen,nl NED,DF,17,1,0,25,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,Matches
+chelsea,Armando Broja\Armando-Broja,al ALB,FW,17,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+bayern,Manuel Neuer\Manuel-Neuer,de GER,GK,33,47,47,4230,0,1,0,0,1,0,0,0.02,0.02,0,0.02,0,0,0,0,0,0,0,0,Matches
+bayern,Joshua Kimmich\Joshua-Kimmich,de GER,MFDF,24,47,45,4011,6,11,0,0,11,0,0.13,0.25,0.38,0.13,0.38,1.6,1.6,9.1,0.04,0.24,0.29,0.04,0.29,Matches
+bayern,Benjamin Pavard\Benjamin-Pavard,fr FRA,DF,23,46,44,3971,4,6,0,0,6,0,0.09,0.14,0.23,0.09,0.23,2.1,2.1,4,0.05,0.11,0.16,0.05,0.16,Matches
+bayern,Robert Lewandowski\Robert-Lewandowski,pl POL,FW,30,43,42,3770,51,6,6,6,7,0,1.22,0.14,1.36,1.07,1.22,35.7,31.2,7.7,0.98,0.21,1.19,0.85,1.06,Matches
+bayern,David Alaba\David-Alaba,at AUT,DF,27,38,37,3332,2,2,0,0,1,0,0.05,0.05,0.11,0.05,0.11,0.7,0.7,3.1,0.02,0.1,0.12,0.02,0.12,Matches
+bayern,Thomas Müller\Thomas-Muller,de GER,MFFW,29,46,35,3133,12,25,0,0,5,0,0.34,0.72,1.06,0.34,1.06,10.4,10.4,14.8,0.36,0.51,0.87,0.36,0.87,Matches
+bayern,Alphonso Davies\Alphonso-Davies,ca CAN,DF,18,39,33,3069,3,8,0,0,4,1,0.09,0.23,0.32,0.09,0.32,2.4,2.4,4.8,0.08,0.17,0.25,0.08,0.25,Matches
+bayern,Serge Gnabry\Serge-Gnabry,de GER,FWMF,24,42,35,3036,20,12,0,0,1,0,0.59,0.36,0.95,0.59,0.95,15.3,15.3,11.5,0.52,0.39,0.91,0.52,0.91,Matches
+bayern,Thiago Alcántara\Thiago-Alcantara,es ESP,MF,28,36,29,2648,3,2,0,0,10,0,0.1,0.07,0.17,0.1,0.17,4,4,2.3,0.16,0.09,0.25,0.16,0.25,Matches
+bayern,Jérôme Boateng\Jerome-Boateng,de GER,DF,30,34,32,2589,0,2,0,0,5,1,0,0.07,0.07,0,0.07,0.3,0.3,1.3,0.01,0.05,0.07,0.01,0.07,Matches
+bayern,Kingsley Coman\Kingsley-Coman,fr FRA,FW,23,35,28,2307,7,5,0,0,2,0,0.27,0.2,0.47,0.27,0.47,6.3,6.3,4.4,0.29,0.21,0.5,0.29,0.5,Matches
+bayern,Leon Goretzka\Leon-Goretzka,de GER,MF,24,34,24,2127,8,6,0,0,2,0,0.34,0.25,0.59,0.34,0.59,5.9,5.9,3.5,0.31,0.19,0.5,0.31,0.5,Matches
+bayern,Philippe Coutinho\Philippe-Coutinho,br BRA,MFFW,27,34,22,2066,9,8,1,1,0,0,0.39,0.35,0.74,0.35,0.7,10,9.3,4.4,0.49,0.21,0.7,0.45,0.67,Matches
+bayern,Ivan Perišić\Ivan-Perisic,hr CRO,FW,30,31,15,1547,6,7,0,0,2,0,0.35,0.41,0.76,0.35,0.76,4.9,4.9,4.3,0.31,0.27,0.58,0.31,0.58,Matches
+bayern,Corentin Tolisso\Corentin-Tolisso,fr FRA,MF,24,24,15,1360,3,6,0,0,1,0,0.2,0.4,0.6,0.2,0.6,2.6,2.6,2.3,0.25,0.22,0.47,0.25,0.47,Matches
+bayern,Lucas Hernández\Lucas-Hernandez,fr FRA,DF,23,24,12,1122,0,1,0,0,4,0,0,0.08,0.08,0,0.08,0.5,0.5,1,0.04,0.08,0.12,0.04,0.12,Matches
+bayern,Javi Martínez\Javi-Martinez,es ESP,DFMF,30,23,10,1013,0,0,0,0,5,1,0,0,0,0,0,0.5,0.5,0.1,0.04,0.01,0.05,0.04,0.05,Matches
+bayern,Niklas Süle\Niklas-Sule,de GER,DF,23,12,12,999,0,1,0,0,1,0,0,0.09,0.09,0,0.09,0.2,0.2,0.4,0.03,0.04,0.07,0.03,0.07,Matches
+bayern,Joshua Zirkzee\Joshua-Zirkzee,nl NED,FW,18,12,3,318,4,0,0,0,0,0,1.13,0,1.13,1.13,1.13,1.9,1.9,0.1,0.56,0.02,0.58,0.56,0.58,Matches
+bayern,Mickaël Cuisance\Mickael-Cuisance,fr FRA,MF,19,10,3,317,1,0,0,0,1,0,0.28,0,0.28,0.28,0.28,0.6,0.6,0.2,0.17,0.05,0.22,0.17,0.22,Matches
+bayern,Álvaro Odriozola\Alvaro-Odriozola,es ESP,DF,23,4,2,160,0,0,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0.24,0.24,0,0.24,Matches
+bayern,Sven Ulreich\Sven-Ulreich,de GER,GK,30,1,1,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+bayern,Renato Sanches\Renato-Sanches,pt POR,MF,21,3,1,89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+bayern,Sarpreet Singh\Sarpreet-Singh,nz NZL,MF,20,2,1,72,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.09,0,0.09,0.09,0.09,Matches
+bayern,Kwasi Okyere Wriedt\Kwasi-Okyere-Wriedt,gh GHA,FW,25,1,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.16,0,0.16,0.16,0.16,Matches
+bayern,Oliver Batista-Meier\Oliver-Batista-Meier,de GER,FW,18,1,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+bayern,Leon Dajaku\Leon-Dajaku,de GER,DF,18,2,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+bayern,Chris Richards\Chris-Richards,us USA,DF,19,1,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+bayern,Jamal Musiala\Jamal-Musiala,eng ENG,MF,16,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+dortmund,Achraf Hakimi\Achraf-Hakimi,ma MAR,DFFW,20,45,38,3571,9,10,0,0,5,0,0.23,0.25,0.48,0.23,0.48,5.8,5.8,5.5,0.15,0.15,0.3,0.15,0.3,Matches
+dortmund,Roman Bürki\Roman-Burki,ch SUI,GK,28,39,39,3490,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+dortmund,Mats Hummels\Mats-Hummels,de GER,DF,30,41,41,3481,1,3,0,0,10,1,0.03,0.08,0.1,0.03,0.1,1.8,1.8,2.1,0.05,0.06,0.11,0.05,0.11,Matches
+dortmund,Jadon Sancho\Jadon-Sancho,eng ENG,FW,19,44,36,3266,20,19,0,0,2,0,0.55,0.52,1.07,0.55,1.07,11.8,11.8,10.5,0.36,0.32,0.69,0.36,0.69,Matches
+dortmund,Axel Witsel\Axel-Witsel,be BEL,MF,30,39,36,3215,4,5,0,0,5,0,0.11,0.14,0.25,0.11,0.25,2.3,2.3,2.7,0.07,0.08,0.16,0.07,0.16,Matches
+dortmund,Manuel Akanji\Manuel-Akanji,ch SUI,DF,24,39,35,3192,0,2,0,0,2,0,0,0.06,0.06,0,0.06,0.8,0.8,0.7,0.02,0.02,0.05,0.02,0.05,Matches
+dortmund,Thorgan Hazard\Thorgan-Hazard,be BEL,FW,26,43,37,3077,7,14,0,0,5,0,0.2,0.41,0.61,0.2,0.61,6.3,6.3,9.3,0.2,0.29,0.49,0.2,0.49,Matches
+dortmund,Raphaël Guerreiro\Raphael-Guerreiro,pt POR,DF,25,38,33,2959,8,3,0,0,4,0,0.24,0.09,0.33,0.24,0.33,4.6,4.6,3.3,0.14,0.1,0.24,0.14,0.24,Matches
+dortmund,Julian Brandt\Julian-Brandt,de GER,MFFW,23,42,32,2873,7,12,0,0,1,0,0.22,0.38,0.6,0.22,0.6,4.7,4.7,7.7,0.16,0.26,0.41,0.16,0.41,Matches
+dortmund,Łukasz Piszczek\Lukasz-Piszczek,pl POL,DF,34,38,32,2727,1,4,0,0,4,0,0.03,0.13,0.17,0.03,0.17,0.4,0.4,2.1,0.01,0.08,0.09,0.01,0.09,Matches
+dortmund,Marco Reus\Marco-Reus,de GER,FWMF,30,26,25,2111,12,6,1,2,2,0,0.51,0.26,0.77,0.47,0.72,12.1,10.6,3.1,0.59,0.15,0.73,0.51,0.66,Matches
+dortmund,Julian Weigl\Julian-Weigl,de GER,MFDF,23,20,19,1629,1,0,0,0,7,1,0.06,0,0.06,0.06,0.06,0.3,0.3,0.3,0.02,0.02,0.04,0.02,0.04,Matches
+dortmund,Dan-Axel Zagadou\Dan-Axel-Zagadou,fr FRA,DF,20,22,15,1424,1,1,0,0,2,0,0.06,0.06,0.13,0.06,0.13,0.2,0.2,0.4,0.02,0.03,0.05,0.02,0.05,Matches
+dortmund,Erling Braut Håland\Erling-Braut-Haland,no NOR,FW,19,18,13,1288,16,2,0,0,1,0,1.12,0.14,1.26,1.12,1.26,9.2,9.2,1.5,0.66,0.11,0.77,0.66,0.77,Matches
+dortmund,Nico Schulz\Nico-Schulz,de GER,DFMF,26,18,14,1166,1,0,0,0,2,0,0.08,0,0.08,0.08,0.08,1.1,1.1,0.2,0.12,0.02,0.14,0.12,0.14,Matches
+dortmund,Emre Can\Emre-Can,de GER,MF,25,15,12,1135,2,0,0,0,5,1,0.16,0,0.16,0.16,0.16,1,1,0.5,0.08,0.04,0.12,0.08,0.12,Matches
+dortmund,Thomas Delaney\Thomas-Delaney,dk DEN,MF,27,14,14,1074,0,0,0,0,5,0,0,0,0,0,0,0.5,0.5,0.1,0.04,0.01,0.05,0.04,0.05,Matches
+dortmund,Paco Alcácer\Paco-Alcacer,es ESP,FW,25,15,9,823,7,2,0,0,0,0,0.77,0.22,0.98,0.77,0.98,4.3,4.3,1.5,0.61,0.21,0.82,0.61,0.82,Matches
+dortmund,Marwin Hitz\Marwin-Hitz,ch SUI,GK,31,8,7,650,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+dortmund,Mario Götze\Mario-Gotze,de GER,FW,27,21,6,620,3,1,1,1,0,0,0.44,0.15,0.58,0.29,0.44,1.9,1.1,2,0.29,0.3,0.58,0.17,0.47,Matches
+dortmund,Mahmoud Dahoud\Mahmoud-Dahoud,de GER,MFFW,23,14,6,588,0,1,0,0,1,0,0,0.15,0.15,0,0.15,1.2,1.2,0.4,0.18,0.05,0.23,0.18,0.23,Matches
+dortmund,Giovanni Reyna\Giovanni-Reyna,us USA,FWMF,16,18,2,423,1,2,0,0,3,0,0.21,0.43,0.64,0.21,0.64,0.2,0.2,1,0.04,0.23,0.27,0.04,0.27,Matches
+dortmund,Mateu Morey\Mateu-Morey,es ESP,DFFW,19,5,2,197,0,1,0,0,0,0,0,0.46,0.46,0,0.46,0.5,0.5,0.4,0.23,0.18,0.42,0.23,0.42,Matches
+dortmund,Jacob Bruun Larsen\Jacob-Bruun-Larsen,dk DEN,FW,20,9,1,164,0,1,0,0,0,0,0,0.55,0.55,0,0.55,0,0,0.3,0,0.29,0.29,0,0.29,Matches
+dortmund,Leonardo Balerdi\Leonardo-Balerdi,ar ARG,DF,20,8,1,141,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+dortmund,Ömer Toprak\Omer-Toprak,tr TUR,DF,30,1,1,90,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,Matches
+dortmund,Marcel Schmelzer\Marcel-Schmelzer,de GER,FW,31,8,0,67,1,1,0,0,0,0,1.34,1.34,2.69,1.34,2.69,0.6,0.6,0.2,0.75,0.21,0.95,0.75,0.95,Matches
+dortmund,Tobias Raschl\Tobias-Raschl,de GER,MF,19,1,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+dortmund,Marius Wolf\Marius-Wolf,de GER,DFFW,24,1,0,11,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,Matches
+juventus,Leonardo Bonucci\Leonardo-Bonucci,it ITA,DF,32,41,41,3692,4,0,0,0,10,0,0.1,0,0.1,0.1,0.1,3,3,0.6,0.08,0.02,0.1,0.08,0.1,Matches
+juventus,Cristiano Ronaldo\Cristiano-Ronaldo,pt POR,FW,34,39,39,3478,30,6,10,11,2,0,0.78,0.16,0.93,0.52,0.67,23.2,16.4,4.3,0.7,0.13,0.83,0.49,0.62,Matches
+juventus,Miralem Pjanić\Miralem-Pjanic,ba BIH,MF,29,39,37,3085,3,3,0,0,9,0,0.09,0.09,0.18,0.09,0.18,1.2,1.2,3.1,0.04,0.1,0.14,0.04,0.14,Matches
+juventus,Juan Cuadrado\Juan-Cuadrado,co COL,DFFW,31,39,31,2999,3,6,0,0,7,1,0.09,0.18,0.27,0.09,0.27,1.4,1.4,5.4,0.05,0.18,0.23,0.05,0.23,Matches
+juventus,Alex Sandro\Alex-Sandro,br BRA,DF,28,34,33,2921,0,5,0,0,3,0,0,0.15,0.15,0,0.15,0.6,0.6,3,0.02,0.11,0.14,0.02,0.14,Matches
+juventus,Matthijs de Ligt\Matthijs-de-Ligt,nl NED,DF,19,33,30,2853,3,0,0,0,5,0,0.09,0,0.09,0.09,0.09,2.5,2.5,0.1,0.09,0.01,0.1,0.09,0.1,Matches
+juventus,Wojciech Szczęsny\Wojciech-Szczesny,pl POL,GK,29,30,30,2700,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+juventus,Paulo Dybala\Paulo-Dybala,ar ARG,FWMF,25,40,29,2598,17,9,2,2,6,0,0.59,0.31,0.9,0.52,0.83,9.4,8.6,6.4,0.4,0.27,0.67,0.36,0.63,Matches
+juventus,Rodrigo Bentancur\Rodrigo-Bentancur,uy URU,MF,22,36,28,2586,1,6,0,0,12,1,0.03,0.21,0.24,0.03,0.24,0.5,0.5,3.2,0.02,0.14,0.16,0.02,0.16,Matches
+juventus,Blaise Matuidi\Blaise-Matuidi,fr FRA,MF,32,38,27,2482,1,2,0,0,6,0,0.04,0.07,0.11,0.04,0.11,1.8,1.8,1.3,0.08,0.05,0.13,0.08,0.13,Matches
+juventus,Gonzalo Higuaín\Gonzalo-Higuain,ar ARG,FW,31,38,24,2259,9,8,0,0,3,0,0.36,0.32,0.68,0.36,0.68,9.4,9.4,4.9,0.43,0.22,0.65,0.43,0.65,Matches
+juventus,Adrien Rabiot\Adrien-Rabiot,fr FRA,MF,24,30,21,1938,1,0,0,0,5,1,0.05,0,0.05,0.05,0.05,0.9,0.9,0.9,0.04,0.05,0.09,0.04,0.09,Matches
+juventus,Danilo\Danilo,br BRA,DF,28,25,19,1788,1,0,0,0,3,1,0.05,0,0.05,0.05,0.05,0.7,0.7,0.7,0.04,0.04,0.08,0.04,0.08,Matches
+juventus,Federico Bernardeschi\Federico-Bernardeschi,it ITA,MF,25,31,17,1530,1,1,0,0,3,0,0.06,0.06,0.12,0.06,0.12,4,4,2.7,0.26,0.18,0.44,0.26,0.44,Matches
+juventus,Gianluigi Buffon\Gianluigi-Buffon,it ITA,GK,41,14,14,1290,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0,0.03,0.03,0,0.03,Matches
+juventus,Aaron Ramsey\Aaron-Ramsey,wal WAL,MF,28,29,12,1216,4,1,0,0,1,0,0.3,0.07,0.37,0.3,0.37,3.4,3.4,1.8,0.29,0.16,0.45,0.29,0.45,Matches
+juventus,Sami Khedira\Sami-Khedira,de GER,MF,32,18,13,972,0,1,0,0,4,0,0,0.09,0.09,0,0.09,1.3,1.3,1,0.12,0.1,0.22,0.12,0.22,Matches
+juventus,Douglas Costa\Douglas-Costa,br BRA,MF,28,25,10,943,3,5,1,1,2,0,0.29,0.48,0.76,0.19,0.67,1.4,1.4,3.3,0.19,0.44,0.63,0.19,0.63,Matches
+juventus,Mattia De Sciglio\Mattia-De-Sciglio,it ITA,DF,26,13,10,773,0,0,0,0,1,0,0,0,0,0,0,0,0,0.1,0,0.01,0.02,0,0.02,Matches
+juventus,Daniele Rugani\Daniele-Rugani,it ITA,DF,25,8,8,720,0,0,0,0,1,0,0,0,0,0,0,0.3,0.3,0,0.05,0,0.05,0.05,0.05,Matches
+juventus,Merih Demiral\Merih-Demiral,tr TUR,DF,21,7,7,558,1,1,0,0,1,0,0.16,0.16,0.32,0.16,0.32,0.4,0.4,0.2,0.07,0.05,0.12,0.07,0.12,Matches
+juventus,Emre Can\Emre-Can,de GER,MF,25,8,2,284,0,0,0,0,2,0,0,0,0,0,0,1.3,1.3,0.5,0.41,0.17,0.58,0.41,0.58,Matches
+juventus,Giorgio Chiellini\Giorgio-Chiellini,it ITA,DF,34,3,2,157,1,0,0,0,0,0,0.57,0,0.57,0.57,0.57,0.3,0.3,0,0.18,0,0.18,0.18,0.18,Matches
+juventus,Simone Muratore\Simone-Muratore,it ITA,MF,21,3,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+juventus,Marko Pjaca\Marko-Pjaca,hr CRO,FWMF,24,1,0,16,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,Matches
+juventus,Marco Olivieri\Marco-Olivieri,it ITA,FW,20,1,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+inter,Romelu Lukaku\Romelu-Lukaku,be BEL,FW,26,41,38,3369,26,5,6,6,2,0,0.69,0.13,0.83,0.53,0.67,21.5,17,5.9,0.64,0.18,0.82,0.51,0.68,Matches
+inter,Samir Handanović\Samir-Handanovic,si SVN,GK,35,36,36,3240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+inter,Stefan de Vrij\Stefan-de-Vrij,nl NED,DF,27,36,34,3075,3,4,0,0,6,0,0.09,0.12,0.2,0.09,0.2,1.9,1.9,1,0.06,0.03,0.09,0.06,0.09,Matches
+inter,Milan Škriniar\Milan-Skriniar,sk SVK,DF,24,35,35,3030,0,0,0,0,11,1,0,0,0,0,0,0.8,0.8,0.4,0.03,0.01,0.04,0.03,0.04,Matches
+inter,Marcelo Brozović\Marcelo-Brozovic,hr CRO,MF,26,34,32,2891,3,6,0,0,7,0,0.09,0.19,0.28,0.09,0.28,2.9,2.9,2.7,0.1,0.09,0.19,0.1,0.19,Matches
+inter,Lautaro Martínez\Lautaro-Martinez,ar ARG,FW,21,37,34,2847,17,4,2,4,11,1,0.54,0.13,0.66,0.47,0.6,18.3,15.3,3.6,0.64,0.12,0.76,0.53,0.65,Matches
+inter,Nicolò Barella\Nicolo-Barella,it ITA,MF,22,33,27,2368,3,4,0,0,10,0,0.11,0.15,0.27,0.11,0.27,1.8,1.8,1.5,0.08,0.07,0.15,0.08,0.15,Matches
+inter,Antonio Candreva\Antonio-Candreva,it ITA,DF,32,32,26,2137,5,8,0,0,7,0,0.21,0.34,0.55,0.21,0.55,2,2,6.6,0.09,0.3,0.39,0.09,0.39,Matches
+inter,Diego Godín\Diego-Godin,uy URU,DF,33,26,22,1972,0,1,0,0,7,0,0,0.05,0.05,0,0.05,0.7,0.7,0.8,0.03,0.04,0.07,0.03,0.07,Matches
+inter,Cristiano Biraghi\Cristiano-Biraghi,it ITA,DF,26,29,21,1806,2,4,0,0,1,0,0.1,0.2,0.3,0.1,0.3,1.2,1.2,2.6,0.06,0.14,0.21,0.06,0.21,Matches
+inter,Alessandro Bastoni\Alessandro-Bastoni,it ITA,DF,20,23,19,1786,2,0,0,0,8,1,0.1,0,0.1,0.1,0.1,1,1,1.4,0.06,0.08,0.14,0.06,0.14,Matches
+inter,Matías Vecino\Matias-Vecino,uy URU,MF,27,24,19,1677,3,2,0,0,5,0,0.16,0.11,0.27,0.16,0.27,3.2,3.2,2,0.18,0.11,0.3,0.18,0.3,Matches
+inter,Roberto Gagliardini\Roberto-Gagliardini,it ITA,MF,25,21,16,1441,3,1,0,0,4,0,0.19,0.06,0.25,0.19,0.25,3.1,2.8,1,0.19,0.07,0.26,0.17,0.24,Matches
+inter,Danilo D'Ambrosio\Danilo-DAmbrosio,it ITA,DF,30,21,15,1427,2,0,0,0,6,0,0.13,0,0.13,0.13,0.13,1.9,1.9,1.3,0.12,0.09,0.21,0.12,0.21,Matches
+inter,Borja Valero\Borja-Valero,es ESP,MF,34,20,11,1044,3,0,0,0,4,0,0.26,0,0.26,0.26,0.26,1.3,1.3,1.7,0.13,0.16,0.28,0.13,0.28,Matches
+inter,Stefano Sensi\Stefano-Sensi,it ITA,MF,23,18,12,1003,3,3,0,0,3,0,0.27,0.27,0.54,0.27,0.54,2.1,2.1,2.1,0.2,0.2,0.41,0.2,0.41,Matches
+inter,Ashley Young\Ashley-Young,eng ENG,DF,34,13,10,904,2,2,0,0,1,0,0.2,0.2,0.4,0.2,0.4,0.8,0.8,1.1,0.1,0.13,0.23,0.1,0.23,Matches
+inter,Kwadwo Asamoah\Kwadwo-Asamoah,gh GHA,DF,30,11,10,898,0,1,0,0,2,0,0,0.1,0.1,0,0.1,0.1,0.1,0.8,0.01,0.08,0.08,0.01,0.08,Matches
+inter,Alexis Sánchez\Alexis-Sanchez,cl CHI,FW,30,21,9,815,2,5,1,1,3,1,0.22,0.55,0.77,0.11,0.66,3.5,2.8,2.7,0.49,0.37,0.87,0.39,0.76,Matches
+inter,Christian Eriksen\Christian-Eriksen,dk DEN,MF,27,14,8,742,3,3,0,0,0,0,0.36,0.36,0.73,0.36,0.73,2.1,2.1,2.5,0.31,0.38,0.69,0.31,0.69,Matches
+inter,Andrea Ranocchia\Andrea-Ranocchia,it ITA,DF,31,9,7,641,1,0,0,0,1,0,0.14,0,0.14,0.14,0.14,0.3,0.3,0,0.06,0,0.06,0.06,0.06,Matches
+inter,Victor Moses\Victor-Moses,ng NGA,DF,28,12,6,558,0,2,0,0,1,0,0,0.32,0.32,0,0.32,0.2,0.2,1.9,0.03,0.39,0.42,0.03,0.42,Matches
+inter,Daniele Padelli\Daniele-Padelli,it ITA,GK,33,6,6,540,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+inter,Valentino Lazaro\Valentino-Lazaro,at AUT,DF,23,11,4,517,0,2,0,0,2,0,0,0.35,0.35,0,0.35,0.1,0.1,1.3,0.03,0.27,0.3,0.03,0.3,Matches
+inter,Matteo Politano\Matteo-Politano,it ITA,FWDF,25,15,2,324,0,0,0,0,1,0,0,0,0,0,0,1.1,1.1,0.9,0.3,0.25,0.55,0.3,0.55,Matches
+inter,Sebastiano Esposito\Sebastiano-Esposito,it ITA,FWMF,17,12,2,295,1,0,1,1,2,0,0.31,0,0.31,0,0,1.7,0.9,0.2,0.56,0.05,0.61,0.3,0.36,Matches
+inter,Federico Dimarco\Federico-Dimarco,it ITA,DF,21,4,1,104,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.12,0,0.12,0.12,0.12,Matches
+inter,Lucien Agoume\Lucien-Agoume,fr FRA,MF,17,3,0,68,0,0,0,0,1,0,0,0,0,0,0,0,0,0.1,0,0.14,0.14,0,0.14,Matches
+milan,Alessio Romagnoli\Alessio-Romagnoli,it ITA,DF,24,35,35,3180,0,0,0,0,4,0,0,0,0,0,0,1.3,1.3,0.6,0.04,0.02,0.06,0.04,0.06,Matches
+milan,Gianluigi Donnarumma\Gianluigi-Donnarumma,it ITA,GK,20,32,32,2871,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+milan,Theo Hernández\Theo-Hernandez,fr FRA,DF,21,30,29,2613,6,2,0,0,11,1,0.21,0.07,0.28,0.21,0.28,3.1,3.1,4,0.12,0.15,0.27,0.12,0.27,Matches
+milan,Franck Kessié\Franck-Kessie,ci CIV,MF,22,31,28,2473,2,2,1,1,4,0,0.07,0.07,0.15,0.04,0.11,2.9,2.2,1.8,0.12,0.07,0.19,0.09,0.16,Matches
+milan,Hakan Çalhanoğlu\Hakan-Calhanoglu,tr TUR,MFFW,25,31,29,2457,7,3,1,1,6,0,0.26,0.11,0.37,0.22,0.33,6,5.3,4.2,0.24,0.17,0.41,0.21,0.38,Matches
+milan,Ismaël Bennacer\Ismael-Bennacer,dz ALG,MF,21,29,27,2439,0,1,0,0,13,0,0,0.04,0.04,0,0.04,0.6,0.6,1.1,0.02,0.05,0.07,0.02,0.07,Matches
+milan,Andrea Conti\Andrea-Conti,it ITA,DF,25,23,21,1877,0,2,0,0,9,0,0,0.1,0.1,0,0.1,0,0,1.3,0,0.08,0.08,0,0.08,Matches
+milan,Mateo Musacchio\Mateo-Musacchio,ar ARG,DF,28,18,17,1466,0,0,0,0,4,1,0,0,0,0,0,0.4,0.4,0.6,0.03,0.04,0.06,0.03,0.06,Matches
+milan,Suso\Suso,es ESP,FWMF,25,17,15,1386,1,2,0,0,2,0,0.06,0.13,0.19,0.06,0.19,1.3,1.3,3.6,0.09,0.24,0.32,0.09,0.32,Matches
+milan,Samu Castillejo\Samu-Castillejo,es ESP,FWMF,24,22,18,1356,2,4,0,0,5,1,0.13,0.27,0.4,0.13,0.4,2.5,2.5,3,0.21,0.25,0.45,0.21,0.45,Matches
+milan,Davide Calabria\Davide-Calabria,it ITA,DF,22,21,14,1343,0,1,0,0,5,2,0,0.07,0.07,0,0.07,0.2,0.2,0.5,0.02,0.04,0.05,0.02,0.05,Matches
+milan,Krzysztof Piątek\Krzysztof-Piatek,pl POL,FW,24,20,16,1337,5,1,3,3,1,0,0.34,0.07,0.4,0.13,0.2,6.2,3.9,0.9,0.47,0.07,0.54,0.3,0.37,Matches
+milan,Ante Rebić\Ante-Rebic,hr CRO,FWMF,25,24,14,1284,11,2,0,0,5,1,0.77,0.14,0.91,0.77,0.91,5.6,5.6,1.7,0.51,0.15,0.66,0.51,0.66,Matches
+milan,Giacomo Bonaventura\Giacomo-Bonaventura,it ITA,MFFW,29,25,15,1264,4,2,0,0,1,0,0.28,0.14,0.43,0.28,0.43,2.9,2.9,1.9,0.24,0.16,0.41,0.24,0.41,Matches
+milan,Rafael Leão\Rafael-Leao,pt POR,FW,20,27,10,1257,5,1,0,0,0,0,0.36,0.07,0.43,0.36,0.43,4.5,4.5,2.2,0.35,0.17,0.52,0.35,0.52,Matches
+milan,Lucas Paquetá\Lucas-Paqueta,br BRA,MFFW,21,25,12,1147,0,1,0,0,7,0,0,0.08,0.08,0,0.08,2.2,2.2,1.2,0.19,0.1,0.29,0.19,0.29,Matches
+milan,Simon Kjær\Simon-Kjaer,dk DEN,DF,30,12,12,1003,0,0,0,0,2,0,0,0,0,0,0,0.3,0.3,0,0.05,0,0.05,0.05,0.05,Matches
+milan,Zlatan Ibrahimović\Zlatan-Ibrahimovic,se SWE,FW,37,13,10,949,6,3,2,2,3,0,0.57,0.28,0.85,0.38,0.66,6.1,4.6,1.8,0.68,0.2,0.88,0.51,0.71,Matches
+milan,Rade Krunić\Rade-Krunic,ba BIH,MF,25,14,6,644,0,1,0,0,4,0,0,0.14,0.14,0,0.14,0.4,0.4,0.9,0.07,0.17,0.24,0.07,0.24,Matches
+milan,Lucas Biglia\Lucas-Biglia,ar ARG,MF,33,9,6,534,0,1,0,0,3,0,0,0.17,0.17,0,0.17,0.2,0.2,0.1,0.03,0.02,0.05,0.03,0.05,Matches
+milan,Léo Duarte\Leo-Duarte,br BRA,DF,23,5,4,393,0,0,0,0,2,0,0,0,0,0,0,0.3,0.3,0,0.08,0,0.08,0.08,0.08,Matches
+milan,Ricardo Rodríguez\Ricardo-Rodriguez,ch SUI,DF,26,5,5,386,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.01,0.04,0.04,0.01,0.04,Matches
+milan,Matteo Gabbia\Matteo-Gabbia,it ITA,DF,19,6,3,360,0,0,0,0,1,0,0,0,0,0,0,0.2,0.2,0,0.04,0,0.04,0.04,0.04,Matches
+milan,Alexis Saelemaekers\Alexis-Saelemaekers,be BEL,FWMF,20,9,2,322,0,0,0,0,0,0,0,0,0,0,0,0.3,0.3,0.9,0.08,0.25,0.33,0.08,0.33,Matches
+milan,Asmir Begović\Asmir-Begovic,ba BIH,GK,32,2,1,129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+milan,Pepe Reina\Pepe-Reina,es ESP,GK,36,1,1,90,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+milan,Antonio Donnarumma\Antonio-Donnarumma,it ITA,GK,29,1,1,90,0,0,0,0,1,0,0,0,0,0,0,,,,,,,,,Matches
+milan,Fabio Borini\Fabio-Borini,it ITA,MFFW,28,2,1,70,0,0,0,0,1,0,0,0,0,0,0,0.1,0.1,0,0.09,0,0.09,0.09,0.09,Matches
+milan,André Silva\Andre-Silva,pt POR,FW,23,1,1,60,0,0,0,0,1,0,0,0,0,0,0,0.3,0.3,0,0.49,0,0.49,0.49,0.49,Matches
+milan,Diego Laxalt\Diego-Laxalt,uy URU,DF,26,3,0,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0.38,0.38,0,0.38,Matches
+milan,Lorenzo Colombo\Lorenzo-Colombo,it ITA,FW,17,1,0,9,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,Matches
+milan,Daniel Maldini\Daniel-Maldini,it ITA,MF,17,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+psg,Ángel Di María\Angel-Di-Maria,ar ARG,FWMF,31,37,33,2863,12,20,1,2,6,0,0.38,0.63,1.01,0.35,0.97,11.5,10,17.3,0.4,0.6,1.01,0.35,0.95,Matches
+psg,Keylor Navas\Keylor-Navas,cr CRC,GK,32,31,31,2790,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+psg,Marquinhos\Marquinhos,br BRA,MFDF,25,32,28,2569,4,1,0,0,2,0,0.14,0.04,0.18,0.14,0.18,1.9,1.9,0.7,0.08,0.03,0.11,0.08,0.11,Matches
+psg,Kylian Mbappé\Kylian-Mbappe,fr FRA,FW,20,33,27,2478,30,13,0,0,4,0,1.09,0.47,1.56,1.09,1.56,21.9,21.9,11.1,1,0.51,1.51,1,1.51,Matches
+psg,Idrissa Gana Gueye\Idrissa-Gana-Gueye,sn SEN,MF,29,31,28,2417,1,3,0,0,3,0,0.04,0.11,0.15,0.04,0.15,1.4,1.4,3.1,0.06,0.13,0.19,0.06,0.19,Matches
+psg,Marco Verratti\Marco-Verratti,it ITA,MF,26,33,25,2396,0,6,0,0,11,0,0,0.23,0.23,0,0.23,0.2,0.2,4.4,0.01,0.19,0.2,0.01,0.2,Matches
+psg,Thiago Silva\Thiago-Silva,br BRA,DF,34,30,28,2272,1,1,0,0,2,0,0.04,0.04,0.08,0.04,0.08,0.5,0.5,0,0.02,0,0.03,0.02,0.03,Matches
+psg,Pablo Sarabia\Pablo-Sarabia,es ESP,FWMF,27,36,25,2227,14,7,0,0,2,0,0.57,0.28,0.85,0.57,0.85,4.8,4.8,5,0.28,0.3,0.58,0.28,0.58,Matches
+psg,Juan Bernat\Juan-Bernat,es ESP,DF,26,29,25,2222,1,6,0,0,8,0,0.04,0.24,0.28,0.04,0.28,0.8,0.8,3.8,0.04,0.17,0.21,0.04,0.21,Matches
+psg,Thomas Meunier\Thomas-Meunier,be BEL,DF,27,27,24,2133,1,2,0,0,8,0,0.04,0.08,0.13,0.04,0.13,1.1,1.1,2.8,0.06,0.15,0.21,0.06,0.21,Matches
+psg,Mauro Icardi\Mauro-Icardi,ar ARG,FW,26,31,23,1952,20,4,0,0,1,0,0.92,0.18,1.11,0.92,1.11,14.1,14.1,3,0.76,0.16,0.92,0.76,0.92,Matches
+psg,Presnel Kimpembe\Presnel-Kimpembe,fr FRA,DF,23,24,22,1945,0,0,0,0,6,0,0,0,0,0,0,0.4,0.4,0.1,0.02,0,0.03,0.02,0.03,Matches
+psg,Neymar\Neymar,br BRA,MFFW,27,22,21,1903,18,9,5,6,7,1,0.85,0.43,1.28,0.61,1.04,15.1,11.3,7.5,0.83,0.41,1.25,0.62,1.04,Matches
+psg,Abdou Diallo\Abdou-Diallo,fr FRA,DF,23,22,18,1582,0,1,0,0,4,0,0,0.06,0.06,0,0.06,0.9,0.9,0.1,0.06,0.01,0.07,0.06,0.07,Matches
+psg,Leandro Paredes\Leandro-Paredes,ar ARG,MF,25,28,15,1488,1,0,0,0,4,0,0.06,0,0.06,0.06,0.06,0.5,0.5,0.2,0.05,0.02,0.06,0.05,0.06,Matches
+psg,Layvin Kurzawa\Layvin-Kurzawa,fr FRA,DF,26,23,16,1488,1,1,0,0,6,0,0.06,0.06,0.12,0.06,0.12,0.8,0.8,0.2,0.07,0.02,0.08,0.07,0.08,Matches
+psg,Thilo Kehrer\Thilo-Kehrer,de GER,DF,22,16,13,1216,1,0,0,0,0,0,0.07,0,0.07,0.07,0.07,0.3,0.3,0.3,0.05,0.05,0.09,0.05,0.09,Matches
+psg,Julian Draxler\Julian-Draxler,de GER,FW,25,19,12,1125,0,6,0,0,6,0,0,0.48,0.48,0,0.48,1.6,1.6,2.1,0.2,0.27,0.47,0.2,0.47,Matches
+psg,Edinson Cavani\Edinson-Cavani,uy URU,FW,32,22,12,1100,7,2,2,2,2,0,0.57,0.16,0.74,0.41,0.57,9.1,7.6,1.4,1.11,0.18,1.28,0.92,1.1,Matches
+psg,Colin Dagba\Colin-Dagba,fr FRA,DF,20,15,12,1099,0,1,0,0,1,0,0,0.08,0.08,0,0.08,0.1,0.1,0.7,0.01,0.08,0.09,0.01,0.09,Matches
+psg,Ander Herrera\Ander-Herrera,es ESP,MFFW,29,18,11,993,1,1,0,0,1,0,0.09,0.09,0.18,0.09,0.18,0.2,0.2,0.6,0.03,0.08,0.11,0.03,0.11,Matches
+psg,Nianzou Kouassi\Nianzou-Kouassi,fr FRA,MF,17,13,9,907,3,1,0,0,2,0,0.3,0.1,0.4,0.3,0.4,0.4,0.4,0.3,0.07,0.04,0.11,0.07,0.11,Matches
+psg,Eric Maxim Choupo-Moting\Eric-Maxim-Choupo-Moting,cm CMR,FW,30,17,8,779,5,1,0,0,1,0,0.58,0.12,0.69,0.58,0.69,2.7,2.7,1.3,0.45,0.21,0.66,0.45,0.66,Matches
+psg,Sergio Rico\Sergio-Rico,es ESP,GK,25,8,8,720,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+psg,Alphonse Areola\Alphonse-Areola,fr FRA,GK,26,4,4,360,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+psg,Mitchel Bakker\Mitchel-Bakker,nl NED,DF,19,3,2,199,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+psg,Adil Aouchiche\Adil-Aouchiche,fr FRA,MF,17,3,2,162,1,0,0,0,0,0,0.56,0,0.56,0.56,0.56,0,0,0,0,0,0,0,0,Matches
+psg,Marcin Bułka\Marcin-Bulka,pl POL,GK,19,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+psg,Loïc Mbe Soh\Loic-Mbe-Soh,fr FRA,DF,18,1,1,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+psg,Arthur Zagre\Arthur-Zagre,fr FRA,MF,17,1,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+psg,Jesé\Jese,es ESP,FW,26,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches

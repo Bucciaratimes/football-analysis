@@ -1,0 +1,24 @@
+,minute,team,player,x,y,xG,result,shotType,assist
+0,9,Barcelona,Dani Alves,0.664000015258789,0.48,0.011850319802761078,MissedShots,RightFoot,Jordi Alba
+1,29,Barcelona,Memphis Depay,0.87,0.455,0.10887716710567474,Goal,RightFoot,Ousmane Dembélé
+2,40,Barcelona,Pierre-Emerick Aubameyang,0.9069999694824219,0.5259999847412109,0.1147671788930893,Goal,LeftFoot,None
+3,44,Barcelona,Memphis Depay,0.8730000305175781,0.725999984741211,0.0468917079269886,MissedShots,RightFoot,Frenkie de Jong
+4,47,Barcelona,Pierre-Emerick Aubameyang,0.86,0.46599998474121096,0.1267804056406021,Goal,RightFoot,Ousmane Dembélé
+5,58,Barcelona,Memphis Depay,0.81,0.629000015258789,0.11406190693378448,MissedShots,RightFoot,None
+6,84,Barcelona,Luuk de Jong,0.9209999847412109,0.4929999923706055,0.4388096034526825,MissedShots,Head,Dani Alves
+7,87,Barcelona,Anssumane Fati,0.9019999694824219,0.54,0.1414930522441864,MissedShots,LeftFoot,Ousmane Dembélé
+8,95,Barcelona,Anssumane Fati,0.7430000305175781,0.44299999237060544,0.02713104337453842,SavedShot,RightFoot,Riqui Puig
+9,99,Barcelona,Anssumane Fati,0.8919999694824219,0.5720000076293945,0.10291796922683716,BlockedShot,LeftFoot,None
+10,13,Celta Vigo,Iago Aspas,0.845,0.5420000076293945,0.075924813747406,BlockedShot,LeftFoot,None
+11,35,Celta Vigo,Thiago Galhardo,0.8169999694824219,0.47299999237060547,0.052103232592344284,SavedShot,RightFoot,Denis Suárez
+12,35,Celta Vigo,Thiago Galhardo,0.894000015258789,0.5409999847412109,0.06750348210334778,SavedShot,Head,Joseph Aidoo
+13,41,Celta Vigo,Brais Méndez,0.7680000305175781,0.6459999847412109,0.020944498479366302,SavedShot,LeftFoot,Thiago Galhardo
+14,49,Celta Vigo,Iago Aspas,0.899000015258789,0.6090000152587891,0.3089877665042877,Goal,LeftFoot,Thiago Galhardo
+15,51,Celta Vigo,Thiago Galhardo,0.87,0.5529999923706055,0.06723350286483765,MissedShots,RightFoot,Brais Méndez
+16,54,Celta Vigo,Thiago Galhardo,0.9519999694824218,0.615,0.050118330866098404,BlockedShot,RightFoot,Denis Suárez
+17,54,Celta Vigo,Fran Beltrán,0.7219999694824218,0.700999984741211,0.015419385395944118,BlockedShot,RightFoot,Franco Cervi
+18,56,Celta Vigo,Brais Méndez,0.95,0.68,0.025884907692670822,SavedShot,RightFoot,Javi Galán
+19,68,Celta Vigo,Fran Beltrán,0.8109999847412109,0.49599998474121093,0.05556074157357216,BlockedShot,RightFoot,Brais Méndez
+20,80,Celta Vigo,Javi Galán,0.8809999847412109,0.7659999847412109,0.02170349657535553,MissedShots,LeftFoot,Iago Aspas
+21,91,Celta Vigo,Iago Aspas,0.94,0.57,0.07273534685373306,BlockedShot,Head,Javi Galán
+22,102,Celta Vigo,Gabriel Veiga,0.745,0.5690000152587891,0.017007170245051384,MissedShots,LeftFoot,None

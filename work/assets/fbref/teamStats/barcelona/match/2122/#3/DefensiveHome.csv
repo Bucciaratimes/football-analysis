@@ -1,0 +1,17 @@
+,Player,#,Nation,Pos,Age,Min,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,Memphis Depay,9.0,nl  NED,"FW,LW",27-197,90,0,0,0,0,0,0,0,,0,18,4,22.2,1,6,11,0,0,0,0,0,0,0,0
+1,Martin Braithwaite,12.0,dk  DEN,"LW,FW",30-085,73,0,0,0,0,0,0,0,,0,15,8,53.3,0,5,10,1,0,0,1,0,0,0,0
+2,Nicolás González,28.0,es  ESP,CM,19-238,17,1,1,1,0,0,1,1,100.0,0,3,0,0.0,1,2,0,1,0,0,1,0,1,0,0
+3,Antoine Griezmann,7.0,fr  FRA,RW,30-161,83,3,3,1,2,0,1,2,50.0,1,28,10,35.7,2,19,7,1,0,0,1,4,7,0,0
+4,Óscar Mingueza,29.0,es  ESP,"RB,RW",22-108,7,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+5,Frenkie de Jong,21.0,nl  NED,CM,24-109,90,3,3,0,3,0,1,1,100.0,0,10,6,60.0,3,6,1,0,0,0,0,1,4,0,0
+6,Sergi Roberto,20.0,es  ESP,CM,29-203,73,1,0,0,1,0,1,2,50.0,1,10,2,20.0,3,7,0,0,0,0,0,0,1,0,0
+7,Gavi Paez,30.0,es  ESP,FW,17-024,17,1,1,0,1,0,0,1,0.0,1,9,1,11.1,3,4,2,1,0,0,1,0,1,1,0
+8,Sergio Busquets,5.0,es  ESP,DM,33-044,90,4,2,1,3,0,3,4,75.0,1,21,8,38.1,4,13,4,0,0,0,0,1,5,0,0
+9,Jordi Alba,18.0,es  ESP,LB,32-161,90,1,1,0,1,0,0,1,0.0,1,14,9,64.3,3,6,5,3,0,0,3,2,3,1,0
+10,Clément Lenglet,15.0,fr  FRA,CB,26-073,90,2,2,1,1,0,1,1,100.0,0,15,9,60.0,5,9,1,1,0,0,1,2,4,1,0
+11,Ronald Araújo,4.0,uy  URU,CB,22-175,90,2,1,2,0,0,1,2,50.0,1,13,7,53.8,6,7,0,2,0,0,2,3,5,5,0
+12,Emerson,22.0,br  BRA,RB,22-227,62,4,3,2,2,0,2,4,50.0,2,20,5,25.0,9,9,2,1,0,0,1,2,6,0,0
+13,Sergiño Dest,2.0,us  USA,"RB,RW",20-299,28,0,0,0,0,0,0,0,,0,5,3,60.0,3,1,1,0,0,0,0,0,0,1,0
+14,Marc-André ter Stegen,1.0,de  GER,GK,29-121,90,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+15,15 Players,,,,,990,22,17,8,14,0,11,19,57.9,8,181,72,39.8,43,94,44,11,0,0,11,15,37,9,0

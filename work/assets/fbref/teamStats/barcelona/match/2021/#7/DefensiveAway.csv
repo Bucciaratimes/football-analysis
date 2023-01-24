@@ -1,0 +1,17 @@
+,Player,#,Nation,Pos,Age,Min,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,Antonio Sanabria,19.0,py  PAR,FW,24-248,70,0,0,0,0,0,0,0,,0,11,0,0.0,0,4,7,0,0,0,0,0,0,0,1
+1,Loren Morón,16.0,es  ESP,FW,26-313,20,0,0,0,0,0,0,0,,0,4,0,0.0,1,2,1,0,0,0,0,0,0,0,0
+2,Cristian Tello,11.0,es  ESP,LW,29-088,62,0,0,0,0,0,0,3,0.0,3,8,0,0.0,2,5,1,0,0,0,0,0,0,0,0
+3,Víctor Ruiz,6.0,es  ESP,CB,31-287,28,1,0,1,0,0,0,1,0.0,1,5,1,20.0,5,0,0,0,0,0,0,1,2,0,0
+4,Joaquín,17.0,es  ESP,RW,39-109,62,1,1,0,1,0,0,0,,0,7,1,14.3,3,4,0,1,0,0,1,0,1,0,0
+5,Aitor Ruibal,24.0,es  ESP,RW,24-230,28,1,1,1,0,0,1,2,50.0,1,5,1,20.0,4,1,0,0,0,0,0,0,1,0,0
+6,Sergio Canales,10.0,es  ESP,"AM,LW,CM",29-265,85,1,1,1,0,0,0,2,0.0,2,10,3,30.0,2,5,3,0,0,0,0,0,1,0,0
+7,Rodrigo,28.0,es  ESP,LW,20-175,5,0,0,0,0,0,0,0,,0,1,0,0.0,0,1,0,1,0,0,1,0,0,0,0
+8,Guido Rodríguez,21.0,ar  ARG,"CM,LW",26-209,90,2,1,1,1,0,0,0,,0,27,9,33.3,11,15,1,3,1,0,2,0,2,2,1
+9,William Carvalho,14.0,pt  POR,CM,28-214,90,1,1,1,0,0,0,2,0.0,2,25,6,24.0,8,15,2,0,0,0,0,0,1,2,0
+10,Álex Moreno,15.0,es  ESP,LB,27-152,90,2,0,1,0,1,1,2,50.0,1,15,3,20.0,6,3,6,2,0,0,2,1,3,1,0
+11,Marc Bartra,5.0,es  ESP,CB,29-297,90,1,0,1,0,0,1,3,33.3,2,15,1,6.7,9,6,0,3,0,0,3,1,2,3,0
+12,Aïssa Mandi,23.0,dz  ALG,"CB,AM",29-016,59,0,0,0,0,0,0,0,,0,5,0,0.0,4,1,0,1,1,1,0,2,2,2,0
+13,Emerson,22.0,br  BRA,RB,21-298,90,3,1,2,1,0,0,1,0.0,1,15,4,26.7,8,6,1,3,0,0,3,0,3,2,0
+14,Claudio Bravo,25.0,cl  CHI,GK,37-208,90,0,0,0,0,0,0,1,0.0,1,2,0,0.0,2,0,0,0,0,0,0,0,0,0,0
+15,15 Players,,,,,959,13,6,9,3,1,3,17,17.6,14,155,29,18.7,65,68,22,14,2,1,12,5,18,12,2

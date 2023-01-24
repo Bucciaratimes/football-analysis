@@ -1,0 +1,15 @@
+,Season,Age,Squad,Country,Comp,LgRank,90s,GA_Goals,PKA_Goals,FK_Goals,CK_Goals,OG_Goals,PSxG_Expected,PSxG/SoT_Expected,PSxG+/-_Expected,/90_Expected,Cmp_Launched,Att_Launched,Cmp%_Launched,Att_Passes,Thr_Passes,Launch%_Passes,AvgLen_Passes,Att_Goal Kicks,Launch%_Goal Kicks,AvgLen_Goal Kicks,Opp_Crosses,Stp_Crosses,Stp%_Crosses,#OPA_Sweeper,#OPA/90_Sweeper,AvgDist_Sweeper
+0,2015-2016,16,Milan,it  ITA,1.  Serie A,7th,29.2,29,,,,,,,,,,,,,,,,,,,,,,,,
+1,2016-2017,17,Milan,it  ITA,1.  Serie A,6th,38.0,45,5,,,,,,,,,,,,,,,,,,,,,,,
+2,2017-2018,18,Milan,it  ITA,1.  Serie A,6th,38.0,42,2,0,4,1,40.8,0.30,-0.2,-0.01,192,402,47.8,892,136,33.0,31.5,194,55.7,42.2,305,23,7.5,14,0.37,14.4
+3,2018-2019,19,Milan,it  ITA,1.  Serie A,5th,34.4,31,3,1,5,1,35.0,0.27,+5.0,+0.14,196,373,52.5,869,194,27.5,30.1,292,45.9,39.5,364,31,8.5,14,0.41,13.8
+4,2019-2020,20,Milan,it  ITA,1.  Serie A,6th,35.6,42,4,0,7,1,45.6,0.29,+4.6,+0.13,222,469,47.3,882,172,38.4,34.4,260,50.0,39.0,304,29,9.5,20,0.56,14.6
+5,2020-2021,21,Milan,it  ITA,1.  Serie A,2nd,37.0,38,2,2,7,1,39.7,0.30,+2.7,+0.07,183,431,42.5,1026,140,33.2,32.3,219,41.1,35.9,335,29,8.7,22,0.59,14.8
+6,2021-2022,22,Paris S-G,fr  FRA,1.  Ligue 1,1st,7.0,6,0,0,1,0,6.6,0.31,+0.6,+0.09,13,21,61.9,145,44,11.0,22.6,40,12.5,20.7,39,3,7.7,10,1.43,17.9
+7,8 Seasons,8 Seasons,2 Clubs,,2 Leagues,,219.1,233,16,3,24,4,167.6,0.29,+12.6,+0.08,806,1696,47.5,3814,686,32.2,31.8,1005,46.5,38.4,1347,115,8.5,80,0.53,14.6
+8,,,,Country,Comp,LgRank,90s,GA,PKA,FK,CK,OG,PSxG,PSxG/SoT,PSxG+/-,/90,Cmp,Att,Cmp%,Att,Thr,Launch%,AvgLen,Att,Launch%,AvgLen,Opp,Stp,Stp%,#OPA,#OPA/90,AvgDist
+9,Milan (7 Seasons),Milan (7 Seasons),Milan (7 Seasons),,1 League,,212.1,227,16,3,23,4,161.0,0.29,+12.0,+0.08,793,1675,47.3,3669,642,33.1,32.1,965,47.9,39.1,1308,112,8.6,70,0.48,14.4
+10,Paris S-G (1 Season),Paris S-G (1 Season),Paris S-G (1 Season),,1 League,,7.0,6,0,0,1,0,6.6,0.31,+0.6,+0.09,13,21,61.9,145,44,11.0,22.6,40,12.5,20.7,39,3,7.7,10,1.43,17.9
+11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,Serie A (7 Seasons),Serie A (7 Seasons),Serie A (7 Seasons),,,,212.1,227,16,3,23,4,161.0,0.29,+12.0,+0.08,793,1675,47.3,3669,642,33.1,32.1,965,47.9,39.1,1308,112,8.6,70,0.48,14.4
+13,Ligue 1 (1 Season),Ligue 1 (1 Season),Ligue 1 (1 Season),,,,7.0,6,0,0,1,0,6.6,0.31,+0.6,+0.09,13,21,61.9,145,44,11.0,22.6,40,12.5,20.7,39,3,7.7,10,1.43,17.9

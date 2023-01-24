@@ -1,0 +1,43 @@
+{
+  "background_color": "white",
+  "lines_color": "#bcbcbc",
+  "edges_cmap": "Oranges",
+  "nodes_cmap": "Reds",
+  "font_color": "black",
+
+  "plot_edges": true,
+  "fig_size": 12,
+  "font_size": 9,
+  "width": 105,
+  "height": 68,
+
+  "max_node_size": 100,
+  "min_node_size": 25,
+  "max_edge_width": 5,
+  "min_edge_width": 1,
+
+  "positions":{
+      "GK": "0.5,.1",
+      "DCR":".67,.23",
+      "DCL":".33,.23",
+      "DR":".9,.33",
+      "DL":".1,.33",
+      "DC3R":".77,.28",
+      "DC3L":".23,.28",
+      "DC3C":".5,.3",
+      "MR":".9,.63",
+      "ML":".1,.63",
+      "MCR":".37,.44",
+      "MCL":".63,.44",
+      "DMC":".5, .38",
+      "AMC":".5, .64",
+      "MC-LM":".13,.72",
+      "MC-RM":".87, .72",
+      "FW-RW":".9, .74",
+      "FW-LW":".1, .74",
+      "FW-CFR":".3, .74",
+      "FW-CFL":".6, .74",
+      "FW-CFC":".5,.85"
+  }
+}
+

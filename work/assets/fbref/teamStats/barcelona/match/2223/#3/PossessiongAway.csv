@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,Touches_Touches,Def Pen_Touches,Def 3rd_Touches,Mid 3rd_Touches,Att 3rd_Touches,Att Pen_Touches,Live_Touches,Succ_Dribbles,Att_Dribbles,Succ%_Dribbles,Mis_Dribbles,Dis_Dribbles,Rec_Receiving,Prog_Receiving
+0,Sandro Ramírez,12.0,es  ESP,FW,26-051,60,25,0,1,14,10,1,25,0,1,0.0,1,0,18,5
+1,Jaime Mata,7.0,es  ESP,FW,32-309,30,12,0,0,7,5,0,12,0,0,,2,0,9,5
+2,Enes Ünal,10.0,tr  TUR,FW,24-111,75,27,1,1,16,10,0,27,0,1,0.0,4,3,17,3
+3,José Juan Macías,9.0,mx  MEX,FW,21-341,15,8,0,1,5,2,0,8,0,0,,2,0,6,0
+4,Jakub Jankto,16.0,cz  CZE,"LM,CM",25-222,90,41,1,5,24,14,1,41,0,1,0.0,1,1,24,4
+5,Mauro Arambarri,18.0,uy  URU,CM,25-333,90,51,0,6,37,9,1,51,4,4,100.0,1,4,24,2
+6,Nemanja Maksimović,20.0,rs  SRB,"CM,CB",26-215,90,38,2,8,25,6,1,38,0,0,,0,0,15,1
+7,Carles Aleñá,11.0,es  ESP,RM,23-236,60,23,0,2,16,5,0,23,1,1,100.0,0,3,19,3
+8,David Timor,24.0,es  ESP,"CM,RM",31-316,30,11,0,1,9,3,0,11,0,1,0.0,0,0,5,0
+9,Mathías Olivera,17.0,uy  URU,LB,23-302,90,44,1,15,25,5,1,44,0,0,,2,1,22,0
+10,Stefan Mitrović,23.0,rs  SRB,CB,31-099,90,48,3,28,19,1,1,48,0,0,,1,0,26,0
+11,Djené,2.0,tg  TOG,CB,29-241,83,45,5,26,18,2,0,45,0,0,,1,1,21,0
+12,Emmanuel Amankwaa Akurugu,28.0,gh  GHA,CB,19-282,7,4,0,1,1,2,1,4,0,0,,0,0,2,1
+13,Iglesias,21.0,es  ESP,RB,23-057,45,20,3,10,10,1,0,20,0,0,,0,0,9,1
+14,Damián Suárez,22.0,uy  URU,RB,33-124,45,29,1,8,18,5,0,29,0,0,,0,1,12,1
+15,David Soria,13.0,es  ESP,GK,28-147,90,36,28,36,0,0,0,36,0,0,,0,0,25,0
+16,16 Players,,,,,990,462,45,149,244,80,7,462,5,9,55.6,15,14,254,26

@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,Ángel Rodríguez,9.0,es  ESP,FW,33-361,62,0,0,0,0,0,0,2,0.0,2,30,6,20.0,3,18,9,2,0,0,2,0,0,0,0
+1,Enes Ünal,10.0,tr  TUR,FW,23-347,28,0,0,0,0,0,0,0,,0,8,0,0.0,0,2,6,0,0,0,0,0,0,0,0
+2,Takefusa Kubo,5.0,jp  JPN,LW,19-322,90,1,1,0,1,0,0,3,0.0,3,44,7,15.9,10,16,18,5,0,0,5,3,4,0,0
+3,Iglesias,29.0,es  ESP,RW,22-293,90,2,2,0,2,0,2,4,50.0,2,22,3,13.6,4,11,7,1,0,0,1,1,3,2,0
+4,Nemanja Maksimović,20.0,rs  SRB,CM,26-086,45,2,1,0,2,0,0,1,0.0,1,22,2,9.1,5,12,5,0,0,0,0,0,2,4,0
+5,Mauro Arambarri,18.0,uy  URU,CM,25-204,45,0,0,0,0,0,0,1,0.0,1,22,1,4.5,3,13,6,1,0,0,1,2,2,0,0
+6,Carles Aleñá,11.0,es  ESP,CM,23-107,45,0,0,0,0,0,0,0,,0,35,5,14.3,7,23,5,0,0,0,0,1,1,0,0
+7,Sabit Abdulai,35.0,gh  GHA,CM,21-346,45,1,0,0,1,0,0,1,0.0,1,13,4,30.8,5,6,2,0,0,0,0,1,2,0,0
+8,Chema,6.0,es  ESP,DM,29-050,75,1,1,0,1,0,1,3,33.3,2,17,5,29.4,4,10,3,0,0,0,0,2,3,3,0
+9,José Antonio Miranda,32.0,gq  EQG,DM,22-274,15,0,0,0,0,0,0,1,0.0,1,4,1,25.0,0,4,0,0,0,0,0,0,0,0,0
+10,Marc Cucurella,15.0,es  ESP,LB,22-274,45,1,0,1,0,0,1,1,100.0,0,16,2,12.5,10,5,1,2,0,0,2,1,2,0,0
+11,Emmanuel Amankwaa Akurugu,40.0,gh  GHA,LB,19-153,45,0,0,0,0,0,0,0,,0,4,1,25.0,1,2,1,4,0,0,4,0,0,1,0
+12,Sofian Chakla,21.0,ma  MAR,CB,27-232,90,3,2,1,1,1,1,1,100.0,0,8,2,25.0,7,1,0,0,0,0,0,3,6,6,0
+13,Djené,2.0,tg  TOG,CB,29-112,90,1,0,0,0,1,0,0,,0,8,1,12.5,3,4,1,1,0,0,1,1,2,3,0
+14,Damián Suárez,22.0,uy  URU,RB,32-360,90,1,0,0,1,0,1,1,100.0,0,23,5,21.7,8,10,5,1,0,0,1,6,7,4,0
+15,David Soria,13.0,es  ESP,GK,28-018,90,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+16,16 Players,,,,,990,13,7,2,9,2,6,19,31.6,13,276,45,16.3,70,137,69,17,0,0,17,21,34,23,0

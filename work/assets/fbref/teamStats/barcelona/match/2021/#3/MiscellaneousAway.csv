@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,CrdY_Performance,CrdR_Performance,2CrdY_Performance,Fls_Performance,Fld_Performance,Off_Performance,Crs_Performance,Int_Performance,TklW_Performance,PKwon_Performance,PKcon_Performance,OG_Performance,Recov_Performance,Won_Aerial Duels,Lost_Aerial Duels,Won%_Aerial Duels
+0,Luuk de Jong,9.0,nl  NED,FW,30-038,83,0,0,0,0,0,0,0,0,1,0,0,0,6,4,0,100.0
+1,Carlos Fernández,24.0,es  ESP,FW,24-135,7,0,0,0,1,1,0,0,0,0,0,0,0,3,0,1,0.0
+2,Suso,7.0,es  ESP,"LW,RW",26-320,60,0,0,0,1,3,1,4,1,0,0,0,0,5,0,0,
+3,Munir El Haddadi,11.0,es  ESP,RW,25-033,30,0,0,0,0,3,0,0,0,1,0,0,0,4,0,1,0.0
+4,Lucas Ocampos,5.0,ar  ARG,"RW,LW",26-085,60,0,0,0,1,1,0,1,0,1,0,0,0,4,1,0,100.0
+5,Youssef En-Nesyri,15.0,ma  MAR,LW,23-125,30,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,100.0
+6,Joan Jordán,8.0,es  ESP,CM,26-090,84,0,0,0,5,0,0,0,1,0,0,0,0,5,0,1,0.0
+7,Óliver Torres,21.0,es  ESP,CM,25-329,6,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,
+8,Ivan Rakitić,10.0,hr  CRO,CM,32-208,77,0,0,0,2,1,0,1,0,2,0,0,0,3,0,0,
+9,Nemanja Gudelj,6.0,rs  SRB,CM,28-323,13,1,0,0,1,0,0,0,0,0,0,0,0,1,1,1,50.0
+10,Fernando,25.0,br  BRA,DM,33-071,90,0,0,0,1,0,0,0,0,4,0,0,0,5,0,0,
+11,Marcos Acuña,19.0,ar  ARG,LB,28-342,90,0,0,0,2,0,0,0,0,1,0,0,0,6,1,0,100.0
+12,Diego Carlos,20.0,br  BRA,CB,27-203,90,0,0,0,2,1,0,0,2,0,0,0,0,6,0,0,
+13,Jules Koundé,12.0,fr  FRA,CB,21-327,90,0,0,0,0,0,0,0,0,1,0,0,0,11,1,1,50.0
+14,Jesús Navas,16.0,es  ESP,RB,34-318,90,0,0,0,1,0,0,4,0,1,0,0,0,8,1,0,100.0
+15,Yassine Bounou,13.0,ma  MAR,GK,29-182,90,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,
+16,16 Players,,,,,990,1,0,0,19,10,1,11,4,12,0,0,0,75,10,5,66.7

@@ -1,0 +1,20 @@
+,minute,team,player,x,y,xG,result,shotType,assist
+0,4,Barcelona,Ferrán Torres,0.8159999847412109,0.44299999237060544,0.05611486732959747,MissedShots,LeftFoot,Pedri
+1,9,Barcelona,Jordi Alba,0.875999984741211,0.6880000305175781,0.04948018491268158,Goal,LeftFoot,Dani Alves
+2,20,Barcelona,Gavi,0.9209999847412109,0.514000015258789,0.06933610141277313,Goal,Head,Adama Traoré
+3,24,Barcelona,Pedri,0.875,0.5520000076293945,0.1151847392320633,MissedShots,LeftFoot,Jordi Alba
+4,29,Barcelona,Adama Traoré,0.9080000305175782,0.35700000762939454,0.09507731348276138,MissedShots,LeftFoot,None
+5,42,Barcelona,Gerard Piqué,0.8719999694824219,0.5170000076293946,0.012790576554834843,ShotOnPost,Head,Dani Alves
+6,42,Barcelona,Ronald Araújo,0.93,0.40299999237060546,0.42903271317481995,Goal,RightFoot,Ferrán Torres
+7,48,Barcelona,Dani Alves,0.8569999694824219,0.475,0.09207461029291153,Goal,RightFoot,None
+8,95,Barcelona,Pierre-Emerick Aubameyang,0.72,0.3629999923706055,0.01305977813899517,BlockedShot,RightFoot,Jordi Alba
+9,7,Atletico Madrid,Yannick Carrasco,0.9069999694824219,0.38599998474121094,0.101905457675457,Goal,RightFoot,Luis Suárez
+10,19,Atletico Madrid,João Félix,0.855,0.710999984741211,0.09067726135253906,MissedShots,RightFoot,Rodrigo de Paul
+11,23,Atletico Madrid,João Félix,0.9069999694824219,0.5509999847412109,0.34722477197647095,SavedShot,RightFoot,Rodrigo de Paul
+12,35,Atletico Madrid,Stefan Savic,0.925,0.539000015258789,0.3589291274547577,MissedShots,Head,Thomas Lemar
+13,57,Atletico Madrid,Giménez,0.919000015258789,0.525,0.049090687185525894,MissedShots,Head,Rodrigo de Paul
+14,57,Atletico Madrid,Luis Suárez,0.9690000152587891,0.47200000762939454,0.5670249462127686,Goal,Head,Giménez
+15,60,Atletico Madrid,Yannick Carrasco,0.7719999694824219,0.7330000305175781,0.019583631306886673,MissedShots,RightFoot,Reinildo
+16,61,Atletico Madrid,Luis Suárez,0.825,0.425,0.06378480792045593,SavedShot,LeftFoot,Matheus Cunha
+17,65,Atletico Madrid,Giménez,0.885,0.5,0.019327329471707344,MissedShots,Head,Yannick Carrasco
+18,80,Atletico Madrid,Luis Suárez,0.77,0.3890000152587891,0.024936776608228683,BlockedShot,RightFoot,Rodrigo de Paul

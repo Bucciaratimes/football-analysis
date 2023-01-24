@@ -1,0 +1,15 @@
+,Player,#,Nation,Pos,Age,Min,Touches_Touches,Def Pen_Touches,Def 3rd_Touches,Mid 3rd_Touches,Att 3rd_Touches,Att Pen_Touches,Live_Touches,Succ_Dribbles,Att_Dribbles,Succ%_Dribbles,#Pl_Dribbles,Megs_Dribbles,Carries_Carries,TotDist_Carries,PrgDist_Carries,Prog_Carries,1/3_Carries,CPA_Carries,Mis_Carries,Dis_Carries,Targ_Receiving,Rec_Receiving,Rec%_Receiving,Prog_Receiving
+0,Lionel Messi,10.0,ar  ARG,FW,33-196,90,84,0,4,40,50,6,80,3,5,60.0,3,0,75,378,235,15,7,0,0,5,88,75,85.2,7
+1,Antoine Griezmann,7.0,fr  FRA,LW,29-291,90,54,3,8,19,30,9,52,0,1,0.0,0,0,32,134,62,3,2,0,0,1,43,36,83.7,11
+2,Ousmane Dembélé,11.0,fr  FRA,RW,23-236,74,58,0,5,26,38,6,57,5,7,71.4,5,0,53,352,308,18,7,4,0,2,52,48,92.3,6
+3,Martin Braithwaite,9.0,dk  DEN,RW,29-215,16,7,1,5,1,1,0,7,0,0,,0,0,2,3,0,0,0,0,1,0,5,2,40.0,0
+4,Pedri,16.0,es  ESP,CM,18-042,90,71,1,8,34,34,5,68,0,1,0.0,0,0,50,154,46,2,1,1,2,0,68,57,83.8,9
+5,Frenkie de Jong,21.0,nl  NED,CM,23-239,90,78,2,23,47,14,1,77,0,0,,0,0,58,325,203,9,0,0,2,1,67,62,92.5,1
+6,Sergio Busquets,5.0,es  ESP,DM,32-174,90,84,4,33,48,7,0,79,0,0,,0,0,52,176,87,1,1,0,1,0,70,66,94.3,1
+7,Jordi Alba,18.0,es  ESP,LB,31-291,90,107,1,26,47,42,2,100,0,0,,0,0,77,294,160,9,4,1,0,1,83,82,98.8,12
+8,Clément Lenglet,15.0,fr  FRA,CB,25-203,90,70,5,36,39,0,0,68,0,0,,0,0,53,318,187,5,0,0,0,0,62,61,98.4,0
+9,Ronald Araújo,4.0,uy  URU,CB,21-305,90,66,16,45,25,0,0,66,0,0,,0,0,43,152,78,2,0,0,0,0,47,47,100.0,0
+10,Sergiño Dest,2.0,us  USA,RB,20-064,74,68,3,25,31,16,2,59,0,0,,0,0,45,189,132,6,3,0,1,0,55,51,92.7,3
+11,Óscar Mingueza,28.0,es  ESP,RB,21-238,16,10,0,7,2,1,0,9,0,0,,0,0,5,24,6,0,0,0,0,0,6,6,100.0,1
+12,Marc-André ter Stegen,1.0,de  GER,GK,28-251,90,30,28,30,0,0,0,26,0,0,,0,0,22,97,63,0,0,0,0,0,17,17,100.0,0
+13,13 Players,,,,,990,787,64,255,359,233,31,748,8,14,57.1,8,0,567,2596,1567,70,25,6,7,10,663,610,92.0,51

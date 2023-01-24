@@ -1,0 +1,61 @@
+{
+  "background_color": "white",
+  "lines_color": "#bcbcbc",
+  "edges_cmap": "Oranges",
+  "nodes_cmap": "Reds",
+  "font_color": "black",
+
+  "plot_edges": true,
+  "fig_size": 12,
+  "font_size": 9,
+  "width": 105,
+  "height": 68,
+
+  "max_node_size": 100,
+  "min_node_size": 25,
+  "max_edge_width": 5,
+  "min_edge_width": 1
+    
+  "positions":[
+        "3421":[{
+            "Barcelona":{(80774,'Ter'):(.5, .1),
+                         (379205,'Dest'):(.9,.63),
+                         (44288,'Alba'):(.1,.63),
+                         (397469,'Mingueza'):(.77,.28),
+                         (236511,'Lenglet'):(.23,.28),
+                         (12712,'Piqué'):(.5,.3),
+                         (279423,'Busquets'):(.7,.5),
+                         (44721,'Frenkie'):(.3,.5),
+                         (11119,'Messi'):(.67,.72),
+                         (402197,'Pedri'):(.33,.72),
+                         (80241,'Griezmann'):(.5, .82)},
+                        }],
+        "4231":[{
+            "Barcelona":{(80774,'Ter'):(.5, .1),
+                         (379205,'Dest'):(.9,.33),
+                         (44288,'Alba'):(.1,.33),
+                         (236511,'Lenglet'):(.33,.23),
+                         (384711,'Araujo'):(.67,.23),,
+                         (279423,'Busquets'):(.37,.44),
+                         (44721,'Frenkie'):(.63,.44),
+                         (11119,'Messi'):(.5,.85),
+                         (402197,'Pedri'):(.13,.72),
+                         (299513,'Dembele'):(.87, .72)
+                         (80241,'Griezmann'):(.5, .64)},
+                        }],
+        "442":[{
+            "Villarreal":{(32258,'Sergio Asenjo':(.5, .1),
+                          (35107,'Juan Foyth'): (.9,.33),
+                          (344259,'Pau Torres'): (.67,.23),
+                          (12575,'Raúl Albiol'): (.33,.23),
+                          (113275,'Alberto Moreno'): (.1,.33),
+                          (363665,'Samuel Chukwueze'):(.87,.54),
+                          (33590,'Etienne Capoue'): (.63,.44),
+                          (28186,'Daniel Parejo'): (.37,.44),
+                          (102234,'Manu Trigueros'):(.13,.72),
+                          (95953,'Paco Alcácer'): (.6, .64),
+                          (97659,'Gerard Moreno'): (.3, .64)}
+                        }]
+    ],
+}
+

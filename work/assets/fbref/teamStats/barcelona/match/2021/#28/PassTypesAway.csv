@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,Att,Live_Pass Types,Dead_Pass Types,FK_Pass Types,TB_Pass Types,Press_Pass Types,Sw_Pass Types,Crs_Pass Types,CK_Pass Types,In_Corner Kicks,Out_Corner Kicks,Str_Corner Kicks,Ground_Height,Low_Height,High_Height,Left_Body Parts,Right_Body Parts,Head_Body Parts,TI_Body Parts,Other_Body Parts,Cmp_Outcomes,Off_Outcomes,Out_Outcomes,Int_Outcomes,Blocks_Outcomes
+0,Ousmane Dembélé,11.0,fr  FRA,FW,23-310,78,21,19,2,0,0,4,0,0,0,0,0,0,14,6,1,9,11,1,0,0,18,0,1,0,1
+1,Martin Braithwaite,9.0,dk  DEN,FW,29-289,12,2,2,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,1,0,0,0,0
+2,Antoine Griezmann,7.0,fr  FRA,AM,30-000,84,59,58,1,1,0,8,0,1,0,0,0,0,45,7,7,51,8,0,0,0,53,0,0,2,1
+3,Riqui Puig,12.0,es  ESP,CM,21-220,6,5,5,0,0,1,1,0,0,0,0,0,0,4,1,0,0,5,0,0,0,5,0,0,0,0
+4,Lionel Messi,10.0,ar  ARG,"AM,FW",33-270,90,74,72,2,1,1,20,0,1,1,0,0,0,60,8,6,65,9,0,0,0,63,2,0,3,0
+5,Pedri,16.0,es  ESP,DM,18-116,67,44,44,0,0,0,10,0,0,0,0,0,0,42,1,1,9,35,0,0,0,42,0,1,1,0
+6,Ilaix Moriba,27.0,es  ESP,"DM,CM",18-061,23,22,21,1,1,0,4,0,0,0,0,0,0,22,0,0,6,16,0,0,0,22,0,0,0,0
+7,Sergio Busquets,5.0,es  ESP,DM,32-248,66,75,74,1,1,2,11,2,0,0,0,0,0,63,7,5,6,67,1,0,0,70,1,0,2,0
+8,Ronald Araújo,4.0,uy  URU,CB,22-014,24,28,27,1,1,0,1,0,0,0,0,0,0,28,0,0,3,25,0,0,0,28,0,0,0,0
+9,Jordi Alba,18.0,es  ESP,WB,32-000,90,75,67,8,0,1,9,0,2,0,0,0,0,54,13,8,61,6,0,8,0,65,0,0,3,1
+10,Sergiño Dest,2.0,us  USA,WB,20-138,83,51,44,7,0,1,9,0,1,0,0,0,0,37,12,2,4,39,1,7,0,47,0,0,1,1
+11,Francisco Trincão,17.0,pt  POR,WB,21-082,7,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,3,0,0,0,0,3,0,0,0,0
+12,Clément Lenglet,15.0,fr  FRA,CB,25-277,90,84,83,1,0,0,7,1,0,0,0,0,0,75,6,3,77,5,2,0,0,80,0,1,2,1
+13,Frenkie de Jong,21.0,nl  NED,"CB,DM",23-313,90,97,95,2,2,0,18,1,0,0,0,0,0,93,4,0,10,86,1,0,0,95,0,0,1,1
+14,Óscar Mingueza,28.0,es  ESP,CB,21-312,90,87,79,8,1,0,10,0,0,0,0,0,0,68,15,4,7,70,2,7,0,79,0,0,2,2
+15,Marc-André ter Stegen,1.0,de  GER,GK,28-325,90,51,48,3,2,0,11,1,0,0,0,0,0,34,0,17,12,36,0,0,2,39,0,1,1,0
+16,16 Players,,,,,990,778,741,37,10,6,124,5,5,1,0,0,0,643,81,54,323,419,9,22,2,710,3,4,18,8

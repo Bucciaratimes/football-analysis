@@ -1,0 +1,16 @@
+,Player,#,Nation,Pos,Age,Min,Att,Live_Pass Types,Dead_Pass Types,FK_Pass Types,TB_Pass Types,Press_Pass Types,Sw_Pass Types,Crs_Pass Types,CK_Pass Types,In_Corner Kicks,Out_Corner Kicks,Str_Corner Kicks,Ground_Height,Low_Height,High_Height,Left_Body Parts,Right_Body Parts,Head_Body Parts,TI_Body Parts,Other_Body Parts,Cmp_Outcomes,Off_Outcomes,Out_Outcomes,Int_Outcomes,Blocks_Outcomes
+0,Karim Benzema,9.0,fr  FRA,FW,32-310,90,39,37,2,0,1,6,0,0,0,0,0,0,33,5,1,9,30,0,0,0,36,0,0,0,1
+1,Vinicius Júnior,20.0,br  BRA,LW,20-104,90,47,47,0,0,1,2,1,2,0,0,0,0,36,3,8,2,43,1,0,1,38,0,0,0,3
+2,Marco Asensio,11.0,es  ESP,RW,24-277,80,34,34,0,0,0,7,0,0,0,0,0,0,23,5,6,26,5,2,0,0,26,0,0,0,3
+3,Rodrygo,25.0,br  BRA,RW,19-289,10,8,8,0,0,0,0,0,0,0,0,0,0,6,1,1,0,6,1,0,1,7,0,0,0,0
+4,Toni Kroos,8.0,de  GER,CM,30-294,90,77,67,10,3,1,6,6,1,7,2,4,0,63,2,12,19,58,0,0,0,66,0,0,1,2
+5,Federico Valverde,15.0,uy  URU,CM,22-094,68,35,35,0,0,0,4,1,0,0,0,0,0,26,4,5,2,31,2,0,0,29,0,1,0,2
+6,Luka Modrić,10.0,hr  CRO,CM,35-045,22,12,12,0,0,0,1,0,0,0,0,0,0,12,0,0,1,11,0,0,0,10,0,1,0,0
+7,Casemiro,14.0,br  BRA,DM,28-244,90,55,54,1,1,1,9,3,1,0,0,0,0,39,10,6,6,46,2,0,1,50,0,3,0,0
+8,Ferland Mendy,23.0,fr  FRA,LB,25-138,90,55,51,4,0,0,13,0,1,0,0,0,0,42,9,4,34,14,2,4,1,47,0,0,0,3
+9,Sergio Ramos,4.0,es  ESP,CB,34-208,90,58,54,4,4,0,6,1,0,0,0,0,0,46,6,6,10,47,1,0,0,55,0,0,1,0
+10,Raphaël Varane,5.0,fr  FRA,CB,27-182,90,59,59,0,0,0,4,2,0,0,0,0,0,50,3,6,27,30,1,0,1,54,0,1,2,0
+11,Nacho,6.0,es  ESP,RB,30-280,42,34,31,3,1,0,2,1,1,0,0,0,0,27,3,4,5,27,0,2,0,30,0,0,0,0
+12,Lucas Vázquez,17.0,es  ESP,RB,29-115,48,33,30,3,0,0,3,0,2,0,0,0,0,24,4,5,2,28,0,3,0,27,0,0,0,5
+13,Thibaut Courtois,1.0,be  BEL,GK,28-166,90,31,25,6,0,0,1,0,0,0,0,0,0,20,6,5,14,7,0,0,9,26,0,0,0,0
+14,14 Players,,,,,990,577,544,33,9,4,64,15,8,7,2,4,0,447,61,69,157,383,12,9,14,501,0,6,4,19

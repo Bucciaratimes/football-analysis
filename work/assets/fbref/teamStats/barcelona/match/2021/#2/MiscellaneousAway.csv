@@ -1,0 +1,16 @@
+,Player,#,Nation,Pos,Age,Min,CrdY_Performance,CrdR_Performance,2CrdY_Performance,Fls_Performance,Fld_Performance,Off_Performance,Crs_Performance,Int_Performance,TklW_Performance,PKwon_Performance,PKcon_Performance,OG_Performance,Recov_Performance,Won_Aerial Duels,Lost_Aerial Duels,Won%_Aerial Duels
+0,Lionel Messi,10.0,ar  ARG,"FW,RW",33-099,90,0,0,0,2,5,1,2,0,0,0,0,0,6,2,0,100.0
+1,Ansu Fati,22.0,es  ESP,LW,17-336,71,0,0,0,1,3,0,0,0,0,0,0,0,1,1,2,33.3
+2,Francisco Trincão,17.0,pt  POR,"RW,LW",20-277,19,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0.0
+3,Antoine Griezmann,7.0,fr  FRA,RW,29-194,44,0,0,0,0,1,0,0,0,1,0,0,0,1,0,2,0.0
+4,Ronald Araújo,30.0,uy  URU,CB,21-208,46,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,
+5,Philippe Coutinho,14.0,br  BRA,AM,28-111,71,0,0,0,0,2,0,1,0,1,0,0,0,4,1,1,50.0
+6,Pedri,16.0,es  ESP,"LW,AM",17-311,19,0,0,0,0,1,0,0,1,2,0,0,0,1,0,0,
+7,Frenkie de Jong,21.0,nl  NED,CM,23-142,90,0,0,0,1,3,0,0,1,2,0,0,0,12,0,0,
+8,Sergio Busquets,5.0,es  ESP,CM,32-077,90,1,0,0,3,3,0,0,3,1,0,0,0,14,0,1,0.0
+9,Jordi Alba,18.0,es  ESP,LB,31-194,90,1,0,0,0,1,1,0,1,0,0,0,0,9,0,0,
+10,Clément Lenglet,15.0,fr  FRA,"CB,FW,AM",25-106,41,2,1,1,1,0,0,0,0,0,0,0,0,10,1,0,100.0
+11,Gerard Piqué,3.0,es  ESP,CB,33-242,90,1,0,0,0,0,0,0,1,0,0,0,0,13,1,0,100.0
+12,Sergi Roberto,20.0,es  ESP,RB,28-237,90,0,0,0,2,1,0,0,0,1,0,0,0,6,0,0,
+13,Neto,13.0,br  BRA,GK,31-074,90,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,
+14,14 Players,,,,,941,5,1,1,11,22,2,3,7,9,0,0,0,79,6,7,46.2

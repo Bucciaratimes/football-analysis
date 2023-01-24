@@ -1,0 +1,29 @@
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SoTA_Performance,GA_Performance,Saves_Performance,Save%_Performance,CS_Performance,PSxG_Performance,PKatt_Penalty Kicks,PKA_Penalty Kicks,PKsv_Penalty Kicks,PKm_Penalty Kicks,Cmp_Launched,Att_Launched,Cmp%_Launched,Att_Passes,Thr_Passes,Launch%_Passes,AvgLen_Passes,Att_Goal Kicks,Launch%_Goal Kicks,AvgLen_Goal Kicks,Opp_Crosses,Stp_Crosses,Stp%_Crosses,#OPA_Sweeper,AvgDist_Sweeper,Match Report
+0,2021-08-13,Fri,Bundesliga,Matchweek 1,Away,D 1–1,Bayern Munich,M'Gladbach,Y*,GK,90.0,4.0,1.0,3.0,75.0,0.0,0.4,0.0,0.0,0.0,0.0,6.0,8.0,75.0,44.0,9.0,18.2,24.9,6.0,0.0,22.3,6.0,0.0,0.0,2.0,19.8,Match Report
+1,2021-08-17,Tue,DFL-Supercup,DFL-Supercup,Away,W 3–1,Bayern Munich,Dortmund,Y*,GK,90.0,5.0,1.0,4.0,80.0,,,0.0,0.0,0.0,0.0,,,,,,,,,,,,,,,,Match Report
+2,2021-08-22,Sun,Bundesliga,Matchweek 2,Home,W 3–2,Bayern Munich,Köln,Y*,GK,90.0,3.0,2.0,1.0,33.3,0.0,1.4,0.0,0.0,0.0,0.0,15.0,24.0,62.5,54.0,8.0,42.6,37.4,6.0,16.7,23.0,13.0,0.0,0.0,0.0,11.9,Match Report
+3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,2021-08-28,Sat,Bundesliga,Matchweek 3,Home,W 5–0,Bayern Munich,Hertha BSC,Y*,GK,90.0,3.0,0.0,3.0,100.0,1.0,0.1,0.0,0.0,0.0,0.0,5.0,8.0,62.5,35.0,5.0,20.0,27.0,7.0,14.3,23.7,5.0,0.0,0.0,1.0,20.0,Match Report
+5,2021-09-05,Sun,WCQ — UEFA (M),First round,Home,W 6–0,de  Germany,am  Armenia,Y*,GK,90.0,1.0,0.0,1.0,100.0,1.0,,0.0,0.0,0.0,0.0,,,,,,,,,,,,,,,,Match Report
+6,2021-09-08,Wed,WCQ — UEFA (M),First round,Away,W 4–0,de  Germany,is  Iceland,Y*,GK,90.0,2.0,0.0,2.0,100.0,1.0,,0.0,0.0,0.0,0.0,,,,,,,,,,,,,,,,Match Report
+7,2021-09-11,Sat,Bundesliga,Matchweek 4,Away,W 4–1,Bayern Munich,RB Leipzig,Y*,GK,90.0,4.0,1.0,3.0,75.0,0.0,0.9,0.0,0.0,0.0,0.0,11.0,26.0,42.3,43.0,10.0,48.8,40.0,12.0,41.7,39.5,9.0,1.0,11.1,2.0,17.4,Match Report
+8,2021-09-14,Tue,Champions Lg,Group stage,Away,W 3–0,de  Bayern Munich,es  Barcelona,Y*,GK,90.0,0.0,0.0,0.0,,1.0,0.0,0.0,0.0,0.0,0.0,10.0,13.0,76.9,40.0,5.0,32.5,33.8,5.0,0.0,25.2,5.0,0.0,0.0,0.0,12.3,Match Report
+9,2021-09-18,Sat,Bundesliga,Matchweek 5,Home,W 7–0,Bayern Munich,Bochum,Y*,GK,90.0,2.0,0.0,2.0,100.0,1.0,0.5,0.0,0.0,0.0,0.0,4.0,5.0,80.0,40.0,6.0,10.0,22.8,4.0,25.0,28.3,7.0,1.0,14.3,1.0,19.7,Match Report
+10,2021-09-24,Fri,Bundesliga,Matchweek 6,Away,W 3–1,Bayern Munich,Greuther Fürth,Y*,GK,90.0,5.0,1.0,4.0,80.0,0.0,1.2,0.0,0.0,0.0,0.0,3.0,6.0,50.0,46.0,14.0,13.0,28.8,2.0,0.0,34.5,13.0,1.0,7.7,3.0,16.1,Match Report
+11,2021-09-29,Wed,Champions Lg,Group stage,Home,W 5–0,de  Bayern Munich,ua  Dynamo Kyiv,Y*,GK,90.0,2.0,0.0,2.0,100.0,1.0,0.2,0.0,0.0,0.0,0.0,5.0,5.0,100.0,28.0,6.0,17.9,25.1,2.0,0.0,11.5,4.0,1.0,25.0,2.0,21.1,Match Report
+12,2021-10-03,Sun,Bundesliga,Matchweek 7,Home,L 1–2,Bayern Munich,Eint Frankfurt,Y*,GK,90.0,3.0,2.0,1.0,33.3,0.0,0.6,0.0,0.0,0.0,0.0,6.0,8.0,75.0,38.0,7.0,21.1,29.6,2.0,0.0,21.5,2.0,1.0,50.0,9.0,39.9,Match Report
+13,2021-10-11,Mon,WCQ — UEFA (M),First round,Away,W 4–0,de  Germany,mk  North Macedonia,Y*,GK,90.0,1.0,0.0,1.0,100.0,1.0,,0.0,0.0,0.0,0.0,,,,,,,,,,,,,,,,Match Report
+14,2021-10-17,Sun,Bundesliga,Matchweek 8,Away,W 5–1,Bayern Munich,Leverkusen,Y*,GK,90.0,4.0,1.0,3.0,75.0,0.0,1.3,0.0,0.0,0.0,0.0,4.0,4.0,100.0,27.0,4.0,14.8,28.7,4.0,0.0,20.5,3.0,0.0,0.0,2.0,22.5,Match Report
+15,2021-10-20,Wed,Champions Lg,Group stage,Away,W 4–0,de  Bayern Munich,pt  Benfica,Y*,GK,90.0,3.0,0.0,3.0,100.0,1.0,0.8,0.0,0.0,0.0,0.0,5.0,9.0,55.6,35.0,3.0,20.0,31.7,6.0,33.3,39.5,8.0,0.0,0.0,0.0,18.0,Match Report
+16,2021-10-23,Sat,Bundesliga,Matchweek 9,Home,W 4–0,Bayern Munich,Hoffenheim,Y*,GK,90.0,1.0,0.0,1.0,100.0,1.0,0.7,0.0,0.0,0.0,0.0,5.0,13.0,38.5,52.0,2.0,25.0,31.1,9.0,0.0,24.6,9.0,0.0,0.0,3.0,20.7,Match Report
+17,2021-10-27,Wed,DFB-Pokal,Second round,Away,L 0–5,Bayern Munich,M'Gladbach,Y*,GK,90.0,6.0,5.0,2.0,33.3,0.0,,1.0,1.0,0.0,0.0,,,,,,,,,,,,,,,,Match Report
+18,2021-10-30,Sat,Bundesliga,Matchweek 10,Away,W 5–2,Bayern Munich,Union Berlin,Y*,GK,90.0,6.0,2.0,4.0,66.7,0.0,1.8,0.0,0.0,0.0,0.0,8.0,14.0,57.1,34.0,7.0,32.4,37.1,6.0,50.0,35.7,14.0,1.0,7.1,1.0,21.0,Match Report
+19,2021-11-02,Tue,Champions Lg,Group stage,Home,W 5–2,de  Bayern Munich,pt  Benfica,Y*,GK,90.0,2.0,2.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,4.0,7.0,57.1,32.0,1.0,18.8,28.3,6.0,16.7,29.3,4.0,0.0,0.0,1.0,29.0,Match Report
+20,2021-11-06,Sat,Bundesliga,Matchweek 11,Home,W 2–1,Bayern Munich,Freiburg,Y*,GK,90.0,3.0,1.0,2.0,66.7,0.0,1.3,0.0,0.0,0.0,0.0,6.0,10.0,60.0,46.0,2.0,21.7,28.3,8.0,0.0,22.4,10.0,0.0,0.0,2.0,29.3,Match Report
+21,2021-11-11,Thu,WCQ — UEFA (M),First round,Home,W 9–0,de  Germany,li  Liechtenstein,Y*,GK,90.0,0.0,0.0,0.0,,1.0,,0.0,0.0,0.0,0.0,,,,,,,,,,,,,,,,Match Report
+22,2021-11-19,Fri,Bundesliga,Matchweek 12,Away,L 1–2,Bayern Munich,Augsburg,Y*,GK,90.0,3.0,2.0,1.0,33.3,0.0,1.5,0.0,0.0,0.0,0.0,2.0,4.0,50.0,36.0,2.0,11.1,24.3,1.0,0.0,15.0,7.0,0.0,0.0,4.0,38.8,Match Report
+23,2021-11-23,Tue,Champions Lg,Group stage,Away,W 2–1,de  Bayern Munich,ua  Dynamo Kyiv,Y*,GK,90.0,5.0,1.0,4.0,80.0,0.0,1.0,0.0,0.0,0.0,0.0,8.0,13.0,61.5,33.0,5.0,24.2,29.0,10.0,50.0,43.8,7.0,0.0,0.0,2.0,21.8,Match Report
+24,2021-11-27,Sat,Bundesliga,Matchweek 13,Home,W 1–0,Bayern Munich,Arminia,Y*,GK,90.0,0.0,0.0,0.0,,1.0,0.0,0.0,0.0,0.0,0.0,4.0,8.0,50.0,36.0,9.0,19.4,26.4,6.0,16.7,31.7,3.0,2.0,66.7,0.0,9.2,Match Report
+25,2021-12-04,Sat,Bundesliga,Matchweek 14,Away,W 3–2,Bayern Munich,Dortmund,Y*,GK,90.0,4.0,2.0,2.0,50.0,0.0,1.6,0.0,0.0,0.0,0.0,7.0,15.0,46.7,37.0,5.0,37.8,34.1,11.0,9.1,30.4,7.0,2.0,28.6,2.0,17.6,Match Report
+26,2021-12-08,Wed,Champions Lg,Group stage,Home,W 3–0,de  Bayern Munich,es  Barcelona,Y*,GK,90.0,2.0,0.0,2.0,100.0,1.0,0.2,0.0,0.0,0.0,0.0,9.0,21.0,42.9,56.0,7.0,37.5,32.0,3.0,0.0,9.3,8.0,0.0,0.0,1.0,16.8,Match Report
+27,,,,,,22-1-3,,,26/26,,2340.0,74.0,24.0,51.0,68.9,12.0,15.8,1.0,1.0,0.0,0.0,127.0,221.0,57.5,792.0,117.0,25.3,30.3,116.0,18.1,29.3,144.0,10.0,6.9,38.0,21.5,

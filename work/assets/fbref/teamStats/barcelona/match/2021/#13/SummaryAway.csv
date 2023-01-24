@@ -1,0 +1,16 @@
+,Player,#,Nation,Pos,Age,Min,Gls_Performance,Ast_Performance,PK_Performance,PKatt_Performance,Sh_Performance,SoT_Performance,CrdY_Performance,CrdR_Performance,Touches_Performance,Press_Performance,Tkl_Performance,Int_Performance,Blocks_Performance,xG_Expected,npxG_Expected,xA_Expected,SCA_SCA,GCA_SCA,Cmp_Passes,Att_Passes,Cmp%_Passes,Prog_Passes,Carries_Carries,Prog_Carries,Succ_Dribbles,Att_Dribbles
+0,Gonçalo Guedes,7.0,pt  POR,FW,24-020,86,0,0,0,0,2,0,0,0,50,11,2,0,1,0.1,0.1,0.3,6,1,25,33,75.8,6,41,9,3,5
+1,Manu Vallejo,21.0,es  ESP,FW,23-309,4,0,0,0,0,0,0,0,0,4,3,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0
+2,Maxi Gómez,22.0,uy  URU,FW,24-127,90,1,0,0,0,2,2,0,0,30,13,1,0,3,0.8,0.8,0.0,0,0,14,19,73.7,1,21,0,1,1
+3,Denis Cheryshev,17.0,ru  RUS,LM,29-359,89,0,0,0,0,2,0,0,0,30,15,2,2,1,0.2,0.2,0.3,3,0,14,20,70.0,2,19,3,0,0
+4,Lee Kangin,20.0,kr  KOR,LM,19-304,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0
+5,Uroš Račić,19.0,rs  SRB,CM,22-277,90,0,0,0,0,1,0,0,0,51,15,2,1,2,0.0,0.0,0.0,1,0,32,39,82.1,3,31,2,1,1
+6,Carlos Soler,8.0,es  ESP,CM,23-352,90,0,1,0,0,1,1,0,0,41,12,1,1,4,0.1,0.1,0.3,3,2,22,28,78.6,2,24,4,0,0
+7,Yunus Musah,30.0,us  USA,RM,18-020,41,0,0,0,0,0,0,0,0,18,10,0,0,0,0.0,0.0,0.2,1,0,10,14,71.4,0,15,1,0,0
+8,Alejandro Blanco,37.0,es  ESP,RM,22-003,49,0,0,0,0,0,0,1,0,22,11,2,1,2,0.0,0.0,0.0,1,0,6,11,54.5,0,10,1,1,1
+9,José Luis Gayà,14.0,es  ESP,LB,25-208,90,0,0,0,0,1,0,1,0,40,6,3,2,1,0.2,0.2,0.0,1,1,26,33,78.8,4,21,0,0,0
+10,Mouctar Diakhaby,12.0,fr  FRA,CB,24-000,90,1,0,0,0,1,1,0,0,23,11,0,0,3,0.3,0.3,0.0,0,0,11,12,91.7,1,11,1,0,0
+11,Gabriel Paulista,5.0,br  BRA,CB,30-023,90,0,0,0,0,1,0,0,0,38,7,0,2,2,0.0,0.0,0.0,0,0,22,27,81.5,1,22,0,0,0
+12,Daniel Wass,18.0,dk  DEN,RB,31-202,90,0,0,0,0,0,0,0,0,53,12,4,1,3,0.0,0.0,0.0,2,0,28,42,66.7,0,21,0,0,0
+13,Jaume Doménech,1.0,es  ESP,GK,30-044,90,0,0,0,0,0,0,0,0,34,0,0,0,0,0.0,0.0,0.0,0,0,16,29,55.2,0,12,0,0,0
+14,14 Players,,,,,990,2,1,0,0,11,4,2,0,435,126,18,10,22,1.8,1.8,1.2,18,4,227,309,73.5,20,252,21,6,8

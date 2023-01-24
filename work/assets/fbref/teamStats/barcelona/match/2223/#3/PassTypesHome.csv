@@ -1,0 +1,17 @@
+,Player,#,Nation,Pos,Age,Min,Att,Live_Pass Types,Dead_Pass Types,FK_Pass Types,TB_Pass Types,Sw_Pass Types,Crs_Pass Types,TI_Pass Types,CK_Pass Types,In_Corner Kicks,Out_Corner Kicks,Str_Corner Kicks,Cmp_Outcomes,Off_Outcomes,Blocks_Outcomes
+0,Memphis,9.0,nl  NED,FW,27-197,90,33,26,6,2,0,0,2,0,3,2,0,0,23,1,0
+1,Martin Braithwaite,12.0,dk  DEN,LW,30-085,73,13,12,1,0,0,1,1,0,0,0,0,0,9,0,1
+2,Nicolás González,28.0,es  ESP,LW,19-238,17,14,14,0,0,0,0,0,0,0,0,0,0,10,0,0
+3,Antoine Griezmann,7.0,fr  FRA,RW,30-161,83,29,29,0,0,0,0,0,0,0,0,0,0,24,0,0
+4,Óscar Mingueza,29.0,es  ESP,RW,22-108,7,6,5,1,0,0,0,0,1,0,0,0,0,4,0,1
+5,Frenkie de Jong,21.0,nl  NED,LM,24-109,90,79,77,2,2,1,1,0,0,0,0,0,0,75,0,2
+6,Sergio Busquets,5.0,es  ESP,CM,33-044,90,98,90,8,8,0,0,0,0,0,0,0,0,85,0,1
+7,Sergi Roberto,20.0,es  ESP,RM,29-203,73,48,46,2,2,0,0,0,0,0,0,0,0,42,0,1
+8,Gavi,30.0,es  ESP,RM,17-024,17,15,15,0,0,0,0,0,0,0,0,0,0,12,0,1
+9,Jordi Alba,18.0,es  ESP,LB,32-161,90,80,68,11,2,0,0,4,9,0,0,0,0,64,1,2
+10,Clément Lenglet,15.0,fr  FRA,CB,26-073,90,104,102,2,2,1,0,0,0,0,0,0,0,93,0,1
+11,Ronald Araújo,4.0,uy  URU,CB,22-175,90,87,84,2,2,0,0,0,0,0,0,0,0,80,1,0
+12,Emerson,22.0,br  BRA,RB,22-227,62,47,39,8,0,0,0,1,8,0,0,0,0,40,0,2
+13,Sergiño Dest,2.0,us  USA,RB,20-299,28,21,18,3,0,0,0,2,3,0,0,0,0,18,0,0
+14,Marc-André ter Stegen,1.0,de  GER,GK,29-121,90,47,37,10,3,0,0,0,0,0,0,0,0,34,0,0
+15,15 Players,,,,,990,721,662,56,23,2,2,10,21,3,2,0,0,613,3,12

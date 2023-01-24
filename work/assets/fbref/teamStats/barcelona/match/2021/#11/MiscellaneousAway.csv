@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,CrdY_Performance,CrdR_Performance,2CrdY_Performance,Fls_Performance,Fld_Performance,Off_Performance,Crs_Performance,Int_Performance,TklW_Performance,PKwon_Performance,PKcon_Performance,OG_Performance,Recov_Performance,Won_Aerial Duels,Lost_Aerial Duels,Won%_Aerial Duels
+0,Roger Martí,9.0,es  ESP,FW,29-345,67,0,0,0,3,0,0,1,0,0,0,0,0,3,0,0,
+1,José Luis Morales,11.0,es  ESP,FW,33-143,23,0,0,0,0,1,0,1,1,1,0,0,0,3,0,1,0.0
+2,Dani Gómez,21.0,es  ESP,FW,22-136,90,0,0,0,3,3,0,1,0,1,0,0,0,5,0,1,0.0
+3,Gonzalo Melero,22.0,es  ESP,LM,26-346,81,0,0,0,0,0,0,0,1,0,0,0,0,2,2,3,40.0
+4,Sergio León,7.0,es  ESP,LM,31-342,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0
+5,Jorge de Frutos,18.0,es  ESP,RM,23-297,81,0,0,0,2,0,0,1,0,4,0,0,0,2,0,0,
+6,Son,2.0,es  ESP,RM,26-258,9,0,0,0,1,0,0,2,1,0,0,0,0,3,1,0,100.0
+7,Mickael Malsa,12.0,mq  MTQ,DM,25-062,90,0,0,0,2,0,0,0,6,1,0,0,0,8,1,0,100.0
+8,Nikola Vukčević,17.0,me  MNE,DM,29-000,67,1,0,0,3,0,0,0,1,0,0,0,0,4,1,0,100.0
+9,Nemanja Radoja,5.0,rs  SRB,DM,27-311,23,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,
+10,Carlos Clerc,19.0,es  ESP,LB,28-296,90,0,0,0,2,0,0,1,2,2,0,0,0,0,0,1,0.0
+11,Rúben Vezo,14.0,pt  POR,CB,26-232,90,0,0,0,1,0,0,0,1,0,0,0,0,3,0,0,
+12,Sergio Postigo,15.0,es  ESP,CB,32-039,90,0,0,0,1,0,0,0,3,1,0,0,0,3,0,0,
+13,Coke,23.0,es  ESP,RB,33-231,67,0,0,0,1,0,0,1,0,3,0,0,0,3,1,1,50.0
+14,Jorge Miramón,20.0,es  ESP,RB,31-194,23,0,0,0,0,1,0,0,2,0,0,0,0,1,0,1,0.0
+15,Aitor Fernández,13.0,es  ESP,GK,29-224,90,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0.0
+16,16 Players,,,,,990,1,0,0,19,5,0,8,18,13,0,0,0,47,6,10,37.5

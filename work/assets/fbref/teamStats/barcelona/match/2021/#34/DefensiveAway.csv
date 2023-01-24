@@ -1,0 +1,15 @@
+,Player,#,Nation,Pos,Age,Min,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,Antoine Griezmann,7.0,fr  FRA,FW,30-042,90,0,0,0,0,0,0,0,,0,6,1,16.7,2,1,3,0,0,0,0,0,0,0,0
+1,Lionel Messi,10.0,ar  ARG,FW,33-312,90,1,1,0,0,1,0,0,,0,5,1,20.0,0,0,5,2,0,0,2,0,1,0,0
+2,Pedri,16.0,es  ESP,CM,18-158,74,0,0,0,0,0,0,0,,0,8,4,50.0,1,2,5,1,0,0,1,1,1,0,0
+3,Ilaix,27.0,es  ESP,CM,18-103,16,1,1,0,1,0,0,0,,0,5,1,20.0,0,2,3,0,0,0,0,0,1,0,0
+4,Frenkie de Jong,21.0,nl  NED,CM,23-355,90,0,0,0,0,0,0,0,,0,6,1,16.7,1,1,4,0,0,0,0,3,3,1,0
+5,Sergio Busquets,5.0,es  ESP,DM,32-290,90,3,1,2,0,1,0,0,,0,7,2,28.6,2,4,1,1,0,0,1,5,8,0,0
+6,Jordi Alba,18.0,es  ESP,WB,32-042,90,1,0,1,0,0,1,1,100.0,0,8,1,12.5,2,3,3,2,0,0,2,2,3,0,0
+7,Sergiño Dest,2.0,us  USA,WB,20-180,74,0,0,0,0,0,0,0,,0,5,0,0.0,0,2,3,2,0,0,2,1,1,0,0
+8,Sergi Roberto,20.0,es  ESP,WB,29-084,16,0,0,0,0,0,0,0,,0,1,0,0.0,1,0,0,1,0,0,1,0,0,0,0
+9,Clément Lenglet,15.0,fr  FRA,CB,25-319,90,1,1,0,1,0,1,1,100.0,0,10,4,40.0,4,5,1,0,0,0,0,0,1,1,0
+10,Gerard Piqué,3.0,es  ESP,CB,34-089,90,0,0,0,0,0,0,1,0.0,1,5,2,40.0,1,4,0,2,1,0,1,0,0,3,0
+11,Ronald Araújo,4.0,uy  URU,CB,22-056,90,2,1,0,2,0,0,0,,0,6,3,50.0,2,4,0,1,1,0,0,1,3,5,0
+12,Marc-André ter Stegen,1.0,de  GER,GK,29-002,90,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+13,13 Players,,,,,990,9,5,3,4,2,2,3,66.7,1,72,20,27.8,16,28,28,12,2,0,10,13,22,10,0

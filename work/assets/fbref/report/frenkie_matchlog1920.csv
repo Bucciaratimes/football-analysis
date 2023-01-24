@@ -1,0 +1,53 @@
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls_Performance,Ast_Performance,PK_Performance,PKatt_Performance,Sh_Performance,SoT_Performance,CrdY_Performance,CrdR_Performance,Touches_Performance,Press_Performance,Tkl_Performance,Int_Performance,Blocks_Performance,xG_Expected,npxG_Expected,xA_Expected,SCA_SCA,GCA_SCA,Cmp_Passes,Att_Passes,Cmp%_Passes,Prog_Passes,Carries_Carries,Prog_Carries,Succ_Dribbles,Att_Dribbles,Match Report
+0,2019-08-16,Fri,La Liga,Matchweek 1,Away,L 0–1,Barcelona,Athletic Club,Y,DM,90,0,0,0,0,0,0,0,0,72,8,1,0,0,0.0,0.0,0.0,1,0,62,66,93.9,2,59,4,1,1,Match Report
+1,2019-08-25,Sun,La Liga,Matchweek 2,Home,W 5–2,Barcelona,Betis,Y,"CM,DM",90,0,0,0,0,0,0,0,0,72,12,1,0,1,0.0,0.0,0.0,1,0,64,66,97.0,3,53,12,1,3,Match Report
+2,2019-08-31,Sat,La Liga,Matchweek 3,Away,D 2–2,Barcelona,Osasuna,Y,CM,81,0,0,0,0,0,0,1,0,88,12,5,0,2,0.0,0.0,0.1,3,0,70,75,93.3,4,62,12,0,2,Match Report
+3,2019-09-06,Fri,Euro Qualifying,Group stage,Away,W 4–2,nl  Netherlands,de  Germany,Y,CM,90,1,0,0,0,1,1,1,0,,,,2,,,,,,,,,,,,,,,Match Report
+4,2019-09-09,Mon,Euro Qualifying,Group stage,Away,W 4–0,nl  Netherlands,ee  Estonia,Y,CM,70,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+5,2019-09-14,Sat,La Liga,Matchweek 4,Home,W 5–2,Barcelona,Valencia,Y,CM,69,1,1,0,0,1,1,0,0,58,12,0,1,1,0.3,0.3,0.2,3,1,53,53,100.0,5,54,9,2,2,Match Report
+6,2019-09-17,Tue,Champions Lg,Group stage,Away,D 0–0,es  Barcelona,de  Dortmund,Y,"CM,DM",90,0,0,0,0,0,0,0,0,95,21,6,2,2,0.0,0.0,0.0,0,0,76,84,90.5,9,72,11,1,1,Match Report
+7,2019-09-21,Sat,La Liga,Matchweek 5,Away,L 0–2,Barcelona,Granada,Y,"DM,CM",90,0,0,0,0,0,0,0,0,101,5,3,1,0,0.0,0.0,0.0,2,0,86,91,94.5,7,85,13,4,5,Match Report
+8,2019-09-24,Tue,La Liga,Matchweek 6,Home,W 2–1,Barcelona,Villarreal,N,CM,28,0,0,0,0,0,0,0,0,36,9,1,0,1,0.0,0.0,0.0,1,0,28,31,90.3,3,31,6,0,1,Match Report
+9,2019-09-28,Sat,La Liga,Matchweek 7,Away,W 2–0,Barcelona,Getafe,Y,CM,90,0,0,0,0,0,0,0,0,47,7,2,1,1,0.0,0.0,0.2,3,0,29,38,76.3,4,32,6,2,2,Match Report
+10,2019-10-02,Wed,Champions Lg,Group stage,Home,W 2–1,es  Barcelona,it  Inter,Y,"CM,DM",90,0,0,0,0,0,0,0,0,95,17,1,1,1,0.0,0.0,0.0,3,0,83,88,94.3,9,84,12,2,2,Match Report
+11,2019-10-06,Sun,La Liga,Matchweek 8,Home,W 4–0,Barcelona,Sevilla,Y,"DM,CM",90,0,0,0,0,0,0,0,0,67,13,2,1,2,0.0,0.0,0.0,1,0,56,58,96.6,4,56,8,3,3,Match Report
+12,2019-10-10,Thu,Euro Qualifying,Group stage,Home,W 3–1,nl  Netherlands,nir  Northern Ireland,Y,CM,90,0,1,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+13,2019-10-13,Sun,Euro Qualifying,Group stage,Away,W 2–1,nl  Netherlands,by  Belarus,Y,CM,90,0,0,0,0,1,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report
+14,2019-10-19,Sat,La Liga,Matchweek 9,Away,W 3–0,Barcelona,Eibar,Y,CM,78,0,0,0,0,0,0,0,0,58,14,2,0,2,0.0,0.0,0.2,4,1,46,51,90.2,8,49,8,1,2,Match Report
+15,2019-10-23,Wed,Champions Lg,Group stage,Away,W 2–1,es  Barcelona,cz  Slavia Prague,Y,CM,90,0,0,0,0,1,1,0,0,69,15,1,0,1,0.1,0.1,0.0,1,0,51,58,87.9,2,51,2,3,3,Match Report
+16,2019-10-29,Tue,La Liga,Matchweek 11,Home,W 5–1,Barcelona,Valladolid,Y,CM,59,0,0,0,0,0,0,0,0,57,13,2,0,1,0.0,0.0,0.5,2,0,49,52,94.2,7,44,6,1,3,Match Report
+17,2019-11-02,Sat,La Liga,Matchweek 12,Away,L 1–3,Barcelona,Levante,Y,"DM,CM",90,0,0,0,0,0,0,0,0,77,26,0,0,2,0.0,0.0,0.0,3,0,60,70,85.7,4,73,8,3,5,Match Report
+18,2019-11-05,Tue,Champions Lg,Group stage,Home,D 0–0,es  Barcelona,cz  Slavia Prague,Y,DM,90,0,0,0,0,0,0,0,0,84,9,1,1,2,0.0,0.0,0.0,1,0,67,75,89.3,4,63,9,3,3,Match Report
+19,2019-11-09,Sat,La Liga,Matchweek 13,Home,W 4–1,Barcelona,Celta Vigo,Y,CM,90,0,0,0,0,0,0,0,0,72,23,2,2,2,0.0,0.0,0.0,1,1,62,65,95.4,2,55,7,2,2,Match Report
+20,2019-11-16,Sat,Euro Qualifying,Group stage,Away,D 0–0,nl  Netherlands,nir  Northern Ireland,Y,DM,90,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+21,2019-11-19,Tue,Euro Qualifying,Group stage,Home,W 5–0,nl  Netherlands,ee  Estonia,Y,DM,74,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report
+22,2019-11-23,Sat,La Liga,Matchweek 14,Away,W 2–1,Barcelona,Leganés,Y,DM,69,0,0,0,0,0,0,0,0,80,15,2,0,0,0.0,0.0,0.1,2,0,70,74,94.6,3,67,8,0,0,Match Report
+23,2019-11-27,Wed,Champions Lg,Group stage,Home,W 3–1,es  Barcelona,de  Dortmund,Y,CM,90,0,0,0,0,0,0,0,0,75,30,4,2,0,0.0,0.0,0.0,1,1,63,67,94.0,6,57,3,4,4,Match Report
+24,2019-12-01,Sun,La Liga,Matchweek 15,Away,W 1–0,Barcelona,Atlético Madrid,Y,CM,90,0,0,0,0,0,0,0,0,79,12,0,3,3,0.0,0.0,0.0,2,0,65,70,92.9,5,68,10,1,1,Match Report
+25,2019-12-07,Sat,La Liga,Matchweek 16,Home,W 5–2,Barcelona,Mallorca,Y,CM,63,0,1,0,0,0,0,0,0,57,10,0,1,0,0.0,0.0,0.5,6,1,50,54,92.6,8,43,8,1,2,Match Report
+26,2019-12-10,Tue,Champions Lg,Group stage,Away,W 2–1,es  Barcelona,it  Inter,N,DM,28,0,0,0,0,0,0,0,0,36,3,2,1,0,0.0,0.0,0.1,3,0,30,33,90.9,3,24,2,1,1,Match Report
+27,2019-12-14,Sat,La Liga,Matchweek 17,Away,D 2–2,Barcelona,Real Sociedad,Y,"CM,DM",90,0,0,0,0,0,0,0,0,60,24,1,0,2,0.0,0.0,0.0,1,0,50,53,94.3,8,44,4,1,1,Match Report
+28,2019-12-18,Wed,La Liga,Matchweek 10,Home,D 0–0,Barcelona,Real Madrid,Y,CM,90,0,0,0,0,1,1,0,0,77,14,0,0,1,0.1,0.1,0.0,2,0,64,71,90.1,3,66,12,2,2,Match Report
+29,2019-12-21,Sat,La Liga,Matchweek 18,Home,W 4–1,Barcelona,Alavés,N,DM,12,0,0,0,0,0,0,0,0,14,0,0,0,0,0.0,0.0,0.0,0,0,12,14,85.7,1,8,0,0,0,Match Report
+30,2020-01-04,Sat,La Liga,Matchweek 19,Away,D 2–2,Barcelona,Espanyol,Y,"CM,AM",74,0,0,0,0,0,0,2,1,83,11,0,0,0,0.0,0.0,0.0,1,1,71,75,94.7,3,78,14,5,5,Match Report
+31,2020-01-09,Thu,Supercopa de España,Semi-finals,Home,L 2–3,Barcelona,Atlético Madrid,Y,CM,87,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33,2020-01-22,Wed,Copa del Rey,Round of 32,Away,W 2–1,Barcelona,UD Ibiza,Y,DM,90,0,1,0,0,0,0,0,0,,,,3,,,,,,,,,,,,,,,Match Report
+34,2020-01-25,Sat,La Liga,Matchweek 21,Away,L 0–2,Barcelona,Valencia,Y,CM,84,0,0,0,0,1,1,0,0,91,8,1,1,1,0.2,0.2,0.0,1,0,80,85,94.1,0,84,9,0,0,Match Report
+35,2020-01-30,Thu,Copa del Rey,Round of 16,Home,W 5–0,Barcelona,Leganés,Y,CM,90,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report
+36,2020-02-02,Sun,La Liga,Matchweek 22,Home,W 2–1,Barcelona,Levante,Y,CM,79,0,0,0,0,0,0,0,0,68,13,1,1,0,0.0,0.0,0.1,3,0,55,64,85.9,5,54,7,1,1,Match Report
+37,2020-02-06,Thu,Copa del Rey,Quarter-finals,Away,L 0–1,Barcelona,Athletic Club,Y,CM,90,0,0,0,0,2,1,1,0,,,,1,,,,,,,,,,,,,,,Match Report
+38,2020-02-09,Sun,La Liga,Matchweek 23,Away,W 3–2,Barcelona,Betis,Y,CM,90,1,0,0,0,1,1,0,0,63,7,1,1,0,0.5,0.5,0.0,1,1,51,54,94.4,2,56,8,1,1,Match Report
+39,2020-02-15,Sat,La Liga,Matchweek 24,Home,W 2–1,Barcelona,Getafe,Y,CM,90,0,0,0,0,0,0,0,0,60,9,1,0,0,0.0,0.0,0.0,0,0,49,52,94.2,0,55,2,0,3,Match Report
+40,2020-02-22,Sat,La Liga,Matchweek 25,Home,W 5–0,Barcelona,Eibar,N,DM,32,0,0,0,0,0,0,0,0,28,1,0,0,2,0.0,0.0,0.0,0,0,21,25,84.0,2,19,2,0,0,Match Report
+41,2020-02-25,Tue,Champions Lg,Round of 16,Away,D 1–1,es  Barcelona,it  Napoli,Y,CM,90,0,0,0,0,0,0,0,0,48,14,1,1,0,0.0,0.0,0.0,2,0,43,46,93.5,0,35,8,0,0,Match Report
+42,2020-03-01,Sun,La Liga,Matchweek 26,Away,L 0–2,Barcelona,Real Madrid,Y,"LM,CM",90,0,0,0,0,0,0,0,0,75,16,1,1,0,0.0,0.0,0.0,1,0,63,68,92.6,6,64,6,1,1,Match Report
+43,2020-03-07,Sat,La Liga,Matchweek 27,Home,W 1–0,Barcelona,Real Sociedad,Y,CM,90,0,0,0,0,0,0,0,0,64,7,1,1,0,0.0,0.0,0.2,2,0,53,59,89.8,3,48,6,0,0,Match Report
+44,2020-06-13,Sat,La Liga,Matchweek 28,Away,W 4–0,Barcelona,Mallorca,Y,CM,83,0,0,0,0,0,0,0,0,58,7,0,0,0,0.0,0.0,0.0,2,2,51,56,91.1,2,47,5,2,2,Match Report
+45,2020-06-16,Tue,La Liga,Matchweek 29,Home,W 2–0,Barcelona,Leganés,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47,2020-07-16,Thu,La Liga,Matchweek 37,Home,L 1–2,Barcelona,Osasuna,N,CM,12,0,0,0,0,0,0,0,0,17,2,0,0,0,0.0,0.0,0.0,1,0,15,17,88.2,1,10,1,0,0,Match Report
+48,2020-07-19,Sun,La Liga,Matchweek 38,Away,W 5–0,Barcelona,Alavés,N,DM,32,0,0,0,0,0,0,0,0,56,3,0,0,0,0.0,0.0,0.1,2,1,51,54,94.4,3,46,1,3,3,Match Report
+49,2020-08-08,Sat,Champions Lg,Round of 16,Home,W 3–1,es  Barcelona,it  Napoli,Y,"CM,DM",90,0,0,0,0,0,0,0,0,72,18,1,1,3,0.0,0.0,0.1,2,0,58,62,93.5,8,55,5,4,4,Match Report
+50,2020-08-14,Fri,Champions Lg,Quarter-finals,Neutral,L 2–8,es  Barcelona,de  Bayern Munich,Y,CM,90,0,0,0,0,0,0,0,0,56,11,0,0,1,0.0,0.0,0.0,0,0,43,49,87.8,1,44,4,3,3,Match Report
+51,,,,,,31-8-9,,,42/48,,3724,3,4,0,0,11,7,5,1,2465,451,47,35,34,1.1,1.1,2.5,65,10,2050,2223,92.2,150,1995,258,59,74,

@@ -1,0 +1,19 @@
+,Season,Age,Squad,Country,Comp,LgRank,90s,Cmp_Total,Att_Total,Cmp%_Total,TotDist_Total,PrgDist_Total,Cmp_Short,Att_Short,Cmp%_Short,Cmp_Medium,Att_Medium,Cmp%_Medium,Cmp_Long,Att_Long,Cmp%_Long,Ast,xA,A-xA,KP,1/3,PPA,CrsPA,Prog
+0,2012-2013,18,Rio Ave,pt  POR,1.  Primeira Liga,6th,2.0,,,,,,,,,,,,,,,0,,,,,,,
+1,2013-2014,19,Rio Ave,pt  POR,1.  Primeira Liga,11th,17.7,,,,,,,,,,,,,,,0,,,,,,,
+2,2014-2015,20,Rio Ave,pt  POR,1.  Primeira Liga,10th,17.0,,,,,,,,,,,,,,,0,,,,,,,
+3,2015-2016,21,Benfica,pt  POR,1.  Primeira Liga,1st,9.9,,,,,,,,,,,,,,,0,,,,,,,
+4,2016-2017,22,Benfica,pt  POR,1.  Primeira Liga,1st,26.5,,,,,,,,,,,,,,,0,,,,,,,
+5,2017-2018,23,Manchester City,eng  ENG,1.  Premier League,1st,35.5,961,1101,87.3,25644,15040,162,163,99.4,512,517,99.0,283,417,67.9,0,0.1,-0.1,1,7,0,0,0
+6,2018-2019,24,Manchester City,eng  ENG,1.  Premier League,1st,38.0,942,1099,85.7,25271,15250,172,172,100.0,511,514,99.4,258,410,62.9,1,0.3,+0.7,3,10,0,0,3
+7,2019-2020,25,Manchester City,eng  ENG,1.  Premier League,2nd,34.1,927,1063,87.2,23473,13253,184,185,99.5,502,506,99.2,240,371,64.7,0,0.1,-0.1,1,11,0,0,0
+8,2020-2021,26,Manchester City,eng  ENG,1.  Premier League,1st,36.0,906,1090,83.1,24435,13863,131,135,97.0,507,511,99.2,261,436,59.9,1,0.4,+0.6,1,7,2,0,1
+9,2021-2022,27,Manchester City,eng  ENG,1.  Premier League,2nd,13.0,335,374,89.6,8636,4920,64,64,100.0,174,174,100.0,95,133,71.4,0,0.0,0.0,0,3,0,0,1
+10,10 Seasons,10 Seasons,3 Clubs,,2 Leagues,,229.7,4071,4727,86.1,107459,62326,713,719,99.2,2206,2222,99.3,1137,1767,64.3,2,0.8,+1.2,6,38,2,0,5
+11,,,,Country,Comp,LgRank,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xA,A-xA,KP,1/3,PPA,CrsPA,Prog
+12,Manchester City (5 Seasons),Manchester City (5 Seasons),Manchester City (5 Seasons),,1 League,,156.6,4071,4727,86.1,107459,62326,713,719,99.2,2206,2222,99.3,1137,1767,64.3,2,0.8,+1.2,6,38,2,0,5
+13,Rio Ave (3 Seasons),Rio Ave (3 Seasons),Rio Ave (3 Seasons),,1 League,,36.7,,,,,,,,,,,,,,,0,,,,,,,
+14,Benfica (2 Seasons),Benfica (2 Seasons),Benfica (2 Seasons),,1 League,,36.3,,,,,,,,,,,,,,,0,,,,,,,
+15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,Premier League (5 Seasons),Premier League (5 Seasons),Premier League (5 Seasons),,,,156.6,4071,4727,86.1,107459,62326,713,719,99.2,2206,2222,99.3,1137,1767,64.3,2,0.8,+1.2,6,38,2,0,5
+17,Primeira Liga (5 Seasons),Primeira Liga (5 Seasons),Primeira Liga (5 Seasons),,,,73.1,,,,,,,,,,,,,,,0,,,,,,,

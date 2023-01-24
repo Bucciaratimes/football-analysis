@@ -1,0 +1,15 @@
+,Player,#,Nation,Pos,Age,Min,Gls_Performance,Ast_Performance,PK_Performance,PKatt_Performance,Sh_Performance,SoT_Performance,CrdY_Performance,CrdR_Performance,Touches_Performance,Press_Performance,Tkl_Performance,Int_Performance,Blocks_Performance,xG_Expected,npxG_Expected,xA_Expected,SCA_SCA,GCA_SCA,Cmp_Passes,Att_Passes,Cmp%_Passes,Prog_Passes,Carries_Carries,Prog_Carries,Succ_Dribbles,Att_Dribbles
+0,Antoine Griezmann,7.0,fr  FRA,FW,29-309,90,0,0,0,0,3,1,1,0,44,20,0,1,1,0.2,0.2,0.2,1,0,29,38,76.3,3,30,3,1,1
+1,Martin Braithwaite,9.0,dk  DEN,LW,29-233,90,0,0,0,0,0,0,0,0,32,7,1,0,0,0.0,0.0,0.1,1,0,22,26,84.6,0,22,6,0,0
+2,Ousmane Dembélé,11.0,fr  FRA,RW,23-254,73,0,0,0,0,2,1,0,0,66,12,0,0,3,0.1,0.1,0.3,3,0,40,52,76.9,5,53,10,5,8
+3,Francisco Trincão,17.0,pt  POR,RW,21-026,17,0,0,0,0,2,2,0,0,22,4,0,0,0,0.2,0.2,0.0,0,0,16,17,94.1,2,18,4,0,0
+4,Pedri,16.0,es  ESP,CM,18-060,86,0,0,0,0,2,0,0,0,64,14,1,0,1,0.1,0.1,0.2,7,0,49,54,90.7,6,55,12,2,2
+5,Riqui Puig,12.0,es  ESP,CM,21-164,4,1,0,0,0,1,1,0,0,6,0,0,0,0,0.1,0.1,0.0,0,0,4,5,80.0,0,3,0,0,0
+6,Frenkie de Jong,21.0,nl  NED,CM,23-257,90,1,1,0,0,1,1,0,0,87,7,2,3,1,0.9,0.9,0.1,3,1,66,79,83.5,8,68,10,0,0
+7,Sergio Busquets,5.0,es  ESP,DM,32-192,90,0,0,0,0,1,1,1,0,103,20,3,1,0,0.0,0.0,0.0,1,0,88,96,91.7,11,63,3,1,1
+8,Jordi Alba,18.0,es  ESP,LB,31-309,90,0,0,0,0,2,0,0,0,73,5,1,4,1,0.1,0.1,0.0,2,0,60,67,89.6,4,47,4,1,2
+9,Samuel Umtiti,23.0,fr  FRA,CB,27-071,90,0,0,0,0,0,0,0,0,112,8,0,2,1,0.0,0.0,0.0,2,0,105,106,99.1,5,91,17,0,0
+10,Ronald Araújo,4.0,uy  URU,CB,21-323,90,0,0,0,0,1,0,0,0,109,12,1,3,0,0.2,0.2,0.0,1,0,96,99,97.0,4,87,16,0,0
+11,Óscar Mingueza,28.0,es  ESP,RB,21-256,90,0,0,0,0,0,0,0,0,75,15,4,2,2,0.0,0.0,0.0,2,1,54,65,83.1,1,55,8,1,1
+12,Marc-André ter Stegen,1.0,de  GER,GK,28-269,90,0,0,0,0,0,0,0,0,29,0,0,0,0,0.0,0.0,0.0,0,0,27,28,96.4,0,15,0,0,0
+13,13 Players,,,,,990,2,1,0,0,15,7,2,0,822,124,13,16,10,1.9,1.9,0.9,23,2,656,732,89.6,49,607,93,11,15

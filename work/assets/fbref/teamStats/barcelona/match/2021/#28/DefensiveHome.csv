@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,Alexander Isak,19.0,se  SWE,"FW,RW",21-181,82,0,0,0,0,0,0,0,,0,15,1,6.7,0,4,11,1,0,0,1,1,1,0,0
+1,Jon Bautista,25.0,es  ESP,RW,25-261,8,0,0,0,0,0,0,0,,0,4,1,25.0,0,1,3,0,0,0,0,0,0,0,0
+2,Mikel Oyarzabal,10.0,es  ESP,LW,23-334,90,1,0,1,0,0,1,3,33.3,2,25,7,28.0,6,9,10,1,1,0,0,3,4,0,0
+3,Portu,7.0,es  ESP,RW,28-304,60,0,0,0,0,0,0,3,0.0,3,16,0,0.0,4,5,7,1,0,0,1,1,1,0,0
+4,Adnan Januzaj,11.0,be  BEL,"WB,RW",26-044,30,0,0,0,0,0,0,0,,0,1,0,0.0,0,1,0,0,0,0,0,0,0,0,0
+5,Mikel Merino,8.0,es  ESP,DM,24-272,90,4,4,0,3,1,2,7,28.6,5,37,8,21.6,11,17,9,2,0,0,2,5,9,1,0
+6,Ander Guevara,16.0,es  ESP,DM,23-257,90,5,3,2,3,0,1,2,50.0,1,28,11,39.3,12,13,3,0,0,0,0,0,5,0,0
+7,Martín Merquelanz,17.0,es  ESP,WB,25-282,90,3,1,2,1,0,2,4,50.0,2,11,3,27.3,9,2,0,1,0,0,1,2,5,2,0
+8,Andoni Gorosabel,18.0,es  ESP,WB,24-229,60,1,0,0,0,1,1,3,33.3,2,3,1,33.3,2,0,1,0,0,0,0,3,4,1,0
+9,Ander Barrenetxea,22.0,es  ESP,"CB,WB",19-084,30,0,0,0,0,0,0,0,,0,5,1,20.0,0,3,2,2,0,0,2,0,0,1,0
+10,Robin Le Normand,24.0,fr  FRA,CB,24-130,90,3,0,2,1,0,3,7,42.9,4,20,3,15.0,14,4,2,0,0,0,0,1,4,2,0
+11,Martín Zubimendi,36.0,es  ESP,CB,22-047,71,0,0,0,0,0,0,1,0.0,1,8,0,0.0,6,1,1,2,2,0,0,4,4,3,0
+12,Carlos Fernández,9.0,es  ESP,"FW,CB",24-303,19,0,0,0,0,0,0,1,0.0,1,9,1,11.1,1,5,3,1,0,0,1,0,0,0,0
+13,Igor Zubeldia,5.0,es  ESP,CB,23-356,82,5,4,5,0,0,4,5,80.0,1,14,5,35.7,10,4,0,1,1,0,0,0,5,1,0
+14,Modibo Sagnan,15.0,ml  MLI,CB,21-341,8,0,0,0,0,0,0,0,,0,2,1,50.0,1,1,0,0,0,0,0,0,0,0,0
+15,Álex Remiro,1.0,es  ESP,GK,25-362,90,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+16,16 Players,,,,,990,22,12,12,8,2,14,36,38.9,22,198,43,21.7,76,70,52,12,4,0,8,20,42,11,0

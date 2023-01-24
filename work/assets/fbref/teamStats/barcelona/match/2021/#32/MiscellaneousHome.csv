@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,CrdY_Performance,CrdR_Performance,2CrdY_Performance,Fls_Performance,Fld_Performance,Off_Performance,Crs_Performance,Int_Performance,TklW_Performance,PKwon_Performance,PKcon_Performance,OG_Performance,Recov_Performance,Won_Aerial Duels,Lost_Aerial Duels,Won%_Aerial Duels
+0,Paco Alcácer,17.0,es  ESP,FW,27-238,59,0,0,0,1,0,1,1,0,1,0,0,0,1,0,1,0.0
+1,Francis Coquelin,19.0,fr  FRA,"FW,CM",29-347,31,0,0,0,2,0,0,0,0,0,0,0,0,4,0,0,
+2,Gerard Moreno,7.0,es  ESP,FW,29-018,90,0,0,0,3,4,0,0,1,0,0,0,0,6,1,4,20.0
+3,Manu Trigueros,14.0,es  ESP,"LM,FW",29-190,64,0,1,0,1,0,0,0,0,0,0,0,0,7,1,1,50.0
+4,Daniel Parejo,5.0,es  ESP,CM,32-009,90,0,0,0,1,0,0,2,0,3,0,0,0,8,0,0,
+5,Étienne Capoue,25.0,fr  FRA,CM,32-288,75,0,0,0,1,1,0,0,1,0,0,0,0,6,0,0,
+6,Moi Gómez,23.0,es  ESP,"CM,LM",26-306,15,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0.0
+7,Samuel Chukwueze,11.0,ng  NGA,RM,21-338,88,0,0,0,2,3,0,4,0,0,0,0,0,4,0,1,0.0
+8,Yeremi Pino,30.0,es  ESP,RM,18-187,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,100.0
+9,Alberto Moreno,18.0,es  ESP,LB,28-294,59,0,0,0,0,2,0,1,0,0,0,0,0,3,0,0,
+10,Pervis Estupiñán,15.0,ec  ECU,LB,23-094,31,0,0,0,2,0,0,0,1,1,0,0,0,1,0,0,
+11,Pau Torres,4.0,es  ESP,CB,24-099,90,1,0,0,1,0,0,1,0,1,0,0,0,10,1,1,50.0
+12,Raúl Albiol,3.0,es  ESP,CB,35-233,88,1,0,0,0,0,0,0,1,1,0,0,0,7,0,0,
+13,Mario Gaspar,2.0,es  ESP,RB,30-152,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+14,Juan Foyth,8.0,ar  ARG,"RB,CB",23-103,90,0,0,0,2,1,0,0,3,0,0,0,0,14,0,2,0.0
+15,Sergio Asenjo,1.0,es  ESP,GK,31-301,90,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,
+16,16 Players,,,,,964,2,1,0,16,11,1,10,7,7,0,0,0,77,4,12,25.0

@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,Att,Live_Pass Types,Dead_Pass Types,FK_Pass Types,TB_Pass Types,Press_Pass Types,Sw_Pass Types,Crs_Pass Types,CK_Pass Types,In_Corner Kicks,Out_Corner Kicks,Str_Corner Kicks,Ground_Height,Low_Height,High_Height,Left_Body Parts,Right_Body Parts,Head_Body Parts,TI_Body Parts,Other_Body Parts,Cmp_Outcomes,Off_Outcomes,Out_Outcomes,Int_Outcomes,Blocks_Outcomes
+0,Ousmane Dembélé,11.0,fr  FRA,"FW,LW",23-325,90,37,36,1,0,0,9,1,2,0,0,0,0,31,4,2,16,18,0,1,1,31,0,0,1,2
+1,Antoine Griezmann,7.0,fr  FRA,"AM,LM",30-015,62,52,51,1,0,1,11,0,2,0,0,0,0,46,3,3,47,3,1,1,0,47,0,0,2,1
+2,Francisco Trincão,17.0,pt  POR,CM,21-097,28,19,18,1,0,0,1,3,2,0,0,0,0,16,1,2,17,0,0,1,1,18,0,0,0,0
+3,Lionel Messi,10.0,ar  ARG,"AM,RW,RM",33-285,90,55,50,5,1,2,20,3,1,2,0,2,0,44,5,6,48,6,0,1,0,46,0,0,2,2
+4,Pedri,16.0,es  ESP,"DM,CM",18-131,76,79,78,1,0,1,11,2,0,1,0,0,0,70,4,5,9,67,2,0,1,69,0,1,6,0
+5,Ilaix,27.0,es  ESP,CM,18-076,14,11,11,0,0,0,0,0,0,0,0,0,0,11,0,0,0,11,0,0,0,11,0,0,0,0
+6,Sergio Busquets,5.0,es  ESP,DM,32-263,63,71,69,2,2,1,10,1,0,0,0,0,0,62,3,6,7,62,0,0,1,66,0,0,2,0
+7,Martin Braithwaite,9.0,dk  DEN,FW,29-304,27,4,4,0,0,0,2,0,0,0,0,0,0,3,1,0,0,3,0,0,0,4,0,0,0,0
+8,Jordi Alba,18.0,es  ESP,"LB,WB",32-015,90,102,87,15,3,0,5,0,6,1,0,0,0,74,20,8,86,5,0,11,0,83,0,1,4,5
+9,Sergiño Dest,2.0,us  USA,"WB,RB",20-153,86,57,55,2,0,0,7,0,1,0,0,0,0,54,3,0,8,47,0,2,0,53,0,0,2,1
+10,Riqui Puig,12.0,es  ESP,RB,21-235,4,8,8,0,0,0,1,0,0,0,0,0,0,7,1,0,0,8,0,0,0,6,0,1,1,0
+11,Clément Lenglet,15.0,fr  FRA,CB,25-292,90,56,54,2,2,0,9,0,0,0,0,0,0,46,3,7,47,2,3,0,0,46,0,1,3,1
+12,Frenkie de Jong,21.0,nl  NED,"CB,DM,CM",23-328,90,104,103,1,1,0,6,2,2,0,0,0,0,93,7,4,4,97,3,0,0,98,0,0,3,1
+13,Óscar Mingueza,28.0,es  ESP,CB,21-327,62,48,44,4,2,0,5,1,0,0,0,0,0,42,5,1,4,40,2,2,0,44,0,1,1,0
+14,Ronald Araújo,4.0,uy  URU,CB,22-029,28,13,13,0,0,0,3,1,0,0,0,0,0,11,1,1,1,11,0,0,0,12,0,0,0,0
+15,Marc-André ter Stegen,1.0,de  GER,GK,28-340,90,26,19,7,1,0,2,1,0,0,0,0,0,23,1,2,2,17,0,0,7,24,0,1,0,0
+16,16 Players,,,,,990,742,700,42,12,5,102,15,16,4,0,2,0,633,62,47,296,397,11,19,11,658,0,6,27,13

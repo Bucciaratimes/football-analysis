@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,CrdY_Performance,CrdR_Performance,2CrdY_Performance,Fls_Performance,Fld_Performance,Off_Performance,Crs_Performance,Int_Performance,TklW_Performance,PKwon_Performance,PKcon_Performance,OG_Performance,Recov_Performance,Won_Aerial Duels,Lost_Aerial Duels,Won%_Aerial Duels
+0,Ousmane Dembélé,11.0,fr  FRA,FW,23-310,78,0,0,0,0,2,1,0,0,0,0,0,0,4,0,2,0.0
+1,Martin Braithwaite,9.0,dk  DEN,FW,29-289,12,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0.0
+2,Antoine Griezmann,7.0,fr  FRA,AM,30-000,84,0,0,0,0,1,0,1,0,2,0,0,0,8,0,2,0.0
+3,Riqui Puig,12.0,es  ESP,CM,21-220,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+4,Lionel Messi,10.0,ar  ARG,"AM,FW",33-270,90,0,0,0,1,1,0,1,0,1,0,0,0,3,0,0,
+5,Pedri,16.0,es  ESP,DM,18-116,67,0,0,0,1,0,0,0,2,0,0,0,0,2,0,0,
+6,Ilaix Moriba,27.0,es  ESP,"DM,CM",18-061,23,0,0,0,2,2,0,0,0,2,0,0,0,1,0,0,
+7,Sergio Busquets,5.0,es  ESP,DM,32-248,66,1,0,0,2,2,0,0,0,0,0,0,0,6,2,0,100.0
+8,Ronald Araújo,4.0,uy  URU,CB,22-014,24,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,
+9,Jordi Alba,18.0,es  ESP,WB,32-000,90,0,0,0,1,1,1,2,3,0,0,0,0,4,0,0,
+10,Sergiño Dest,2.0,us  USA,WB,20-138,83,0,0,0,1,0,0,1,2,0,0,0,0,7,0,0,
+11,Francisco Trincão,17.0,pt  POR,WB,21-082,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+12,Clément Lenglet,15.0,fr  FRA,CB,25-277,90,0,0,0,2,1,0,0,2,1,0,0,0,7,0,3,0.0
+13,Frenkie de Jong,21.0,nl  NED,"CB,DM",23-313,90,0,0,0,1,1,0,0,1,1,0,0,0,13,1,0,100.0
+14,Óscar Mingueza,28.0,es  ESP,CB,21-312,90,0,0,0,0,0,0,0,0,4,0,0,0,9,1,0,100.0
+15,Marc-André ter Stegen,1.0,de  GER,GK,28-325,90,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,
+16,16 Players,,,,,990,2,0,0,12,12,2,5,10,11,0,0,0,72,4,8,33.3

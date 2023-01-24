@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,Att,Live_Pass Types,Dead_Pass Types,FK_Pass Types,TB_Pass Types,Press_Pass Types,Sw_Pass Types,Crs_Pass Types,CK_Pass Types,In_Corner Kicks,Out_Corner Kicks,Str_Corner Kicks,Ground_Height,Low_Height,High_Height,Left_Body Parts,Right_Body Parts,Head_Body Parts,TI_Body Parts,Other_Body Parts,Cmp_Outcomes,Off_Outcomes,Out_Outcomes,Int_Outcomes,Blocks_Outcomes
+0,Luuk de Jong,9.0,nl  NED,FW,30-038,83,31,29,2,0,0,11,0,0,0,0,0,0,21,7,3,7,19,1,0,0,24,0,0,0,1
+1,Carlos Fernández,24.0,es  ESP,FW,24-135,7,6,6,0,0,0,0,0,0,0,0,0,0,5,1,0,5,0,1,0,0,4,0,0,0,0
+2,Suso,7.0,es  ESP,"LW,RW",26-320,60,41,41,0,0,0,6,3,4,0,0,0,0,29,2,10,37,4,0,0,0,35,0,0,0,1
+3,Munir El Haddadi,11.0,es  ESP,RW,25-033,30,12,12,0,0,0,3,0,0,0,0,0,0,9,1,2,11,1,0,0,0,8,0,0,0,1
+4,Lucas Ocampos,5.0,ar  ARG,"RW,LW",26-085,60,15,15,0,0,0,3,1,1,0,0,0,0,13,1,1,4,11,0,0,0,11,0,0,0,1
+5,Youssef En-Nesyri,15.0,ma  MAR,LW,23-125,30,9,9,0,0,0,0,0,1,0,0,0,0,7,2,0,9,0,0,0,0,7,0,0,0,0
+6,Joan Jordán,8.0,es  ESP,CM,26-090,84,70,58,12,8,0,3,3,0,4,0,2,0,58,6,6,12,57,1,0,0,65,0,0,0,1
+7,Óliver Torres,21.0,es  ESP,CM,25-329,6,6,6,0,0,0,1,0,0,0,0,0,0,2,1,3,0,5,1,0,0,4,0,0,0,0
+8,Ivan Rakitić,10.0,hr  CRO,CM,32-208,77,30,30,0,0,0,1,0,1,0,0,0,0,24,2,4,4,24,2,0,0,25,0,0,0,0
+9,Nemanja Gudelj,6.0,rs  SRB,CM,28-323,13,12,12,0,0,0,2,0,0,0,0,0,0,10,0,2,1,10,0,0,0,12,0,0,0,0
+10,Fernando,25.0,br  BRA,DM,33-071,90,48,48,0,0,0,2,0,0,0,0,0,0,43,2,3,12,36,0,0,0,45,0,1,0,0
+11,Marcos Acuña,19.0,ar  ARG,LB,28-342,90,51,45,6,1,0,2,0,0,1,0,0,0,32,7,12,41,3,2,4,0,45,0,2,0,0
+12,Diego Carlos,20.0,br  BRA,CB,27-203,90,66,66,0,0,0,0,5,0,0,0,0,0,51,0,15,6,58,2,0,0,57,0,3,0,0
+13,Jules Koundé,12.0,fr  FRA,CB,21-327,90,82,82,0,0,0,0,0,0,0,0,0,0,73,5,4,12,67,3,0,0,77,0,0,0,0
+14,Jesús Navas,16.0,es  ESP,RB,34-318,90,67,60,7,0,0,4,3,4,0,0,0,0,41,11,15,4,54,2,7,0,48,1,4,0,3
+15,Yassine Bounou,13.0,ma  MAR,GK,29-182,90,29,23,6,2,0,6,0,0,0,0,0,0,22,0,7,22,5,0,0,2,26,0,1,0,0
+16,16 Players,,,,,990,575,542,33,11,0,44,15,11,5,0,2,0,440,48,87,187,354,15,11,2,493,1,11,0,8

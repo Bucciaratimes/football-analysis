@@ -1,0 +1,18 @@
+,Player,#,Nation,Pos,Age,Min,Touches_Touches,Def Pen_Touches,Def 3rd_Touches,Mid 3rd_Touches,Att 3rd_Touches,Att Pen_Touches,Live_Touches,Succ_Dribbles,Att_Dribbles,Succ%_Dribbles,#Pl_Dribbles,Megs_Dribbles,Carries_Carries,TotDist_Carries,PrgDist_Carries,Prog_Carries,1/3_Carries,CPA_Carries,Mis_Carries,Dis_Carries,Targ_Receiving,Rec_Receiving,Rec%_Receiving,Prog_Receiving
+0,Álvaro Negredo,18.0,es  ESP,FW,35-185,58,24,1,6,12,8,0,22,1,1,100.0,1,1,11,19,6,0,0,0,5,1,31,17,54.8,1
+1,Anthony Lozano,9.0,hn  HON,FW,27-302,32,7,0,0,4,3,1,7,0,0,,0,0,6,22,14,0,0,0,1,0,18,6,33.3,1
+2,Jairo Izquierdo,25.0,es  ESP,LM,27-122,58,23,4,10,4,9,0,23,0,0,,0,0,16,71,32,0,0,0,1,0,16,12,75.0,5
+3,Álex Fernández,8.0,es  ESP,CM,28-129,32,16,0,5,7,4,1,15,0,0,,0,0,6,20,14,0,0,0,1,0,9,8,88.9,1
+4,Alberto Perea,10.0,es  ESP,CM,30-064,75,28,2,14,11,3,0,28,0,0,,0,0,16,138,69,3,0,0,1,1,19,13,68.4,0
+5,Jens Jønsson,2.0,dk  DEN,DM,28-042,15,5,0,3,1,1,0,5,0,0,,0,0,1,0,0,0,0,0,0,0,3,3,100.0,0
+6,Rubén Sobrino,21.0,es  ESP,"CM,LM,FW",28-265,90,31,3,17,8,8,3,31,2,2,100.0,2,0,16,54,47,1,0,1,4,1,21,14,66.7,1
+7,Salvi,7.0,es  ESP,RM,29-328,61,22,3,10,3,10,1,21,0,0,,0,0,11,55,45,2,0,1,0,2,14,12,85.7,3
+8,Iván Alejo,14.0,es  ESP,"WB,RM",26-011,29,4,0,1,1,3,0,3,0,0,,0,0,2,35,22,1,1,0,0,0,5,2,40.0,1
+9,Jon Ander Garrido,5.0,es  ESP,DM,31-135,57,12,3,6,5,1,0,11,0,0,,0,0,5,4,2,0,0,0,1,0,10,4,40.0,0
+10,José Mari,6.0,es  ESP,"DM,CM",33-077,33,11,1,2,7,2,0,11,0,0,,0,0,3,3,3,0,0,0,0,1,5,5,100.0,0
+11,Alfonso Espino,22.0,uy  URU,"LB,WB",29-047,90,46,6,23,17,8,1,37,1,1,100.0,1,0,17,63,25,1,0,0,0,0,12,10,83.3,0
+12,Marcos Mauro López Gutiérrez,4.0,ar  ARG,CB,30-043,90,18,7,13,5,0,0,17,0,0,,0,0,4,16,5,0,0,0,0,0,7,7,100.0,0
+13,Fali,3.0,es  ESP,CB,27-193,90,22,6,14,9,1,0,18,1,1,100.0,1,0,5,18,10,0,0,0,0,1,4,4,100.0,0
+14,Isaac Carcelen,20.0,es  ESP,"RB,CB",27-304,90,28,12,20,7,2,0,22,1,1,100.0,1,0,9,35,8,0,0,0,0,0,9,8,88.9,0
+15,Jeremías Ledesma,1.0,ar  ARG,GK,28-008,90,36,30,36,0,0,0,10,0,0,,0,0,4,28,16,0,0,0,0,0,3,3,100.0,0
+16,16 Players,,,,,990,333,78,180,101,63,7,281,6,6,100.0,6,1,132,581,318,8,1,2,14,7,186,128,68.8,13

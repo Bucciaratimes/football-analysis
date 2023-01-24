@@ -1,0 +1,16 @@
+,Player,#,Nation,Pos,Age,Min,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,Gonçalo Guedes,7.0,pt  POR,FW,24-020,86,2,1,1,1,0,1,2,50.0,1,11,2,18.2,4,4,3,1,0,0,1,0,2,0,0
+1,Manu Vallejo,21.0,es  ESP,FW,23-309,4,1,1,0,0,1,1,1,100.0,0,3,2,66.7,1,1,1,0,0,0,0,0,1,0,0
+2,Maxi Gómez,22.0,uy  URU,FW,24-127,90,1,1,0,1,0,0,2,0.0,2,13,3,23.1,0,7,6,3,1,0,2,0,1,1,0
+3,Denis Cheryshev,17.0,ru  RUS,LM,29-359,89,2,1,0,1,1,1,2,50.0,1,15,2,13.3,7,6,2,1,0,0,1,2,4,2,0
+4,Lee Kangin,20.0,kr  KOR,LM,19-304,1,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+5,Uroš Račić,19.0,rs  SRB,CM,22-277,90,2,2,2,0,0,2,6,33.3,4,15,4,26.7,5,7,3,2,1,0,1,1,3,5,0
+6,Carlos Soler,8.0,es  ESP,CM,23-352,90,1,0,1,0,0,1,3,33.3,2,12,2,16.7,6,5,1,4,1,0,3,1,2,2,0
+7,Yunus Musah,30.0,us  USA,RM,18-020,41,0,0,0,0,0,0,2,0.0,2,10,2,20.0,3,4,3,0,0,0,0,0,0,0,0
+8,Alejandro Blanco,37.0,es  ESP,RM,22-003,49,2,0,1,1,0,0,1,0.0,1,11,0,0.0,7,3,1,2,0,0,2,1,3,1,0
+9,José Luis Gayà,14.0,es  ESP,LB,25-208,90,3,2,2,1,0,3,4,75.0,1,6,0,0.0,4,2,0,1,0,0,1,2,5,3,0
+10,Mouctar Diakhaby,12.0,fr  FRA,CB,24-000,90,0,0,0,0,0,0,0,,0,11,1,9.1,9,2,0,3,1,0,2,0,0,6,0
+11,Gabriel Paulista,5.0,br  BRA,CB,30-023,90,0,0,0,0,0,0,2,0.0,2,7,1,14.3,4,3,0,2,2,0,0,2,2,8,0
+12,Daniel Wass,18.0,dk  DEN,RB,31-202,90,4,2,2,2,0,1,3,33.3,2,12,1,8.3,4,6,2,3,0,0,3,1,5,3,0
+13,Jaume Doménech,1.0,es  ESP,GK,30-044,90,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+14,14 Players,,,,,990,18,10,9,7,2,10,28,35.7,18,126,20,15.9,54,50,22,22,6,0,16,10,28,31,0

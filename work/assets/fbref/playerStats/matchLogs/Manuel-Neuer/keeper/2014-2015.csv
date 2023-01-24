@@ -1,0 +1,63 @@
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SoTA_Performance,GA_Performance,Saves_Performance,Save%_Performance,CS_Performance,PKatt_Penalty Kicks,PKA_Penalty Kicks,PKsv_Penalty Kicks,PKm_Penalty Kicks,Match Report
+0,2014-07-04,Fri,FIFA World Cup,Quarter-finals,Neutral,W 1–0,de  Germany,fr  France,Y,,90,9,0,,100.0,1,0,0,0,0,Match Report
+1,2014-07-08,Tue,FIFA World Cup,Semi-finals,Neutral,W 7–1,de  Germany,br  Brazil,Y,,90,13,1,,92.3,0,0,0,0,0,Match Report
+2,2014-07-13,Sun,FIFA World Cup,Final,Neutral,W 1–0,de  Germany,ar  Argentina,Y,,120,2,0,,100.0,1,0,0,0,0,Match Report
+3,2014-08-13,Wed,DFL-Supercup,DFL-Supercup,Away,L 0–2,Bayern Munich,Dortmund,Y*,GK,90,10,2,8,80.0,0,0,0,0,0,Match Report
+4,2014-08-17,Sun,DFB-Pokal,First round,Away,W 4–1,Bayern Munich,Preußen Münster,Y,,90,,1,,,0,1,1,0,0,Match Report
+5,2014-08-22,Fri,Bundesliga,Matchweek 1,Home,W 2–1,Bayern Munich,Wolfsburg,Y,,90,4,1,3,75.0,0,0,0,0,0,Match Report
+6,2014-08-30,Sat,Bundesliga,Matchweek 2,Away,D 1–1,Bayern Munich,Schalke 04,Y,,90,3,1,2,66.7,0,0,0,0,0,Match Report
+7,2014-09-03,Wed,Friendlies (M),Friendlies (M),Home,L 2–4,de  Germany,ar  Argentina,Y*,GK,45,,,,,0,0,0,0,0,Match Report
+8,2014-09-07,Sun,Euro Qualifying,Group stage,Home,W 2–1,de  Germany,sct  Scotland,Y*,GK,90,3,1,2,66.7,0,0,0,0,0,Match Report
+9,2014-09-13,Sat,Bundesliga,Matchweek 3,Home,W 2–0,Bayern Munich,Stuttgart,Y,,90,0,0,0,,1,0,0,0,0,Match Report
+10,2014-09-17,Wed,Champions Lg,Group stage,Home,W 1–0,de  Bayern Munich,eng  Manchester City,Y,,90,2,0,,100.0,1,0,0,0,0,Match Report
+11,2014-09-20,Sat,Bundesliga,Matchweek 4,Away,D 0–0,Bayern Munich,Hamburger SV,Y,,90,0,0,0,,1,0,0,0,0,Match Report
+12,2014-09-23,Tue,Bundesliga,Matchweek 5,Home,W 4–0,Bayern Munich,Paderborn 07,Y,,90,2,0,2,100.0,1,0,0,0,0,Match Report
+13,2014-09-27,Sat,Bundesliga,Matchweek 6,Away,W 2–0,Bayern Munich,Köln,Y,,90,3,0,3,100.0,1,0,0,0,0,Match Report
+14,2014-09-30,Tue,Champions Lg,Group stage,Away,W 1–0,de  Bayern Munich,ru  CSKA Moscow,Y,,90,3,0,,100.0,1,0,0,0,0,Match Report
+15,2014-10-04,Sat,Bundesliga,Matchweek 7,Home,W 4–0,Bayern Munich,Hannover 96,Y,,90,3,0,3,100.0,1,0,0,0,0,Match Report
+16,2014-10-11,Sat,Euro Qualifying,Group stage,Away,L 0–2,de  Germany,pl  Poland,Y*,GK,90,3,2,1,33.3,0,0,0,0,0,Match Report
+17,2014-10-14,Tue,Euro Qualifying,Group stage,Home,D 1–1,de  Germany,ie  Republic of Ireland,Y*,GK,90,1,1,0,0.0,0,0,0,0,0,Match Report
+18,2014-10-18,Sat,Bundesliga,Matchweek 8,Home,W 6–0,Bayern Munich,Werder Bremen,Y,,90,0,0,0,,1,0,0,0,0,Match Report
+19,2014-10-21,Tue,Champions Lg,Group stage,Away,W 7–1,de  Bayern Munich,it  Roma,Y,,90,5,1,,80.0,0,0,0,0,0,Match Report
+20,2014-10-26,Sun,Bundesliga,Matchweek 9,Away,D 0–0,Bayern Munich,M'Gladbach,Y,,90,5,0,5,100.0,1,0,0,0,0,Match Report
+21,2014-10-29,Wed,DFB-Pokal,Second round,Away,W 3–1,Bayern Munich,Hamburger SV,Y,,90,,1,,,0,0,0,0,0,Match Report
+22,2014-11-01,Sat,Bundesliga,Matchweek 10,Home,W 2–1,Bayern Munich,Dortmund,Y,,90,4,1,3,75.0,0,0,0,0,0,Match Report
+23,2014-11-05,Wed,Champions Lg,Group stage,Home,W 2–0,de  Bayern Munich,it  Roma,Y,,90,2,0,,100.0,1,0,0,0,0,Match Report
+24,2014-11-08,Sat,Bundesliga,Matchweek 11,Away,W 4–0,Bayern Munich,Eint Frankfurt,Y,,90,2,0,2,100.0,1,0,0,0,0,Match Report
+25,2014-11-14,Fri,Euro Qualifying,Group stage,Home,W 4–0,de  Germany,gi  Gibraltar,Y*,GK,90,2,0,2,100.0,1,0,0,0,0,Match Report
+26,2014-11-22,Sat,Bundesliga,Matchweek 12,Home,W 4–0,Bayern Munich,Hoffenheim,Y,,90,4,0,4,100.0,1,0,0,0,0,Match Report
+27,2014-11-25,Tue,Champions Lg,Group stage,Away,L 2–3,de  Bayern Munich,eng  Manchester City,Y,,90,2,3,,0.0,0,1,1,0,0,Match Report
+28,2014-11-29,Sat,Bundesliga,Matchweek 13,Away,W 1–0,Bayern Munich,Hertha BSC,Y,,90,1,0,1,100.0,1,0,0,0,0,Match Report
+29,2014-12-06,Sat,Bundesliga,Matchweek 14,Home,W 1–0,Bayern Munich,Leverkusen,Y,,90,0,0,0,,1,0,0,0,0,Match Report
+30,2014-12-10,Wed,Champions Lg,Group stage,Home,W 3–0,de  Bayern Munich,ru  CSKA Moscow,Y,,90,1,0,,100.0,1,0,0,0,0,Match Report
+31,2014-12-13,Sat,Bundesliga,Matchweek 15,Away,W 4–0,Bayern Munich,Augsburg,Y,,90,3,0,3,100.0,1,0,0,0,0,Match Report
+32,2014-12-16,Tue,Bundesliga,Matchweek 16,Home,W 2–0,Bayern Munich,Freiburg,Y,,90,0,0,0,,1,0,0,0,0,Match Report
+33,2014-12-19,Fri,Bundesliga,Matchweek 17,Away,W 2–1,Bayern Munich,Mainz 05,Y,,90,3,1,2,66.7,0,0,0,0,0,Match Report
+34,2015-01-30,Fri,Bundesliga,Matchweek 18,Away,L 1–4,Bayern Munich,Wolfsburg,Y,,90,6,4,2,33.3,0,0,0,0,0,Match Report
+35,2015-02-03,Tue,Bundesliga,Matchweek 19,Home,D 1–1,Bayern Munich,Schalke 04,Y,,90,3,1,3,66.7,0,2,0,1,1,Match Report
+36,2015-02-07,Sat,Bundesliga,Matchweek 20,Away,W 2–0,Bayern Munich,Stuttgart,Y,,90,0,0,0,,1,0,0,0,0,Match Report
+37,2015-02-14,Sat,Bundesliga,Matchweek 21,Home,W 8–0,Bayern Munich,Hamburger SV,Y,,90,2,0,2,100.0,1,0,0,0,0,Match Report
+38,2015-02-17,Tue,Champions Lg,Round of 16,Away,D 0–0,de  Bayern Munich,ua  Shakhtar,Y,,90,1,0,,100.0,1,0,0,0,0,Match Report
+39,2015-02-21,Sat,Bundesliga,Matchweek 22,Away,W 6–0,Bayern Munich,Paderborn 07,Y,,90,3,0,3,100.0,1,0,0,0,0,Match Report
+40,2015-02-27,Fri,Bundesliga,Matchweek 23,Home,W 4–1,Bayern Munich,Köln,Y,,90,4,1,3,75.0,0,0,0,0,0,Match Report
+41,2015-03-04,Wed,DFB-Pokal,Round of 16,Home,W 2–0,Bayern Munich,Braunschweig,Y,,90,,0,,,1,0,0,0,0,Match Report
+42,2015-03-07,Sat,Bundesliga,Matchweek 24,Away,W 3–1,Bayern Munich,Hannover 96,Y,,90,1,1,0,0.0,0,0,0,0,0,Match Report
+43,2015-03-11,Wed,Champions Lg,Round of 16,Home,W 7–0,de  Bayern Munich,ua  Shakhtar,Y,,90,0,0,,,1,0,0,0,0,Match Report
+44,,,,,,,,,,,,,,,,,,,,,
+45,2015-03-22,Sun,Bundesliga,Matchweek 26,Home,L 0–2,Bayern Munich,M'Gladbach,Y,,90,4,2,2,50.0,0,0,0,0,0,Match Report
+46,2015-03-29,Sun,Euro Qualifying,Group stage,Away,W 2–0,de  Germany,ge  Georgia,Y,GK,90,0,0,0,,1,0,0,0,0,Match Report
+47,2015-04-04,Sat,Bundesliga,Matchweek 27,Away,W 1–0,Bayern Munich,Dortmund,Y,,90,2,0,2,100.0,1,0,0,0,0,Match Report
+48,2015-04-08,Wed,DFB-Pokal,Quarter-finals,Away,D 0  (5)  –0  (3),Bayern Munich,Leverkusen,Y,,120,,0,,,1,0,0,0,0,Match Report
+49,2015-04-11,Sat,Bundesliga,Matchweek 28,Home,W 3–0,Bayern Munich,Eint Frankfurt,N,"On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play","On matchday squad, but did not play",Match Report
+50,2015-04-15,Wed,Champions Lg,Quarter-finals,Away,L 1–3,de  Bayern Munich,pt  Porto,Y,,90,5,3,,60.0,0,1,1,0,0,Match Report
+51,2015-04-18,Sat,Bundesliga,Matchweek 29,Away,W 2–0,Bayern Munich,Hoffenheim,Y,,90,1,0,1,100.0,1,0,0,0,0,Match Report
+52,2015-04-21,Tue,Champions Lg,Quarter-finals,Home,W 6–1,de  Bayern Munich,pt  Porto,Y,,90,1,1,,0.0,0,0,0,0,0,Match Report
+53,2015-04-25,Sat,Bundesliga,Matchweek 30,Home,W 1–0,Bayern Munich,Hertha BSC,Y,,90,3,0,3,100.0,1,0,0,0,0,Match Report
+54,2015-04-28,Tue,DFB-Pokal,Semi-finals,Home,D 1  (0)  –1  (2),Bayern Munich,Dortmund,Y,,120,,1,,,0,0,0,0,0,Match Report
+55,2015-05-02,Sat,Bundesliga,Matchweek 31,Away,L 0–2,Bayern Munich,Leverkusen,Y,,90,8,2,6,75.0,0,0,0,0,0,Match Report
+56,2015-05-06,Wed,Champions Lg,Semi-finals,Away,L 0–3,de  Bayern Munich,es  Barcelona,Y,,90,8,3,,62.5,0,0,0,0,0,Match Report
+57,2015-05-09,Sat,Bundesliga,Matchweek 32,Home,L 0–1,Bayern Munich,Augsburg,N,,77,3,1,2,66.7,0,1,0,0,1,Match Report
+58,2015-05-12,Tue,Champions Lg,Semi-finals,Home,W 3–2,de  Bayern Munich,es  Barcelona,Y,,90,4,2,,50.0,0,0,0,0,0,Match Report
+59,2015-05-16,Sat,Bundesliga,Matchweek 33,Away,L 1–2,Bayern Munich,Freiburg,Y,,90,3,2,1,33.3,0,0,0,0,0,Match Report
+60,2015-05-23,Sat,Bundesliga,Matchweek 34,Home,W 2–0,Bayern Munich,Mainz 05,Y,,90,5,0,5,100.0,1,0,0,0,0,Match Report
+61,,,,,,40-8-11,,,58/59,,5342,162,41,81,77.8,32,6,3,1,2,

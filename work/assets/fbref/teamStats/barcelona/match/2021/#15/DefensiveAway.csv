@@ -1,0 +1,17 @@
+,Player,#,Nation,Pos,Age,Min,Tkl_Tackles,TklW_Tackles,Def 3rd_Tackles,Mid 3rd_Tackles,Att 3rd_Tackles,Tkl_Vs Dribbles,Att_Vs Dribbles,Tkl%_Vs Dribbles,Past_Vs Dribbles,Press_Pressures,Succ_Pressures,%_Pressures,Def 3rd_Pressures,Mid 3rd_Pressures,Att 3rd_Pressures,Blocks_Blocks,Sh_Blocks,ShSv_Blocks,Pass_Blocks,Int,Tkl+Int,Clr,Err
+0,Kike,17.0,es  ESP,FW,31-034,72,2,2,1,1,0,0,0,,0,25,6,24.0,1,6,18,3,0,0,3,0,2,0,0
+1,Yoshinori Mutō,12.0,jp  JPN,FW,28-167,18,1,0,0,0,1,0,1,0.0,1,12,1,8.3,1,2,9,1,0,0,1,0,1,0,0
+2,Takashi Inui,14.0,jp  JPN,LW,32-210,90,1,0,0,0,1,1,3,33.3,2,20,5,25.0,3,3,14,4,0,0,4,2,3,0,0
+3,Damian Kądzior,19.0,pl  POL,RW,28-196,80,1,1,0,1,0,1,6,16.7,5,22,5,22.7,3,9,10,1,0,0,1,0,1,0,0
+4,Recio,18.0,es  ESP,RW,29-353,10,0,0,0,0,0,0,0,,0,5,1,20.0,0,4,1,0,0,0,0,0,0,0,0
+5,Papakouli Diop,8.0,sn  SEN,AM,34-285,89,0,0,0,0,0,0,2,0.0,2,19,3,15.8,8,6,5,2,0,0,2,2,2,1,0
+6,Sergio Cubero Ezcurra,31.0,es  ESP,AM,21-115,1,0,0,0,0,0,0,0,,0,1,1,100.0,0,1,0,0,0,0,0,0,0,0,0
+7,Sergio Álvarez,6.0,es  ESP,DM,28-341,90,4,3,1,3,0,0,2,0.0,2,24,4,16.7,10,12,2,0,0,0,0,0,4,1,0
+8,Edu Expósito,10.0,es  ESP,DM,24-150,90,1,0,0,0,1,1,2,50.0,1,19,3,15.8,9,5,5,1,0,0,1,2,3,0,0
+9,Rafa Soares,11.0,pt  POR,LB,25-234,90,5,3,2,2,1,1,2,50.0,1,13,5,38.5,2,6,5,4,0,0,4,3,8,0,0
+10,Pedro Bigas,3.0,es  ESP,CB,30-105,90,1,1,1,0,0,1,1,100.0,0,7,1,14.3,5,2,0,0,0,0,0,1,2,2,0
+11,Esteban Burgos,2.0,ar  ARG,CB,28-355,72,1,1,1,0,0,0,0,,0,5,3,60.0,1,4,0,1,0,0,1,1,2,2,0
+12,Paulo Oliveira,4.0,pt  POR,CB,28-356,18,0,0,0,0,0,0,1,0.0,1,2,0,0.0,1,1,0,1,1,0,0,0,0,2,0
+13,Alejandro Pozo Pozo,22.0,es  ESP,RB,21-311,90,5,4,2,3,0,4,4,100.0,0,8,3,37.5,3,5,0,3,1,0,2,6,11,2,0
+14,Marko Dmitrović,1.0,rs  SRB,GK,28-340,90,0,0,0,0,0,0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0
+15,15 Players,,,,,990,22,15,8,10,4,9,24,37.5,15,182,41,22.5,47,66,69,21,2,0,19,17,39,10,0

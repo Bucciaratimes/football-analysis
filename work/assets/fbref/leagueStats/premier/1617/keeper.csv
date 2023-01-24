@@ -1,0 +1,34 @@
+,Player,Nation,Pos,Squad,Age,Born,MP_Playing Time,Starts_Playing Time,Min_Playing Time,90s_Playing Time,GA_Performance,GA90_Performance,SoTA_Performance,Saves_Performance,Save%_Performance,W,D,L,CS_Performance,CS%_Performance,PKatt_Performance,PKA_Penalty Kicks,PKsv_Penalty Kicks,PKm_Penalty Kicks,Save%_Penalty Kicks
+0,Julen Agirrezabala,es  ESP,GK,Athletic Club,20-287,2000,2,2,180,2.0,1,0.50,5,4,80.0,0,2,0,1,50.0,0,0,0,0,
+1,Sergio Asenjo,es  ESP,GK,Villarreal,32-103,1989,1,1,90,1.0,1,1.00,3,2,66.7,1,0,0,0,0.0,0,0,0,0,
+2,Yassine Bounou,ma  MAR,GK,Sevilla,30-187,1991,6,6,540,6.0,3,0.50,13,10,76.9,3,2,1,3,50.0,1,0,1,0,100.0
+3,Claudio Bravo,cl  CHI,GK,Betis,38-179,1983,3,3,270,3.0,3,1.00,10,7,70.0,2,1,0,1,33.3,0,0,0,0,
+4,Cárdenas,es  ESP,GK,Levante,24-195,1997,3,3,270,3.0,4,1.33,6,2,33.3,0,1,2,0,0.0,0,0,0,0,
+5,Kiko Casilla,es  ESP,GK,Elche,35-007,1986,8,8,720,8.0,8,1.00,33,25,75.8,2,3,3,3,37.5,0,0,0,0,
+6,Jasper Cillessen,nl  NED,GK,Valencia,32-170,1989,2,2,180,2.0,1,0.50,5,4,80.0,0,2,0,1,50.0,0,0,0,0,
+7,Thibaut Courtois,be  BEL,GK,Real Madrid,29-151,1992,8,8,720,8.0,10,1.25,32,23,71.9,5,2,1,2,25.0,1,1,0,0,0.0
+8,Stole Dimitrievski,mk  MKD,GK,Rayo Vallecano,27-288,1993,8,7,702,7.8,8,1.03,26,21,80.8,4,1,2,2,28.6,4,3,1,0,25.0
+9,Matías Dituro,ar  ARG,GK,Celta Vigo,34-154,1987,8,8,720,8.0,11,1.37,33,23,69.7,2,1,5,3,37.5,4,1,3,0,75.0
+10,Marko Dmitrović,rs  SRB,GK,Sevilla,29-258,1992,1,1,90,1.0,0,0.00,3,3,100.0,1,0,0,1,100.0,0,0,0,0,
+11,Aarón Escandell,es  ESP,GK,Granada,26-012,1995,4,3,284,3.2,6,1.90,14,10,71.4,0,2,1,1,33.3,2,2,0,0,0.0
+12,Aitor Fernández,es  ESP,GK,Levante,30-159,1991,5,5,446,5.0,9,1.82,31,23,74.2,0,3,2,0,0.0,1,1,0,0,0.0
+13,Dominik Greif,sk  SVK,GK,Mallorca,24-186,1997,1,1,90,1.0,3,3.00,6,3,50.0,0,0,1,0,0.0,0,0,0,0,
+14,Sergio Herrera,es  ESP,GK,Osasuna,28-126,1993,8,8,720,8.0,11,1.37,29,20,65.5,4,2,2,4,50.0,1,1,0,0,0.0
+15,Jeremías Ledesma,ar  ARG,GK,Cádiz,28-238,1993,8,8,720,8.0,11,1.37,32,23,75.0,1,4,3,2,25.0,3,3,0,0,0.0
+16,Diego López,es  ESP,GK,Espanyol,39-340,1981,8,8,720,8.0,8,1.00,31,24,74.2,2,3,3,3,37.5,0,0,0,0,
+17,Giorgi Mamardashvili,ge  GEO,GK,Valencia,21-010,2000,6,6,540,6.0,7,1.17,25,18,72.0,3,1,2,2,33.3,0,0,0,0,
+18,Luís Maximiano,pt  POR,GK,Granada,22-277,1999,5,5,436,4.8,6,1.24,31,25,80.6,1,1,3,1,20.0,1,0,1,0,100.0
+19,Neto,br  BRA,GK,Barcelona,32-082,1989,2,2,180,2.0,3,1.50,9,6,66.7,1,1,0,0,0.0,0,0,0,0,
+20,Jan Oblak,si  SVN,GK,Atlético Madrid,28-275,1993,8,8,720,8.0,6,0.75,12,7,58.3,5,2,1,3,37.5,1,1,0,0,0.0
+21,Fernando Pacheco,es  ESP,GK,Alavés,29-144,1992,6,6,540,6.0,10,1.67,19,10,52.6,1,0,5,1,16.7,2,1,1,0,50.0
+22,Manolo Reina,es  ESP,GK,Mallorca,36-191,1985,7,7,630,7.0,9,1.29,25,17,64.0,3,2,2,4,57.1,1,0,1,0,100.0
+23,Álex Remiro,es  ESP,GK,Real Sociedad,26-199,1995,7,7,630,7.0,5,0.71,18,12,72.2,4,2,1,5,71.4,0,0,0,0,
+24,Gerónimo Rulli,ar  ARG,GK,Villarreal,29-142,1992,6,6,540,6.0,2,0.33,12,10,83.3,1,5,0,5,83.3,0,0,0,0,
+25,Mathew Ryan,au  AUS,GK,Real Sociedad,29-184,1992,1,1,90,1.0,2,2.00,1,0,0.0,1,0,0,0,0.0,1,1,0,0,0.0
+26,Rui Silva,pt  POR,GK,Betis,27-244,1994,5,5,450,5.0,6,1.20,12,7,58.3,1,2,2,0,0.0,1,1,0,0,0.0
+27,Unai Simón,es  ESP,GK,Athletic Club,24-120,1997,6,6,540,6.0,3,0.50,16,11,81.3,3,2,1,4,66.7,0,0,0,0,
+28,Antonio Sivera,es  ESP,GK,Alavés,25-059,1996,1,1,90,1.0,2,2.00,4,3,75.0,0,0,1,0,0.0,1,1,0,0,0.0
+29,David Soria,es  ESP,GK,Getafe,28-188,1993,8,8,720,8.0,13,1.62,28,15,60.7,0,1,7,0,0.0,2,2,0,0,0.0
+30,Marc-André ter Stegen,de  GER,GK,Barcelona,29-162,1992,5,5,450,5.0,4,0.80,13,9,69.2,2,2,1,2,40.0,0,0,0,0,
+31,Rúben Vezo,pt  POR,DF,Levante,27-167,1994,1,1,4,5.1,0,0.00,0,0,,0,1,0,0,0.0,0,0,0,0,
+32,Luca Zidane,fr  FRA,"MF,GK",Rayo Vallecano,23-149,1998,1,1,15,0.2,0,0.00,0,0,,0,0,1,0,0.0,0,0,0,0,
