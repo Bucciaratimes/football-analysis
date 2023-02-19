@@ -38,7 +38,7 @@ def calPassComp(df,playerId):
         passComp = round((len(passAc)/((len(passAc)+len(passIc))))*100,2)
     except:
         passComp = 0
-    return passComp
+    return (len(passAc),passComp)
 
 def plotShotmap(pitch,ax,df,pId):
     df = df[df["playerId"]==pId]
@@ -48,7 +48,7 @@ def plotShotmap(pitch,ax,df,pId):
     offTarget = df[df["satisfiedEventsTypes"].apply(str).str.contains('shotOffTarget')]
     blocked = df[df["satisfiedEventsTypes"].apply(str).str.contains('shotBlocked')]
     cmap = mpl.colors.LinearSegmentedColormap.from_list('cmap', ["#131313","#f8f8f8","#ffffff"])
-    for items in zip([onTarget,offTarget,blocked],["#ff5c8a","#4ea8de","#67b99a"]):
+    for items in zip([onTarget,goal,offTarget,blocked],["#ff5c8a","#EF8804","#4ea8de","#67b99a"]):
         for idx,row in items[0].iterrows():
             if row["y"] >= 45:
                 if row["x"] >= 105:
@@ -71,8 +71,10 @@ def plotShotmap(pitch,ax,df,pId):
                 else:
                     scatter = pitch.scatter(row.x+10,row.y,color=pitchColor,marker="*",ax=ax,zorder=10,ec=items[1],lw=2,s=200)
                     Lines = pitch.lines(xstart=row.x,ystart=row.y,xend=row.x+10,yend=row.y,cmap=cmap,comet=True,lw=4,ax=ax,zorder=4)
+    
+    onTarget_len = len(onTarget) - len(goal)
                 
-    return [len(shotDf),len(goal),len(onTarget),len(offTarget),len(blocked)]
+    return [len(shotDf),len(goal),onTarget_len,len(offTarget),len(blocked)]
 
 
 def plotPassMap(df,playerId,ax,time=None):
@@ -138,44 +140,44 @@ def plotPassMap(df,playerId,ax,time=None):
     return sumXt
 
 def plotVerticalAndKeyPassMap(df,playerId,ax,time=None):
-    pdf = df[df['playerId']==playerId]    
+    pdf = df[df['playerId']==playerId].reset_index(drop=True)    
     if time is not None:
         pdf = pdf[pdf["minute"]<time]
 
-    pdf['dist1']=np.sqrt((120-pdf.x)**2 + (40-pdf.y)**2)
-    pdf['dist2']=np.sqrt((120-pdf.endX)**2 + (40-pdf.endY)**2)
-    pdf['distdiff'] = pdf['dist1']-pdf['dist2']
+    #pdf['dist1']=np.sqrt((120-pdf.x)**2 + (40-pdf.y)**2)
+    #pdf['dist2']=np.sqrt((120-pdf.endX)**2 + (40-pdf.endY)**2)
+    #pdf['distdiff'] = pdf['dist1']-pdf['dist2']
+    pdf['beginning'] = np.sqrt(np.square(120-pdf['x']) + np.square(40-pdf['y']))
+    pdf['end'] = np.sqrt(np.square(120-pdf['endX']) + np.square(40-pdf['endY']))
+    pdf['progressive'] = [(pdf['end'][x]) / (pdf['beginning'][x]) < .75 for x in range(len(pdf.beginning))]
+    vertical = pdf[pdf['progressive']==True].reset_index()
+    
     keyCount = len(pdf[pdf["satisfiedEventsTypes"].apply(str).str.contains("passKey",na=False)])
     verticalCount = 0
     for index, row in pdf.iterrows():
         
         if 'passKey' in row["satisfiedEventsTypes"]:
-            ax.scatter(row["y"],row["x"],color="#F5E76B",s=20,zorder=1)  
-            ax.scatter(row["y"],row["x"],color="#F5E76B",s=70,alpha=.3,zorder=1) 
+            ax.scatter(row["y"],row["x"],color="#fdc526",s=20,zorder=1)  
+            ax.scatter(row["y"],row["x"],color="#fdc526",s=70,alpha=.3,zorder=1) 
             ax.annotate("",
                         xy=(row['endY'],row['endX']),
                         xytext=(row["y"],row["x"]),
                         arrowprops={'arrowstyle':"-|>,head_width=.35,head_length=.5",
-                                    'fc':'#F5E76B','ec':'#F5E76B'},
+                                    'fc':'#fdc526','ec':'#fdc526'},
                         zorder=1)
             
-        elif ((row["x"]<60)&(row["endX"]<60)&(row["distdiff"]>=30)) | \
-           ((row["x"]<60)&(row["endX"]>60)&(row["distdiff"]>=15)) | \
-           ((row["x"]>60)&(row["endX"]>60)&(row["distdiff"]>=7)):  #30 15 10
-#             if 'passAccurate' in row["satisfiedEventsTypes"]: 
-                ax.scatter(row["y"],row["x"],color="#F5706C",s=20,zorder=1)  
-                ax.scatter(row["y"],row["x"],color="#F5706C",s=70,alpha=.3,zorder=1) 
-                ax.annotate("",
-                            xy=(row['endY'],row['endX']),
-                            xytext=(row["y"],row["x"]),
-                            arrowprops={'arrowstyle':"-|>,head_width=.35,head_length=.5",
-                                        'fc':'#F5706C','ec':'#F5706C'},
-                            zorder=1)
-                verticalCount+=1
-                
-        elif ('passAccurate' in row["satisfiedEventsTypes"]) | ("passInaccurate" in row["satisfiedEventsTypes"]):
+        elif 'passAccurate' in row["satisfiedEventsTypes"]:
+            ax.scatter(row["y"],row["x"],color="#048a81",s=20,zorder=.5)  
+            ax.annotate("",
+                        xy=(row['endY'],row['endX']),
+                        xytext=(row["y"],row["x"]),
+                        arrowprops={'arrowstyle':"-|>,head_width=.3,head_length=.45",
+                                    'fc':'#048a81',
+                                    'ec':'#048a81'},
+                        zorder=.5)
+            
+        elif ("passInaccurate" in row["satisfiedEventsTypes"]):
                 ax.scatter(row["y"],row["x"],color="#555555",s=20,zorder=.5)  
-#                 ax.scatter(row["y"],row["x"],color="#777777",s=70,alpha=.3,zorder=.5) 
                 ax.annotate("",
                             xy=(row['endY'],row['endX']),
                             xytext=(row["y"],row["x"]),
@@ -183,6 +185,18 @@ def plotVerticalAndKeyPassMap(df,playerId,ax,time=None):
                                         'fc':'#555555',
                                         'ec':'#555555'},
                             zorder=.5)
+    for index, row in vertical.iterrows():
+        
+        ax.scatter(row["y"],row["x"],color="#F5706C",s=20,zorder=1)  
+        ax.scatter(row["y"],row["x"],color="#F5706C",s=70,alpha=.3,zorder=1) 
+        ax.annotate("",
+                    xy=(row['endY'],row['endX']),
+                    xytext=(row["y"],row["x"]),
+                    arrowprops={'arrowstyle':"-|>,head_width=.35,head_length=.5",
+                                'fc':'#F5706C','ec':'#F5706C'},
+                    zorder=1)
+        verticalCount+=1
+    
     return (keyCount,verticalCount)
     
 

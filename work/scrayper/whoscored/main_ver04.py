@@ -63,7 +63,7 @@ def getLeagueUrls(minimize_window=True):
     
     options = webdriver.ChromeOptions()
     driver = webdriver.Remote(
-        command_executor='http://selenium:4444/wd/hub',
+        command_executor='http://football_scrayper:4444/wd/hub',
         options=options,
     )    
     if minimize_window:
@@ -96,7 +96,7 @@ def getMatchUrls(comp_urls, competition, season, maximize_window=True):
 
     options = webdriver.ChromeOptions()
     driver = webdriver.Remote(
-        command_executor='http://selenium:4444/wd/hub',
+        command_executor='http://football_scrayper:4444/wd/hub',
         desired_capabilities=options.to_capabilities(),
         options=options,
     )    
@@ -217,7 +217,7 @@ def getMatchesData(match_urls, minimize_window=True):
     matches = []
     options = webdriver.ChromeOptions()
     driver = webdriver.Remote(
-        command_executor='http://selenium:4444/wd/hub',
+        command_executor='http://football_scrayper:4444/wd/hub',
         desired_capabilities=options.to_capabilities(),
         options=options,
     )    
@@ -328,7 +328,7 @@ def getMatchData(driver, url, display=True, close_window=True):
         options = webdriver.ChromeOptions()
         driver = webdriver.Remote(
             desired_capabilities=options.to_capabilities(),
-            command_executor='http://selenium:4444/wd/hub',
+            command_executor='http://football_scrayper:4444/wd/hub',
             options=options,
     )    
     

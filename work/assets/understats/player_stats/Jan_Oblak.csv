@@ -1,0 +1,4 @@
+,player,player_id,situation,shot_type,x,y,xG,result,season,match_id
+0,Jan Oblak,2261,SetPiece,OtherBodyPart,2.880000114440916,44.07999877929687,0.0,OwnGoal,2020,14903
+1,Jan Oblak,2261,OpenPlay,RightFoot,0.960000014305104,37.599999999999994,0.0,OwnGoal,2021,17280
+2,Jan Oblak,2261,SetPiece,Head,107.03999633789063,32.07999877929687,0.0468459986150264,MissedShots,2021,17337

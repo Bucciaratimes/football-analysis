@@ -29,17 +29,8 @@ COLORCODE = '#87CEEB'
 MINTRANSPARENCY = 0.3
 
 #Loading Some Fonts
-smooch = "https://github.com/googlefonts/smooch/blob/master/fonts/ttf/Smooch-Regular.ttf?raw=true"
-spaceMono_italy = 'https://github.com/googlefonts/spacemono/blob/main/fonts/SpaceMono-Italic.ttf?raw=true'
 spaceMono_bold = 'https://github.com/googlefonts/spacemono/blob/main/fonts/SpaceMono-BoldItalic.ttf?raw=true'
-spaceMono_dance = "https://github.com/googlefonts/moondance/tree/master/fonts/ttf?raw=true"
-abel_regular = 'https://github.com/google/fonts/blob/main/ofl/abel/Abel-Regular.ttf?raw=true'
-
-# smoochFont = FontManager(smooch)
-monoIFont = FontManager(spaceMono_italy)
 monoBFont = FontManager(spaceMono_bold)
-monoDFont = FontManager(spaceMono_dance)
-# abel_regular = FontManager(abel_regular)
 
 homeColor = "#ee9b00"
 awayColor = "#c77dff"
@@ -49,4 +40,3 @@ awayColor = "#b4e1ff"
 
 cmapA = LinearSegmentedColormap.from_list("my_cmap", ["#f8f8f8", homeColor], N=100)
 cmapB = LinearSegmentedColormap.from_list("my_cmap", ["#f8f8f8", awayColor], N=100)
-myFont = monoIFont
