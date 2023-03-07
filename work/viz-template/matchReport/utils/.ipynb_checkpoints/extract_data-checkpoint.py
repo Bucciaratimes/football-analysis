@@ -1,7 +1,9 @@
 #%%
-import pandas as pd
-import numpy as np
 import ast
+
+import numpy as np
+import pandas as pd
+
 pd.options.mode.chained_assignment = None  # default='warn'
 
 def load_data(season: str, gw: str, team=None, homeId=None) -> pd.DataFrame:

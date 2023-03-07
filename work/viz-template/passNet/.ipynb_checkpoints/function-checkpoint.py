@@ -1,24 +1,25 @@
-import main_ver03 as main03
+import math
 import os
 import pickle
-import pandas as pd
-import numpy as np
-import seaborn as sns
-import math
 from math import pi
-import scipy.stats
+
 import matplotlib as mpl
 import matplotlib.patches as patches
-from matplotlib.colors import LinearSegmentedColormap
-from matplotlib.collections import LineCollection
-import matplotlib.pyplot as plt
-from matplotlib.colors import to_rgba
-from matplotlib.projections import get_projection_class
-from mplsoccer import Pitch, add_image, VerticalPitch, FontManager
-from mpl_toolkits.axes_grid1.inset_locator import inset_axes
-from config import *
 import matplotlib.patheffects as path_effects
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+import scipy.stats
+import seaborn as sns
 from adjustText import adjust_text
+from matplotlib.collections import LineCollection
+from matplotlib.colors import LinearSegmentedColormap, to_rgba
+from matplotlib.projections import get_projection_class
+from mpl_toolkits.axes_grid1.inset_locator import inset_axes
+from mplsoccer import FontManager, Pitch, VerticalPitch, add_image
+
+import main_ver03 as main03
+from config import *
 
 path_eff = [path_effects.Stroke(linewidth=2, foreground='black'),
             path_effects.Normal()]
@@ -396,4 +397,3 @@ def main(axes,teamId,teamName,season,gw,cmap1,cmap2,isTable=False):
                 tbl[0, 2].set_facecolor("#363636")
                 
     return passes_between,average_locs_and_count
-

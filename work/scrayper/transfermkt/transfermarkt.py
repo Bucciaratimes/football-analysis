@@ -7,10 +7,10 @@
 # https://www.linkedin.com/pulse/web-scraping-relative-age-effect-professional-football-marcel-wieting/?trackingId=d8UqaacWy%2FaNdTYFhh4MsQ%3D%3D
 
 import re
+from typing import Optional, Tuple
 
 import bs4
 import lxml
-from typing import Optional, Tuple
 
 from scrape.etiget import etiget
 

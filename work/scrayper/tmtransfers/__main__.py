@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 
 from datetime import datetime
+
 from tmtransfers import tmtransfers
 from tmtransfers.helpers import _parse_hyphenated_string
-
 
 if __name__ == "__main__":
     """Runs the module as a script."""

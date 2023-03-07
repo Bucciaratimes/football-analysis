@@ -1,8 +1,10 @@
-import pandas as pd
 import matplotlib.pyplot as plt
-from matplotlib import colors
+import pandas as pd
 import seaborn as sns
+from matplotlib import colors
+
 from utils.metadata import *
+
 
 def plot_heatmap(fig, ax, actions, team: str, heatmap_type: str):
     TEAM_COLORS = {'home': home_color, 'away': away_color}
@@ -24,4 +26,3 @@ def plot_heatmap(fig, ax, actions, team: str, heatmap_type: str):
     add_ax_title(ax, TYPE[heatmap_type])
     
     add_arrow(ax, team)
-

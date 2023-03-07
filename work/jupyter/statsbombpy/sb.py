@@ -1,13 +1,14 @@
-import pandas as pd
-import requests as req
-
 from collections import defaultdict
 from functools import partial, reduce
 from multiprocessing import Pool
 
+import pandas as pd
+import requests as req
+
 from statsbombpy import api_client, public
 from statsbombpy.config import DEFAULT_CREDS, PARALLELL_CALLS_NUM
-from statsbombpy.helpers import filter_and_group_events, is_relevant, reduce_events
+from statsbombpy.helpers import (filter_and_group_events, is_relevant,
+                                 reduce_events)
 
 
 def competitions(fmt="dataframe", creds: dict = DEFAULT_CREDS):

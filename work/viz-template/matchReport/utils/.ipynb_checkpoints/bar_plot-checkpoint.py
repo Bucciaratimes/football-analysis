@@ -1,10 +1,13 @@
 #%%
-import pandas as pd
-import numpy as np
-from utils.extract_data import load_data, get_bar_plot_data, get_bar_plot_CLdata
-from utils.metadata import *
-import matplotlib.pyplot as plt
 import matplotlib.patheffects as path_effects
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+
+from utils.extract_data import (get_bar_plot_CLdata, get_bar_plot_data,
+                                load_data)
+from utils.metadata import *
+
 
 def plot_bar(fig, ax, home_stats, away_stats):
     

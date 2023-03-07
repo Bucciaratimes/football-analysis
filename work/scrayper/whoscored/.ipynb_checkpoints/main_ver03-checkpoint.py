@@ -5,28 +5,30 @@ Created on Wed Oct 14 14:20:02 2020
 @twitter: rockingAli5 
 """
 
-import time
-import pandas as pd
-pd.options.mode.chained_assignment = None
-import json
-from bs4 import BeautifulSoup as soup
-import re 
-from collections import OrderedDict
 import datetime
-from datetime import datetime as dt
 import itertools
+import json
+import re
+import time
+from collections import OrderedDict
+from datetime import datetime as dt
+
 import numpy as np
+import pandas as pd
+from bs4 import BeautifulSoup as soup
+from selenium import webdriver
+from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.select import Select
+
+pd.options.mode.chained_assignment = None
 try:
     from tqdm import trange
 except ModuleNotFoundError:
     pass
 
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.action_chains import ActionChains
-from selenium.webdriver.chrome.options import Options
-from selenium.common.exceptions import NoSuchElementException
-from selenium.webdriver.support.select import Select
 
 
 TRANSLATE_DICT = {'Jan': 'Jan',
@@ -608,17 +610,3 @@ def addEpvToDataFrame(data):
     data.rename(columns={'EPV_difference': 'EPV'}, inplace=True)
     
     return data
-
-
-
-
-
-
-
-
-
-
-
-
-
-

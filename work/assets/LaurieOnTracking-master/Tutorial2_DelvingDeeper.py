@@ -15,12 +15,13 @@ GitHub repo: https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking
 """
 
 
-import Metrica_IO as mio
-import Metrica_Viz as mviz
-import Metrica_Velocities as mvel
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
+
+import Metrica_IO as mio
+import Metrica_Velocities as mvel
+import Metrica_Viz as mviz
 
 # set up initial path to data
 DATADIR = '/PATH/TO/WHERE/YOU/SAVED/THE/SAMPLE/DATA'

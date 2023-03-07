@@ -1,39 +1,33 @@
-import pandas as pd
-import numpy as np
-import seaborn as sns
-from PIL import Image
-from math import pi
-import scipy.stats
-from selenium import webdriver
-import warnings
+import math
 import os
+import warnings
+from math import pi
 
 import matplotlib as mpl
-from matplotlib.colors import to_rgba
-import matplotlib.pyplot as plt
-from matplotlib.markers import MarkerStyle
-import matplotlib.image as mpimg
-from matplotlib.offsetbox import TextArea, DrawingArea, OffsetImage, AnnotationBbox
-from matplotlib.projections import get_projection_class
-from matplotlib.projections import get_projection_class
 import matplotlib.cm as cm
-
-
-from mplsoccer import Pitch, add_image, VerticalPitch, FontManager
+import matplotlib.image as image
+import matplotlib.patches as patches
+import matplotlib.patheffects as path_effects
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+import scipy.stats
+import seaborn as sns
+from imageio import imread
+from matplotlib import colors
+from matplotlib.colors import LinearSegmentedColormap, to_rgba
+from matplotlib.markers import MarkerStyle
+from matplotlib.offsetbox import (AnnotationBbox, DrawingArea, OffsetImage,
+                                  TextArea)
+from matplotlib.projections import get_projection_class
 from mpl_toolkits.axes_grid1.inset_locator import inset_axes
-from utils.metadata import *
+from mplsoccer import FontManager, Pitch, VerticalPitch, add_image
+from PIL import Image
+from selenium import webdriver
+from skimage.transform import resize
 
 import main as setDf
-from imageio import imread
-from skimage.transform import resize
-import math
-
-from matplotlib import colors
-import matplotlib.patches as patches
-from matplotlib.colors import LinearSegmentedColormap
-import matplotlib.image as image
-
-import matplotlib.patheffects as path_effects
+from utils.metadata import *
 
 # 白黒デザイン
 path_eff = [path_effects.Stroke(linewidth=2, foreground='black'),

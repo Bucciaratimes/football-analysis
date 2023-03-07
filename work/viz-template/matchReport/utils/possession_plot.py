@@ -1,11 +1,15 @@
 #%%
 from typing import Text
-import pandas as pd
+
 import matplotlib.pyplot as plt
-from utils.metadata import *
-from matplotlib.patches import Rectangle
-from matplotlib.offsetbox import OffsetImage, AnnotationBbox
 import numpy as np
+import pandas as pd
+from matplotlib.offsetbox import AnnotationBbox, OffsetImage
+from matplotlib.patches import Rectangle
+from scipy.interpolate import BSpline, make_interp_spline
+
+from utils.metadata import *
+
 #from extract_data import *
 
 def plot_possession(fig, ax, df_home_poss, df_away_poss, added_time: list):
@@ -87,7 +91,6 @@ def imscatter(x, y, image, ax=None, zoom=1):
 
 
 
-from scipy.interpolate import make_interp_spline, BSpline
 
 def plot_momentum(fig, ax, df_home_poss, df_away_poss, home_goals, away_goals, added_time: list):
     fig.set_facecolor(pitch_background_color)

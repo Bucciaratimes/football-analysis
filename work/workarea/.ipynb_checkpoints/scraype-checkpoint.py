@@ -1,23 +1,20 @@
-import requests
-from bs4 import BeautifulSoup
-from bs4 import Comment
 import csv
+import getopt
+import json
 import re
 import sys
-import getopt
-import urllib
-import pandas as pd
-
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.action_chains import ActionChains
-from selenium.webdriver.chrome.options import Options
-from selenium.common.exceptions import NoSuchElementException
-
 import time
-import json
-from tqdm import trange
+import urllib
 
+import pandas as pd
+import requests
+from bs4 import BeautifulSoup, Comment
+from selenium import webdriver
+from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.common.keys import Keys
+from tqdm import trange
 
 
 class FbrefScrayper(object):

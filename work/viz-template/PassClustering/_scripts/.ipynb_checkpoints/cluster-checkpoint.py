@@ -1,5 +1,7 @@
 from sklearn.cluster import OPTICS
+
 from _scripts.metadata import *
+
 
 def cluster(df):
     brain = OPTICS(min_samples=c_min_samples, metric=c_metric, xi=c_xi)

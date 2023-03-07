@@ -1,7 +1,9 @@
 #%%
 import matplotlib.pyplot as plt
 from mplsoccer import VerticalPitch
+
 from utils.metadata import *
+
 #from extract_data import *
 
 def plot_shot_map(fig, ax, goals, non_goals, team: str):

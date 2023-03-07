@@ -12,9 +12,10 @@ UPDATE for tutorial 4: plot_pitchcontrol_for_event no longer requires 'xgrid' an
 @author: Laurie Shaw (@EightyFivePoint)
 """
 
+import matplotlib.animation as animation
 import matplotlib.pyplot as plt
 import numpy as np
-import matplotlib.animation as animation
+
 import Metrica_IO as mio
 
 
@@ -387,15 +388,3 @@ def plot_EPV(EPV,field_dimen=(106.0,68),attack_direction=1):
     fig,ax = plot_pitch(field_color='white', field_dimen = field_dimen)
     # overlap the EPV surface
     ax.imshow(EPV, extent=(-field_dimen[0]/2., field_dimen[0]/2., -field_dimen[1]/2., field_dimen[1]/2.),vmin=0.0,vmax=0.6,cmap='Blues',alpha=0.6)
-    
-
-
-
-
-
-
-
-
-
-
-

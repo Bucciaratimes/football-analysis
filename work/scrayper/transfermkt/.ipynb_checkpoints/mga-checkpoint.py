@@ -1,10 +1,10 @@
 import ast
 import re
+from typing import List, NamedTuple, Tuple
 
 import bs4
 import lxml
 import pandas as pd
-from typing import List, NamedTuple, Tuple
 
 from etiget import etiget
 

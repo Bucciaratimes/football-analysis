@@ -1,23 +1,22 @@
-import pandas as pd
-import numpy as np
-import seaborn as sns
+import warnings
 
-import matplotlib.pyplot as plt
-from matplotlib.projections import get_projection_class
-import matplotlib.cm as cm
-from matplotlib import colors
-from mplsoccer import Pitch, add_image, VerticalPitch, FontManager
-from mpl_toolkits.axes_grid1.inset_locator import inset_axes
-from matplotlib.colors import LinearSegmentedColormap
-import matplotlib.patheffects as path_effects
 import matplotlib as mpl
-
+import matplotlib.cm as cm
+import matplotlib.patheffects as path_effects
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+import seaborn as sns
 from highlight_text import fig_text
+from matplotlib import colors
+from matplotlib.colors import LinearSegmentedColormap
+from matplotlib.projections import get_projection_class
+from mpl_toolkits.axes_grid1.inset_locator import inset_axes
+from mplsoccer import FontManager, Pitch, VerticalPitch, add_image
 
 from config import *
 from formation import *
 
-import warnings
 warnings.filterwarnings("ignore")
 
     

@@ -1,5 +1,6 @@
-import pandas as pd
 import numpy as np
+import pandas as pd
+
 
 #find team names from dataframe (will only work as long as both teams took a shot)
 def create_team_df(df):

@@ -1,21 +1,20 @@
-import numpy as np
-import pandas as pd
+import json
+import os
+
 import matplotlib as mpl
 import matplotlib.pyplot as plt
-from PIL import Image
-from highlight_text import fig_text, ax_text
-
-import utils.probability_functions as pf
-from utils.cleaning import create_team_df, align_dfs, chance_quality
-from utils.metadata import *
-import os
-from mplsoccer import VerticalPitch,FontManager,add_image
-from matplotlib.colors import LinearSegmentedColormap
-
-
+import numpy as np
+import pandas as pd
 import requests
 from bs4 import BeautifulSoup
-import json
+from highlight_text import ax_text, fig_text
+from matplotlib.colors import LinearSegmentedColormap
+from mplsoccer import FontManager, VerticalPitch, add_image
+from PIL import Image
+
+import utils.probability_functions as pf
+from utils.cleaning import align_dfs, chance_quality, create_team_df
+from utils.metadata import *
 
 white_theme1 = "#ffffff"
 white_theme2 = "#131313"
@@ -290,5 +289,3 @@ def plot_probar2(ax,home_away_draw_probs,home_prob,away_prob,draw_prob):
     # Away
     ax.text(x=home_prob+draw_prob+away_prob/2, y=0.5, s=f'{away_prob}%',
             color='w', ha='center', size=32, fontweight='bold')
-
-

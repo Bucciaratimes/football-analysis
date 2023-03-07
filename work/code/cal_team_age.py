@@ -1,15 +1,17 @@
+import math
+
+import numpy as np
+import pandas as pd
+
+import chart_studio
+import chart_studio.plotly as py
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
-from dash.dependencies import Input, Output
 import plotly.graph_objs as go
 import plotly.offline as pyo
+from dash.dependencies import Input, Output
 from plotly.subplots import make_subplots
-import numpy as np
-import math
-import pandas as pd
-import chart_studio
-import chart_studio.plotly as py
 
 pd.get_option("display.max_columns")
 df = pd.read_csv('assets/league/team_age_architect2020.csv')

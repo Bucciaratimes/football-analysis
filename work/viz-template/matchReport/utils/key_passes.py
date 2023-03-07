@@ -1,7 +1,9 @@
 #%%
 import matplotlib.pyplot as plt
 from mplsoccer import VerticalPitch, pitch
+
 from utils.metadata import *
+
 #from extract_data import *
 
 def plot_key_passes(fig, ax, key_passes, team: str):

@@ -1,8 +1,8 @@
 from collections import defaultdict
 
-import inflect
 import pandas as pd
 
+import inflect
 from cashier import cache
 
 

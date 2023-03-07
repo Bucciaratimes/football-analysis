@@ -1,7 +1,5 @@
 import colorsys
 
-
-
 N=13
 HSV_tuples = [(x*1.0/N, 1.0, 1.0) for x in range(N)]
 RGB_tuples = ['#%02x%02x%02x' % (int(x[0]*255), int(x[1]*255), int(x[2]*255)) for x in list(map(lambda x: colorsys.hsv_to_rgb(*x), HSV_tuples))]

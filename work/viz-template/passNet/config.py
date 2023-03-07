@@ -1,5 +1,5 @@
-from mplsoccer import FontManager
 from matplotlib.colors import LinearSegmentedColormap
+from mplsoccer import FontManager
 
 pitchColor="#ededed"
 pitchColor="#131313" #black

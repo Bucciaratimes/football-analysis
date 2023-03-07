@@ -33,8 +33,8 @@ spaceMono_bold = 'https://github.com/googlefonts/spacemono/blob/main/fonts/Space
 spaceMono_dance = "https://github.com/googlefonts/moondance/tree/master/fonts/ttf?raw=true"
 abel_regular = 'https://github.com/google/fonts/blob/main/ofl/abel/Abel-Regular.ttf?raw=true'
 
-from mplsoccer import FontManager
 from matplotlib.colors import LinearSegmentedColormap
+from mplsoccer import FontManager
 
 # smoochFont = FontManager(smooch)
 monoIFont = FontManager(spaceMono_italy)

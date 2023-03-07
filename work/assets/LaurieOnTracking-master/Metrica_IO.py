@@ -10,9 +10,11 @@ Data can be found at: https://github.com/metrica-sports/sample-data
 @author: Laurie Shaw (@EightyFivePoint)
 """
 
-import pandas as pd
 import csv as csv
+
 import numpy as np
+import pandas as pd
+
 
 def read_match_data(DATADIR,gameid):
     '''
@@ -105,4 +107,3 @@ def find_goalkeeper(team):
     x_columns = [c for c in team.columns if c[-2:].lower()=='_x' and c[:4] in ['Home','Away']]
     GK_col = team.iloc[0][x_columns].abs().idxmax(axis=1)
     return GK_col.split('_')[1]
-    

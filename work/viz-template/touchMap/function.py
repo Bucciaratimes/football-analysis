@@ -1,34 +1,30 @@
-import pandas as pd
-import numpy as np
-import seaborn as sns
-
-import matplotlib.pyplot as plt
-from matplotlib.projections import get_projection_class
-import matplotlib.cm as cm
-from matplotlib import colors
-from mplsoccer import Pitch, add_image, VerticalPitch, FontManager
-from mpl_toolkits.axes_grid1.inset_locator import inset_axes
-from matplotlib.colors import LinearSegmentedColormap
-import matplotlib.patheffects as path_effects
-import matplotlib as mpl
-
-from scipy.spatial import ConvexHull
-
-from highlight_text import fig_text
-
-from config import *
-
-
-import main_ver03 as main03
+import math
 import os
 import pickle
-import math
 from math import pi
-import scipy.stats
+
+import matplotlib as mpl
+import matplotlib.cm as cm
 import matplotlib.patches as patches
-from matplotlib.collections import LineCollection
-from matplotlib.colors import to_rgba
+import matplotlib.patheffects as path_effects
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+import scipy.stats
+import seaborn as sns
 from adjustText import adjust_text
+from highlight_text import fig_text
+from matplotlib import colors
+from matplotlib.collections import LineCollection
+from matplotlib.colors import LinearSegmentedColormap, to_rgba
+from matplotlib.projections import get_projection_class
+from mpl_toolkits.axes_grid1.inset_locator import inset_axes
+from mplsoccer import FontManager, Pitch, VerticalPitch, add_image
+from scipy.spatial import ConvexHull
+
+import main_ver03 as main03
+from config import *
+
 
 def calPassComp(df,playerId):
     passDf = df[df["playerId"]==playerId]
@@ -38,7 +34,7 @@ def calPassComp(df,playerId):
         passComp = round((len(passAc)/((len(passAc)+len(passIc))))*100,2)
     except:
         passComp = 0
-    return (len(passAc),passComp)
+    return (len(passAc),len(passIc),passComp)
 
 def plotShotmap(pitch,ax,df,pId):
     df = df[df["playerId"]==pId]
@@ -163,7 +159,8 @@ def plotVerticalAndKeyPassMap(df,playerId,ax,time=None):
                         xy=(row['endY'],row['endX']),
                         xytext=(row["y"],row["x"]),
                         arrowprops={'arrowstyle':"-|>,head_width=.35,head_length=.5",
-                                    'fc':'#fdc526','ec':'#fdc526'},
+                                    'lw':2,
+                                    'fc':'#fdc526','ec':'#DF9711'},
                         zorder=1)
             
         elif 'passAccurate' in row["satisfiedEventsTypes"]:
@@ -172,30 +169,33 @@ def plotVerticalAndKeyPassMap(df,playerId,ax,time=None):
                         xy=(row['endY'],row['endX']),
                         xytext=(row["y"],row["x"]),
                         arrowprops={'arrowstyle':"-|>,head_width=.3,head_length=.45",
+                                    'lw':2,
                                     'fc':'#048a81',
                                     'ec':'#048a81'},
                         zorder=.5)
             
         elif ("passInaccurate" in row["satisfiedEventsTypes"]):
-                ax.scatter(row["y"],row["x"],color="#555555",s=20,zorder=.5)  
+                ax.scatter(row["y"],row["x"],color="#C4161C",s=20,zorder=.5)  
                 ax.annotate("",
                             xy=(row['endY'],row['endX']),
                             xytext=(row["y"],row["x"]),
                             arrowprops={'arrowstyle':"-|>,head_width=.3,head_length=.45",
-                                        'fc':'#555555',
-                                        'ec':'#555555'},
+                                        'lw':2,
+                                        'fc':'#C4161C',
+                                        'ec':'#C4161C'},
                             zorder=.5)
-    for index, row in vertical.iterrows():
+#     for index, row in vertical.iterrows():
         
-        ax.scatter(row["y"],row["x"],color="#F5706C",s=20,zorder=1)  
-        ax.scatter(row["y"],row["x"],color="#F5706C",s=70,alpha=.3,zorder=1) 
-        ax.annotate("",
-                    xy=(row['endY'],row['endX']),
-                    xytext=(row["y"],row["x"]),
-                    arrowprops={'arrowstyle':"-|>,head_width=.35,head_length=.5",
-                                'fc':'#F5706C','ec':'#F5706C'},
-                    zorder=1)
-        verticalCount+=1
+#         ax.scatter(row["y"],row["x"],color="#F5706C",s=20,zorder=1)  
+#         ax.scatter(row["y"],row["x"],color="#F5706C",s=70,alpha=.3,zorder=1) 
+#         ax.annotate("",
+#                     xy=(row['endY'],row['endX']),
+#                     xytext=(row["y"],row["x"]),
+#                     arrowprops={'arrowstyle':"-|>,head_width=.35,head_length=.5",
+#                                 'lw':2,
+#                                 'fc':'#2453FF','ec':'#2453FF'},
+#                     zorder=1)
+#         verticalCount+=1
     
     return (keyCount,verticalCount)
     
@@ -769,4 +769,3 @@ def main(axes,teamId,teamName,season,gw,cmap1,kitNum,isTable=False):
             tbl[0, 2].set_facecolor("#363636")
 
 #     return passes_between,average_locs_and_count
-

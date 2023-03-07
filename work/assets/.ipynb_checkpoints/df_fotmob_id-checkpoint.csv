@@ -1,0 +1,75 @@
+,Flag,Name,Nation,Club,Position,Current_value,Previous_value,Club_id,Squad
+0,/work/assets/country_flags/SVK.png,Milan Skriniar,SVK,Inter Milan,Centre-Back,€60.00m,€65.00m,8636.0,Inter Milan
+1,/work/assets/country_flags/ARG.png,Lionel Messi,ARG,Paris Saint-Germain,Right Winger,€50.00m,€50.00m,9847.0,Paris Saint-Germain
+2,/work/assets/country_flags/BEL.png,Youri Tielemans,BEL,Leicester City,Central Midfield,€40.00m,€45.00m,8197.0,Leicester City
+3,/work/assets/country_flags/FRA.png,Karim Benzema,FRA,Real Madrid,Centre-Forward,€35.00m,€30.00m,8650.0,Real Madrid
+4,/work/assets/country_flags/CIV.png,Wilfried Zaha,CIV,Crystal Palace,Left Winger,€32.00m,€38.00m,8636.0,Crystal Palace
+5,/work/assets/country_flags/FRA.png,Marcus Thuram,FRA,Borussia Mönchengladbach,Centre-Forward,€32.00m,€30.00m,9788.0,Borussia Mönchengladbach
+6,/work/assets/country_flags/FRA.png,Evan Ndicka,FRA,Eintracht Frankfurt,Centre-Back,€32.00m,€32.00m,9810.0,Eintracht Frankfurt
+7,/work/assets/country_flags/FRA.png,N'Golo Kanté,FRA,Chelsea FC,Defensive Midfield,€30.00m,€40.00m,8455.0,Chelsea FC
+8,/work/assets/country_flags/JPN.png,Daichi Kamada,JPN,Eintracht Frankfurt,Attacking Midfield,€30.00m,€22.00m,8197.0,Eintracht Frankfurt
+9,/work/assets/country_flags/BRA.png,Roberto Firmino,BRA,Liverpool FC,Centre-Forward,€28.00m,€32.00m,9789.0,Liverpool FC
+10,/work/assets/country_flags/AUT.png,Konrad Laimer,AUT,RB Leipzig,Central Midfield,€28.00m,€28.00m,178475.0,RB Leipzig
+11,/work/assets/country_flags/GER.png,Ilkay Gündogan,GER,Manchester City,Central Midfield,€25.00m,€25.00m,9826.0,Manchester City
+12,/work/assets/country_flags/FRA.png,Adrien Rabiot,FRA,Juventus FC,Central Midfield,€25.00m,€18.00m,9885.0,Juventus FC
+13,/work/assets/country_flags/ESP.png,Marco Asensio,ESP,Real Madrid,Right Winger,€25.00m,€35.00m,8633.0,Real Madrid
+14,/work/assets/country_flags/TUR.png,Caglar Söyüncü,TUR,Leicester City,Centre-Back,€22.00m,€28.00m,8633.0,Leicester City
+15,/work/assets/country_flags/GER.png,Toni Kroos,GER,Real Madrid,Central Midfield,€20.00m,€20.00m,8633.0,Real Madrid
+16,/work/assets/country_flags/POR.png,Raphaël Guerreiro,POR,Borussia Dortmund,Left-Back,€20.00m,€20.00m,9789.0,Borussia Dortmund
+17,/work/assets/country_flags/ESP.png,Alejandro Grimaldo,ESP,SL Benfica,Left-Back,€20.00m,€20.00m,9826.0,SL Benfica
+18,/work/assets/country_flags/ALG.png,Ramy Bensebaini,ALG,Borussia Mönchengladbach,Left-Back,€20.00m,€17.00m,9788.0,Borussia Mönchengladbach
+19,/work/assets/country_flags/FRA.png,Jonathan Bamba,FRA,LOSC Lille,Left Winger,€20.00m,€18.00m,8639.0,LOSC Lille
+20,/work/assets/country_flags/GUI.png,Naby Keïta,GUI,Liverpool FC,Central Midfield,€20.00m,€25.00m,8370.0,Liverpool FC
+21,/work/assets/country_flags/FRA.png,Houssem Aouar,FRA,Olympique Lyon,Central Midfield,€20.00m,€20.00m,,Olympique Lyon
+22,/work/assets/country_flags/ESP.png,Iñigo Martínez,ESP,Athletic Bilbao,Centre-Back,€18.00m,€20.00m,,Athletic Bilbao
+23,/work/assets/country_flags/GER.png,Mahmoud Dahoud,GER,Borussia Dortmund,Central Midfield,€18.00m,€18.00m,8633.0,Borussia Dortmund
+24,/work/assets/country_flags/FRA.png,Moussa Dembélé,FRA,Olympique Lyon,Centre-Forward,€18.00m,€18.00m,9885.0,Olympique Lyon
+0,/work/assets/country_flags/POR.png,Nélson Semedo,POR,Wolverhampton Wanderers,Right-Back,€18.00m,€20.00m,8636.0,Wolverhampton Wanderers
+1,/work/assets/country_flags/COL.png,Yerry Mina,COL,Everton FC,Centre-Back,€18.00m,€20.00m,9847.0,Everton FC
+2,/work/assets/country_flags/CHI.png,Ben Brereton Díaz,CHI,Blackburn Rovers,Centre-Forward,€16.00m,€16.00m,8197.0,Blackburn Rovers
+3,/work/assets/country_flags/ESP.png,David de Gea,ESP,Manchester United,Goalkeeper,€15.00m,€15.00m,8650.0,Manchester United
+4,/work/assets/country_flags/NED.png,Stefan de Vrij,NED,Inter Milan,Centre-Back,€15.00m,€20.00m,8636.0,Inter Milan
+5,/work/assets/country_flags/ITA.png,Andrea Belotti,ITA,AS Roma,Centre-Forward,€15.00m,€20.00m,9788.0,AS Roma
+6,/work/assets/country_flags/ESP.png,Héctor Bellerín,ESP,Sporting CP,Right-Back,€15.00m,€20.00m,9810.0,Sporting CP
+7,/work/assets/country_flags/ESP.png,Adama Traoré,ESP,Wolverhampton Wanderers,Right Winger,€15.00m,€15.00m,8455.0,Wolverhampton Wanderers
+8,/work/assets/country_flags/GHA.png,Daniel Amartey,GHA,Leicester City,Centre-Back,€15.00m,€15.00m,8197.0,Leicester City
+9,/work/assets/country_flags/COL.png,Jefferson Lerma,COL,AFC Bournemouth,Defensive Midfield,€15.00m,€15.00m,9789.0,AFC Bournemouth
+10,/work/assets/country_flags/RUS.png,Matvey Safonov,RUS,FK Krasnodar,Goalkeeper,€15.00m,€16.00m,178475.0,FK Krasnodar
+11,/work/assets/country_flags/BEL.png,Albert Sambi Lokonga,BEL,Crystal Palace,Central Midfield,€15.00m,€14.00m,9826.0,Crystal Palace
+12,/work/assets/country_flags/ENG.png,Jesse Lingard,ENG,Nottingham Forest,Attacking Midfield,€14.00m,€18.00m,9885.0,Nottingham Forest
+13,/work/assets/country_flags/ENG.png,Ryan Kent,ENG,Rangers FC,Left Winger,€14.00m,€17.50m,8633.0,Rangers FC
+14,/work/assets/country_flags/TUN.png,Ellyes Skhiri,TUN,1. FC Köln,Defensive Midfield,€13.00m,€13.00m,8633.0,1. FC Köln
+15,/work/assets/country_flags/TUR.png,Altay Bayindir,TUR,Fenerbahce,Goalkeeper,€13.00m,€15.00m,8633.0,Fenerbahce
+16,/work/assets/country_flags/BRA.png,Lucas Moura,BRA,Tottenham Hotspur,Right Winger,€12.00m,€15.00m,9789.0,Tottenham Hotspur
+17,/work/assets/country_flags/MLI.png,Abdoulaye Doucouré,MLI,Everton FC,Central Midfield,€12.00m,€18.00m,9826.0,Everton FC
+18,/work/assets/country_flags/IRL.png,Matt Doherty,IRL,Atlético de Madrid,Right-Back,€12.00m,€12.00m,9788.0,Atlético de Madrid
+19,/work/assets/country_flags/NOR.png,Mohamed Elyounoussi,NOR,Southampton FC,Left Winger,€12.00m,€12.00m,8639.0,Southampton FC
+20,/work/assets/country_flags/COL.png,Mateus Uribe,COL,FC Porto,Defensive Midfield,€12.00m,€16.00m,8370.0,FC Porto
+21,/work/assets/country_flags/ENG.png,Tom Davies,ENG,Everton FC,Central Midfield,€12.00m,€18.00m,,Everton FC
+22,/work/assets/country_flags/ENG.png,Nathan Redmond,ENG,Besiktas JK,Left Winger,€11.00m,€13.00m,,Besiktas JK
+23,/work/assets/country_flags/CRO.png,Luka Modric,CRO,Real Madrid,Central Midfield,€10.00m,€10.00m,8633.0,Real Madrid
+24,/work/assets/country_flags/ARG.png,Ángel Di María,ARG,Juventus FC,Right Winger,€10.00m,€12.00m,9885.0,Juventus FC
+0,/work/assets/country_flags/NED.png,Joël Veltman,NED,Brighton & Hove Albion,Right-Back,€10.00m,€10.00m,8636.0,Brighton & Hove Albion
+1,/work/assets/country_flags/ENG.png,Ross Barkley,ENG,OGC Nice,Central Midfield,€10.00m,€12.00m,9847.0,OGC Nice
+2,/work/assets/country_flags/ARG.png,Manuel Lanzini,ARG,West Ham United,Attacking Midfield,€10.00m,€12.00m,8197.0,West Ham United
+3,/work/assets/country_flags/ENG.png,Alex Oxlade-Chamberlain,ENG,Liverpool FC,Central Midfield,€10.00m,€13.00m,8650.0,Liverpool FC
+4,/work/assets/country_flags/AUT.png,Florian Grillitsch,AUT,Ajax Amsterdam,Defensive Midfield,€10.00m,€16.00m,8636.0,Ajax Amsterdam
+5,/work/assets/country_flags/ESP.png,David Soria,ESP,Getafe CF,Goalkeeper,€10.00m,€8.00m,9788.0,Getafe CF
+6,/work/assets/country_flags/RUS.png,Daler Kuzyaev,RUS,Zenit St. Petersburg,Central Midfield,€10.00m,€9.00m,9810.0,Zenit St. Petersburg
+7,/work/assets/country_flags/MLI.png,Hamari Traoré,MLI,Stade Rennais FC,Right-Back,€10.00m,€10.00m,8455.0,Stade Rennais FC
+8,/work/assets/country_flags/COL.png,Alfredo Morelos,COL,Rangers FC,Centre-Forward,€10.00m,€13.00m,8197.0,Rangers FC
+9,/work/assets/country_flags/GER.png,Marco Reus,GER,Borussia Dortmund,Attacking Midfield,€9.00m,€11.00m,9789.0,Borussia Dortmund
+10,/work/assets/country_flags/COL.png,James Rodríguez,COL,Olympiacos Piraeus,Attacking Midfield,€9.00m,€13.00m,178475.0,Olympiacos Piraeus
+11,/work/assets/country_flags/CZE.png,Vladimir Coufal,CZE,West Ham United,Right-Back,€9.00m,€12.00m,9826.0,West Ham United
+12,/work/assets/country_flags/GER.png,Dennis Geiger,GER,TSG 1899 Hoffenheim,Central Midfield,€9.00m,€9.00m,9885.0,TSG 1899 Hoffenheim
+13,/work/assets/country_flags/KNY.png,Michael Olunga,KNY,Al-Duhail SC,Centre-Forward,€9.00m,€9.00m,8633.0,Al-Duhail SC
+14,/work/assets/country_flags/ESP.png,Dani Ceballos,ESP,Real Madrid,Central Midfield,€9.00m,€14.00m,8633.0,Real Madrid
+15,/work/assets/country_flags/ENG.png,Chris Smalling,ENG,AS Roma,Centre-Back,€8.00m,€8.00m,8633.0,AS Roma
+16,/work/assets/country_flags/GER.png,Rani Khedira,GER,1.FC Union Berlin,Defensive Midfield,€8.00m,€6.00m,9789.0,1.FC Union Berlin
+17,/work/assets/country_flags/GHA.png,Jeffrey Schlupp,GHA,Crystal Palace,Left Midfield,€8.00m,€8.00m,9826.0,Crystal Palace
+18,/work/assets/country_flags/GHA.png,Alexander Djiku,GHA,RC Strasbourg Alsace,Centre-Back,€8.00m,€10.00m,9788.0,RC Strasbourg Alsace
+19,/work/assets/country_flags/BEL.png,Jason Denayer,BEL,FC Shabab Al-Ahli Dubai,Centre-Back,€8.00m,€9.00m,8639.0,FC Shabab Al-Ahli Dubai
+20,/work/assets/country_flags/ESP.png,Alejandro Catena,ESP,Rayo Vallecano,Centre-Back,€8.00m,€4.00m,8370.0,Rayo Vallecano
+21,/work/assets/country_flags/NED.png,Branco van den Boomen,NED,FC Toulouse,Central Midfield,€7.00m,€7.00m,,FC Toulouse
+22,/work/assets/country_flags/ESP.png,Aarón Martín,ESP,1.FSV Mainz 05,Left-Back,€7.00m,€5.00m,,1.FSV Mainz 05
+23,/work/assets/country_flags/ESP.png,Aleix García,ESP,Girona FC,Central Midfield,€7.00m,€4.00m,8633.0,Girona FC

@@ -1,23 +1,25 @@
-import main_ver03 as main03
+import math
 import os
 import pickle
-from PIL import Image
 import urllib
-import pandas as pd
-import numpy as np
-import seaborn as sns
-import math
 import warnings
-from mplsoccer import Pitch, add_image, VerticalPitch, FontManager
+
 import matplotlib as mpl
 import matplotlib.patheffects as path_effects
-from matplotlib.font_manager import FontProperties
-from adjustText import adjust_text
-from matplotlib.colors import LinearSegmentedColormap
 import matplotlib.pyplot as plt
-from matplotlib.colors import to_rgba
-from highlight_text import HighlightText, fig_text, ax_text
+import numpy as np
+import pandas as pd
+import seaborn as sns
+from adjustText import adjust_text
+from highlight_text import HighlightText, ax_text, fig_text
+from matplotlib.colors import LinearSegmentedColormap, to_rgba
+from matplotlib.font_manager import FontProperties
 from mpl_toolkits.axes_grid1.inset_locator import inset_axes
+from mplsoccer import FontManager, Pitch, VerticalPitch, add_image
+from PIL import Image
+
+import main_ver03 as main03
+
 warnings.filterwarnings('ignore')
 
 class PassNetwork:
@@ -91,7 +93,6 @@ class PassNetwork:
         
         df['beginning'] = np.sqrt(np.square(120-df['x']) + np.square(40-df['y']))
         df['end'] = np.sqrt(np.square(120-df['endX']) + np.square(40-df['endY']))
-#         df['progressive'] = [(df.loc[x,'end']) / (df.loc[x,'beginning']) < .75 for x in range(len(df.beginning))]
         df['progressive'] = [(df.loc[x,'end']) / (df.loc[x,'beginning']) < .75 for x in range(len(df.beginning))]
         vertical = df[df['progressive']==True].reset_index()
         vertical = vertical.groupby(by=["playerName"])["id"].count().reset_index()
@@ -110,9 +111,12 @@ class PassNetwork:
         self.venue_name = match_data["venueName"]
         self.league = match_data["league"]
         self.score = match_data["score"]
-        self.referee = match_data["referee"]["name"]
         self.attendance = match_data["attendance"]
-
+        try:
+            self.referee = match_data["referee"]["name"]
+        except KeyError as e:
+            self.referee = "unknown"
+            print(e)
         matches_df = main03.createMatchesDF(match_data)
         self.team_age = matches_df[self.venue][match_id]['averageAge']
         
@@ -182,9 +186,10 @@ class PassNetwork:
             how='left',
             validate='m:1')
 
-        match_player_df.rename(columns={
-              'playerId': 'passRecipientId', 'playerName': 'passRecipientName'  
-            },inplace=True)
+        match_player_df.rename(
+            columns={
+                'playerId': 'passRecipientId', 'playerName': 'passRecipientName'  
+            }, inplace=True)
 
         passes_df = passes_df.merge(
             match_player_df,
@@ -298,16 +303,17 @@ class PassNetwork:
 
             if is_num:
                 annotater = self.ax.annotate(
-                           row["playerKitNumber"],
-                           xy=(row[self.custom_y], row[self.custom_x]),
-                           c="#f8f8f8",
-                           va='center',
-                           ha='center',
-                           size=22,
-                           alpha=.1,
-                           weight=888,
-                           fontproperties=font_prop,
-                           zorder=99) 
+                    row["playerKitNumber"],
+                    xy=(row[self.custom_y], row[self.custom_x]),
+                    c="#f8f8f8",
+                    va='center',
+                    ha='center',
+                    size=22,
+                    alpha=.1,
+                    weight=888,
+                    fontproperties=font_prop,
+                    zorder=99
+                ) 
             else:
                 if len(row['passRecipientName'].split(" "))>=3:
                     try:
@@ -325,16 +331,18 @@ class PassNetwork:
                     except IndexError:
                         name = row['passRecipientName'].split(" ")[0].title()
 
-                annotater = self.ax.annotate(name,
-                                             xy=(row[self.custom_y], row[self.custom_x]),
-                                             c="#EFEBE0",
-                                             va='bottom',
-                                             ha='center',
-                                             size=15,
-                                             alpha=.7,
-                                             weight="bold",
-                                             fontproperties=font_prop,
-                                             zorder=199) 
+                annotater = self.ax.annotate(
+                    name,
+                    xy=(row[self.custom_y], row[self.custom_x]),
+                    c="#EFEBE0",
+                    va='bottom',
+                    ha='center',
+                    size=16,
+                    alpha=.9,
+                    weight="bold",
+                    fontproperties=font_prop,
+                    zorder=199
+                ) 
             
             annotater.set_path_effects(
                 [path_effects.Stroke(linewidth=1.75, foreground="#010101"), path_effects.Normal()])
@@ -342,7 +350,7 @@ class PassNetwork:
         
     def plot_network(self, passes_between):
         
-        norm = plt.Normalize(passes_between["EPV"].min(), passes_between["EPV"].max())
+        norm = plt.Normalize(passes_between["xT"].min(), passes_between["xT"].max())
 
         for idx, row in passes_between.iterrows():
             
@@ -362,7 +370,7 @@ class PassNetwork:
                                 xy=(upd_y + self.ARROW_SHIFT, upd_x), 
                                 xytext=(row[self.custom_y] + self.ARROW_SHIFT, row[self.custom_x]), 
                                 zorder=-1,
-                                arrowprops=dict(arrowstyle="-|>,head_width=.6,head_length=.8", linestyle="-", color=cmapA(norm(row["EPV"])), 
+                                arrowprops=dict(arrowstyle="-|>,head_width=.6,head_length=.8", linestyle="-", color=cmapA(norm(row["xT"])), 
                                                 shrinkA=self.SHRINK_VAL_A, shrinkB=self.SHRINK_VAL_B, 
                                                 connectionstyle="arc3,rad=0.3",
                                                 linewidth=width*1.5, 
@@ -373,7 +381,7 @@ class PassNetwork:
                                 xy=(upd_y - self.ARROW_SHIFT, upd_x), 
                                 xytext=(row[self.custom_y] - self.ARROW_SHIFT, row[self.custom_x]),
                                 zorder=-1,
-                                arrowprops=dict(arrowstyle="-|>,head_width=.6,head_length=.8", linestyle="-", color=cmapA(norm(row["EPV"])),
+                                arrowprops=dict(arrowstyle="-|>,head_width=.6,head_length=.8", linestyle="-", color=cmapA(norm(row["xT"])),
                                                 shrinkA=self.SHRINK_VAL_A, shrinkB=self.SHRINK_VAL_B, 
                                                 connectionstyle="arc3,rad=-0.3",
                                                 linewidth=width*1.5, 
@@ -386,7 +394,7 @@ class PassNetwork:
                                     xy=(upd_y, upd_x + self.ARROW_SHIFT), 
                                     xytext=(row[self.custom_y], row[self.custom_x] + self.ARROW_SHIFT),
                                     zorder=-1,
-                                    arrowprops=dict(arrowstyle="-|>,head_width=.6,head_length=.8", linestyle="-", color=cmapA(norm(row["EPV"])),
+                                    arrowprops=dict(arrowstyle="-|>,head_width=.6,head_length=.8", linestyle="-", color=cmapA(norm(row["xT"])),
                                                     shrinkA=self.SHRINK_VAL_A, shrinkB=self.SHRINK_VAL_B, 
                                                     connectionstyle="arc3,rad=0.3",
                                                     linewidth=width*1.5, alpha=1))
@@ -397,7 +405,7 @@ class PassNetwork:
                                     xy=(upd_y, upd_x - self.ARROW_SHIFT), 
                                     xytext=(row[self.custom_y], row[self.custom_x] - self.ARROW_SHIFT),
                                     zorder=-1,
-                                    arrowprops=dict(arrowstyle="-|>,head_width=.6,head_length=.8", linestyle="-", color=cmapA(norm(row["EPV"])),
+                                    arrowprops=dict(arrowstyle="-|>,head_width=.6,head_length=.8", linestyle="-", color=cmapA(norm(row["xT"])),
                                                     shrinkA=self.SHRINK_VAL_A, shrinkB=self.SHRINK_VAL_B, 
                                                     connectionstyle="arc3,rad=0.3",
                                                     linewidth=width*1.5, alpha=1))
@@ -413,10 +421,12 @@ class PassNetwork:
             color="#fefefe",
             ax = self.ax, 
             highlight_textprops=[
-               {'weight':'bold', 
-                'fontproperties':font_prop, 
-                'size':'20', 
-                'bbox': {'edgecolor': fig_color, 'facecolor': "white", 'pad': 8}, 'color': "black"}, 
+                {
+                    'weight':'bold', 
+                    'fontproperties':font_prop, 
+                    'size':'20', 
+                    'bbox': {'edgecolor': fig_color, 'facecolor': "white", 'pad': 8}, 'color': "black"
+                }, 
             ],
             fontproperties=font_prop,
             ha = 'left', 
@@ -579,17 +589,20 @@ class PassNetwork:
         
 def main():
         
-    layout = [[0, 0, 1, 1, 2, 2],
-              [0, 0, 1, 1, 2, 2],
-              [0, 0, 1, 1, 2, 2],
-              [3, 3, 4, 4, 5, 5],
-              [3, 3, 4, 4, 5, 5]]
+    layout = [
+        [0, 0, 1, 1, 2, 2],
+        [0, 0, 1, 1, 2, 2],
+        [0, 0, 1, 1, 2, 2],
+        [3, 3, 4, 4, 5, 5],
+        [3, 3, 4, 4, 5, 5]
+        ]
 
-    fig, axes = plt.subplot_mosaic(layout, linewidth=2,
-                                  constrained_layout=True,
-                                  figsize=(27, 16),
-                                  gridspec_kw={"width_ratios": [2, 2, 2, 2, 2, 2],
-                                               "height_ratios": [2, 2, 2, 1, 1]})
+    fig, axes = plt.subplot_mosaic(
+        layout, linewidth=2,
+        constrained_layout=True,
+        figsize=(27, 16),
+        gridspec_kw={"width_ratios": [2, 2, 2, 2, 2, 2],
+        "height_ratios": [2, 2, 2, 1, 1]})
 
     fig_color = "#171717"
     fig.set_facecolor(fig_color)
@@ -661,14 +674,18 @@ def main():
     logo_ax.axis('off')
 
     cax = plt.axes([0.54, 1.06, 0.3, 0.054])
-    color_bar = fig.colorbar(mappable=mpl.cm.ScalarMappable(norm=mpl.colors.Normalize(vmin=0, vmax=1, clip=False), cmap=cmapA),
-                             cax=cax,
-                             orientation='horizontal', 
-                             extend='max',
-                             anchor=(0.5,1.0), shrink=.6, ticks=[0, .5, 1])
+    color_bar = fig.colorbar(
+        mappable=mpl.cm.ScalarMappable(norm=mpl.colors.Normalize(vmin=0, vmax=1, clip=False), cmap=cmapA),
+        cax=cax,
+        orientation='horizontal', 
+        extend='max',
+        anchor=(0.5,1.0), shrink=.6, ticks=[0, .5, 1])
 
-    color_bar.ax.set_xticklabels(["less", "EPV", "more"],fontdict={"color":"white","fontsize":14,"fontproperties":font_prop})
+    color_bar.ax.set_xticklabels(["less", "xT", "more"],fontdict={"color":"white","fontsize":14,"fontproperties":font_prop})
 
+    fig.add_artist(mpl.lines.Line2D([0.05, .96], [.98, .98], color="#f8f8f8"))
+    fig.add_artist(mpl.lines.Line2D([0.05, 0.05], [0, 1.18], color=fig_color, alpha=0))
+    
     plt.savefig(f'/work/output/{team_name}-{week}-network.png', dpi=250, bbox_inches="tight", facecolor=axes[0].get_facecolor())
     
 if __name__ == "__main__":
@@ -697,4 +714,3 @@ if __name__ == "__main__":
     fig_color = "#171717"
     
     main()
-    

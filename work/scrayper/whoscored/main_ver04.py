@@ -5,59 +5,63 @@ Created on Wed Oct 14 14:20:02 2020
 @twitter: rockingAli5 
 """
 
-import time
-import pandas as pd
-pd.options.mode.chained_assignment = None
-import json
-from bs4 import BeautifulSoup as soup
-import re 
-from collections import OrderedDict
-import datetime
-from datetime import datetime as dt
 import itertools
+import json
+import re
+import time
+from collections import OrderedDict
+from datetime import datetime as dt
+
 import numpy as np
+import pandas as pd
+from bs4 import BeautifulSoup as soup
+from selenium import webdriver
+from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver.common.by import By
+
+import os
+import pickle
+import  warnings
+
+warnings.filterwarnings('ignore')
+
+pd.options.mode.chained_assignment = None
+
 try:
     from tqdm import trange
 except ModuleNotFoundError:
     pass
 
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.action_chains import ActionChains
-from selenium.webdriver.chrome.options import Options
-from selenium.common.exceptions import NoSuchElementException
-from selenium.webdriver.support.select import Select
-from selenium.webdriver.common.by import By
 
 
-TRANSLATE_DICT = {'Jan': 'Jan',
-                 'Feb': 'Feb',
-                 'Mac': 'Mar',
-                 'Apr': 'Apr',
-                 'Mei': 'May',
-                 'Jun': 'Jun',
-                 'Jul': 'Jul',
-                 'Ago': 'Aug',
-                 'Sep': 'Sep',
-                 'Okt': 'Oct',
-                 'Nov': 'Nov',
-                 'Des': 'Dec',
-                 'Jan': 'Jan',
-                 'Feb': 'Feb',
-                 'Mar': 'Mar',
-                 'Apr': 'Apr',
-                 'May': 'May',
-                 'Jun': 'Jun',
-                 'Jul': 'Jul',
-                 'Aug': 'Aug',
-                 'Sep': 'Sep',
-                 'Oct': 'Oct',
-                 'Nov': 'Nov',
-                 'Dec': 'Dec'}
+TRANSLATE_DICT = {
+    'Jan': 'Jan',
+    'Feb': 'Feb',
+    'Mac': 'Mar',
+    'Apr': 'Apr',
+    'Mei': 'May',
+    'Jun': 'Jun',
+    'Jul': 'Jul',
+    'Ago': 'Aug',
+    'Sep': 'Sep',
+    'Okt': 'Oct',
+    'Nov': 'Nov',
+    'Des': 'Dec',
+    'Jan': 'Jan',
+    'Feb': 'Feb',
+    'Mar': 'Mar',
+    'Apr': 'Apr',
+    'May': 'May',
+    'Jun': 'Jun',
+    'Jul': 'Jul',
+    'Aug': 'Aug',
+    'Sep': 'Sep',
+    'Oct': 'Oct',
+    'Nov': 'Nov',
+    'Dec': 'Dec'
+}
 
 main_url = 'https://1xbet.whoscored.com/'
-
-
 
 def getLeagueUrls(minimize_window=True):
     
@@ -91,7 +95,6 @@ def getLeagueUrls(minimize_window=True):
     return leagues
 
 
-      
 def getMatchUrls(comp_urls, competition, season, maximize_window=True):
 
     options = webdriver.ChromeOptions()
@@ -191,16 +194,13 @@ def getMatchUrls(comp_urls, competition, season, maximize_window=True):
             driver.close() 
     
             return all_urls
-     
+        
     season_names = [re.search(r'\>(.*?)\<',season).group(1) for season in seasons]
     driver.close() 
     print('Seasons available: {}'.format(season_names))
     raise('Season Not Found.')
     
-
-
-
-
+    
 def getTeamUrls(team, match_urls):
     
     team_data = []
@@ -243,8 +243,6 @@ def getMatchesData(match_urls, minimize_window=True):
     return matches
 
 
-
-
 def getFixtureData(driver):
 
     matches_ls = []
@@ -272,7 +270,7 @@ def getFixtureData(driver):
         prev_month = driver.find_element('xpath','//*[@id="date-controller"]/a[1]').click()
         time.sleep(2)
         if driver.find_element('xpath','//*[@id="date-controller"]/a[1]').get_attribute('title') == 'No data for previous week':
-           # table_rows = driver.find_elements_by_class_name('divtable-row')
+            # table_rows = driver.find_elements_by_class_name('divtable-row')
             table_rows = driver.find_elements(By.CLASS_NAME, 'divtable-row')
             for row in table_rows:
                 match_dict = {}
@@ -296,10 +294,6 @@ def getFixtureData(driver):
     return matches_ls
 
 
-
-
-
-
 def translateDate(data):
     
     for match in data:
@@ -319,9 +313,7 @@ def getSortedData(data):
         data = sorted(data, key = lambda i: dt.strptime(i['date'], '%b %d %Y'))
         return data
     
-
-
-
+    
 def getMatchData(driver, url, display=True, close_window=True):
     
     if driver is None:
@@ -389,22 +381,21 @@ def getMatchData(driver, url, display=True, close_window=True):
     return match_data
 
 
-
-
-
 def createEventsDF(data):
     
     events = data['events']
     for event in events:
-        event.update({'matchId' : data['matchId'],
-                     'startDate' : data['startDate'],
-                     'startTime' : data['startTime'],
-                     'score' : data['score'],
-                     'ftScore' : data['ftScore'],
-                     'htScore' : data['htScore'],
-                     'etScore' : data['etScore'],
-                     'venueName' : data['venueName'],
-                     'maxMinute' : data['maxMinute']})
+        event.update({
+            'matchId' : data['matchId'],
+            'startDate' : data['startDate'],
+            'startTime' : data['startTime'],
+            'score' : data['score'],
+            'ftScore' : data['ftScore'],
+            'htScore' : data['htScore'],
+            'etScore' : data['etScore'],
+            'venueName' : data['venueName'],
+            'maxMinute' : data['maxMinute']
+        })
     events_df = pd.DataFrame(events)
 
 
@@ -485,11 +476,8 @@ def createEventsDF(data):
     return events_df
     
 
-
-
 def createMatchesDF(data):
-    columns_req_ls = ['matchId', 'attendance', 'venueName', 'startTime', 'startDate',
-                      'score', 'home', 'away', 'referee']
+    columns_req_ls = ['matchId', 'attendance', 'venueName', 'startTime', 'startDate', 'score', 'home', 'away', 'referee']
     matches_df = pd.DataFrame(columns=columns_req_ls)
     if type(data) == dict:
         matches_dict = dict([(key,val) for key,val in data.items() if key in columns_req_ls])
@@ -501,8 +489,6 @@ def createMatchesDF(data):
     
     matches_df = matches_df.set_index('matchId')        
     return matches_df
-
-
 
 
 def load_EPV_grid(fname='EPV_grid.csv'):
@@ -521,10 +507,6 @@ def load_EPV_grid(fname='EPV_grid.csv'):
     """
     epv = np.loadtxt(fname, delimiter=',')
     return epv
-
-
-
-
 
 
 def get_EPV_at_location(position,EPV,attack_direction,field_dimen=(106.,68.)):
@@ -557,9 +539,6 @@ def get_EPV_at_location(position,EPV,attack_direction,field_dimen=(106.,68.)):
         ix = (x+field_dimen[0]/2.-0.0001)/dx
         iy = (y+field_dimen[1]/2.-0.0001)/dy
         return EPV[int(iy),int(ix)]
-
-
-
                 
 
 def to_metric_coordinates_from_whoscored(data,field_dimen=(106.,68.) ):
@@ -575,12 +554,10 @@ def to_metric_coordinates_from_whoscored(data,field_dimen=(106.,68.) ):
     return data
 
 
-
-
 def addEpvToDataFrame(data):
 
     # loading EPV data
-    EPV = load_EPV_grid('EPV_grid.csv')
+    EPV = load_EPV_grid('/work/scrayper/whoscored/EPV_grid.csv')
 
     # converting opta coordinates to metric coordinates
     data = to_metric_coordinates_from_whoscored(data)
@@ -603,25 +580,85 @@ def addEpvToDataFrame(data):
     
     data = data.assign(EPV_difference = EPV_difference)
     
-    
     # dump useless columns
-    drop_cols = ['x_metrica', 'endX_metrica', 'y_metrica',
-                 'endY_metrica']
+    drop_cols = ['x_metrica', 'endX_metrica', 'y_metrica', 'endY_metrica']
     data.drop(drop_cols, axis=1, inplace=True)
     data.rename(columns={'EPV_difference': 'EPV'}, inplace=True)
     
     return data
 
+if __name__ == "__main__":
+    teamName = 'barcelona'
+    season = input(str("please input season ..."))
+    period = input(str('Please input this game Period ...'))
+    url = input(str("match URL ..."))
+
+    options = webdriver.ChromeOptions()
+    driver = webdriver.Remote(
+        command_executor='http://football_scrayper:4444/wd/hub',
+        options=options
+    )    
+    match_data = getMatchData(driver, url=url, close_window=True)
+
+    ## Write
+    path = f"/work/assets/whoscored/{teamName}/match/{season}/matchData/"
+    if not os.path.exists(path):
+        os.makedirs(path)
+    with open(file=f"/work/assets/whoscored/{teamName}/match/{season}/matchData/#{period}.json",mode="wb") as file:
+        pickle.dump(match_data,file)
+
+    # # Read
+    with open(file=f"/work/assets/whoscored/{teamName}/match/{season}/matchData/#{period}.json", mode="rb") as file:
+        match_data = pickle.load(file)
 
 
+    matchId = match_data['matchId']
+    homeId = match_data['home']['teamId']
+    homeFormation = match_data['home']['formations'][0]['formationName']
 
+    awayId = match_data['away']['teamId']
+    awayFormation = match_data['away']['formations'][0]['formationName']
 
+    matches_df = createMatchesDF(match_data)
 
+    homeName = matches_df['home'][matchId]['name']
+    homeScore = matches_df['home'][matchId]['scores']['fulltime']
+    homeAge = matches_df['home'][matchId]['averageAge']
 
+    awayName = matches_df['away'][matchId]['name']
+    awayScore = matches_df['away'][matchId]['scores']['fulltime']
+    awayAge = matches_df['away'][matchId]['averageAge']
 
+    events_df = createEventsDF(match_data)
+    events_df = addEpvToDataFrame(events_df)
+    events_df['opponent'] = awayName if homeName == teamName.title() else homeName
+    
+    path = f"/work/assets/whoscored/{teamName}/match/{season}/eventsData/"
+    if not os.path.exists(path):
+        os.makedirs(path)
 
+    events_df.to_csv(path + f'{season}#{period}.csv')
 
+    team_players_dict = {}
+    player_ratings = {}
+    for venue in ['home','away']:
+        team_players_dict[venue] = {}
+        for player in matches_df[venue][matchId]['players']:
+            team_players_dict[venue][(player['playerId'],player["name"])] = player['position']
+            try:
+                player_ratings[player['name']] = player['stats']['ratings']
+            except KeyError:
+                pass
 
+    path = f"/work/assets/whoscored/{teamName}/ids/{season}/"
+    if not os.path.exists(path):
+            os.makedirs(path)
+    with open(f"/work/assets/whoscored/{teamName}/ids/{season}/{season}#{period}.json", "wb") as jsonFile:
+        pickle.dump(team_players_dict,jsonFile)
+                
 
-
-
+    path = f"/work/assets/whoscored/{teamName}/ratings/{season}/"
+    if not os.path.exists(path):
+            os.makedirs(path)
+    with open(f"/work/assets/whoscored/{teamName}/ratings/{season}/{season}#{period}.json", "wb") as jsonFile:
+        pickle.dump(player_ratings,jsonFile)       

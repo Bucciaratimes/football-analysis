@@ -5,30 +5,32 @@ Created on Wed Oct 14 14:20:02 2020
 @twitter: rockingAli5
 """
 
+import datetime
+import itertools
+import json
+import pickle
 import re
-from selenium.webdriver.support.select import Select
+import sys
+import time
+from collections import OrderedDict
+from datetime import datetime as dt
+
+import numpy as np
+import pandas as pd
+import requests
+from bs4 import BeautifulSoup as soup
+from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
-from selenium import webdriver
-import numpy as np
-import itertools
-from datetime import datetime as dt
-import datetime
-from collections import OrderedDict
-from bs4 import BeautifulSoup as soup
-import requests
-import json
-import time
-import pickle
-import pandas as pd
+from selenium.webdriver.support.select import Select
+
 pd.options.mode.chained_assignment = None
 try:
     from tqdm import trange
 except ModuleNotFoundError:
     pass
-import sys
 
 
 TRANSLATE_DICT = {'Jan': 'Jan',
@@ -700,4 +702,3 @@ def write_date(season):
 if __name__ == "__main__":
     args = sys.argv
     write_date(season=args[0])
-

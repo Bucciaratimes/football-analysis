@@ -1,9 +1,11 @@
-import numpy as np
-from utils.metadata import *
-from matplotlib import colors
 import matplotlib.patheffects as path_effects
-import seaborn as sns
 import matplotlib.pyplot as plt
+import numpy as np
+import seaborn as sns
+from matplotlib import colors
+
+from utils.metadata import *
+
 #from extract_data import *
 
 def plot_juego(fig, ax, pitch, df, team):
@@ -40,5 +42,3 @@ def plot_juego(fig, ax, pitch, df, team):
     add_ax_title(ax, 'Shot Assist Locations')
 
     return None
- 
-    

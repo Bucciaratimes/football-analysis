@@ -1,23 +1,20 @@
-import pandas as pd
-import numpy as np
+import math
 import statistics
+
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
 from scipy import stats
+from scipy.stats import poisson
 
-
+import chart_studio
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
+import japanize_matplotlib
 import plotly.graph_objs as go
-
 import plotly.offline as pyo
 from plotly import subplots
-import chart_studio
-
-
-import math
-from scipy.stats import poisson
-import japanize_matplotlib
-import matplotlib.pyplot as plt
 
 # playtime = [1862, 498, 256]
 # for time in playtime:
@@ -155,16 +152,3 @@ fig['layout'].update(
 )
 
 fig.show()
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -9,11 +9,12 @@
 import os
 import zipfile
 
-from lxml import etree
 import pandas as pd
+from lxml import etree
 from tqdm import tqdm
 
 from etiget import etiget
+
 
 def download_data(url: str, file: str, chunk_size=1024*1024) -> None:
     response = etiget(url, stream=True)

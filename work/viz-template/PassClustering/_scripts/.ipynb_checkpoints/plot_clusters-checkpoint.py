@@ -1,7 +1,9 @@
 import numpy as np
-from _scripts.plt_utils import plot_arrow
-from _scripts.metadata import *
+
 from _scripts.field import draw_field
+from _scripts.metadata import *
+from _scripts.plt_utils import plot_arrow
+
 
 def plot_cluster(ax, df, color):
     for _, row in df.iterrows():

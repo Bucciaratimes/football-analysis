@@ -1,11 +1,12 @@
-import pandas as pd
+import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
+from matplotlib.colors import to_rgba
+from mplsoccer.pitch import Pitch
 from selenium import webdriver
+
 import main
 import visualizer
-from mplsoccer.pitch import Pitch
-from matplotlib.colors import to_rgba
-import matplotlib.pyplot as plt
 
 match_urls = [
     "https://www.whoscored.com/Matches/1491975/Live/Spain-LaLiga-2020-2021-Barcelona-Villarreal",
@@ -53,10 +54,8 @@ matchId = match_data['matchId']
 
 # data = main.getMatchData(driver, url='https://www.whoscored.com/Matches/1491963/Live/Spain-LaLiga-2020-2021-Athletic-Bilbao-Barcelona')
 
-import main
 match_data = main.getTeamData(match_urls)
 
-import pandas as pd
 df_total = pd.io.json.json_normalize(match_data)
 
 venue_list = df_total['venueName']
@@ -79,4 +78,3 @@ df = pd.DataFrame(match_data)
 player_dict = pd.DataFrame(df['playerIdNameDictionary'])
 
 player_dict.to_csv('/work/assets/whoscored/barcelona/match/2021/player/player_dict.csv')
-

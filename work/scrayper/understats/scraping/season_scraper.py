@@ -1,11 +1,10 @@
 import json
 import os
 import pickle
-import requests
 
-from bs4 import BeautifulSoup
 import pandas as pd
-
+import requests
+from bs4 import BeautifulSoup
 
 CWD = os.getcwd()
 DIR = os.path.join(CWD,"datasets")

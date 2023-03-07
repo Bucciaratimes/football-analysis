@@ -14,11 +14,13 @@ GitHub repo: https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking
 @author: Laurie Shaw (@EightyFivePoint)
 """
 
-import Metrica_IO as mio
-import Metrica_Viz as mviz
-import Metrica_Velocities as mvel
-import Metrica_PitchControl as mpc
+import matplotlib.pyplot as plt
 import numpy as np
+
+import Metrica_IO as mio
+import Metrica_PitchControl as mpc
+import Metrica_Velocities as mvel
+import Metrica_Viz as mviz
 
 # set up initial path to data
 DATADIR = '/PATH/TO/WHERE/YOU/SAVED/THE/SAMPLE/DATA'
@@ -94,7 +96,6 @@ for i,row in home_passes.iterrows():
 
     pass_success_probability.append( (i,Patt) )
     
-import matplotlib.pyplot as plt
 fig,ax = plt.subplots()
 ax.hist( [p[1] for p in pass_success_probability], np.arange(0,1.1,0.1))    
 ax.set_xlabel('Pass success probability')
@@ -114,6 +115,3 @@ print("Event following a risky (completed) pass")
 for p in pass_success_probability[:20]:
     outcome = events.loc[ p[0]+1 ].Type
     print( p[1], outcome )
-
-
-

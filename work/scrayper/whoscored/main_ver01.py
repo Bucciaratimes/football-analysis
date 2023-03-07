@@ -1,24 +1,23 @@
-import time
-import pandas as pd
-import json
-from bs4 import BeautifulSoup as soup
-from tqdm import trange
-import re
-from collections import OrderedDict
 import datetime
+import itertools
+import json
+import re
+import time
+from collections import OrderedDict
+from datetime import datetime as dt
 
+import numpy as np
+import pandas as pd
+from bs4 import BeautifulSoup as soup
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.action_chains import ActionChains
-from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import NoSuchElementException
-
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.select import Select
+from tqdm import trange
 
 pd.options.mode.chained_assignment = None
-from datetime import datetime as dt
-import itertools
-import numpy as np
 
 
 
@@ -606,4 +605,3 @@ def addEpvToDataFrame(data):
     data.rename(columns={'EPV_difference': 'EPV'}, inplace=True)
     
     return data
-

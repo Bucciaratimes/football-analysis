@@ -2,12 +2,14 @@ import glob
 import json
 import os
 import pickle
+import sys
+
+import numpy as np
+import pandas as pd
 import requests
 from bs4 import BeautifulSoup, Comment
-import pandas as pd
-import numpy as np
 from lxml import html
-import sys
+
 
 def get_player_data(player_ids):
     

@@ -14,11 +14,11 @@ GitHub repo: https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking
 @author: Laurie Shaw (@EightyFivePoint)
 """
 
-import Metrica_IO as mio
-import Metrica_Viz as mviz
-import Metrica_Velocities as mvel
-import Metrica_PitchControl as mpc
 import Metrica_EPV as mepv
+import Metrica_IO as mio
+import Metrica_PitchControl as mpc
+import Metrica_Velocities as mvel
+import Metrica_Viz as mviz
 
 # set up initial path to data
 DATADIR = '/PATH/TO/WHERE/YOU/SAVED/THE/SAMPLE/DATA'
@@ -152,10 +152,3 @@ examples = [403,68,829]
 for event_number in examples:
     PPCF,xgrid,ygrid = mpc.generate_pitch_control_for_event(event_number, events, tracking_home, tracking_away, params, GK_numbers, field_dimen = (106.,68.,), n_grid_cells_x = 50, offsides=True)
     fig,ax = mviz.plot_EPV_for_event( event_number, events,  tracking_home, tracking_away, PPCF, EPV, annotate=True, autoscale=True, contours=True )
-     
-    
-    
-    
-    
-    
-    

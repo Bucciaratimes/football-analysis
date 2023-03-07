@@ -1,16 +1,16 @@
-import pandas as pd
-import numpy as np
-import statistics
-from scipy import stats
+import csv
+import getopt
 import math
+import re
+import statistics
+import sys
 
 import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
 import requests
 from bs4 import BeautifulSoup, Comment
-import csv
-import re
-import sys, getopt
-
+from scipy import stats
 
 
 def get_gk_data(url=None, player_name=None):
@@ -223,5 +223,3 @@ def get_gk_data(url=None, player_name=None):
                 'Outside':outside,
                 'Dist':dist
             })   
-
-

@@ -1,22 +1,20 @@
-import pandas as pd
-import numpy as np
+import json
+from io import BytesIO
+
 import matplotlib as mpl
-import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import matplotlib.patches as patches
-import seaborn as sns
-
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
 import requests
+import seaborn as sns
 from bs4 import BeautifulSoup
-import json
-
-from io import BytesIO
-from PIL import Image
 from highlight_text import htext
 from mplsoccer.pitch import Pitch
+from PIL import Image
 
 from utils.metadata import *
-
 
 text_color = '#131313'
 background_color = "#ffffff"
@@ -184,7 +182,3 @@ def main(ax,match=None):
 #         f'{away_team}', xy=(
 #             5, 70), xytext=(
 #             4, 70), color='blue', fontsize=38, alpha=0.2)
-
-
-
-

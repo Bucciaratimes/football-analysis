@@ -6,13 +6,15 @@ Created on Wed Oct 14 14:38:46 2020
 @twitter: rockingAli5 
 """
 
-import pandas as pd
+from itertools import combinations
+
 import numpy as np
-from mplsoccer.pitch import Pitch, VerticalPitch
+import pandas as pd
+import seaborn as sns
 from matplotlib.colors import to_rgba
 from matplotlib.patches import ConnectionPatch
-from itertools import combinations
-import seaborn as sns
+from mplsoccer.pitch import Pitch, VerticalPitch
+
 import linecollection
 
 
@@ -729,6 +731,3 @@ def createPVFormationMap(match_data, events_df, team, color_palette,
                        ha='center', size=labelsize, zorder=2, weight='bold', ax=ax)
         pitch.annotate(row.playerName, xy=(row.vertical, row.horizontal+5), c=labelcolor, va='center',
                        ha='center', size=labelsize, zorder=2, weight='bold', ax=ax)
-        
-        
-

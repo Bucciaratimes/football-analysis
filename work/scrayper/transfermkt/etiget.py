@@ -7,6 +7,7 @@ import time
 
 import requests
 
+
 def etiget(url: str, crawl_delay=2, headers={'User-agent': 'Custom'}, **kwargs) -> requests.Response:
     """
     Wrap requests.get() to conform to webscraping etiquette.

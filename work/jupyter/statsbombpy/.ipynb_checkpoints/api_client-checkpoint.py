@@ -1,19 +1,12 @@
 import os
+from tempfile import mkdtemp
 
 import pandas as pd
 import requests as req
 
-from requests_cache import install_cache
-from tempfile import mkdtemp
-
 import statsbombpy.entities as ents
-
-from statsbombpy.config import (
-    CACHED_CALLS_SECS,
-    HOSTNAME,
-    VERSIONS,
-)
-
+from requests_cache import install_cache
+from statsbombpy.config import CACHED_CALLS_SECS, HOSTNAME, VERSIONS
 
 install_cache(mkdtemp(), backend="sqlite", expire_after=CACHED_CALLS_SECS)
 
@@ -62,4 +55,3 @@ def events(match_id: int, creds: dict) -> dict:
     events = get_resource(url, creds)
     events = ents.events(events, match_id)
     return events
-

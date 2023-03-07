@@ -338,7 +338,3 @@ def calculate_pitch_control_at_target(target_position, attacking_players, defend
         if i>=dT_array.size:
             print("Integration failed to converge: %1.3f" % (ptot) )
         return PPCFatt[i-1], PPCFdef[i-1]
-
-
-
-    

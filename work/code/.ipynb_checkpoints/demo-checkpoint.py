@@ -1,16 +1,17 @@
-import pandas as pd
+from math import pi
+
+import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
+import scipy.stats
+from matplotlib.colors import to_rgba
+from matplotlib.markers import MarkerStyle
+from mplsoccer.pitch import Pitch
+from PIL import Image
 from selenium import webdriver
+
 import main
 import visualizer
-from mplsoccer.pitch import Pitch
-from matplotlib.colors import to_rgba
-import matplotlib.pyplot as plt
-from matplotlib.markers import MarkerStyle
-from PIL import Image
-from math import pi
-import numpy as np
-import scipy.stats
 
 options = webdriver.ChromeOptions()
 driver = webdriver.Remote(

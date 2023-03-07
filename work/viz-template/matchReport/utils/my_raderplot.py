@@ -1,11 +1,13 @@
 #%%
-import pandas as pd
-from mplsoccer import PyPizza
-from utils.extract_data import load_data, get_radar_data
-from utils.metadata import *
 import matplotlib.pyplot as plt
-from matplotlib import colors
+import pandas as pd
 from adjustText import adjust_text
+from matplotlib import colors
+from mplsoccer import PyPizza
+
+from utils.extract_data import get_radar_data, load_data
+from utils.metadata import *
+
 
 def plot_radar(fig, ax, pvals: list, team, n):
     TEAM_COLORS = {'home': home_color, 'away': away_color}

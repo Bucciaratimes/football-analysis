@@ -1,10 +1,11 @@
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-from mplsoccer import Pitch, add_image, VerticalPitch, FontManager
-from matplotlib.colors import LinearSegmentedColormap
-import matplotlib.patheffects as path_effects
 import matplotlib as mpl
+import matplotlib.patheffects as path_effects
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+from matplotlib.colors import LinearSegmentedColormap
+from mplsoccer import FontManager, Pitch, VerticalPitch, add_image
+
 from _scripts.metadata import *
 
 pitch = Pitch(

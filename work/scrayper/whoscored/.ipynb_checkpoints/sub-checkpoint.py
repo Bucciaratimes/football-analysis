@@ -1,9 +1,11 @@
-from selenium import webdriver
-import time
 import os
 import sys
-from Team import Team
+import time
+
+from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
+
+from Team import Team
 
 LA_LIGA_ENDPOINT = "https://www.whoscored.com/Regions/206/Tournaments/4/Espa%C3%B1a-LaLiga"
 PREMIER_LEAGUE_ENDPOINT = "https://www.whoscored.com/Regions/252/Tournaments/2/England-Premier-League"

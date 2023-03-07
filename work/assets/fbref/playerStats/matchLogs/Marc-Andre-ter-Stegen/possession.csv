@@ -1,0 +1,48 @@
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Touches_Touches,Def Pen_Touches,Def 3rd_Touches,Mid 3rd_Touches,Att 3rd_Touches,Att Pen_Touches,Live_Touches,Att_Take-Ons,Succ_Take-Ons,Succ%_Take-Ons,Tkld_Take-Ons,Tkld%_Take-Ons,Carries_Carries,TotDist_Carries,PrgDist_Carries,PrgC_Carries,1/3_Carries,CPA_Carries,Mis_Carries,Dis_Carries,Rec_Receiving,PrgR_Receiving,Match Report
+0,2022-06-03,Fri,UEFA Nations League,League A,Home,L 1–2,fr  France,dk  Denmark,Y,CM,77,,,,,,,,,,,,,,,,,,,,,,,Match Report
+1,2022-06-06,Mon,UEFA Nations League,League A,Away,D 1–1,fr  France,hr  Croatia,N,,29,,,,,,,,,,,,,,,,,,,,,,,Match Report
+2,2022-06-10,Fri,UEFA Nations League,League A,Away,D 1–1,fr  France,at  Austria,Y,FW,62,,,,,,,,,,,,,,,,,,,,,,,Match Report
+3,2022-06-13,Mon,UEFA Nations League,League A,Home,L 0–1,fr  France,hr  Croatia,N,,11,,,,,,,,,,,,,,,,,,,,,,,Match Report
+4,2022-08-15,Mon,La Liga,Matchweek 1,Away,W 3–0,Atlético Madrid,Getafe,N,CM,29,19.0,0.0,1.0,11.0,9.0,0.0,19.0,0.0,0.0,,0.0,,11.0,84.0,40.0,1.0,2.0,0.0,0.0,1.0,15.0,1.0,Match Report
+5,2022-08-21,Sun,La Liga,Matchweek 2,Home,L 0–2,Atlético Madrid,Villarreal,N,CM,29,27.0,0.0,1.0,12.0,14.0,1.0,27.0,1.0,1.0,100.0,0.0,0.0,16.0,135.0,81.0,3.0,3.0,0.0,1.0,0.0,21.0,3.0,Match Report
+6,2022-08-29,Mon,La Liga,Matchweek 3,Away,W 1–0,Atlético Madrid,Valencia,N,CM,27,9.0,1.0,3.0,3.0,3.0,2.0,9.0,0.0,0.0,,0.0,,5.0,18.0,14.0,1.0,0.0,1.0,1.0,0.0,5.0,1.0,Match Report
+7,2022-09-03,Sat,La Liga,Matchweek 4,Away,D 1–1,Atlético Madrid,Real Sociedad,N,CM,28,24.0,1.0,2.0,8.0,15.0,1.0,24.0,3.0,1.0,33.3,2.0,66.7,13.0,70.0,43.0,1.0,2.0,0.0,0.0,0.0,17.0,5.0,Match Report
+8,2022-09-07,Wed,Champions Lg,Group stage,Home,W 2–1,es  Atlético Madrid,pt  Porto,N,"FW,LW",30,19.0,0.0,1.0,11.0,7.0,1.0,19.0,0.0,0.0,,0.0,,9.0,34.0,20.0,1.0,1.0,0.0,1.0,0.0,13.0,1.0,Match Report
+9,2022-09-10,Sat,La Liga,Matchweek 5,Home,W 4–1,Atlético Madrid,Celta Vigo,N,"FW,CM,RM",28,17.0,0.0,2.0,14.0,1.0,0.0,17.0,0.0,0.0,,0.0,,8.0,46.0,26.0,0.0,0.0,0.0,0.0,1.0,9.0,0.0,Match Report
+10,2022-09-13,Tue,Champions Lg,Group stage,Away,L 0–2,es  Atlético Madrid,de  Leverkusen,N,CM,28,35.0,0.0,1.0,14.0,20.0,3.0,35.0,2.0,2.0,100.0,0.0,0.0,24.0,76.0,21.0,0.0,0.0,0.0,0.0,2.0,31.0,2.0,Match Report
+11,2022-09-18,Sun,La Liga,Matchweek 6,Home,L 1–2,Atlético Madrid,Real Madrid,Y,"FW,LM,RM",90,76.0,1.0,7.0,28.0,42.0,3.0,76.0,3.0,1.0,33.3,2.0,66.7,53.0,207.0,88.0,3.0,5.0,0.0,1.0,1.0,54.0,6.0,Match Report
+12,2022-09-22,Thu,UEFA Nations League,League A,Home,W 2–0,fr  France,at  Austria,Y,AM,77,,,,,,,,,,,,,,,,,,,,,,,Match Report
+13,2022-09-25,Sun,UEFA Nations League,League A,Away,L 0–2,fr  France,dk  Denmark,Y*,AM,80,,,,,,,,,,,,,,,,,,,,,,,Match Report
+14,2022-10-01,Sat,La Liga,Matchweek 7,Away,W 2–0,Atlético Madrid,Sevilla,N,"FW,RM,LM",30,22.0,0.0,7.0,5.0,10.0,5.0,22.0,3.0,2.0,66.7,1.0,33.3,14.0,130.0,96.0,3.0,1.0,0.0,1.0,0.0,17.0,2.0,Match Report
+15,2022-10-04,Tue,Champions Lg,Group stage,Away,L 0–2,es  Atlético Madrid,be  Club Brugge,Y,"AM,FW",90,76.0,1.0,9.0,36.0,32.0,4.0,75.0,0.0,0.0,,0.0,,61.0,310.0,144.0,2.0,2.0,1.0,1.0,2.0,56.0,7.0,Match Report
+16,2022-10-08,Sat,La Liga,Matchweek 8,Home,W 2–1,Atlético Madrid,Girona,Y,LM,64,57.0,1.0,3.0,38.0,16.0,3.0,57.0,3.0,1.0,33.3,2.0,66.7,40.0,194.0,89.0,5.0,2.0,0.0,0.0,2.0,41.0,4.0,Match Report
+17,2022-10-12,Wed,Champions Lg,Group stage,Home,D 0–0,es  Atlético Madrid,be  Club Brugge,Y,FW,78,50.0,0.0,2.0,20.0,28.0,9.0,50.0,1.0,1.0,100.0,0.0,0.0,36.0,124.0,47.0,1.0,0.0,1.0,2.0,3.0,38.0,7.0,Match Report
+18,2022-10-15,Sat,La Liga,Matchweek 9,Away,W 1–0,Atlético Madrid,Athletic Club,Y,"FW,LM",90,47.0,0.0,10.0,32.0,6.0,2.0,47.0,3.0,3.0,100.0,0.0,0.0,37.0,139.0,55.0,0.0,0.0,1.0,2.0,4.0,37.0,2.0,Match Report
+19,2022-10-18,Tue,La Liga,Matchweek 10,Home,D 1–1,Atlético Madrid,Rayo Vallecano,Y,"FW,CM",90,65.0,0.0,10.0,31.0,26.0,1.0,65.0,3.0,2.0,66.7,0.0,0.0,34.0,166.0,87.0,1.0,1.0,1.0,2.0,2.0,40.0,5.0,Match Report
+20,2022-10-23,Sun,La Liga,Matchweek 11,Away,W 2–1,Atlético Madrid,Betis,Y,FW,75,54.0,2.0,5.0,30.0,20.0,1.0,53.0,3.0,1.0,33.3,2.0,66.7,38.0,187.0,113.0,3.0,2.0,0.0,0.0,1.0,40.0,5.0,Match Report
+21,2022-10-26,Wed,Champions Lg,Group stage,Home,D 2–2,es  Atlético Madrid,de  Leverkusen,Y,"FW,RW",90,59.0,0.0,5.0,25.0,29.0,5.0,59.0,0.0,0.0,,0.0,,34.0,204.0,96.0,2.0,1.0,1.0,3.0,2.0,39.0,8.0,Match Report
+22,2022-10-29,Sat,La Liga,Matchweek 12,Away,L 2–3,Atlético Madrid,Cádiz,N,WB,31,17.0,1.0,1.0,6.0,10.0,3.0,17.0,0.0,0.0,,0.0,,12.0,49.0,17.0,0.0,1.0,0.0,1.0,0.0,11.0,3.0,Match Report
+23,2022-11-01,Tue,Champions Lg,Group stage,Away,L 1–2,es  Atlético Madrid,pt  Porto,Y,"FW,AM",90,60.0,2.0,12.0,35.0,14.0,2.0,60.0,1.0,1.0,100.0,0.0,0.0,28.0,144.0,95.0,2.0,0.0,1.0,1.0,1.0,38.0,2.0,Match Report
+24,2022-11-06,Sun,La Liga,Matchweek 13,Home,D 1–1,Atlético Madrid,Espanyol,Y,FW,72,64.0,1.0,7.0,26.0,32.0,4.0,64.0,4.0,1.0,25.0,2.0,50.0,34.0,179.0,93.0,2.0,4.0,1.0,0.0,0.0,39.0,1.0,Match Report
+25,2022-11-09,Wed,La Liga,Matchweek 14,Away,L 0–1,Atlético Madrid,Mallorca,Y,FW,90,56.0,0.0,2.0,21.0,34.0,3.0,56.0,1.0,1.0,100.0,0.0,0.0,41.0,191.0,85.0,2.0,1.0,0.0,1.0,1.0,46.0,19.0,Match Report
+26,2022-11-12,Sat,Copa del Rey,First round,Away,W 2–0,Atlético Madrid,SD Almazán,Y,FW,90,,,,,,,,,,,,,,,,,,,,,,,Match Report
+27,2022-11-22,Tue,World Cup,Group stage,Neutral,W 4–1,fr  France,au  Australia,Y,AM,90,86.0,1.0,7.0,45.0,34.0,7.0,86.0,1.0,0.0,0.0,1.0,100.0,46.0,215.0,45.0,1.0,0.0,1.0,1.0,0.0,67.0,9.0,Match Report
+28,2022-11-26,Sat,World Cup,Group stage,Neutral,W 2–1,fr  France,dk  Denmark,Y,AM,89,56.0,0.0,9.0,29.0,20.0,2.0,56.0,1.0,1.0,100.0,0.0,0.0,26.0,134.0,73.0,2.0,1.0,2.0,0.0,0.0,31.0,3.0,Match Report
+29,2022-11-30,Wed,World Cup,Group stage,Neutral,L 0–1,fr  France,tn  Tunisia,N,AM,18,40.0,0.0,0.0,20.0,20.0,0.0,40.0,0.0,0.0,,0.0,,22.0,78.0,36.0,1.0,0.0,0.0,1.0,0.0,28.0,3.0,Match Report
+30,2022-12-04,Sun,World Cup,Round of 16,Neutral,W 3–1,fr  France,pl  Poland,Y,AM,90,64.0,2.0,10.0,27.0,29.0,2.0,64.0,2.0,1.0,50.0,0.0,0.0,38.0,215.0,140.0,2.0,2.0,0.0,2.0,4.0,43.0,3.0,Match Report
+31,2022-12-10,Sat,World Cup,Quarter-finals,Neutral,W 2–1,fr  France,eng  England,Y,AM,90,53.0,1.0,9.0,22.0,22.0,1.0,53.0,2.0,1.0,50.0,1.0,50.0,35.0,174.0,38.0,1.0,1.0,0.0,0.0,3.0,35.0,5.0,Match Report
+32,2022-12-14,Wed,World Cup,Semi-finals,Neutral,W 2–0,fr  France,ma  Morocco,Y,AM,90,43.0,5.0,9.0,23.0,11.0,2.0,43.0,2.0,0.0,0.0,2.0,100.0,21.0,132.0,45.0,3.0,0.0,1.0,2.0,1.0,25.0,6.0,Match Report
+33,2022-12-18,Sun,World Cup,Final,Neutral,D 3  (2)  –3  (4),fr  France,ar  Argentina,Y,AM,70,42.0,2.0,7.0,24.0,11.0,0.0,42.0,2.0,1.0,50.0,1.0,50.0,13.0,39.0,12.0,0.0,0.0,0.0,0.0,1.0,21.0,2.0,Match Report
+34,2022-12-29,Thu,La Liga,Matchweek 15,Home,W 2–0,Atlético Madrid,Elche,Y,"AM,FW",78,68.0,2.0,8.0,39.0,22.0,4.0,68.0,2.0,0.0,0.0,1.0,50.0,35.0,224.0,114.0,3.0,1.0,1.0,0.0,1.0,44.0,5.0,Match Report
+35,2023-01-04,Wed,Copa del Rey,Round of 32,Away,W 2–0,Atlético Madrid,Oviedo,Y,FW,90,,,,,,,,,,,,,,,,,,,,,,,Match Report
+36,2023-01-08,Sun,La Liga,Matchweek 16,Home,L 0–1,Atlético Madrid,Barcelona,Y,"FW,LM",90,42.0,1.0,7.0,12.0,25.0,9.0,42.0,2.0,1.0,50.0,1.0,50.0,31.0,145.0,47.0,3.0,2.0,0.0,2.0,2.0,27.0,7.0,Match Report
+37,2023-01-15,Sun,La Liga,Matchweek 17,Away,D 1–1,Atlético Madrid,Almería,Y,"CM,LM",90,40.0,1.0,5.0,22.0,13.0,4.0,40.0,3.0,1.0,33.3,2.0,66.7,17.0,143.0,98.0,5.0,0.0,2.0,0.0,2.0,25.0,5.0,Match Report
+38,2023-01-18,Wed,Copa del Rey,Round of 16,Away,W 2–0,Atlético Madrid,Levante,Y,FW,90,,,,,,,,,,,,,,,,,,,,,,,Match Report
+39,2023-01-21,Sat,La Liga,Matchweek 18,Home,W 3–0,Atlético Madrid,Valladolid,Y,LM,55,51.0,1.0,5.0,33.0,13.0,1.0,51.0,0.0,0.0,,0.0,,33.0,168.0,80.0,2.0,1.0,0.0,0.0,0.0,36.0,1.0,Match Report
+40,2023-01-26,Thu,Copa del Rey,Quarter-finals,Away,L 1–3,Atlético Madrid,Real Madrid,Y,AM,90,,,,,,,,,,,,,,,,,,,,,,,Match Report
+41,2023-01-29,Sun,La Liga,Matchweek 19,Away,W 1–0,Atlético Madrid,Osasuna,Y,"FW,RM",90,52.0,0.0,4.0,27.0,22.0,7.0,52.0,5.0,3.0,60.0,1.0,20.0,24.0,191.0,114.0,4.0,1.0,2.0,1.0,1.0,41.0,10.0,Match Report
+42,2023-02-04,Sat,La Liga,Matchweek 20,Home,D 1–1,Atlético Madrid,Getafe,Y,FW,90,61.0,0.0,4.0,25.0,34.0,4.0,61.0,4.0,1.0,25.0,2.0,50.0,27.0,143.0,78.0,4.0,2.0,1.0,0.0,2.0,43.0,9.0,Match Report
+43,2023-02-12,Sun,La Liga,Matchweek 21,Away,W 1–0,Atlético Madrid,Celta Vigo,Y,"LW,AM",65,50.0,1.0,5.0,13.0,32.0,4.0,50.0,1.0,1.0,100.0,0.0,0.0,28.0,89.0,34.0,1.0,0.0,1.0,0.0,1.0,35.0,5.0,Match Report
+44,2023-02-19,Sun,La Liga,Matchweek 22,Home,W 1–0,Atlético Madrid,Athletic Club,Y,"FW,LM",89,78.0,6.0,12.0,31.0,36.0,3.0,78.0,5.0,5.0,100.0,0.0,0.0,31.0,275.0,183.0,6.0,6.0,2.0,3.0,1.0,46.0,6.0,Match Report
+45,2023-02-25,Sat,La Liga,Matchweek 23,Away,D 1–1,Atlético Madrid,Real Madrid,Y,"FW,CM",90,64.0,2.0,8.0,37.0,21.0,6.0,64.0,6.0,4.0,66.7,2.0,33.3,31.0,159.0,68.0,2.0,1.0,2.0,3.0,3.0,51.0,3.0,Match Report
+46,,,,,,22-11-13,,,34/46,,3149,1743.0,36.0,200.0,835.0,733.0,109.0,1741.0,69.0,38.0,55.1,25.0,36.2,1006.0,5211.0,2555.0,73.0,46.0,23.0,33.0,45.0,1205.0,166.0,

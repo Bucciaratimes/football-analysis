@@ -1,17 +1,17 @@
-import time
-import pandas as pd
-import json
-from bs4 import BeautifulSoup as soup
-from tqdm import trange
-import re
-from collections import OrderedDict
 import datetime
+import json
+import re
+import time
+from collections import OrderedDict
 
+import pandas as pd
+from bs4 import BeautifulSoup as soup
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.action_chains import ActionChains
-from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.common.keys import Keys
+from tqdm import trange
 
 
 def getLeagueLinks(main_url):

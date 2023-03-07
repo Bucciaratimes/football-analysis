@@ -1,7 +1,9 @@
-import pandas as pd
-import matplotlib.pyplot as plt
-from utils.metadata import *
 import matplotlib.patheffects as path_effects
+import matplotlib.pyplot as plt
+import pandas as pd
+
+from utils.metadata import *
+
 #from extract_data import *
 
 def plot_defensive_actions(fig, ax, def_actions, labels, team):

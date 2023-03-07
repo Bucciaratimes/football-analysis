@@ -5,29 +5,31 @@ Created on Wed Oct 14 14:20:02 2020
 @twitter: rockingAli5 
 """
 
-import time
-import pandas as pd
-pd.options.mode.chained_assignment = None
-import json
-from bs4 import BeautifulSoup as soup
-import re 
-from collections import OrderedDict
 import datetime
-from datetime import datetime as dt
 import itertools
+import json
+import re
+import time
+from collections import OrderedDict
+from datetime import datetime as dt
+
 import numpy as np
+import pandas as pd
+from bs4 import BeautifulSoup as soup
+from selenium import webdriver
+from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.select import Select
+
+pd.options.mode.chained_assignment = None
 try:
     from tqdm import trange
 except ModuleNotFoundError:
     pass
 
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.action_chains import ActionChains
-from selenium.webdriver.chrome.options import Options
-from selenium.common.exceptions import NoSuchElementException
-from selenium.webdriver.support.select import Select
-from selenium.webdriver.common.by import By
 
 
 TRANSLATE_DICT = {'Jan': 'Jan',
@@ -56,8 +58,6 @@ TRANSLATE_DICT = {'Jan': 'Jan',
                  'Dec': 'Dec'}
 
 main_url = 'https://1xbet.whoscored.com/'
-
-
 
 def getLeagueUrls(minimize_window=True):
     
@@ -89,7 +89,6 @@ def getLeagueUrls(minimize_window=True):
         leagues[name] = link
     driver.close()
     return leagues
-
 
       
 def getMatchUrls(comp_urls, competition, season, maximize_window=True):
@@ -197,10 +196,7 @@ def getMatchUrls(comp_urls, competition, season, maximize_window=True):
     print('Seasons available: {}'.format(season_names))
     raise('Season Not Found.')
     
-
-
-
-
+    
 def getTeamUrls(team, match_urls):
     
     team_data = []
@@ -241,8 +237,6 @@ def getMatchesData(match_urls, minimize_window=True):
     driver.close()
     
     return matches
-
-
 
 
 def getFixtureData(driver):
@@ -296,10 +290,6 @@ def getFixtureData(driver):
     return matches_ls
 
 
-
-
-
-
 def translateDate(data):
     
     for match in data:
@@ -319,9 +309,7 @@ def getSortedData(data):
         data = sorted(data, key = lambda i: dt.strptime(i['date'], '%b %d %Y'))
         return data
     
-
-
-
+    
 def getMatchData(driver, url, display=True, close_window=True):
     
     if driver is None:
@@ -387,9 +375,6 @@ def getMatchData(driver, url, display=True, close_window=True):
         driver.close()
         
     return match_data
-
-
-
 
 
 def createEventsDF(data):
@@ -485,8 +470,6 @@ def createEventsDF(data):
     return events_df
     
 
-
-
 def createMatchesDF(data):
     columns_req_ls = ['matchId', 'attendance', 'venueName', 'startTime', 'startDate',
                       'score', 'home', 'away', 'referee']
@@ -501,8 +484,6 @@ def createMatchesDF(data):
     
     matches_df = matches_df.set_index('matchId')        
     return matches_df
-
-
 
 
 def load_EPV_grid(fname='EPV_grid.csv'):
@@ -521,10 +502,6 @@ def load_EPV_grid(fname='EPV_grid.csv'):
     """
     epv = np.loadtxt(fname, delimiter=',')
     return epv
-
-
-
-
 
 
 def get_EPV_at_location(position,EPV,attack_direction,field_dimen=(106.,68.)):
@@ -557,9 +534,6 @@ def get_EPV_at_location(position,EPV,attack_direction,field_dimen=(106.,68.)):
         ix = (x+field_dimen[0]/2.-0.0001)/dx
         iy = (y+field_dimen[1]/2.-0.0001)/dy
         return EPV[int(iy),int(ix)]
-
-
-
                 
 
 def to_metric_coordinates_from_whoscored(data,field_dimen=(106.,68.) ):
@@ -573,8 +547,6 @@ def to_metric_coordinates_from_whoscored(data,field_dimen=(106.,68.) ):
     data[x_columns_mod] = (data[x_columns]/100*106)-53
     data[y_columns_mod] = (data[y_columns]/100*68)-34
     return data
-
-
 
 
 def addEpvToDataFrame(data):
@@ -612,16 +584,4 @@ def addEpvToDataFrame(data):
     
     return data
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+if ____

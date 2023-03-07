@@ -1,11 +1,10 @@
 """Helper functions, not meant for export."""
 
 from pathlib import Path
-import requests
 
-from bs4 import BeautifulSoup
 import pandas as pd
-
+import requests
+from bs4 import BeautifulSoup
 
 # Dataframe column names
 CLUB = "club"

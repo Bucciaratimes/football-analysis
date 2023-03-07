@@ -1,9 +1,8 @@
-import pandas as pd
-import numpy as np
-from mplsoccer.pitch import Pitch
-from matplotlib.colors import to_rgba
 import matplotlib.pyplot as plt
-
+import numpy as np
+import pandas as pd
+from matplotlib.colors import to_rgba
+from mplsoccer.pitch import Pitch
 
 
 def createShotmap(

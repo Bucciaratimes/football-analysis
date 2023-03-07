@@ -1,5 +1,7 @@
 import matplotlib.pyplot as plt
+
 from _scripts.metadata import *
+
 
 def plot_arrow(ax, start_x, start_y, end_x, end_y, color, arrow_type):
     ax.arrow(

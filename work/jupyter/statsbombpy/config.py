@@ -19,4 +19,3 @@ OPEN_DATA_PATHS = {
 PARALLELL_CALLS_NUM = 4
 
 VERSIONS = {"competitions": "v2", "matches": "v3", "lineups": "v2", "events": "v5"}
-

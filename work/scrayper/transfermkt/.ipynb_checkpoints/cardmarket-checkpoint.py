@@ -4,12 +4,12 @@
 #          http://www.boost.org/LICENSE_1_0.txt)
 
 import re
+from typing import Optional, Tuple
 
 import bs4
 import lxml
 import pandas as pd
 from tqdm import tqdm
-from typing import Optional, Tuple
 
 from etiget import etiget
 

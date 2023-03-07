@@ -1,5 +1,6 @@
 from utils.metadata import *
 
+
 def plot_average_positions(fig, ax, avg_locations, team):
 
     TEAM_COLORS = {'home': home_color, 'away': away_color}

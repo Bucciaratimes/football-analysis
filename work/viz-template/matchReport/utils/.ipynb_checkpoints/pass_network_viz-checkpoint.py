@@ -1,12 +1,14 @@
 #%%
-from utils.metadata import *
-from utils.extract_data import get_pass_network_data, load_data
-import pandas as pd
+import math
+
 import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
 from highlight_text import ax_text, fig_text
 from mplsoccer.pitch import Pitch, VerticalPitch
-import numpy as np
-import math
+
+from utils.extract_data import get_pass_network_data, load_data
+from utils.metadata import *
 
 df_home, df_away = load_data('2122', '23')
 home_avg_locations, home_pass_between, away_avg_locations, away_pass_between = get_pass_network_data(df_home, df_away)

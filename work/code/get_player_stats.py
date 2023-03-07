@@ -1,12 +1,12 @@
-import requests
-from bs4 import BeautifulSoup
-from bs4 import Comment
 import csv
+import getopt
 import re
 import sys
-import getopt
 import urllib
+
 import pandas as pd
+import requests
+from bs4 import BeautifulSoup, Comment
 
 
 class FootBallScrayper:

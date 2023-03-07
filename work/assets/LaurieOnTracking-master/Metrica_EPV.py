@@ -31,8 +31,10 @@ find_max_value_added_target(): Finds the *maximum* expected possession value tha
 """
 
 import numpy as np
-import Metrica_PitchControl as mpc
+
 import Metrica_IO as mio
+import Metrica_PitchControl as mpc
+
 
 def load_EPV_grid(fname='EPV_grid.csv'):
     """ load_EPV_grid(fname='EPV_grid.csv')
