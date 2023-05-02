@@ -204,14 +204,14 @@ class PassNetwork:
         location_formation = passes_df[['playerKitNumber', 'x', 'y', "EPV", "xT"]].copy()
         
         average_locs_and_count = location_formation.groupby(by='playerKitNumber').agg(
-            {'x':['mean','median'], 'y':['mean','median','count'], "EPV":["sum"], "xT":["sum"]})
+            {'x':['mean','median'], 'y':['mean','median','count'], "EPV":["sum"], "xT":["mean"]})
         
         average_locs_and_count.columns = ['x_mean', 'x_median', 'y_mean', 'y_median', 'count', "EPV", "xT"]
         
         location_formation_receipt = passes_df[['playerKitNumber_Receipt', 'x', 'y', "EPV", "xT"]].copy()
         
         average_locs_and_count_receipt = location_formation_receipt.groupby(by=['playerKitNumber_Receipt']).agg(
-            {'x':['mean','median'], 'y':['mean','median','count'], "EPV":["sum"], "xT":["sum"]})
+            {'x':['mean','median'], 'y':['mean','median','count'], "EPV":["sum"], "xT":["mean"]})
         
         average_locs_and_count_receipt.columns = ['x_mean', 'x_median', 'y_mean', 'y_median', 'count', "EPV_Receipt", "xT_Receipt"]
 
@@ -236,8 +236,11 @@ class PassNetwork:
             suffixes=['','_end'])
 
         passes_between['width'] = passes_between['pass_count'] / passes_between['pass_count'].max() * self.MAX_LINE_WIDTH
-
-        passes_between = passes_between.loc[(passes_between['pass_count']>4)]
+        
+        if len(passes_between.loc[(passes_between['pass_count']>4)]) < 1:
+            passes_between = passes_between.loc[(passes_between['pass_count']>3)]
+        else:   
+            passes_between = passes_between.loc[(passes_between['pass_count']>4)]
 
         average_locs_and_count['marker_size'] = (
             average_locs_and_count['count'] / average_locs_and_count['count'].max() * self.MAX_MARKER_SIZE)
@@ -434,6 +437,9 @@ class PassNetwork:
             annotationbbox_kw = {'xycoords':'axes fraction'})
         
     def plot_note(self, ax, data1, data2, data3):
+        
+        data2 = data2[data2["playerPos"]!="GK"]
+        data3 = data3[data3["playerPos"]!="GK"]
 
         df_sort_by_count = data2.sort_values(by=["count"], ascending=False).reset_index()
         count1 = df_sort_by_count.loc[0, ["passRecipientName", "count"]]
@@ -443,7 +449,7 @@ class PassNetwork:
     
         df_sort_by_count_combination = data1.sort_values(by=["pass_count", "x_median_end", "xT_end"], ascending=False).reset_index()
         count1_combination = df_sort_by_count_combination.loc[0, ["playerName", "passRecipientName", "pass_count"]]
-   
+        
         df_sort_by_epv_xt_combination = data1.sort_values(by=["xT", "EPV", "x_median_end", "xT_end"], ascending=False).reset_index()
         epv_xt1_combination = df_sort_by_epv_xt_combination.loc[0, ["playerName", "passRecipientName", "EPV", "xT"]]
         
@@ -453,12 +459,18 @@ class PassNetwork:
         ax.set_facecolor(fig_color)
         ax.axis("off")
         
-        box_style = {'weight':'bold', 'fontproperties':font_prop, 'size':'20', 
-                     'bbox': {'edgecolor': fig_color, 'facecolor': "#E95670", 'pad': 8}, 'color': "#ffffff"}
-        box_style2 = {'weight':'bold', 'fontproperties':font_prop, 'size':'20', 
-                     'bbox': {'edgecolor': fig_color, 'facecolor': "#0BA3A3", 'pad': 8}, 'color': "#ffffff"}
-        box_style3 = {'weight':'bold', 'fontproperties':font_prop, 'size':'20', 
-                     'bbox': {'edgecolor': fig_color, 'facecolor': "#FFD050", 'pad': 8}, 'color': "#000000"}
+        box_style = {
+            'weight':'bold', 'fontproperties':font_prop, 'size':'20', 
+            'bbox': {'edgecolor': fig_color, 'facecolor': "#E95670", 'pad': 8}, 'color': "#ffffff"
+        }
+        box_style2 = {
+            'weight':'bold', 'fontproperties':font_prop, 'size':'20', 
+            'bbox': {'edgecolor': fig_color, 'facecolor': "#0BA3A3", 'pad': 8}, 'color': "#ffffff"
+        }
+        box_style3 = {
+            'weight':'bold', 'fontproperties':font_prop, 'size':'20', 
+            'bbox': {'edgecolor': fig_color, 'facecolor': "#FFD050", 'pad': 8}, 'color': "#000000"
+        }
         ax_text(
             x = .1, 
             y = .9,
@@ -470,7 +482,8 @@ class PassNetwork:
             ha = 'left', 
             size = 20, 
             vpad = 5,
-            annotationbbox_kw = {'xycoords':'axes fraction'})
+            annotationbbox_kw = {'xycoords':'axes fraction'}
+        )
         
         ax_text(
             x = .1, 
@@ -482,12 +495,13 @@ class PassNetwork:
             ha = 'left', 
             size = 20, 
             vpad = 3,
-            annotationbbox_kw = {'xycoords':'axes fraction'})
+            annotationbbox_kw = {'xycoords':'axes fraction'}
+        )
         
         ax_text(
             x = .5, 
             y = .9,
-            s = f"<Player who generate Most xT>",
+            s = f"<Player who generate most xT on Avg>",
             color="#fefefe",
             ax = ax, 
             highlight_textprops=[box_style2],
@@ -539,7 +553,7 @@ class PassNetwork:
         ax_text(
             x = .5, 
             y = .66,
-            s = f"<Player who received Most xT>",
+            s = f"<Player who received Most xT on Avg>",
             color="#fefefe",
             ax = ax, 
             highlight_textprops=[box_style2],

@@ -236,8 +236,11 @@ class PassNetwork:
             suffixes=['','_end'])
 
         passes_between['width'] = passes_between['pass_count'] / passes_between['pass_count'].max() * self.MAX_LINE_WIDTH
-
-        passes_between = passes_between.loc[(passes_between['pass_count']>4)]
+        
+        if len(passes_between.loc[(passes_between['pass_count']>4)]) < 1:
+            passes_between = passes_between.loc[(passes_between['pass_count']>3)]
+        else:   
+            passes_between = passes_between.loc[(passes_between['pass_count']>4)]
 
         average_locs_and_count['marker_size'] = (
             average_locs_and_count['count'] / average_locs_and_count['count'].max() * self.MAX_MARKER_SIZE)

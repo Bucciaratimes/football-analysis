@@ -208,10 +208,9 @@ def update_shots_dataset(year):
     with open(file_path, "rb") as fp:
         old_empty_url_list = pickle.load(fp)
     old_empty_url_list.sort()
-
+    print(old_empty_url_list)
     empty_url_list, shots_update = generate_shots_dataset(old_empty_url_list)
     save_empty_url_list(empty_url_list, "empty_url_update.txt")
-
     try:
         shots_update["player"] = shots_update["player"].str.replace("&#039;", "'")
     except KeyError:
