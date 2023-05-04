@@ -8,6 +8,7 @@ import matplotlib.patheffects as path_effects
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
+from ast import literal_eval
 import scipy.stats
 from scipy.spatial import ConvexHull
 import seaborn as sns
@@ -108,6 +109,15 @@ class PlayerHighlight:
         df['beginning'] = np.sqrt(np.square(120 - df['x']) + np.square(40 - df['y']))
         df['end'] = np.sqrt(np.square(120 - df['endX']) + np.square(40 - df['endY']))
         df['progressive'] = [(df.loc[x, 'end']) / (df.loc[x, 'beginning']) < .75 for x in range(len(df['beginning']))]
+        
+        df['satisfied_events_types'] = [literal_eval(x) for x in df['satisfiedEventsTypes']]
+        df.loc[:, 'is_open_play'] = True
+        for index, record in enumerate(df['satisfied_events_types']):
+            for attr in record:
+                if attr in ['GoalKick', 'FreekickTaken', 'CornerTaken', 'throwIn', "passCorner"]:
+                    df.loc[index, 'is_open_play'] = False
+    
+        df = df[df['is_open_play']].reset_index(drop=True)
 
         player_df = df[df['playerId'] == self.player_id]
         if time is not None:
@@ -1131,12 +1141,21 @@ class PlayerHighlight:
         df = df.fillna(0)
         df = df.dropna(subset=["endY"]).reset_index(drop=True)
         
+        # df['satisfied_events_types'] = [literal_eval(x) for x in df['satisfiedEventsTypes']]
+        # df.loc[:, 'is_open_play'] = True
+        # for index, record in enumerate(df['satisfied_events_types']):
+        #     for attr in record:
+        #         if attr in ['GoalKick', 'FreekickTaken', 'CornerTaken', 'throwIn', "passCorner"]:
+        #             df.loc[index, 'is_open_play'] = False
+                    
+        # df = df[df['is_open_play']].reset_index(drop=True)
+        
         xT = pd.read_csv("/work/assets/xT_Grid.csv",header=None)
         xT = np.array(xT)
         xT_rows, xT_cols = xT.shape
         
         pass_df = df[
-            (df["satisfiedEventsTypes"].apply(str).str.contains("passAccurate",na=False)) | (df["satisfiedEventsTypes"].apply(str).str.contains("PassInaccurate",na=False))
+            (df["satisfiedEventsTypes"].apply(str).str.contains("passAccurate",na=False)) | (df["satisfiedEventsTypes"].apply(str).str.contains("PassInaccurate",na=False)) & (~df["satisfiedEventsTypes"].apply(str).str.contains("PassCorner",na=False))
         ]
         # pass_df["x_bin"] = pd.cut(x=pass_df["x"],bins=xT_cols,labels=False)
         # pass_df["y_bin"] = pd.cut(x=pass_df["y"],bins=xT_rows,labels=False)
